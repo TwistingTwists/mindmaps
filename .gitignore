@@ -1,0 +1,10 @@
+﻿*.pdf
+*.png
+*.jpg
+/*/*
+*.html
+NTUSER*
+.gitconfig
+*.svg
+*.mmfilter
+*Me*
