@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1490014976830" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.967">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1490014976830" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.879">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -448,8 +448,66 @@
 </node>
 </node>
 </node>
-<node TEXT="16. Emergency" LOCALIZED_STYLE_REF="default" ID="ID_1289517352" CREATED="1488101418579" MODIFIED="1490014976909">
+<node TEXT="16. Emergency" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1289517352" CREATED="1488101418579" MODIFIED="1490027176630">
+<icon BUILTIN="password"/>
 <font NAME="Century Schoolbook L"/>
+<node TEXT="National Emergency" FOLDED="true" ID="ID_156923648" CREATED="1490024761624" MODIFIED="1490024766631">
+<node TEXT="External" ID="ID_12312054" CREATED="1490024825354" MODIFIED="1490024829661"/>
+<node TEXT="Internal" ID="ID_691968090" CREATED="1490024830864" MODIFIED="1490024833887"/>
+<node TEXT="To whole nation or a part of it" ID="ID_1175453494" CREATED="1490024845024" MODIFIED="1490024848893"/>
+<node TEXT="Revocation" FOLDED="true" ID="ID_36230024" CREATED="1490025091755" MODIFIED="1490025095783">
+<node TEXT="President on discretion" ID="ID_219910483" CREATED="1490025096018" MODIFIED="1490025101713"/>
+<node TEXT="Lok Sabha Passes resolution" ID="ID_1170551876" CREATED="1490025103948" MODIFIED="1490025108392">
+<node TEXT="simple majority" ID="ID_270392759" CREATED="1490025108626" MODIFIED="1490025152398"/>
+<node TEXT="no role of RS" ID="ID_392354389" CREATED="1490025152563" MODIFIED="1490025157001"/>
+</node>
+</node>
+<node TEXT="What if LS lapses after emergency is proclaimed?" FOLDED="true" ID="ID_1862032463" CREATED="1490025160816" MODIFIED="1490025170873">
+<node TEXT="30 days from new LS is consituted" ID="ID_183561941" CREATED="1490025170982" MODIFIED="1490025199596">
+<node TEXT="if RS says OK to continue meanwhile" ID="ID_263649172" CREATED="1490025200784" MODIFIED="1490025209653"/>
+</node>
+</node>
+<node TEXT="suspension of FR" FOLDED="true" ID="ID_398942624" CREATED="1490025709058" MODIFIED="1490025711956">
+<node TEXT="358" OBJECT="java.lang.Long|358" ID="ID_55041248" CREATED="1490025813480" MODIFIED="1490025815387">
+<node TEXT="19 automatically" ID="ID_189322769" CREATED="1490025712082" MODIFIED="1490025811479"/>
+<node TEXT="only external aggression" ID="ID_714617377" CREATED="1490025824174" MODIFIED="1490025828058"/>
+<node TEXT="to entire country by default" ID="ID_1735018436" CREATED="1490025861674" MODIFIED="1490025865509"/>
+</node>
+<node TEXT="359" OBJECT="java.lang.Long|359" ID="ID_1291705723" CREATED="1490025816707" MODIFIED="1490025818192">
+<node TEXT="Right to move to court is suspended" FOLDED="true" ID="ID_1431318844" CREATED="1490025733132" MODIFIED="1490025808995">
+<node TEXT="by presidential order" ID="ID_1354863713" CREATED="1490025740820" MODIFIED="1490025745627"/>
+<node TEXT="20 to 21 can&apos;t be suspended" ID="ID_419239739" CREATED="1490025718082" MODIFIED="1490025751920"/>
+</node>
+<node TEXT="both internal or external aggresion" ID="ID_630410257" CREATED="1490025840043" MODIFIED="1490025847103"/>
+</node>
+</node>
+</node>
+<node TEXT="President&apos;s Rule" FOLDED="true" ID="ID_1837250929" CREATED="1490024766678" MODIFIED="1490024770346">
+<node TEXT="extend beyond 1 yr." FOLDED="true" ID="ID_911606825" CREATED="1490026098175" MODIFIED="1490026108133">
+<node TEXT="only 6 months at a time" ID="ID_558748367" CREATED="1490026157772" MODIFIED="1490026164879"/>
+<node TEXT="when satisfies..." ID="ID_1173744931" CREATED="1490026168214" MODIFIED="1490026172753">
+<node TEXT="proclamation of Nat. emergency is in place" ID="ID_1974069723" CREATED="1490026110227" MODIFIED="1490026127535"/>
+<node TEXT="ECI certifies that elections can&apos;t be held!" ID="ID_981541094" CREATED="1490026128223" MODIFIED="1490026143445"/>
+</node>
+</node>
+<node TEXT="max for 3 yrs" ID="ID_1375281222" CREATED="1490026426319" MODIFIED="1490026428871"/>
+<node TEXT="parliament&apos;s law remains effective after too" FOLDED="true" ID="ID_339163752" CREATED="1490026444904" MODIFIED="1490026457029">
+<node TEXT="may be repealed, altered by state leg." ID="ID_1572606786" CREATED="1490026457263" MODIFIED="1490026468085"/>
+</node>
+<node TEXT="no effect on HC" ID="ID_301107908" CREATED="1490026505029" MODIFIED="1490026507873"/>
+<node TEXT="356 -&gt; satisfaction of President" ID="ID_1239026048" CREATED="1490026599783" MODIFIED="1490026610048">
+<node TEXT="not immune to Judicial review" ID="ID_495589290" CREATED="1490026610227" MODIFIED="1490026616890"/>
+</node>
+</node>
+<node TEXT="Financial Emergency" ID="ID_125504216" CREATED="1490024770502" MODIFIED="1490024779309">
+<node TEXT="once approved by both houses" ID="ID_538760857" CREATED="1490026982276" MODIFIED="1490027089260">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="flag-green"/>
+<node TEXT="simple maj." ID="ID_1578967147" CREATED="1490027017243" MODIFIED="1490027021431"/>
+<node TEXT="till infinity" ID="ID_965899875" CREATED="1490026992958" MODIFIED="1490026996337"/>
+<node TEXT="no repeated approval needed!" ID="ID_602885531" CREATED="1490027000025" MODIFIED="1490027007651"/>
+</node>
+</node>
 </node>
 <node TEXT="Contempt of Court (341)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_969608894" CREATED="1488858686039" MODIFIED="1490014976915">
 <font NAME="Century Schoolbook L"/>
