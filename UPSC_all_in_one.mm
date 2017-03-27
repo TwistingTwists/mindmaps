@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1490014976830" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.799">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -2577,7 +2577,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Rangrajan committee reco" ID="ID_339215652" CREATED="1490535020686" MODIFIED="1490535025374"/>
@@ -4341,7 +4340,7 @@
 <node TEXT="Gupta Empire @Harsha, Kannauj, 400-500" ID="ID_1812688325" CREATED="1489412077261" MODIFIED="1489412114152"/>
 </node>
 </node>
-<node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1490014977011">
+<node TEXT="Governance" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1490014977011">
 <font NAME="Century Schoolbook L"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
 <node TEXT="Grievance Redressal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_452332544" CREATED="1488281410670" MODIFIED="1488545169868">
@@ -4407,6 +4406,38 @@
 <node TEXT="way forward" FOLDED="true" ID="ID_1136440140" CREATED="1489224882760" MODIFIED="1489224885101">
 <node TEXT="internalisation of democracy in party working" ID="ID_481803003" CREATED="1489224826128" MODIFIED="1489224834273"/>
 <node TEXT="systematic notice of merit and good work within party" ID="ID_1560702648" CREATED="1489224857186" MODIFIED="1489224870871"/>
+</node>
+</node>
+<node TEXT="Institution Performance [ UPSC ]" LOCALIZED_STYLE_REF="default" ID="ID_293986424" CREATED="1490636691883" MODIFIED="1490636700415">
+<node TEXT="Intro" ID="ID_1517637593" CREATED="1490636990381" MODIFIED="1490636991600">
+<node TEXT="human capital reform" ID="ID_1777241135" CREATED="1490636991881" MODIFIED="1490636995601"/>
+<node TEXT="ideate in poetry but govern in prose" ID="ID_403818501" CREATED="1490637025293" MODIFIED="1490637031387"/>
+</node>
+<node TEXT="Recruitment" ID="ID_773210499" CREATED="1490636705384" MODIFIED="1490636713885">
+<node TEXT="UPSC = institutional integrity" ID="ID_1647789755" CREATED="1490636734107" MODIFIED="1490636746640"/>
+<node TEXT="transparent" ID="ID_437980005" CREATED="1490636747922" MODIFIED="1490636749626"/>
+<node TEXT="state govt. should replicate" ID="ID_1537662404" CREATED="1490636756111" MODIFIED="1490636761049"/>
+</node>
+<node TEXT="Leadership" ID="ID_1146040740" CREATED="1490636852360" MODIFIED="1490636853938">
+<node TEXT="Specialisation vacancies by tenure" FOLDED="true" ID="ID_640916436" CREATED="1490636860126" MODIFIED="1490636876910">
+<node TEXT="lateral entry!" ID="ID_919500069" CREATED="1490636877051" MODIFIED="1490636881129"/>
+</node>
+<node TEXT="In Job Training" ID="ID_789749309" CREATED="1490636720824" MODIFIED="1490636724106"/>
+</node>
+<node TEXT="Performance" ID="ID_430457955" CREATED="1490636715480" MODIFIED="1490636716855">
+<node TEXT="an org. which does not punish its lower performers punishes its high performers" ID="ID_1063827882" CREATED="1490636763925" MODIFIED="1490636782631"/>
+<node TEXT="95% of the people can&apos;t be above average to promote!!" FOLDED="true" ID="ID_1483559591" CREATED="1490636790335" MODIFIED="1490636802727">
+<node TEXT="seniority based promotion." ID="ID_486805919" CREATED="1490636802821" MODIFIED="1490636807822"/>
+</node>
+</node>
+<node TEXT="Culture" ID="ID_1588801557" CREATED="1490636729263" MODIFIED="1490636729935">
+<node TEXT="culture of accountability" FOLDED="true" ID="ID_894256932" CREATED="1490636831951" MODIFIED="1490636836904">
+<node TEXT="corruption is not a child of laws but more of culture" ID="ID_169512405" CREATED="1490636820933" MODIFIED="1490636828903"/>
+</node>
+<node TEXT="culture of transparency" ID="ID_1189089088" CREATED="1490636967378" MODIFIED="1490636970503"/>
+<node TEXT="culture of performace" FOLDED="true" ID="ID_84030743" CREATED="1490636970753" MODIFIED="1490636973191">
+<node TEXT="revamp appraisal system" ID="ID_1944818101" CREATED="1490636915401" MODIFIED="1490636919167"/>
+</node>
 </node>
 </node>
 <node TEXT="Civil Society Organisation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1990299075" CREATED="1490089387492" MODIFIED="1490089393848">
