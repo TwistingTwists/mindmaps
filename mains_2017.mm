@@ -356,7 +356,7 @@
 <node TEXT="Know the articles related to each issue" ID="ID_1615131595" CREATED="1490334026799" MODIFIED="1490334035501"/>
 <node TEXT="Social Justice" ID="ID_761817598" CREATED="1490334039845" MODIFIED="1490334041730"/>
 </node>
-<node TEXT="Social Justice," ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1497938517990">
+<node TEXT="Social Justice," FOLDED="true" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1497938517990">
 <node TEXT="Child Labor" FOLDED="true" ID="ID_1027291556" CREATED="1497950728446" MODIFIED="1497950731068">
 <node TEXT="Why so prevalent?" ID="ID_26349144" CREATED="1497950731205" MODIFIED="1497950737309">
 <node TEXT="90% of workforce in unorganised sector =&gt; their children more susceptible" ID="ID_217825349" CREATED="1497950738253" MODIFIED="1497950756334"/>
@@ -382,9 +382,142 @@
 <node TEXT="FR = 23,24" ID="ID_810859650" CREATED="1497951112233" MODIFIED="1497951145603"/>
 </node>
 </node>
-<node TEXT="International Relations" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097"/>
-<node TEXT="Governance, constitution polity" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
-<node TEXT="Governance" LOCALIZED_STYLE_REF="default" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1494887616079">
+<node TEXT="Social" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
+<node TEXT="National Health policy" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498840545447">
+<font NAME="Calibri"/>
+<node TEXT="Objectives" ID="ID_1191148523" CREATED="1492151468243" MODIFIED="1492151471145"/>
+<node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
+<node TEXT="raise expenditure to 2.5% of GDP (time bound)" ID="ID_1718659908" CREATED="1491307171311" MODIFIED="1498840471946">
+<node TEXT="more spending on primary" ID="ID_236321463" CREATED="1491307256767" MODIFIED="1491307263175"/>
+</node>
+<node TEXT="from sick-care to wellness" LOCALIZED_STYLE_REF="default" ID="ID_991024714" CREATED="1491307186895" MODIFIED="1491307240058" BACKGROUND_COLOR="#feffd6">
+<font NAME="Century Schoolbook L"/>
+</node>
+<node TEXT="Strategic private partnership" FOLDED="true" ID="ID_264488044" CREATED="1494669848616" MODIFIED="1494669853273">
+<node TEXT="national health care standards org" ID="ID_1778299172" CREATED="1498839966320" MODIFIED="1498840001195"/>
+<node TEXT="intersectoral appraoch = Coordination ministries" ID="ID_6213679" CREATED="1498840005960" MODIFIED="1498840049320"/>
+</node>
+<node TEXT="shift from communicable to NCD" FOLDED="true" ID="ID_124063578" CREATED="1498839919676" MODIFIED="1498839938661">
+<node TEXT="NCD = 60% death in india" ID="ID_216836134" CREATED="1498839943685" MODIFIED="1498839948431"/>
+</node>
+<node TEXT="traditional research" FOLDED="true" ID="ID_926411818" CREATED="1491307300831" MODIFIED="1491307306309">
+<node TEXT="tribal medicine reasearch" ID="ID_1362210496" CREATED="1491236992678" MODIFIED="1491237000543"/>
+<node TEXT="YOGA + AYUSH" ID="ID_611531578" CREATED="1491307293113" MODIFIED="1491307296498"/>
+</node>
+<node TEXT="public health mgmt cadre" ID="ID_737493186" CREATED="1491237005107" MODIFIED="1491237009551">
+<node TEXT="state specific hazards detect" ID="ID_1227381706" CREATED="1498840502438" MODIFIED="1498840508494"/>
+<node TEXT="more human resources needed" ID="ID_547110168" CREATED="1498840515934" MODIFIED="1498840521421"/>
+</node>
+<node TEXT="universal drug access" ID="ID_860373366" CREATED="1498840478611" MODIFIED="1498840501244"/>
+</node>
+<node TEXT="Targets" FOLDED="true" ID="ID_1761240940" CREATED="1491307313148" MODIFIED="1491307314334">
+<node TEXT="life expectancy from 67.5 to 70" LOCALIZED_STYLE_REF="default" ID="ID_1139101418" CREATED="1491237012468" MODIFIED="1491307309373" BACKGROUND_COLOR="#feffd6">
+<font NAME="Century Schoolbook L"/>
+</node>
+<node TEXT="vision apr 7.1 box" ID="ID_37541174" CREATED="1498840338272" MODIFIED="1498840345274"/>
+</node>
+<node TEXT="Criticism of policy" FOLDED="true" ID="ID_461455077" CREATED="1494411301868" MODIFIED="1494411305246">
+<node FOLDED="true" ID="ID_471557139" CREATED="1494411365894" MODIFIED="1494411391067"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      purchasing 'strategic services' from public + not-for-profit + <b>private</b>&#160; sector
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="private + govt. == lack of effective cooperation" ID="ID_1475138165" CREATED="1494411391600" MODIFIED="1494411406944"/>
+</node>
+<node TEXT="mandating generic drugs without ensuring quality of indian generics" ID="ID_572118995" CREATED="1494411427464" MODIFIED="1494411743082"/>
+<node TEXT="dependence on China for API" ID="ID_193601206" CREATED="1494411443715" MODIFIED="1494411452243"/>
+<node TEXT="no talk of public health education" ID="ID_1875283463" CREATED="1498840410875" MODIFIED="1498840426290"/>
+</node>
+<node TEXT="way forward" FOLDED="true" ID="ID_337665339" CREATED="1494411481320" MODIFIED="1494411482945">
+<node TEXT="can&apos;t be completely publicly funded" FOLDED="true" ID="ID_13206847" CREATED="1494411483148" MODIFIED="1494411489728">
+<node TEXT="low tax-base already!" ID="ID_508045604" CREATED="1494411489853" MODIFIED="1494411495773"/>
+</node>
+<node TEXT="private players in tertiary sector ; govt. in PHC" ID="ID_860883376" CREATED="1494411509071" MODIFIED="1494411522854"/>
+</node>
+<node TEXT="mains fodder" FOLDED="true" ID="ID_1605139476" CREATED="1498840378227" MODIFIED="1498840380147">
+<node TEXT="help achieve SDG on health" ID="ID_828727916" CREATED="1498840369627" MODIFIED="1498840375888"/>
+<node TEXT="Golden Hour" ID="ID_604968940" CREATED="1491307247872" MODIFIED="1491307249211"/>
+<node TEXT="Health and wellness centres" ID="ID_1334817348" CREATED="1491307215040" MODIFIED="1491307221309"/>
+<node TEXT="monitoring quality of care" ID="ID_676897277" CREATED="1494669895904" MODIFIED="1494669899592"/>
+<node TEXT="micronutrient focus" ID="ID_1510075095" CREATED="1494669900592" MODIFIED="1494669903374"/>
+</node>
+</node>
+<node TEXT="HIV BILL, 2014" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1700601274" CREATED="1488271491180" MODIFIED="1498841242146">
+<font NAME="Calibri"/>
+<node TEXT="Oct [ 4.2.3 ] ; Apr [7.2]" ID="ID_860111179" CREATED="1498840717994" MODIFIED="1498841168763" LINK="../../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/All%20vision%20Current%20Affairs%202017/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf"/>
+<node TEXT="speedy in court" ID="ID_1244360256" CREATED="1494898050438" MODIFIED="1494898053775"/>
+<node TEXT="not to disclose the status compulsorily" ID="ID_1656486466" CREATED="1494898054496" MODIFIED="1494898059504"/>
+<node TEXT="guardianship of minors" ID="ID_1083171995" CREATED="1494898060398" MODIFIED="1494898067942"/>
+<node TEXT=" right to minors (below 18 years age) to reside in a shared household" ID="ID_1582125820" CREATED="1497171252318" MODIFIED="1497706730791"/>
+<node TEXT="anti retroviral as RIGHT" ID="ID_1987810372" CREATED="1497171261584" MODIFIED="1497171268234"/>
+<node TEXT="ombudsman for grievance redressal" ID="ID_1978267659" CREATED="1494898072856" MODIFIED="1494898102450"/>
+<node TEXT="fodder" FOLDED="true" ID="ID_752338303" CREATED="1498840741322" MODIFIED="1498840746844">
+<node TEXT="6th MDG - halting and reversing HIV epidemic!" ID="ID_1341892718" CREATED="1498840756140" MODIFIED="1498841251294">
+<font BOLD="true"/>
+</node>
+<node TEXT="NACP - national aids control programme" ID="ID_523508021" CREATED="1498840778915" MODIFIED="1498840785870"/>
+<node TEXT="90:90:90 by UNAIDS" ID="ID_981592589" CREATED="1498840802639" MODIFIED="1498840807371">
+<node TEXT="diagnosed, treatment, suppressed" ID="ID_1450768358" CREATED="1498840819164" MODIFIED="1498840842025"/>
+</node>
+<node TEXT="social sitgma + medicine availability" ID="ID_590332633" CREATED="1498840862380" MODIFIED="1498840869478"/>
+<node TEXT="no hatred, no info public" ID="ID_378907188" CREATED="1498840944496" MODIFIED="1498840968997"/>
+</node>
+</node>
+</node>
+<node TEXT="International Relations" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
+<node TEXT="india US" FOLDED="true" ID="ID_1209136312" CREATED="1498839037741" MODIFIED="1498839040913">
+<node TEXT="phases" FOLDED="true" ID="ID_323784907" CREATED="1498841723572" MODIFIED="1498841724617">
+<node TEXT="I (47-71)" ID="ID_1480186997" CREATED="1498841724792" MODIFIED="1498841738227">
+<node TEXT="india = mixed economic model" ID="ID_90334932" CREATED="1498841776120" MODIFIED="1498841788847"/>
+</node>
+<node TEXT="II (71-89)" ID="ID_1955937763" CREATED="1498841725994" MODIFIED="1498841745901">
+<node TEXT="pokharan criticised by US" ID="ID_486649072" CREATED="1498841802556" MODIFIED="1498841808931"/>
+<node TEXT="india (NAM member) but Russia favor = helpful in 71&apos; = bangladesh liberation" ID="ID_323988646" CREATED="1498841830384" MODIFIED="1498841854195"/>
+</node>
+<node TEXT="III" ID="ID_1052587" CREATED="1498841726790" MODIFIED="1498841728212">
+<node TEXT="LPG" ID="ID_1205440970" CREATED="1498841863415" MODIFIED="1498841866632"/>
+<node TEXT="USSR disintegrated" ID="ID_1862230093" CREATED="1498841868105" MODIFIED="1498841876025"/>
+</node>
+</node>
+<node ID="ID_1972907026" CREATED="1498408746730" MODIFIED="1498409004654"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      india - us<br/>5 point programme
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Tread Mil + Agri + Tech + energy + health" ID="ID_1105680309" CREATED="1498408750573" MODIFIED="1498408793470"/>
+<node TEXT="tread = trade&#xa;IP issues" ID="ID_355756448" CREATED="1498408916213" MODIFIED="1498408923468">
+<node TEXT="WTO food subsidy" ID="ID_297562905" CREATED="1498841928570" MODIFIED="1498841931618"/>
+</node>
+<node TEXT="mil = LEMOA + Major defense partner" FOLDED="true" ID="ID_694069706" CREATED="1498408805775" MODIFIED="1498408816394">
+<node TEXT="logistics exchange memorandum of agreement" ID="ID_210844922" CREATED="1498408826354" MODIFIED="1498408839630"/>
+</node>
+<node TEXT="Agri = share tech for food security" ID="ID_982739671" CREATED="1498408842084" MODIFIED="1498408866666"/>
+<node TEXT="health = 3(d) patents act" ID="ID_1624517059" CREATED="1498408798266" MODIFIED="1498408805150"/>
+<node TEXT="energy" ID="ID_405312820" CREATED="1498408933202" MODIFIED="1498408980616"/>
+</node>
+</node>
+<node TEXT="india japan" FOLDED="true" ID="ID_802890247" CREATED="1498839041178" MODIFIED="1498839045803">
+<node TEXT="in africa :&#xa;* cooperative projects&#xa;* capacity building&#xa;* people2people link&#xa;* infra + institution" ID="ID_392607717" CREATED="1498839046210" MODIFIED="1498839114256"/>
+</node>
+</node>
+<node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
+<node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1494887616079">
 <font NAME="Calibri"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
 <node TEXT="Grievance Redressal" LOCALIZED_STYLE_REF="default" ID="ID_452332544" CREATED="1488281410670" MODIFIED="1488545169868">
@@ -509,6 +642,44 @@
 <node TEXT="e.g. EPFO failure to communicate policies in Budget 2016" ID="ID_727847295" CREATED="1494848499747" MODIFIED="1494848513740"/>
 </node>
 </node>
+<node TEXT="Role of opposition in politics" FOLDED="true" ID="ID_676423304" CREATED="1490329767557" MODIFIED="1490329780773">
+<node TEXT="Political Parties = complacent if no opposition" ID="ID_1850054068" CREATED="1490331221477" MODIFIED="1490331233477"/>
+<node TEXT="only states with strong opposition have flourished" FOLDED="true" ID="ID_873906537" CREATED="1490329783375" MODIFIED="1490329792806">
+<node TEXT="TN, Kerala" ID="ID_306192726" CREATED="1490329793229" MODIFIED="1490329796337"/>
+</node>
+<node TEXT="If elimination of disease poverty illiteracy are not realised, it only means shifting of colonial autocracy to local one" FOLDED="true" ID="ID_1472582489" CREATED="1490329614685" MODIFIED="1490329667175">
+<icon BUILTIN="password"/>
+<node TEXT="without any changes in lives of people" ID="ID_7507634" CREATED="1490329655694" MODIFIED="1490329663453"/>
+</node>
+</node>
+<node TEXT="dissent important in democracy, means by govt. to curb, implications" FOLDED="true" ID="ID_601383848" CREATED="1498492989729" MODIFIED="1498493030319">
+<node TEXT="prevent tyranny of majority,&#xa;synthesis and refine ideas,&#xa;way for people to collective aspirations," ID="ID_1659157263" CREATED="1498493033289" MODIFIED="1498493074647"/>
+<node TEXT="e.g. Sri Lanka, Kashmir stone pelting," ID="ID_711208284" CREATED="1498493075147" MODIFIED="1498493095426"/>
+<node ID="ID_116358747" CREATED="1498493095601" MODIFIED="1498493176165"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      freedom of speech is essential FR enshrined in constitution,
+    </p>
+    <p>
+      subject to <b>reasonable restriction</b>&#160;
+    </p>
+    <p>
+      +
+    </p>
+    <p>
+      need of vigilant civil society ; as expression of&#160;&#160;individual character of citizen to democractic process
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="World Bank = &apos;voice of people&apos;  = good governance&#xa;+ Diagram" ID="ID_1451717837" CREATED="1498493218933" MODIFIED="1498493251375"/>
+</node>
 </node>
 </node>
 <node TEXT="Answer Writing" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1088331819" CREATED="1488236737899" MODIFIED="1495599585156" BACKGROUND_COLOR="#feffd6">
@@ -607,16 +778,6 @@
 <node TEXT="Green revolution =&gt;" ID="ID_586208373" CREATED="1489385629530" MODIFIED="1489385640591"/>
 <node TEXT="Skill based economy" ID="ID_1019891548" CREATED="1489387791237" MODIFIED="1489387796788"/>
 </node>
-<node TEXT="Role of opposition in politics" FOLDED="true" ID="ID_676423304" CREATED="1490329767557" MODIFIED="1490329780773">
-<node TEXT="Political Parties = complacent if no opposition" ID="ID_1850054068" CREATED="1490331221477" MODIFIED="1490331233477"/>
-<node TEXT="only states with strong opposition have flourished" FOLDED="true" ID="ID_873906537" CREATED="1490329783375" MODIFIED="1490329792806">
-<node TEXT="TN, Kerala" ID="ID_306192726" CREATED="1490329793229" MODIFIED="1490329796337"/>
-</node>
-<node TEXT="If elimination of disease poverty illiteracy are not realised, it only means shifting of colonial autocracy to local one" FOLDED="true" ID="ID_1472582489" CREATED="1490329614685" MODIFIED="1490329667175">
-<icon BUILTIN="password"/>
-<node TEXT="without any changes in lives of people" ID="ID_7507634" CREATED="1490329655694" MODIFIED="1490329663453"/>
-</node>
-</node>
 <node TEXT="Water development reosources" FOLDED="true" ID="ID_1111168667" CREATED="1490329945464" MODIFIED="1490329952058">
 <node TEXT="waste water is untapped potential resource" ID="ID_1155538302" CREATED="1490329952355" MODIFIED="1490330226992">
 <icon BUILTIN="password"/>
@@ -625,7 +786,7 @@
 <node TEXT="UNWDP" ID="ID_430503689" CREATED="1490330010351" MODIFIED="1490330011394"/>
 </node>
 <node TEXT="Idea of development" FOLDED="true" ID="ID_1213307884" CREATED="1490675747732" MODIFIED="1490675750645">
-<node TEXT="development with justice" FOLDED="true" ID="ID_1327124858" CREATED="1490675750792" MODIFIED="1490675757205">
+<node TEXT="development with justice" ID="ID_1327124858" CREATED="1490675750792" MODIFIED="1490675757205">
 <node TEXT="not max. benefit to max people!" ID="ID_82489442" CREATED="1490675758245" MODIFIED="1490675763420"/>
 </node>
 </node>
@@ -635,6 +796,14 @@
 <node TEXT="hassle-free" ID="ID_1587975979" CREATED="1493971702609" MODIFIED="1493971705266"/>
 <node TEXT="has rationalised fee" ID="ID_1823637577" CREATED="1493971707251" MODIFIED="1493971714346"/>
 <node TEXT="real-time" ID="ID_1590528341" CREATED="1493971722050" MODIFIED="1493971726347"/>
+</node>
+<node TEXT="republic of mob lynching" FOLDED="true" ID="ID_1163738241" CREATED="1498494894365" MODIFIED="1498494901530">
+<node TEXT="ethical issues" ID="ID_1508520763" CREATED="1498496319418" MODIFIED="1498496322697">
+<node TEXT="tolerance, non violence, human rights, human dignity" ID="ID_569928852" CREATED="1498496322831" MODIFIED="1498496489539"/>
+</node>
+<node TEXT="normalcy of paranoia, rumors!" ID="ID_67686699" CREATED="1498494915509" MODIFIED="1498494926213"/>
+<node TEXT="violence has a social function when law breaks down" ID="ID_1259114771" CREATED="1498494903777" MODIFIED="1498494913614"/>
+<node TEXT="crowd has a single character of thoughtlessness, irrational force - which is not breaking down, instead restoring law and order" ID="ID_883430157" CREATED="1498495771305" MODIFIED="1498495804273"/>
 </node>
 </node>
 <node TEXT="GS4" FOLDED="true" POSITION="right" ID="ID_381119914" CREATED="1490334134419" MODIFIED="1490334135116">
@@ -1578,7 +1747,7 @@
 <node TEXT="immense economic benefits but not in action with guidelines =&gt; corruption?" ID="ID_1367202517" CREATED="1498205299749" MODIFIED="1498205330660"/>
 </node>
 </node>
-<node TEXT="23-06" FOLDED="true" ID="ID_750253772" CREATED="1498234429891" MODIFIED="1498234432316">
+<node TEXT="23-06" ID="ID_750253772" CREATED="1498234429891" MODIFIED="1498234432316">
 <node TEXT="farm loan waiver" FOLDED="true" ID="ID_994103194" CREATED="1498234432788" MODIFIED="1498234435726">
 <node TEXT="engender moral hazard" ID="ID_242177999" CREATED="1498234441383" MODIFIED="1498234445678"/>
 <node TEXT="undermines honest credit culture ; hurts credit discipline" ID="ID_1514206276" CREATED="1498234447319" MODIFIED="1498234463405"/>
@@ -1587,7 +1756,9 @@
 <node TEXT="agriculutral insurance company of india" ID="ID_786537913" CREATED="1498234503874" MODIFIED="1498234509640"/>
 </node>
 </node>
-<node FOLDED="true" ID="ID_1972907026" CREATED="1498408746730" MODIFIED="1498409004654"><richcontent TYPE="NODE">
+<node TEXT="WHO guidelines on Antibiotics classification" ID="ID_287026211" CREATED="1498409955501" MODIFIED="1498409968247">
+<node TEXT="access, watch , reserve" ID="ID_1140365185" CREATED="1498409969437" MODIFIED="1498409978226"/>
+<node ID="ID_463961517" CREATED="1498409978754" MODIFIED="1498410019138"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1595,25 +1766,31 @@
   </head>
   <body>
     <p>
-      india - us<br/>5 point programme
+      good to prevent <b>antimicrobial resistance </b>
     </p>
   </body>
 </html>
-
 </richcontent>
-<node TEXT="Tread Mil + Agri + Tech + energy + health" ID="ID_1105680309" CREATED="1498408750573" MODIFIED="1498408793470"/>
-<node TEXT="tread = trade&#xa;IP issues" ID="ID_355756448" CREATED="1498408916213" MODIFIED="1498408923468"/>
-<node TEXT="mil = LEMOA + Major defense partner" FOLDED="true" ID="ID_694069706" CREATED="1498408805775" MODIFIED="1498408816394">
-<node TEXT="logistics exchange memorandum of agreement" ID="ID_210844922" CREATED="1498408826354" MODIFIED="1498408839630"/>
 </node>
-<node TEXT="Agri = share tech for food security" ID="ID_982739671" CREATED="1498408842084" MODIFIED="1498408866666"/>
-<node TEXT="health = 3(d) patents act" ID="ID_1624517059" CREATED="1498408798266" MODIFIED="1498408805150"/>
-<node TEXT="energy" ID="ID_405312820" CREATED="1498408933202" MODIFIED="1498408980616"/>
+<node ID="ID_885365187" CREATED="1498410031945" MODIFIED="1498410039758"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      hand WASH (<u><i>WHO?)</i></u>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="24-06" FOLDED="true" ID="ID_1671996622" CREATED="1498404009357" MODIFIED="1498404012451">
 <node TEXT="city liveability index" FOLDED="true" ID="ID_1802849389" CREATED="1498404016232" MODIFIED="1498404026171">
-<node TEXT="large cities (&gt;1mn)&#xa;quality of life assessment" FOLDED="true" ID="ID_1034900675" CREATED="1498404028156" MODIFIED="1498404055207">
+<node TEXT="large cities (&gt;1mn)&#xa;quality of life assessment" ID="ID_1034900675" CREATED="1498404028156" MODIFIED="1498404055207">
 <node TEXT="health, mobility, employment, emergency, grievance redressal, pollution, cultural and ent opportunities" ID="ID_1004778443" CREATED="1498404055973" MODIFIED="1498404090556"/>
 </node>
 <node TEXT="specificity of targets and assessment towards achievement of smart cities" ID="ID_1448030817" CREATED="1498404158113" MODIFIED="1498404174209"/>
@@ -1630,7 +1807,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="thiruvananthapuram, Rajkot, Naya Raipur" ID="ID_423849777" CREATED="1498404148783" MODIFIED="1498404150033"/>
 </node>
@@ -1651,13 +1827,12 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="monthly per capita expenditure (MPCE)&#xa;urban &gt; rural&#xa;gap still exists today" ID="ID_1297781939" CREATED="1498404669068" MODIFIED="1498404700354"/>
 <node TEXT="lack of agri growth in last decade + low investment + llow private interest" ID="ID_417282843" CREATED="1498404715700" MODIFIED="1498404739453"/>
 </node>
 </node>
-<node TEXT="Banking ombudsman Scheme, 2006" FOLDED="true" ID="ID_620226447" CREATED="1498404906074" MODIFIED="1498405162113">
+<node TEXT="Banking ombudsman Scheme, 2006" ID="ID_620226447" CREATED="1498404906074" MODIFIED="1498405162113">
 <node FOLDED="true" ID="ID_27015713" CREATED="1498405107996" MODIFIED="1498405203272"><richcontent TYPE="NODE">
 
 <html>
@@ -1670,7 +1845,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="internet (M) banking complaints too!" ID="ID_1304438353" CREATED="1498405084445" MODIFIED="1498405101291"/>
 </node>
@@ -1699,7 +1873,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1709,6 +1882,15 @@
 <node TEXT="RRB + Cooperative  != needs for financial inclusion + credit facility" ID="ID_1447800842" CREATED="1498407884908" MODIFIED="1498407911114"/>
 </node>
 <node TEXT="private bank = ( &lt;=74% foreign holding )" ID="ID_57136223" CREATED="1498405529186" MODIFIED="1498405565395"/>
+</node>
+<node TEXT="26-06" FOLDED="true" ID="ID_1073690558" CREATED="1498478805314" MODIFIED="1498478807939">
+<node TEXT="kanya shree for girls, West Bengal = money for unmarried + in school" ID="ID_854787092" CREATED="1498478877137" MODIFIED="1498478898765">
+<node TEXT="reaching most vulnerable women!" ID="ID_792111570" CREATED="1498478898968" MODIFIED="1498478905969"/>
+<node TEXT="UN public service award!" ID="ID_1610068224" CREATED="1498478908017" MODIFIED="1498478912142"/>
+</node>
+</node>
+<node TEXT="Prelims worthy maal" FOLDED="true" ID="ID_1195031541" CREATED="1498478819254" MODIFIED="1498478822473">
+<node TEXT="Handbook of statistics on states 2016-17 = by RBI" ID="ID_796584214" CREATED="1498478825332" MODIFIED="1498478837694"/>
 </node>
 </node>
 <node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
