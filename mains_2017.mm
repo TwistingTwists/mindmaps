@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.064">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -387,7 +387,7 @@
 </node>
 <node TEXT="women" ID="ID_887639469" CREATED="1498974134020" MODIFIED="1498974136131"/>
 </node>
-<node TEXT="Social" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
+<node TEXT="Social" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
@@ -529,7 +529,7 @@
 <node TEXT="USSR disintegrated" ID="ID_1862230093" CREATED="1498841868105" MODIFIED="1498841876025"/>
 </node>
 </node>
-<node ID="ID_1972907026" CREATED="1498408746730" MODIFIED="1498409004654"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1972907026" CREATED="1498408746730" MODIFIED="1498409004654"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -556,6 +556,17 @@
 </node>
 <node TEXT="india japan" FOLDED="true" ID="ID_802890247" CREATED="1498839041178" MODIFIED="1498839045803">
 <node TEXT="in africa :&#xa;* cooperative projects&#xa;* capacity building&#xa;* people2people link&#xa;* infra + institution" ID="ID_392607717" CREATED="1498839046210" MODIFIED="1498839114256"/>
+<node TEXT="nuclear deal" FOLDED="true" ID="ID_486272647" CREATED="1499137042392" MODIFIED="1499137044580">
+<node TEXT="on peaceful uses of nuclear energy" ID="ID_454397586" CREATED="1499137155769" MODIFIED="1499137161723"/>
+<node TEXT="skill, access to reactor key components" ID="ID_1002383630" CREATED="1499137139736" MODIFIED="1499137151644"/>
+<node TEXT="benefit for japan?" ID="ID_769109275" CREATED="1499137045205" MODIFIED="1499137051238">
+<node TEXT="nuclear export =&gt; kickstart japanese economy" ID="ID_1165997534" CREATED="1499137092932" MODIFIED="1499137109559"/>
+</node>
+<node TEXT="benefit for india?" ID="ID_1099126102" CREATED="1499137051581" MODIFIED="1499137057645">
+<node TEXT="wider acceptance as responsible actor globally" ID="ID_1105894713" CREATED="1499137058067" MODIFIED="1499137078554"/>
+</node>
+<node TEXT="2011 Fukushima disaster" ID="ID_226368203" CREATED="1499137171944" MODIFIED="1499137176898"/>
+</node>
 </node>
 </node>
 <node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
@@ -910,7 +921,7 @@
 </node>
 </node>
 <node TEXT="daily CA" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
-<node TEXT="20-06" FOLDED="true" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
+<node TEXT="20-06" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
 <node TEXT="administered price regime&#xa;APM" FOLDED="true" ID="ID_392238165" CREATED="1497940476093" MODIFIED="1497940483259">
 <node TEXT="petrol + diesel&#xa;=&gt; APM to TPP" ID="ID_213753914" CREATED="1497940484348" MODIFIED="1497940523048"/>
 <node TEXT="trade parity price (TPP) = weighted avg of Import parity, export parity" ID="ID_1233862064" CREATED="1497940524835" MODIFIED="1497940556903"/>
@@ -1047,7 +1058,7 @@
 </node>
 <node TEXT="economic integration via regional productivity networks" ID="ID_1113207442" CREATED="1497964415519" MODIFIED="1497964432040"/>
 </node>
-<node TEXT="22(3) = preventive detention" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1497969643649">
+<node TEXT="22(3) = preventive detention" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1497969643649">
 <node TEXT="four grounds" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
 <node TEXT="security of state&#xa;maintain essential services&#xa;foreign affairs&#xa;maintain public order" ID="ID_513890276" CREATED="1497969610998" MODIFIED="1497969667521"/>
 </node>
@@ -1792,16 +1803,25 @@
 <node TEXT="immense economic benefits but not in action with guidelines =&gt; corruption?" ID="ID_1367202517" CREATED="1498205299749" MODIFIED="1498205330660"/>
 </node>
 </node>
-<node TEXT="23-06" FOLDED="true" ID="ID_750253772" CREATED="1498234429891" MODIFIED="1498234432316">
+<node TEXT="23-06" ID="ID_750253772" CREATED="1498234429891" MODIFIED="1498234432316">
 <node TEXT="farm loan waiver" FOLDED="true" ID="ID_994103194" CREATED="1498234432788" MODIFIED="1498234435726">
-<node TEXT="engender moral hazard" ID="ID_242177999" CREATED="1498234441383" MODIFIED="1498234445678"/>
-<node TEXT="undermines honest credit culture ; hurts credit discipline" ID="ID_1514206276" CREATED="1498234447319" MODIFIED="1498234463405"/>
+<node TEXT="engender moral hazard" FOLDED="true" ID="ID_242177999" CREATED="1498234441383" MODIFIED="1498234445678">
+<node TEXT="invest from savings rather than borrowings" ID="ID_1734002321" CREATED="1499147735866" MODIFIED="1499147756307"/>
+</node>
+<node TEXT="non productive use of credit" ID="ID_1828371082" CREATED="1499147623068" MODIFIED="1499147631444"/>
+<node TEXT="harm to  economy" FOLDED="true" ID="ID_600736871" CREATED="1499147812910" MODIFIED="1499147893344">
 <node TEXT="crowding out of private sector as loans get costly for them" ID="ID_1154477444" CREATED="1498234468790" MODIFIED="1498234481529"/>
+<node TEXT="undermines honest credit culture ; hurts credit discipline" ID="ID_1514206276" CREATED="1498234447319" MODIFIED="1498234463405"/>
+</node>
 <node TEXT="agri loans are compulsorily insured by AIC" FOLDED="true" ID="ID_1971086487" CREATED="1498234492856" MODIFIED="1498234503686">
 <node TEXT="agriculutral insurance company of india" ID="ID_786537913" CREATED="1498234503874" MODIFIED="1498234509640"/>
 </node>
+<node TEXT="way forward" FOLDED="true" ID="ID_504561245" CREATED="1499147866574" MODIFIED="1499147868496">
+<node TEXT="rescheduling, restructuring" ID="ID_1373714228" CREATED="1499147868621" MODIFIED="1499147877982"/>
+<node TEXT="crop insurance for distress, not loan waiver" ID="ID_1434788103" CREATED="1499147923004" MODIFIED="1499147936194"/>
 </node>
-<node TEXT="WHO guidelines on Antibiotics classification" ID="ID_287026211" CREATED="1498409955501" MODIFIED="1498409968247">
+</node>
+<node TEXT="WHO guidelines on Antibiotics classification" FOLDED="true" ID="ID_287026211" CREATED="1498409955501" MODIFIED="1498409968247">
 <node TEXT="access, watch , reserve" ID="ID_1140365185" CREATED="1498409969437" MODIFIED="1498409978226"/>
 <node ID="ID_463961517" CREATED="1498409978754" MODIFIED="1498410019138"><richcontent TYPE="NODE">
 
@@ -2097,7 +2117,7 @@
 <node TEXT="well functioning PDS" ID="ID_193101574" CREATED="1499066102599" MODIFIED="1499066111014"/>
 </node>
 </node>
-<node TEXT="04-05" ID="ID_1327143351" CREATED="1499067039191" MODIFIED="1499067051764">
+<node TEXT="04-05" FOLDED="true" ID="ID_1327143351" CREATED="1499067039191" MODIFIED="1499067051764">
 <node TEXT="india china in indian ocean strategic positions" FOLDED="true" ID="ID_1490377106" CREATED="1499067023494" MODIFIED="1499067034599">
 <node TEXT="INS vikramaditya" ID="ID_731230968" CREATED="1499067075865" MODIFIED="1499067085738">
 <node TEXT="aircraft carrier" ID="ID_894585784" CREATED="1495166047048" MODIFIED="1495166050034"/>
@@ -2148,7 +2168,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2207,6 +2226,7 @@
 </node>
 </node>
 </node>
+<node TEXT="June" ID="ID_1221575938" CREATED="1499137029641" MODIFIED="1499137031281"/>
 </node>
 <node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
 <node TEXT="funda" FOLDED="true" ID="ID_62157491" CREATED="1497938540781" MODIFIED="1497938541789">
