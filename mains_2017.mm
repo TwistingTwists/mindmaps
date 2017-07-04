@@ -351,7 +351,7 @@
 <node TEXT="World geography" ID="ID_634934732" CREATED="1497937969216" MODIFIED="1497937971185"/>
 </node>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
 <node TEXT="Funda" FOLDED="true" ID="ID_1172058679" CREATED="1497873875002" MODIFIED="1497873876237">
 <node TEXT="Know the articles related to each issue" ID="ID_1615131595" CREATED="1490334026799" MODIFIED="1490334035501"/>
 <node TEXT="Social Justice" ID="ID_761817598" CREATED="1490334039845" MODIFIED="1490334041730"/>
@@ -569,7 +569,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
+<node TEXT="Governance, constitution polity" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1494887616079">
 <font NAME="Calibri"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
@@ -689,7 +689,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Role of communication in policy making" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_530332462" CREATED="1494848463779" MODIFIED="1494848473808">
+<node TEXT="Role of communication in policy making" LOCALIZED_STYLE_REF="default" ID="ID_530332462" CREATED="1494848463779" MODIFIED="1494848473808">
 <node TEXT="social media usage" ID="ID_1175845779" CREATED="1494848482535" MODIFIED="1494848486984"/>
 <node TEXT="for active participation of stakeholders" ID="ID_424718923" CREATED="1494848474247" MODIFIED="1494848481594"/>
 <node TEXT="e.g. EPFO failure to communicate policies in Budget 2016" ID="ID_727847295" CREATED="1494848499747" MODIFIED="1494848513740"/>
@@ -732,6 +732,27 @@
 </richcontent>
 </node>
 <node TEXT="World Bank = &apos;voice of people&apos;  = good governance&#xa;+ Diagram" ID="ID_1451717837" CREATED="1498493218933" MODIFIED="1498493251375"/>
+</node>
+<node TEXT="role of media" FOLDED="true" ID="ID_1354751786" CREATED="1499180398057" MODIFIED="1499180400917">
+<node TEXT="4th pillar" ID="ID_1693096910" CREATED="1499180406855" MODIFIED="1499180410075"/>
+<node TEXT="passive / active reporting" ID="ID_919509899" CREATED="1499180411794" MODIFIED="1499180417732"/>
+<node TEXT="freedom of speech" ID="ID_512885610" CREATED="1499180422576" MODIFIED="1499180426124"/>
+<node ID="ID_515441186" CREATED="1499181451466" MODIFIED="1499181464125"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      great significance because most people are <b>silent listeners</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="provide healthy debate" ID="ID_434197175" CREATED="1499181477019" MODIFIED="1499181481191"/>
 </node>
 </node>
 </node>
@@ -920,8 +941,8 @@
 </node>
 </node>
 </node>
-<node TEXT="daily CA" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
-<node TEXT="20-06" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
+<node TEXT="daily CA" FOLDED="true" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
+<node TEXT="20-06" FOLDED="true" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
 <node TEXT="administered price regime&#xa;APM" FOLDED="true" ID="ID_392238165" CREATED="1497940476093" MODIFIED="1497940483259">
 <node TEXT="petrol + diesel&#xa;=&gt; APM to TPP" ID="ID_213753914" CREATED="1497940484348" MODIFIED="1497940523048"/>
 <node TEXT="trade parity price (TPP) = weighted avg of Import parity, export parity" ID="ID_1233862064" CREATED="1497940524835" MODIFIED="1497940556903"/>
@@ -1058,7 +1079,7 @@
 </node>
 <node TEXT="economic integration via regional productivity networks" ID="ID_1113207442" CREATED="1497964415519" MODIFIED="1497964432040"/>
 </node>
-<node TEXT="22(3) = preventive detention" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1497969643649">
+<node TEXT="22(3) = preventive detention" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1497969643649">
 <node TEXT="four grounds" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
 <node TEXT="security of state&#xa;maintain essential services&#xa;foreign affairs&#xa;maintain public order" ID="ID_513890276" CREATED="1497969610998" MODIFIED="1497969667521"/>
 </node>
@@ -1803,7 +1824,7 @@
 <node TEXT="immense economic benefits but not in action with guidelines =&gt; corruption?" ID="ID_1367202517" CREATED="1498205299749" MODIFIED="1498205330660"/>
 </node>
 </node>
-<node TEXT="23-06" ID="ID_750253772" CREATED="1498234429891" MODIFIED="1498234432316">
+<node TEXT="23-06" FOLDED="true" ID="ID_750253772" CREATED="1498234429891" MODIFIED="1498234432316">
 <node TEXT="farm loan waiver" FOLDED="true" ID="ID_994103194" CREATED="1498234432788" MODIFIED="1498234435726">
 <node TEXT="engender moral hazard" FOLDED="true" ID="ID_242177999" CREATED="1498234441383" MODIFIED="1498234445678">
 <node TEXT="invest from savings rather than borrowings" ID="ID_1734002321" CREATED="1499147735866" MODIFIED="1499147756307"/>
@@ -1897,7 +1918,7 @@
 <node TEXT="lack of agri growth in last decade + low investment + llow private interest" ID="ID_417282843" CREATED="1498404715700" MODIFIED="1498404739453"/>
 </node>
 </node>
-<node TEXT="Banking ombudsman Scheme, 2006" ID="ID_620226447" CREATED="1498404906074" MODIFIED="1498405162113">
+<node TEXT="Banking ombudsman Scheme, 2006" FOLDED="true" ID="ID_620226447" CREATED="1498404906074" MODIFIED="1498405162113">
 <node FOLDED="true" ID="ID_27015713" CREATED="1498405107996" MODIFIED="1498405203272"><richcontent TYPE="NODE">
 
 <html>
@@ -1949,7 +1970,7 @@
 <node TEXT="private bank = ( &lt;=74% foreign holding )" ID="ID_57136223" CREATED="1498405529186" MODIFIED="1498405565395"/>
 </node>
 <node TEXT="26-06" FOLDED="true" ID="ID_1073690558" CREATED="1498478805314" MODIFIED="1498478807939">
-<node TEXT="kanya shree for girls, West Bengal = money for unmarried + in school" ID="ID_854787092" CREATED="1498478877137" MODIFIED="1498478898765">
+<node TEXT="kanya shree for girls, West Bengal = money for unmarried + in school" FOLDED="true" ID="ID_854787092" CREATED="1498478877137" MODIFIED="1498478898765">
 <node TEXT="reaching most vulnerable women!" ID="ID_792111570" CREATED="1498478898968" MODIFIED="1498478905969"/>
 <node TEXT="UN public service award!" ID="ID_1610068224" CREATED="1498478908017" MODIFIED="1498478912142"/>
 </node>
@@ -2037,7 +2058,7 @@
 </node>
 <node TEXT="MPs = express freely opinions" ID="ID_1740260084" CREATED="1498917294600" MODIFIED="1498917313561"/>
 <node TEXT="no inhouse expert advice = lack of library resources + staff" ID="ID_1300216044" CREATED="1498917326181" MODIFIED="1498917341686"/>
-<node TEXT="e.g." ID="ID_844887799" CREATED="1498917441201" MODIFIED="1498917442872">
+<node TEXT="e.g." FOLDED="true" ID="ID_844887799" CREATED="1498917441201" MODIFIED="1498917442872">
 <node TEXT="USA and british meet &gt;120 days/yr" ID="ID_373189954" CREATED="1498917399342" MODIFIED="1498917407154"/>
 <node TEXT="already done by Odisha = min mandated days of assembly" ID="ID_256107449" CREATED="1498917420913" MODIFIED="1498917437765"/>
 </node>
@@ -2238,7 +2259,7 @@
 <node TEXT="more dynamic!" ID="ID_1628430788" CREATED="1490334125768" MODIFIED="1490334128138"/>
 </node>
 </node>
-<node TEXT="Economy" ID="ID_1068182109" CREATED="1497938542645" MODIFIED="1497938547956">
+<node TEXT="Economy" FOLDED="true" ID="ID_1068182109" CREATED="1497938542645" MODIFIED="1497938547956">
 <node TEXT="NPA : Twin Balance Sheet" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1863912573" CREATED="1488267884083" MODIFIED="1497949509067"><richcontent TYPE="DETAILS">
 
 <html>
