@@ -1278,7 +1278,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="internal security" FOLDED="true" ID="ID_47828840" CREATED="1497960380450" MODIFIED="1497960385531">
+<node TEXT="internal security" ID="ID_47828840" CREATED="1497960380450" MODIFIED="1497960385531">
 <node TEXT="non state actors in internal security" ID="ID_1474140306" CREATED="1497956943978" MODIFIED="1497956955296">
 <node TEXT="radicalisation via internet" ID="ID_1374428467" CREATED="1497960420913" MODIFIED="1497960640905"/>
 <node TEXT="remote controlled terrorism" ID="ID_548965506" CREATED="1497960650908" MODIFIED="1497960655285"/>
@@ -1541,7 +1541,7 @@
 <node TEXT="secularism - constitution basic structure" ID="ID_213740594" CREATED="1499319482967" MODIFIED="1499319490743"/>
 <node TEXT="1905 bengal parition + 1906 muslim league + 1915 Hindu Mahasabha + Wahabi / deboand movement" ID="ID_1744266254" CREATED="1499319491072" MODIFIED="1499319517155"/>
 </node>
-<node TEXT="questions" FOLDED="true" ID="ID_1098776641" CREATED="1499336298619" MODIFIED="1499336300524">
+<node TEXT="questions" ID="ID_1098776641" CREATED="1499336298619" MODIFIED="1499336300524">
 <node TEXT="effect of middle east situations on India&apos;s internal security" ID="ID_1853814528" CREATED="1499336300820" MODIFIED="1499336322430">
 <node TEXT="ISIS, Iraq, Syria" ID="ID_1847197602" CREATED="1499350747421" MODIFIED="1499350758246"/>
 <node TEXT="middle east diaspora" ID="ID_469495870" CREATED="1499350851037" MODIFIED="1499350862519"/>
@@ -1599,7 +1599,7 @@
 </node>
 </node>
 </node>
-<node TEXT="violation of rights" ID="ID_836557560" CREATED="1499335325603" MODIFIED="1499335329050">
+<node TEXT="violation of rights" FOLDED="true" ID="ID_836557560" CREATED="1499335325603" MODIFIED="1499335329050">
 <node TEXT="only state can use force legitimately" ID="ID_448662230" CREATED="1499335329549" MODIFIED="1499335367145"/>
 <node TEXT="AFSPA" FOLDED="true" ID="ID_470827071" CREATED="1499335389365" MODIFIED="1499335390960">
 <node ID="ID_1552817217" CREATED="1499269758798" MODIFIED="1499269789173"><richcontent TYPE="NODE">
@@ -1640,8 +1640,35 @@
 <node TEXT="+ opaque functioning" ID="ID_1612276710" CREATED="1499336050483" MODIFIED="1499336061100"/>
 <node TEXT="e.g. AADHAR card for basic services" ID="ID_1483251368" CREATED="1499336061623" MODIFIED="1499336069677"/>
 </node>
-<node TEXT="right to privacy = right of life" FOLDED="true" ID="ID_1503976213" CREATED="1499336009629" MODIFIED="1499336018270">
+<node TEXT="right to privacy = right of life" ID="ID_1503976213" CREATED="1499336009629" MODIFIED="1499336018270">
 <node TEXT="right to privacy for public official&#xa;answer questions for public welfare" ID="ID_74673770" CREATED="1499336146547" MODIFIED="1499336189541"/>
+<node TEXT="SC judgement = not a FR. Hard to define + people consciously putting their info in public using tech" ID="ID_1244547989" CREATED="1500710153944" MODIFIED="1500710178337"/>
+<node ID="ID_351315241" CREATED="1500710210111" MODIFIED="1500710296516"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>right to individual liberty </b>includes right to
+    </p>
+    <p>
+      develop personality,
+    </p>
+    <p>
+      thinking, actions, freedom of religion, conscience,
+    </p>
+    <p>
+      Hence, for liberty one needs privacy.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="like freedom of press is not mentioned in 19. but deduced" ID="ID_1593642149" CREATED="1500710354527" MODIFIED="1500710371097">
+<node TEXT="same way, right to privacy not FR but deduced" ID="ID_989995852" CREATED="1500710371431" MODIFIED="1500710380331"/>
+</node>
 </node>
 </node>
 <node TEXT="22(3) = preventive detention" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1497969643649">
@@ -1760,7 +1787,7 @@
 <node TEXT="mata prasad committee" ID="ID_948645471" CREATED="1497973596222" MODIFIED="1497973599418"/>
 </node>
 </node>
-<node TEXT="21-06" ID="ID_264539958" CREATED="1498103303321" MODIFIED="1498103305370">
+<node TEXT="21-06" FOLDED="true" ID="ID_264539958" CREATED="1498103303321" MODIFIED="1498103305370">
 <node TEXT="child adoption" ID="ID_574698241" CREATED="1498103305544" MODIFIED="1498103309125">
 <node TEXT="CARA" FOLDED="true" ID="ID_422956603" CREATED="1498103309731" MODIFIED="1498103311424">
 <node TEXT="under JJ, 2015 (MoWCD)" ID="ID_756805436" CREATED="1498103311702" MODIFIED="1498103329632"/>
@@ -2525,7 +2552,7 @@
 </node>
 </node>
 </node>
-<node TEXT="24-06" ID="ID_1671996622" CREATED="1498404009357" MODIFIED="1498404012451">
+<node TEXT="24-06" FOLDED="true" ID="ID_1671996622" CREATED="1498404009357" MODIFIED="1498404012451">
 <node TEXT="city liveability index" FOLDED="true" ID="ID_1802849389" CREATED="1498404016232" MODIFIED="1498404026171">
 <node TEXT="large cities (&gt;1mn)&#xa;quality of life assessment" ID="ID_1034900675" CREATED="1498404028156" MODIFIED="1498404055207">
 <node TEXT="health, mobility, employment, emergency, grievance redressal, pollution, cultural and ent opportunities" ID="ID_1004778443" CREATED="1498404055973" MODIFIED="1498404090556"/>
@@ -2651,7 +2678,7 @@
 </node>
 </node>
 </node>
-<node TEXT="01-07" ID="ID_727529390" CREATED="1498917132169" MODIFIED="1498917134119">
+<node TEXT="01-07" FOLDED="true" ID="ID_727529390" CREATED="1498917132169" MODIFIED="1498917134119">
 <node TEXT="short term challenges in GST" ID="ID_1341402664" CREATED="1498918565308" MODIFIED="1498920072396">
 <node TEXT="anti profiteering clause" FOLDED="true" ID="ID_1863233275" CREATED="1498918457940" MODIFIED="1498918462002">
 <node ID="ID_1224290" CREATED="1498918463580" MODIFIED="1498918550764"><richcontent TYPE="NODE">
@@ -3056,8 +3083,24 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="employment survey" ID="ID_1365201254" CREATED="1500106065932" MODIFIED="1500106071382">
+<node TEXT="employment survey" FOLDED="true" ID="ID_1365201254" CREATED="1500106065932" MODIFIED="1500106071382">
 <node TEXT="quarterly by NSSO" ID="ID_786010721" CREATED="1500106071590" MODIFIED="1500106085439"/>
+</node>
+<node TEXT="odd even delhi" FOLDED="true" ID="ID_1937864411" CREATED="1500909145344" MODIFIED="1500909148684">
+<node TEXT="21% people have cars&#xa;and automobile pollution = 10%(?)" ID="ID_1715784454" CREATED="1500909283276" MODIFIED="1500909304565"/>
+<node TEXT="advent of metro, transportation solved to some extent but not pollution" ID="ID_856289779" CREATED="1500909314381" MODIFIED="1500909338910"/>
+<node TEXT="what substitutions people make during restrictions" FOLDED="true" ID="ID_1784672057" CREATED="1500909148845" MODIFIED="1500909158977">
+<node TEXT="if shift to public transport =&gt; behavioral change easy" ID="ID_1240169188" CREATED="1500909159112" MODIFIED="1500909381753"/>
+<node TEXT="mexico = #vehicles increased =&gt; people bought second hand vehicles (in long term)" ID="ID_599360169" CREATED="1500909195090" MODIFIED="1500909249974"/>
+</node>
+<node TEXT="why traffic congestion in delhi?" ID="ID_736617697" CREATED="1500909421534" MODIFIED="1500909428019">
+<node TEXT="night = trucks" ID="ID_221778518" CREATED="1500909430700" MODIFIED="1500909436882"/>
+<node TEXT="use bypass ways around delhi" ID="ID_614731452" CREATED="1500909441080" MODIFIED="1500909455332"/>
+</node>
+</node>
+<node TEXT="social boycott law maharashtra, 2016" ID="ID_448830856" CREATED="1500909761630" MODIFIED="1500909767726">
+<node TEXT="earlier, bombay passed but on constitutional right to manage one&apos;s religious affairs" ID="ID_1960995639" CREATED="1500909771588" MODIFIED="1500909794287"/>
+<node TEXT="this on HUMANITARIAN grounds" ID="ID_1215582878" CREATED="1500909795905" MODIFIED="1500909804572"/>
 </node>
 </node>
 <node TEXT="SAMPLES" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1670268375" CREATED="1488236400869" MODIFIED="1496055203534">
