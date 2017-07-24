@@ -2915,7 +2915,7 @@
 <node TEXT="strategic for infra" ID="ID_381720005" CREATED="1499272763702" MODIFIED="1499272771281"/>
 </node>
 </node>
-<node TEXT="June" FOLDED="true" ID="ID_1221575938" CREATED="1499137029641" MODIFIED="1499137031281">
+<node TEXT="June" ID="ID_1221575938" CREATED="1499137029641" MODIFIED="1499137031281">
 <node TEXT="Legal Services affordable" FOLDED="true" ID="ID_535324880" CREATED="1490373708177" MODIFIED="1490373712497">
 <node TEXT="21, 39-A" ID="ID_655784215" CREATED="1490373712624" MODIFIED="1490373715017"/>
 <node TEXT="MIG Scheme ; &lt;7.5 L pa" FOLDED="true" ID="ID_1621267159" CREATED="1490373717514" MODIFIED="1499393169761">
@@ -2966,11 +2966,11 @@
 </node>
 </node>
 </node>
-<node TEXT="smart city" FOLDED="true" ID="ID_585747993" CREATED="1499531114473" MODIFIED="1499531116179">
+<node TEXT="smart city" ID="ID_585747993" CREATED="1499531114473" MODIFIED="1499531116179">
 <node TEXT="water, electricity divide city into further zones == not coterminus" ID="ID_1951825797" CREATED="1499531176758" MODIFIED="1499531203778">
 <node TEXT="multiplicity of boundaries =&gt; deterrent to good governance" ID="ID_1301325701" CREATED="1499531116493" MODIFIED="1499531130625"/>
 </node>
-<node TEXT="smart city vs climate change" FOLDED="true" ID="ID_328616631" CREATED="1499755534703" MODIFIED="1499755539969">
+<node TEXT="smart city vs climate change" ID="ID_328616631" CREATED="1499755534703" MODIFIED="1499755539969">
 <node TEXT="climate change = flood (assam), heat wave, cyclone, drought" ID="ID_562494960" CREATED="1499755820052" MODIFIED="1499755851444"/>
 <node TEXT="effect on infra?" FOLDED="true" ID="ID_704708312" CREATED="1499755854882" MODIFIED="1499755858523">
 <node TEXT="heat =&gt; rail tracks break&#xa;cool buildings&#xa;drainage exit&#xa;water management" ID="ID_1626439321" CREATED="1499755858882" MODIFIED="1499755946204"/>
@@ -3101,6 +3101,16 @@
 <node TEXT="social boycott law maharashtra, 2016" ID="ID_448830856" CREATED="1500909761630" MODIFIED="1500909767726">
 <node TEXT="earlier, bombay passed but on constitutional right to manage one&apos;s religious affairs" ID="ID_1960995639" CREATED="1500909771588" MODIFIED="1500909794287"/>
 <node TEXT="this on HUMANITARIAN grounds" ID="ID_1215582878" CREATED="1500909795905" MODIFIED="1500909804572"/>
+</node>
+<node TEXT="sustainable tourism" ID="ID_338548435" CREATED="1500915665215" MODIFIED="1500915668583">
+<node TEXT="2017 : Biodiversity and Sustainable Tourism" ID="ID_1935203691" CREATED="1496749474305" MODIFIED="1496749485706">
+<node TEXT="World biodiversity day, may 22" ID="ID_1954300731" CREATED="1496749468995" MODIFIED="1496749474164"/>
+</node>
+<node TEXT=" = respects locals + traveller + ( cultural heritage + env) of the place" ID="ID_388039295" CREATED="1500915677365" MODIFIED="1500915700469"/>
+<node TEXT="Sustainable Tourism Criteria for India (STCI) = by min Tourism" ID="ID_90155725" CREATED="1500915759566" MODIFIED="1500915769802"/>
+<node TEXT="triple bottom line = people + profit + env" ID="ID_117013825" CREATED="1500915706891" MODIFIED="1500915714088"/>
+<node TEXT="more revenue stays with local community" ID="ID_292530622" CREATED="1500915718743" MODIFIED="1500915727876"/>
+<node TEXT="social equity" ID="ID_1851929697" CREATED="1500915735974" MODIFIED="1500915738663"/>
 </node>
 </node>
 <node TEXT="SAMPLES" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1670268375" CREATED="1488236400869" MODIFIED="1496055203534">
