@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.047">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -368,17 +368,17 @@
 <node TEXT="World geography" ID="ID_634934732" CREATED="1497937969216" MODIFIED="1497937971185"/>
 </node>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
 <node TEXT="Funda" FOLDED="true" ID="ID_1172058679" CREATED="1497873875002" MODIFIED="1497873876237">
 <node TEXT="Know the articles related to each issue" ID="ID_1615131595" CREATED="1490334026799" MODIFIED="1490334035501"/>
 <node TEXT="Social Justice" ID="ID_761817598" CREATED="1490334039845" MODIFIED="1490334041730"/>
 </node>
 <node TEXT="Social Justice" FOLDED="true" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1499987020972">
 <node TEXT="Child Labor" FOLDED="true" ID="ID_1027291556" CREATED="1497950728446" MODIFIED="1497950731068">
-<node TEXT="Why so prevalent?" ID="ID_26349144" CREATED="1497950731205" MODIFIED="1497950737309">
+<node TEXT="Why so prevalent?" FOLDED="true" ID="ID_26349144" CREATED="1497950731205" MODIFIED="1497950737309">
 <node TEXT="90% of workforce in unorganised sector =&gt; their children more susceptible" ID="ID_217825349" CREATED="1497950738253" MODIFIED="1497950756334"/>
 </node>
-<node TEXT="ILO = worst forms of child Labor (WFCL)" FOLDED="true" ID="ID_1783508992" CREATED="1497950804717" MODIFIED="1497951042017">
+<node TEXT="ILO = worst forms of child Labor convention (WFCL)" ID="ID_1783508992" CREATED="1497950804717" MODIFIED="1503832625160">
 <node ID="ID_256643459" CREATED="1497950859676" MODIFIED="1497950936435"><richcontent TYPE="NODE">
 
 <html>
@@ -396,7 +396,36 @@
 <node TEXT="prostitution, drugs, slavery" ID="ID_83195317" CREATED="1497950872370" MODIFIED="1497950888759"/>
 <node TEXT="hazardous work = WFCL + confined spaces." ID="ID_533278282" CREATED="1497950988966" MODIFIED="1497951038667"/>
 </node>
+<node TEXT="ILO =  Minimum Age Convention, 1973" ID="ID_783257243" CREATED="1503832626226" MODIFIED="1503832634160"/>
+<node TEXT="SDG = 8 eliminate child labor" ID="ID_1967725195" CREATED="1503832647000" MODIFIED="1503832652707"/>
 <node TEXT="FR = 23,24" ID="ID_810859650" CREATED="1497951112233" MODIFIED="1497951145603"/>
+<node TEXT="Child Labor Protection ACt, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_30341265" CREATED="1490105819185" MODIFIED="1494887616014">
+<font NAME="Calibri"/>
+<node TEXT="hazardous occupation (Haz.Occu) count down + GoI empowered to include Haz.Occu" ID="ID_1391631538" CREATED="1490105825143" MODIFIED="1503832756066"/>
+<node TEXT="stricter norms for punishment" ID="ID_1745931045" CREATED="1503832761135" MODIFIED="1503832765690"/>
+<node TEXT="provides fund for rehabilitation" ID="ID_944631888" CREATED="1490105843762" MODIFIED="1490105854219"/>
+<node TEXT="adolescent = 14-18" ID="ID_1813670684" CREATED="1503832708659" MODIFIED="1503832713170"/>
+<node TEXT="aligned with RTE, ILO" ID="ID_718683080" CREATED="1503832780889" MODIFIED="1503832788254"/>
+</node>
+<node TEXT="national child labor project" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_829423018" CREATED="1503832672430" MODIFIED="1503832676186">
+<font NAME="Calibri"/>
+<node ID="ID_1627998279" CREATED="1503832676474" MODIFIED="1503832870840"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      rehabilitation for <b><i><u>bridge </u></i></b>education + vocational training + stipend (rs. 150)+ Healthcare + mid day meal
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="convergence of schemes" ID="ID_1918795469" CREATED="1503832893248" MODIFIED="1503832897585"/>
+<node TEXT="monitoring child labor, tracking system" ID="ID_1631419118" CREATED="1503832905602" MODIFIED="1503832914993"/>
+</node>
 </node>
 <node TEXT="Vulnerable groups" ID="ID_1500867622" CREATED="1498974126818" MODIFIED="1498974131645"/>
 <node TEXT="Disabled" FOLDED="true" ID="ID_1941891589" CREATED="1498974131849" MODIFIED="1498974133817">
@@ -442,13 +471,15 @@
 </node>
 <node TEXT="e.g. Child marriage in Rajasthan + Bengal&apos;s KanyaShree" ID="ID_1837542500" CREATED="1499932295809" MODIFIED="1499932311652"/>
 <node TEXT="female genital mutilation to curb sexual desires" ID="ID_1650349846" CREATED="1499987007100" MODIFIED="1499987016753">
+<node TEXT="by certain muslim sect" ID="ID_829267221" CREATED="1503833270424" MODIFIED="1503833276349"/>
 <node TEXT="banned in 24 african countries" ID="ID_1417054471" CREATED="1499987028724" MODIFIED="1499987037373"/>
 <node TEXT="UNGA adopted resolution to eliminate practice" ID="ID_315408490" CREATED="1499987040445" MODIFIED="1499987052464"/>
+<node TEXT="POSCO, IPC" ID="ID_389023079" CREATED="1503833284974" MODIFIED="1503833290704"/>
 </node>
 </node>
 </node>
 <node TEXT="Social" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
-<node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
+<node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
 <node TEXT="raise expenditure to 2.5% of GDP (time bound)" ID="ID_1718659908" CREATED="1491307171311" MODIFIED="1498840471946">
@@ -566,8 +597,8 @@
 <font BOLD="true"/>
 </node>
 <node TEXT="NACP - national aids control programme" ID="ID_523508021" CREATED="1498840778915" MODIFIED="1498840785870"/>
-<node TEXT="90:90:90 by UNAIDS" ID="ID_981592589" CREATED="1498840802639" MODIFIED="1498840807371">
-<node TEXT="diagnosed, treatment, suppressed" ID="ID_1450768358" CREATED="1498840819164" MODIFIED="1498840842025"/>
+<node TEXT="90:90:90 by UNAIDS" ID="ID_981592589" CREATED="1498840802639" MODIFIED="1503829769315">
+<node TEXT="diagnosed, treatment, suppressed" ID="ID_1450768358" CREATED="1498840819164" MODIFIED="1503829769311"/>
 </node>
 <node TEXT="social sitgma + medicine availability" ID="ID_590332633" CREATED="1498840862380" MODIFIED="1498840869478"/>
 <node TEXT="no hatred, no info public" ID="ID_378907188" CREATED="1498840944496" MODIFIED="1498840968997"/>
@@ -588,7 +619,7 @@
 </node>
 </node>
 </node>
-<node TEXT="women" LOCALIZED_STYLE_REF="default" ID="ID_132650656" CREATED="1502369843633" MODIFIED="1502369844595">
+<node TEXT="women" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_132650656" CREATED="1502369843633" MODIFIED="1502369844595">
 <font NAME="Calibri"/>
 <node TEXT="sexual harassment" ID="ID_865243950" CREATED="1502369847295" MODIFIED="1502369854764">
 <node TEXT="Sexual Harassment of Women at workplace, 2013" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1732270828" CREATED="1488257556240" MODIFIED="1502369862639" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
@@ -626,7 +657,7 @@
 </node>
 </node>
 </node>
-<node TEXT="International Relations" FOLDED="true" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
+<node TEXT="International Relations" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
 <node TEXT="india US" FOLDED="true" ID="ID_1209136312" CREATED="1498839037741" MODIFIED="1498839040913">
 <node TEXT="phases" FOLDED="true" ID="ID_323784907" CREATED="1498841723572" MODIFIED="1498841724617">
 <node TEXT="I (47-71)" ID="ID_1480186997" CREATED="1498841724792" MODIFIED="1498841738227">
@@ -809,7 +840,7 @@
 </node>
 <node TEXT="IFM&#xa;investment facilitation mechanism" ID="ID_1197743646" CREATED="1500105946940" MODIFIED="1500105961952"/>
 </node>
-<node TEXT="india nepal" FOLDED="true" ID="ID_1409001838" CREATED="1499309321190" MODIFIED="1499309323550">
+<node TEXT="india nepal" ID="ID_1409001838" CREATED="1499309321190" MODIFIED="1499309323550">
 <node TEXT="neighborhood first" FOLDED="true" ID="ID_894724755" CREATED="1499309323664" MODIFIED="1499309328472">
 <node TEXT="ensure speedy delivery of generous $ 1b pledges" ID="ID_956461884" CREATED="1499309335071" MODIFIED="1499309360146"/>
 </node>
@@ -876,7 +907,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="cooperate on - transnational organised crime, narcotics, piracy" ID="ID_269673931" CREATED="1503053464396" MODIFIED="1503053485478"/>
@@ -885,8 +915,8 @@
 <node TEXT="Andaman border - thailand" ID="ID_1438022192" CREATED="1503053492512" MODIFIED="1503053503235"/>
 </node>
 </node>
-<node TEXT="Governance, constitution polity" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
-<node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1494887616079">
+<node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
+<node TEXT="Governance" LOCALIZED_STYLE_REF="default" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1494887616079">
 <font NAME="Calibri"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
 <node TEXT="Grievance Redressal" LOCALIZED_STYLE_REF="default" ID="ID_452332544" CREATED="1488281410670" MODIFIED="1488545169868">
@@ -1027,7 +1057,7 @@
 <node TEXT="dissent important in democracy, means by govt. to curb, implications" FOLDED="true" ID="ID_601383848" CREATED="1498492989729" MODIFIED="1498493030319">
 <node TEXT="prevent tyranny of majority,&#xa;synthesis and refine ideas,&#xa;way for people to collective aspirations," ID="ID_1659157263" CREATED="1498493033289" MODIFIED="1498493074647"/>
 <node TEXT="e.g. Sri Lanka, Kashmir stone pelting," ID="ID_711208284" CREATED="1498493075147" MODIFIED="1498493095426"/>
-<node ID="ID_116358747" CREATED="1498493095601" MODIFIED="1498493176165"><richcontent TYPE="NODE">
+<node ID="ID_116358747" CREATED="1498493095601" MODIFIED="1503411045225" MAX_WIDTH="151.39358350976465 pt" MIN_WIDTH="151.39358350976465 pt"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1035,10 +1065,10 @@
   </head>
   <body>
     <p>
-      freedom of speech is essential FR enshrined in constitution,
+      19(1)(a) = freedom of speech = FR ,
     </p>
     <p>
-      subject to <b>reasonable restriction</b>&#160;
+      19 (1) (b) = subject to <b>reasonable restriction</b>&#160;
     </p>
     <p>
       +
@@ -1052,7 +1082,7 @@
 </node>
 <node TEXT="World Bank = &apos;voice of people&apos;  = good governance&#xa;+ Diagram" ID="ID_1451717837" CREATED="1498493218933" MODIFIED="1498493251375"/>
 </node>
-<node TEXT="role of media" FOLDED="true" ID="ID_1354751786" CREATED="1499180398057" MODIFIED="1499180400917">
+<node TEXT="role of media" ID="ID_1354751786" CREATED="1499180398057" MODIFIED="1499180400917">
 <node TEXT="4th pillar" ID="ID_1693096910" CREATED="1499180406855" MODIFIED="1499180410075"/>
 <node TEXT="passive / active reporting" ID="ID_919509899" CREATED="1499180411794" MODIFIED="1499180417732"/>
 <node TEXT="freedom of speech" ID="ID_512885610" CREATED="1499180422576" MODIFIED="1499180426124"/>
@@ -1071,6 +1101,27 @@
 </richcontent>
 </node>
 <node TEXT="provide healthy debate" ID="ID_434197175" CREATED="1499181477019" MODIFIED="1499181481191"/>
+<node TEXT="reporters without borders (RWB)" FOLDED="true" ID="ID_1639457234" CREATED="1503411223617" MODIFIED="1503411229845">
+<node TEXT="world press freedom index = freedom to journalists" ID="ID_921351276" CREATED="1503411234850" MODIFIED="1503411245371"/>
+<node TEXT="india = 133/180" ID="ID_1551499096" CREATED="1503411249744" MODIFIED="1503411269714"/>
+</node>
+<node TEXT="to do for media freedom + accountability" ID="ID_600278075" CREATED="1503411303885" MODIFIED="1503411312669">
+<node ID="ID_983948592" CREATED="1503411314985" MODIFIED="1503411332115"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>media for media </b>- writing about each other and accepting misreporting
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="active media watchgroups" ID="ID_926425685" CREATED="1503411333629" MODIFIED="1503411657090"/>
+</node>
 </node>
 <node TEXT="quasi judicial vs purely judicial body" FOLDED="true" ID="ID_48577345" CREATED="1499235012516" MODIFIED="1499235020986">
 <node TEXT="QJ =&#xa;obligation to act judicial&#xa;some functions of court, not all&#xa;not bound by rules of evidence" ID="ID_1876489555" CREATED="1499235022908" MODIFIED="1499235138316" MAX_WIDTH="132.3650010139095 pt" MIN_WIDTH="132.3650010139095 pt"/>
@@ -1264,7 +1315,7 @@
 </node>
 </node>
 </node>
-<node TEXT="daily CA" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
+<node TEXT="daily CA" FOLDED="true" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
 <node TEXT="20-06" FOLDED="true" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
 <node TEXT="administered price regime&#xa;APM" FOLDED="true" ID="ID_392238165" CREATED="1497940476093" MODIFIED="1497940483259">
 <node TEXT="petrol + diesel&#xa;=&gt; APM to TPP" ID="ID_213753914" CREATED="1497940484348" MODIFIED="1497940523048"/>
@@ -1717,22 +1768,34 @@
 <node TEXT="e.g. AADHAR card for basic services" ID="ID_1483251368" CREATED="1499336061623" MODIFIED="1499336069677"/>
 </node>
 <node TEXT="right to privacy = right of life" FOLDED="true" ID="ID_1503976213" CREATED="1499336009629" MODIFIED="1499336018270">
-<node TEXT="as a fundamental right" ID="ID_984709463" CREATED="1501193282139" MODIFIED="1501193284822">
-<node TEXT="yes/no&#xa;define contours&#xa;reasonable restrictions" ID="ID_1635389677" CREATED="1501193285340" MODIFIED="1501193315414">
-<node TEXT="no = Kharak singh, 1962&#xa;except in homes as &quot;our homes are our castle&quot;" ID="ID_1332460267" CREATED="1501193559936" MODIFIED="1501193588278"/>
-<node TEXT="SC judgement = not a FR. Hard to define + people consciously putting their info in public using tech" ID="ID_1244547989" CREATED="1500710153944" MODIFIED="1500710178337"/>
+<node TEXT="as a fundamental right" FOLDED="true" ID="ID_984709463" CREATED="1501193282139" MODIFIED="1501193284822">
+<node TEXT="SC = yes. FR! (reasonable restrictions)" ID="ID_1664196816" CREATED="1503985337007" MODIFIED="1503985353032">
+<node LOCALIZED_STYLE_REF="default" ID="ID_167431678" CREATED="1503985369288" MODIFIED="1503985445333" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      shows commitment to <i><b>human dignity</b></i>&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri"/>
+</node>
+<node TEXT="intrinsic recognition of heterogeneity against tide of conformity in solitude" LOCALIZED_STYLE_REF="default" ID="ID_697026972" CREATED="1503985386918" MODIFIED="1503985444752" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
 </node>
 <node TEXT="vertical = against state&#xa;horizontal = against society" ID="ID_438216664" CREATED="1501193202965" MODIFIED="1501193215121"/>
-<node TEXT="inalienable right = UN Human Rights" ID="ID_1779879524" CREATED="1501193289262" MODIFIED="1501193298429">
-<font BOLD="true"/>
+<node TEXT="inalienable right = UN Human Rights" LOCALIZED_STYLE_REF="default" ID="ID_1779879524" CREATED="1501193289262" MODIFIED="1503985449235" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="example" ID="ID_1303724015" CREATED="1501194385684" MODIFIED="1501194387653">
-<node TEXT="whatsapp by SC to delete user info after opted out" ID="ID_700356975" CREATED="1501194387841" MODIFIED="1501194399149"/>
-<node TEXT="DNA profiling of convicts" ID="ID_1547746162" CREATED="1501194399805" MODIFIED="1501194410131"/>
-<node TEXT="Aadhar bill" ID="ID_1659939813" CREATED="1501194410350" MODIFIED="1501194415224"/>
-</node>
-<node ID="ID_351315241" CREATED="1500710210111" MODIFIED="1500710296516"><richcontent TYPE="NODE">
+<node TEXT="why privacy?" FOLDED="true" ID="ID_497631145" CREATED="1503985455952" MODIFIED="1503985460942">
+<node LOCALIZED_STYLE_REF="default" ID="ID_351315241" CREATED="1500710210111" MODIFIED="1503985452356" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1754,11 +1817,15 @@
   </body>
 </html>
 </richcontent>
+<font NAME="Calibri"/>
 </node>
-<node TEXT="like freedom of press is not mentioned in 19. but deduced" ID="ID_1593642149" CREATED="1500710354527" MODIFIED="1500710371097">
-<node TEXT="same way, right to privacy not FR but deduced" ID="ID_989995852" CREATED="1500710371431" MODIFIED="1500710380331"/>
 </node>
-<node TEXT="fodder" ID="ID_1505858764" CREATED="1503152114405" MODIFIED="1503152115887">
+<node TEXT="example" FOLDED="true" ID="ID_1303724015" CREATED="1501194385684" MODIFIED="1501194387653">
+<node TEXT="whatsapp by SC to delete user info after opted out" ID="ID_700356975" CREATED="1501194387841" MODIFIED="1501194399149"/>
+<node TEXT="DNA profiling of convicts" ID="ID_1547746162" CREATED="1501194399805" MODIFIED="1501194410131"/>
+<node TEXT="Aadhar bill" ID="ID_1659939813" CREATED="1501194410350" MODIFIED="1501194415224"/>
+</node>
+<node TEXT="fodder" FOLDED="true" ID="ID_1505858764" CREATED="1503152114405" MODIFIED="1503152115887">
 <node TEXT="right to privacy for public official&#xa;answer questions for public welfare" ID="ID_74673770" CREATED="1499336146547" MODIFIED="1499336189541"/>
 <node ID="ID_783990781" CREATED="1501193537654" MODIFIED="1503152135424"><richcontent TYPE="NODE">
 
@@ -1772,8 +1839,16 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+</node>
+<node TEXT="like freedom of press is not mentioned in 19. but deduced" FOLDED="true" ID="ID_1593642149" CREATED="1500710354527" MODIFIED="1500710371097">
+<node TEXT="same way, right to privacy not FR but deduced" ID="ID_989995852" CREATED="1500710371431" MODIFIED="1500710380331"/>
+</node>
+<node TEXT="junk" FOLDED="true" ID="ID_811113648" CREATED="1503985330833" MODIFIED="1503985331805">
+<node TEXT="yes/no&#xa;define contours&#xa;reasonable restrictions" ID="ID_1635389677" CREATED="1501193285340" MODIFIED="1501193315414">
+<node TEXT="no = Kharak singh, 1962&#xa;except in homes as &quot;our homes are our castle&quot;" ID="ID_1332460267" CREATED="1501193559936" MODIFIED="1501193588278"/>
+<node TEXT="SC judgement = not a FR. Hard to define + people consciously putting their info in public using tech" ID="ID_1244547989" CREATED="1500710153944" MODIFIED="1500710178337"/>
+</node>
 </node>
 </node>
 </node>
@@ -1781,11 +1856,13 @@
 <node TEXT="22(3) = preventive detention" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1497969643649">
 <node TEXT="preventive detention is statutory in nature" ID="ID_1008594485" CREATED="1499333772906" MODIFIED="1499334254728">
 <node TEXT="its exercise has to be within limitation of statue!" ID="ID_914941349" CREATED="1499334255080" MODIFIED="1499334273106"/>
+<node TEXT="not as discretionary power of executive" ID="ID_591013130" CREATED="1503413488605" MODIFIED="1503413494841"/>
+<node TEXT="respect liberty of citizen" ID="ID_651891413" CREATED="1503413503047" MODIFIED="1503413508393"/>
 </node>
 <node TEXT="four grounds" FOLDED="true" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
 <node TEXT="security of state&#xa;maintain essential services&#xa;foreign affairs&#xa;maintain public order" ID="ID_513890276" CREATED="1497969610998" MODIFIED="1497969667521"/>
 </node>
-<node TEXT="exceptions" FOLDED="true" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
+<node TEXT="exceptions" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
 <node ID="ID_1180436773" CREATED="1497969671950" MODIFIED="1497969763660" MAX_WIDTH="161.66212004813764 pt" MIN_WIDTH="161.66212004813764 pt"><richcontent TYPE="NODE">
 
 <html>
@@ -1806,6 +1883,22 @@
 </html>
 </richcontent>
 </node>
+</node>
+</node>
+<node TEXT="20 (2) = punished for same offence more than once" FOLDED="true" ID="ID_171045191" CREATED="1503413605396" MODIFIED="1503413620392">
+<node ID="ID_687809479" CREATED="1503413622159" MODIFIED="1503413635669"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      but separate trials for each offence <b><i>yes</i></b>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node TEXT="Transport internationaux Routiers (TIR)" FOLDED="true" ID="ID_1017099474" CREATED="1497964224368" MODIFIED="1497964243949">
@@ -2076,7 +2169,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2nd ARC - citizen centric administration" ID="ID_1301973351" CREATED="1498148125030" MODIFIED="1498148134782">
+<node TEXT="2nd ARC - citizen centric administration" FOLDED="true" ID="ID_1301973351" CREATED="1498148125030" MODIFIED="1498148134782">
 <font NAME="Calibri"/>
 <node TEXT="problems / issues in governance" ID="ID_1318784157" CREATED="1498148499125" MODIFIED="1498148601772">
 <node TEXT="symptoms of problematic implementation&#xa;( not formulation - i.e. at policy level )" ID="ID_197498292" CREATED="1498148624462" MODIFIED="1498148730989"/>
@@ -2419,7 +2512,7 @@
 <node TEXT="creates problem of deciding functions and roles for systems made without specialised knowledge" ID="ID_1597686207" CREATED="1498190549042" MODIFIED="1498190595214"/>
 </node>
 <node TEXT="lateral entry" ID="ID_1014622666" CREATED="1498190653436" MODIFIED="1498190659782">
-<node ID="ID_1794371200" CREATED="1498190700762" MODIFIED="1498190717951"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1794371200" CREATED="1498190700762" MODIFIED="1498190717951"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2433,10 +2526,15 @@
 </html>
 </richcontent>
 <node TEXT="cadre based on territory" ID="ID_211306154" CREATED="1498190752716" MODIFIED="1498190794588"/>
-<node TEXT="based on service" ID="ID_828020870" CREATED="1498190754925" MODIFIED="1498190774420">
-<node TEXT="reserved for govt. employees" ID="ID_1232271414" CREATED="1498190758518" MODIFIED="1498190764581"/>
+<node TEXT="based on service&#xa;reserved for govt. employees" ID="ID_828020870" CREATED="1498190754925" MODIFIED="1503848792586"/>
 </node>
+<node TEXT="+" FOLDED="true" ID="ID_1622441505" CREATED="1503848774393" MODIFIED="1503848778311">
+<node TEXT="fill vacancy,&#xa;promote competition amongst civil servants,&#xa;(insular, complacency removed)," ID="ID_1395077518" CREATED="1503848804388" MODIFIED="1503850565667"/>
+<node TEXT="external talent" ID="ID_1621667049" CREATED="1503850567257" MODIFIED="1503850570608"/>
 </node>
+<node TEXT="-" ID="ID_1793255714" CREATED="1503848778514" MODIFIED="1503848779402">
+<node TEXT="conflict between those in services and laterals" ID="ID_1579344781" CREATED="1503850572931" MODIFIED="1503850586790"/>
+<node TEXT="partial selections" ID="ID_466650868" CREATED="1503850620606" MODIFIED="1503850624795"/>
 <node ID="ID_1523236848" CREATED="1498190852402" MODIFIED="1498190895719"><richcontent TYPE="NODE">
 
 <html>
@@ -2450,6 +2548,7 @@
   </body>
 </html>
 </richcontent>
+</node>
 </node>
 </node>
 </node>
@@ -2619,7 +2718,7 @@
 <node TEXT="2nd ARC - e governance" ID="ID_1723322219" CREATED="1498185434395" MODIFIED="1498185441756">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="2nd ARC - Ethics in governance" ID="ID_331516792" CREATED="1498199101289" MODIFIED="1498199107125">
+<node TEXT="2nd ARC - Ethics in governance" FOLDED="true" ID="ID_331516792" CREATED="1498199101289" MODIFIED="1498199107125">
 <font NAME="Calibri"/>
 <node TEXT="Douglas Committee US" ID="ID_536150501" CREATED="1498199107901" MODIFIED="1499267329201">
 <font NAME="Calibri"/>
@@ -2761,7 +2860,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="may have a deflationary shock" ID="ID_273711016" CREATED="1503036891034" MODIFIED="1503036896689"/>
 </node>
@@ -2780,7 +2878,6 @@
     <span class="fontstyle0">Uttar Pradesh, Karnataka,<br/>Maharashtra, Punjab</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="SC intervened to stay waiver to ALL farmers. Instead only to marginal/small" ID="ID_1254957081" CREATED="1503036314480" MODIFIED="1503036335120"/>
@@ -2819,7 +2916,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="pulses = more quantity + more procurement + selling &lt; MSP =&gt; Economic Distress" ID="ID_1411268093" CREATED="1503035778874" MODIFIED="1503035797651"/>
@@ -2997,7 +3093,7 @@
 </node>
 </node>
 </node>
-<node TEXT="01-07" ID="ID_727529390" CREATED="1498917132169" MODIFIED="1498917134119">
+<node TEXT="01-07" FOLDED="true" ID="ID_727529390" CREATED="1498917132169" MODIFIED="1498917134119">
 <node TEXT="short term challenges in GST" ID="ID_1341402664" CREATED="1498918565308" MODIFIED="1498920072396">
 <node TEXT="anti profiteering clause" FOLDED="true" ID="ID_1863233275" CREATED="1498918457940" MODIFIED="1498918462002">
 <node ID="ID_1224290" CREATED="1498918463580" MODIFIED="1498918550764"><richcontent TYPE="NODE">
@@ -3057,7 +3153,7 @@
 <node TEXT="compliance cost high" ID="ID_999820180" CREATED="1498919066598" MODIFIED="1498919074747"/>
 <node TEXT="e way bills = short term, even non GST items" ID="ID_511839790" CREATED="1498919141106" MODIFIED="1498919154247"/>
 </node>
-<node TEXT="benefit of GST" ID="ID_161737420" CREATED="1498918783728" MODIFIED="1498918786025">
+<node TEXT="benefit of GST" FOLDED="true" ID="ID_161737420" CREATED="1498918783728" MODIFIED="1498918786025">
 <node TEXT="Ra A Sb L0" ID="ID_1619228613" CREATED="1498918786244" MODIFIED="1498918793440">
 <node TEXT="rate arbitrage, ancillarisation, same base, logistics, 0 rated export" ID="ID_1804157787" CREATED="1498918794348" MODIFIED="1498918819509"/>
 </node>
@@ -3555,7 +3651,7 @@
 </node>
 <node TEXT="flag = national flag code" ID="ID_1466483839" CREATED="1501201931761" MODIFIED="1501201940591"/>
 </node>
-<node TEXT="niti aayog performance" ID="ID_1149406011" CREATED="1501203002561" MODIFIED="1501203008057">
+<node TEXT="niti aayog performance" FOLDED="true" ID="ID_1149406011" CREATED="1501203002561" MODIFIED="1501203008057">
 <node TEXT="outcome based monitoring" ID="ID_1064590801" CREATED="1501203008221" MODIFIED="1501203015475"/>
 <node TEXT="efficient implementation of policies =&gt; add (maybe) 2-3% of GDP without any additional resources" ID="ID_222254674" CREATED="1501203050386" MODIFIED="1501203071122"/>
 <node TEXT="data analysis =&gt; informed decision + policy making" ID="ID_213922323" CREATED="1501203075364" MODIFIED="1501203086022"/>
@@ -3581,7 +3677,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="mechanism to obtain consent + withdraw DNA data" ID="ID_196054767" CREATED="1501658795207" MODIFIED="1501658809977"/>
@@ -3652,7 +3747,7 @@
 <node TEXT="bunkering, ship repair, container handling, chinese presence" ID="ID_1703332549" CREATED="1501659140626" MODIFIED="1501659156996"/>
 </node>
 </node>
-<node TEXT="august" ID="ID_500000425" CREATED="1503376674946" MODIFIED="1503376675971">
+<node TEXT="august" FOLDED="true" ID="ID_500000425" CREATED="1503376674946" MODIFIED="1503376675971">
 <node ID="ID_1520951689" CREATED="1503376676108" MODIFIED="1503376707240"><richcontent TYPE="NODE">
 
 <html>
@@ -3665,14 +3760,13 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
-<node TEXT="institutional arbitration" ID="ID_1912772661" CREATED="1503378841362" MODIFIED="1503378847233">
+<node TEXT="institutional arbitration" FOLDED="true" ID="ID_1912772661" CREATED="1503378841362" MODIFIED="1503378847233">
 <node TEXT="why needed?" FOLDED="true" ID="ID_1990412808" CREATED="1503378855199" MODIFIED="1503378856851">
 <node TEXT="WB ease of doing business , pending cases , high cost of litigation , unacceptable awards" ID="ID_930078606" CREATED="1503378857171" MODIFIED="1503378881392"/>
 </node>
-<node TEXT="why institutionalise?" ID="ID_398094359" CREATED="1503378889875" MODIFIED="1503378894113">
+<node TEXT="why institutionalise?" FOLDED="true" ID="ID_398094359" CREATED="1503378889875" MODIFIED="1503378894113">
 <node ID="ID_367397820" CREATED="1503378894342" MODIFIED="1503378986278"><richcontent TYPE="NODE">
 
 <html>
@@ -3685,17 +3779,50 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="good infrastructure, remove adhoc ness" ID="ID_1053558880" CREATED="1503379076320" MODIFIED="1503379094794"/>
 <node TEXT="make india preferred international arbitration destination" ID="ID_1062876048" CREATED="1503378926953" MODIFIED="1503378937779"/>
 </node>
-<node TEXT="pro" ID="ID_131979296" CREATED="1503378849899" MODIFIED="1503378850573">
+<node TEXT="pro" FOLDED="true" ID="ID_131979296" CREATED="1503378849899" MODIFIED="1503378850573">
 <node TEXT="ADR process,&#xa;speedy, expertise, fixed cost, acceptable awards" ID="ID_1194004731" CREATED="1503379004618" MODIFIED="1503379032155"/>
 <node TEXT="international disputes not in courts" ID="ID_1702584720" CREATED="1503379037313" MODIFIED="1503379043707"/>
 </node>
+<node TEXT="N Srikrishna Committee" ID="ID_882889256" CREATED="1503988474954" MODIFIED="1503988483351">
+<node TEXT="on BIT arbitration - jurisdictional, substantive, procedural (ISDS mechanism)" ID="ID_1288645739" CREATED="1503988539130" MODIFIED="1503988564417"/>
+</node>
 <node TEXT="challenges" ID="ID_1290925222" CREATED="1503379060209" MODIFIED="1503379061901"/>
+</node>
+<node TEXT="gambling betting legal" FOLDED="true" ID="ID_1504714438" CREATED="1503410702704" MODIFIED="1503410714733">
+<node TEXT="issues" FOLDED="true" ID="ID_988001648" CREATED="1503410707532" MODIFIED="1503410709746">
+<node TEXT="children exposed ,&#xa;sport ethics ,&#xa;safe guard against bankruptcy =&gt; crime increase ,&#xa;addiction hampering social balance (stigma)" ID="ID_1447460138" CREATED="1503410716396" MODIFIED="1503410790087"/>
+</node>
+<node TEXT="pro" FOLDED="true" ID="ID_788098665" CREATED="1503410793753" MODIFIED="1503410794843">
+<node TEXT="economic benefit =&gt; more money for schemes ," ID="ID_346222393" CREATED="1503410795093" MODIFIED="1503410806897"/>
+<node TEXT="transparency in betting (online) + illegal gone" ID="ID_631959867" CREATED="1503410809124" MODIFIED="1503410825517"/>
+</node>
+<node TEXT="way forward" ID="ID_1367123074" CREATED="1503410866962" MODIFIED="1503410872019">
+<node TEXT="take care of&#xa;children, sport ethics, capital adequacy" ID="ID_1317472816" CREATED="1503410872206" MODIFIED="1503410883155"/>
+</node>
+</node>
+<node TEXT=" 3 year action agenda" FOLDED="true" ID="ID_428111748" CREATED="1503413223487" MODIFIED="1503413235720">
+<node TEXT="municipal bonds" ID="ID_1062609595" CREATED="1503413236789" MODIFIED="1503413244062">
+<node TEXT="tax free, state backed, separate escrow account, past year performance based" ID="ID_1054423351" CREATED="1503413262849" MODIFIED="1503413277998"/>
+</node>
+</node>
+</node>
+<node TEXT="sept" ID="ID_1590357429" CREATED="1503985205640" MODIFIED="1503985209564">
+<node TEXT="377" OBJECT="java.lang.Long|377" FOLDED="true" ID="ID_1925980926" CREATED="1503986061120" MODIFIED="1503986062733">
+<node TEXT="LGBT = no discrimination on basis of sexual orientation / gender" ID="ID_620965650" CREATED="1503986063239" MODIFIED="1503986082211">
+<node TEXT="derived from right to privacy" ID="ID_1232401870" CREATED="1503986082432" MODIFIED="1503986087119"/>
+<node TEXT="based on Yogyakarta principles = Human rights expert in Indonesia 2006" ID="ID_1177863710" CREATED="1503986093290" MODIFIED="1503986116603"/>
+</node>
+<node TEXT="constitutional protection must be available irrespective of size of group" ID="ID_294564623" CREATED="1503986121114" MODIFIED="1503986135442"/>
+<node TEXT="personal liberty, dignity, freedom" ID="ID_1353286237" CREATED="1503986152679" MODIFIED="1503986158464"/>
+</node>
+<node TEXT="industry 4.0" FOLDED="true" ID="ID_1164543780" CREATED="1503986256103" MODIFIED="1503986259776">
+<node TEXT="digitisation of entire value chain" ID="ID_447483422" CREATED="1503986264984" MODIFIED="1503986285087"/>
+<node TEXT="operational efficiency + remote management" ID="ID_366452204" CREATED="1503986270326" MODIFIED="1503986282038"/>
 </node>
 </node>
 <node TEXT="SAMPLES" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1670268375" CREATED="1488236400869" MODIFIED="1496055203534">
@@ -3730,7 +3857,7 @@
 <node TEXT="reco of Sarkaria Commission" ID="ID_1367634798" CREATED="1499236042611" MODIFIED="1499236051472"/>
 <node TEXT="mrunal 2nd arc report" ID="ID_366042131" CREATED="1499268945381" MODIFIED="1499268951174"/>
 </node>
-<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
+<node TEXT="GS3" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
 <node TEXT="funda" FOLDED="true" ID="ID_62157491" CREATED="1497938540781" MODIFIED="1497938541789">
 <node TEXT="insight secure" ID="ID_319550013" CREATED="1490334067522" MODIFIED="1490334069222"/>
 <node TEXT="Security" ID="ID_490644501" CREATED="1490334103218" MODIFIED="1490334105249">
@@ -3953,9 +4080,20 @@
 </node>
 </node>
 <node TEXT="Environment" ID="ID_1164183901" CREATED="1497938550841" MODIFIED="1497938552872"/>
-<node TEXT="technology" ID="ID_1775135042" CREATED="1497938564766" MODIFIED="1497938570403"/>
+<node TEXT="technology" ID="ID_1775135042" CREATED="1497938564766" MODIFIED="1497938570403">
+<node TEXT="sci tech and geopolitics" ID="ID_1583741650" CREATED="1503987318793" MODIFIED="1503987323234">
+<node TEXT="resolve dispute = use tech to determine claims accurately e.g. South China sea" ID="ID_785920534" CREATED="1503987323915" MODIFIED="1503987338423"/>
+<node TEXT="locate resources = marine EEZ resources = market opportunities" ID="ID_1979171027" CREATED="1503987338768" MODIFIED="1503987454724"/>
+<node TEXT="strategic advantage = better mapping =&gt; better planning" ID="ID_853740368" CREATED="1503987353580" MODIFIED="1503987374400"/>
+<node TEXT="real time tech = coordination + cooperation for disaster, terror&#xa;e.g. India Srilanka" ID="ID_1225475488" CREATED="1503987374821" MODIFIED="1503987630999"/>
+<node TEXT="israel = sci tech prowess =&gt; geopolitical significance" ID="ID_1593011035" CREATED="1503987471005" MODIFIED="1503987487261"/>
+<node TEXT="china = manuf. tech&#xa;tech transfer" ID="ID_1613509411" CREATED="1503987560301" MODIFIED="1503987574100"/>
+<node TEXT="Google, Palantir Sci tech, US, GPS" ID="ID_1470121737" CREATED="1503987521209" MODIFIED="1503987543164"/>
+<node TEXT="india = regional satellite, GAGAN, domestic manuf." ID="ID_1560429763" CREATED="1503987580090" MODIFIED="1503987595504"/>
+</node>
+</node>
 <node TEXT="Security and disaster management" ID="ID_1124656669" CREATED="1497938555119" MODIFIED="1497938560446"/>
-<node TEXT="Food Security" LOCALIZED_STYLE_REF="default" ID="ID_1525330834" CREATED="1489466556896" MODIFIED="1489466559834">
+<node TEXT="Food Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1525330834" CREATED="1489466556896" MODIFIED="1489466559834">
 <node TEXT="FOod Laws" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_664400256" CREATED="1489466028926" MODIFIED="1489466030973">
 <node TEXT="Jan - 7.4.2" ID="ID_1956568564" CREATED="1489466034036" MODIFIED="1489466037943"/>
 <node TEXT="FSSAI" ID="ID_1471348391" CREATED="1489466031567" MODIFIED="1489466032942"/>
