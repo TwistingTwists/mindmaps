@@ -368,7 +368,7 @@
 <node TEXT="World geography" ID="ID_634934732" CREATED="1497937969216" MODIFIED="1497937971185"/>
 </node>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
 <node TEXT="Funda" FOLDED="true" ID="ID_1172058679" CREATED="1497873875002" MODIFIED="1497873876237">
 <node TEXT="Know the articles related to each issue" ID="ID_1615131595" CREATED="1490334026799" MODIFIED="1490334035501"/>
 <node TEXT="Social Justice" ID="ID_761817598" CREATED="1490334039845" MODIFIED="1490334041730"/>
@@ -664,105 +664,10 @@
 </node>
 </node>
 <node TEXT="International Relations" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
-<node TEXT="india US" FOLDED="true" ID="ID_1209136312" CREATED="1498839037741" MODIFIED="1498839040913">
-<node TEXT="phases" FOLDED="true" ID="ID_323784907" CREATED="1498841723572" MODIFIED="1498841724617">
-<node TEXT="I (47-71)" ID="ID_1480186997" CREATED="1498841724792" MODIFIED="1498841738227">
-<node TEXT="india = mixed economic model" ID="ID_90334932" CREATED="1498841776120" MODIFIED="1498841788847"/>
-</node>
-<node TEXT="II (71-89)" ID="ID_1955937763" CREATED="1498841725994" MODIFIED="1498841745901">
-<node TEXT="pokharan criticised by US" ID="ID_486649072" CREATED="1498841802556" MODIFIED="1498841808931"/>
-<node TEXT="india (NAM member) but Russia favor = helpful in 71&apos; = bangladesh liberation" ID="ID_323988646" CREATED="1498841830384" MODIFIED="1498841854195"/>
-</node>
-<node TEXT="III" ID="ID_1052587" CREATED="1498841726790" MODIFIED="1498841728212">
-<node TEXT="LPG" ID="ID_1205440970" CREATED="1498841863415" MODIFIED="1498841866632"/>
-<node TEXT="USSR disintegrated" ID="ID_1862230093" CREATED="1498841868105" MODIFIED="1498841876025"/>
-</node>
-</node>
-<node ID="ID_1972907026" CREATED="1498408746730" MODIFIED="1498409004654"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      india - us<br/>5 point programme
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Tread Mil + Agri + Tech + energy + health" ID="ID_1105680309" CREATED="1498408750573" MODIFIED="1498408793470"/>
-<node TEXT="tread = trade&#xa;IP issues" ID="ID_355756448" CREATED="1498408916213" MODIFIED="1498408923468">
-<node TEXT="WTO food subsidy" ID="ID_297562905" CREATED="1498841928570" MODIFIED="1498841931618"/>
-</node>
-<node TEXT="mil = LEMOA + Major defense partner" FOLDED="true" ID="ID_694069706" CREATED="1498408805775" MODIFIED="1498408816394">
-<node TEXT="logistics exchange memorandum of agreement" ID="ID_210844922" CREATED="1498408826354" MODIFIED="1498408839630"/>
-</node>
-<node TEXT="Agri = share tech for food security" ID="ID_982739671" CREATED="1498408842084" MODIFIED="1498408866666"/>
-<node TEXT="health = 3(d) patents act" ID="ID_1624517059" CREATED="1498408798266" MODIFIED="1498408805150"/>
-<node TEXT="energy" ID="ID_405312820" CREATED="1498408933202" MODIFIED="1498408980616"/>
-</node>
-</node>
-<node TEXT="india japan" FOLDED="true" ID="ID_802890247" CREATED="1498839041178" MODIFIED="1498839045803">
-<node TEXT="in africa :&#xa;* cooperative projects&#xa;* capacity building&#xa;* people2people link&#xa;* infra + institution" FOLDED="true" ID="ID_392607717" CREATED="1498839046210" MODIFIED="1498839114256">
-<node TEXT="japan = tech&#xa;india = experience in east africa" ID="ID_51936413" CREATED="1500104515095" MODIFIED="1500104531956"/>
-<node ID="ID_1691778913" CREATED="1500104406196" MODIFIED="1500104634638"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      aka<br/>asia africa growth corridor project
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="nuclear deal" FOLDED="true" ID="ID_486272647" CREATED="1499137042392" MODIFIED="1499137044580">
-<node TEXT="on peaceful uses of nuclear energy" ID="ID_454397586" CREATED="1499137155769" MODIFIED="1499137161723"/>
-<node TEXT="skill, access to reactor key components" ID="ID_1002383630" CREATED="1499137139736" MODIFIED="1499137151644"/>
-<node TEXT="benefit for japan?" ID="ID_769109275" CREATED="1499137045205" MODIFIED="1499137051238">
-<node TEXT="nuclear export =&gt; kickstart japanese economy" ID="ID_1165997534" CREATED="1499137092932" MODIFIED="1499137109559"/>
-</node>
-<node TEXT="benefit for india?" ID="ID_1099126102" CREATED="1499137051581" MODIFIED="1499137057645">
-<node TEXT="wider acceptance as responsible actor globally" ID="ID_1105894713" CREATED="1499137058067" MODIFIED="1499137078554"/>
-</node>
-<node TEXT="2011 Fukushima disaster" ID="ID_226368203" CREATED="1499137171944" MODIFIED="1499137176898"/>
-</node>
-<node TEXT="malabar" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_939042546" CREATED="1496098115859" MODIFIED="1499309154751" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="india + japan + USA" ID="ID_91805526" CREATED="1496098117863" MODIFIED="1496098121146"/>
-</node>
-<node TEXT="GRAPES 3 [ sci tech ]" FOLDED="true" ID="ID_226747321" CREATED="1499309128776" MODIFIED="1499309136501">
-<node TEXT="ooty" ID="ID_1510698926" CREATED="1496108583169" MODIFIED="1496108584010"/>
-<node TEXT="india japan" ID="ID_1120588961" CREATED="1496108612643" MODIFIED="1496108614519"/>
-<node ID="ID_166451661" CREATED="1496108607236" MODIFIED="1496108607236"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">muon intensity correlated with a weakening of the earth's<br/>magnetic field due to a solar storm</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="North east road connectivity project Phase I" FOLDED="true" ID="ID_1164620007" CREATED="1492163515267" MODIFIED="1499309215301">
-<node TEXT="funded By JICA" ID="ID_1362835878" CREATED="1492163523260" MODIFIED="1492163528158">
-<node TEXT="Japan Intl. Cooperation agency" ID="ID_968539555" CREATED="1492163528345" MODIFIED="1492163539001"/>
-</node>
-<node TEXT="Meghalaya + mizoram NH" ID="ID_898509895" CREATED="1492163553514" MODIFIED="1492163561196"/>
-<node TEXT="EPC model" ID="ID_1258391763" CREATED="1492163564465" MODIFIED="1492163565569"/>
-</node>
-<node TEXT="HSR tech [ High Speed Rail ]" ID="ID_1488269976" CREATED="1499309221019" MODIFIED="1499309230787"/>
-<node TEXT="funds for DMIC (delhi mumbai industrial corridor)" ID="ID_1131324441" CREATED="1503158917046" MODIFIED="1503158926690"/>
-<node TEXT="japan in industrial parks e.g. toyota" ID="ID_1368147075" CREATED="1503158934093" MODIFIED="1503158950267"/>
-<node TEXT="india japan partnership forum" ID="ID_674171440" CREATED="1503158995500" MODIFIED="1503159002081"/>
+<node TEXT="india afghanistan" ID="ID_1220612907" CREATED="1504243557832" MODIFIED="1504243562162">
+<node TEXT="air corridor in heart of asia summit" ID="ID_1700590639" CREATED="1504243777226" MODIFIED="1504243787124"/>
+<node TEXT="APTTA (afghan pakistan transit trade agreement)" ID="ID_451713991" CREATED="1504243856436" MODIFIED="1504243868331"/>
+<node TEXT="TAPI gas pipeline" ID="ID_985756611" CREATED="1504243875947" MODIFIED="1504243878627"/>
 </node>
 <node TEXT="india china" FOLDED="true" ID="ID_1757074045" CREATED="1499757667131" MODIFIED="1499757668553">
 <node TEXT="india china border infra" FOLDED="true" ID="ID_726005955" CREATED="1498917634432" MODIFIED="1498917637202">
@@ -826,6 +731,101 @@
 <node TEXT="economic capacity + national resources meet political will" ID="ID_52544716" CREATED="1503151787195" MODIFIED="1503151800501"/>
 </node>
 </node>
+<node TEXT="india EU" FOLDED="true" ID="ID_1228239151" CREATED="1500105942595" MODIFIED="1500105944083">
+<node TEXT="invest india" FOLDED="true" ID="ID_1676227728" CREATED="1496141193697" MODIFIED="1496141258389">
+<node TEXT="DIPP, FICCI, State govt" ID="ID_623658514" CREATED="1496141179113" MODIFIED="1496141192447"/>
+<node TEXT="not for profit   Investment Promotion Agency" ID="ID_228938995" CREATED="1496141237940" MODIFIED="1496141245082"/>
+</node>
+<node TEXT="IFM&#xa;investment facilitation mechanism" ID="ID_1197743646" CREATED="1500105946940" MODIFIED="1500105961952"/>
+</node>
+<node TEXT="india israel" ID="ID_542912436" CREATED="1499081888408" MODIFIED="1499081892327">
+<node TEXT="water management" ID="ID_1872925940" CREATED="1499081892499" MODIFIED="1499081898712">
+<node TEXT="israel has tech becoz water scarce country" ID="ID_1657514314" CREATED="1499081898772" MODIFIED="1499081921765"/>
+<node TEXT="drip irrigation + desalination" ID="ID_1895684286" CREATED="1499081922401" MODIFIED="1499081929301">
+<node TEXT="desalination useful to coastal areas!" ID="ID_1492178824" CREATED="1499081974035" MODIFIED="1499081982254"/>
+</node>
+<node ID="ID_114976620" CREATED="1499081951004" MODIFIED="1504272849212"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      harness wastewater potential + PMKSY + more crop per drop
+    </p>
+    <p>
+      <b>Yamuna cleaning</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="setup a millitary manufacturing unit Joint venture at MP" ID="ID_877698006" CREATED="1499083937498" MODIFIED="1499083958756"/>
+</node>
+<node TEXT="india japan" FOLDED="true" ID="ID_802890247" CREATED="1498839041178" MODIFIED="1498839045803">
+<node TEXT="in africa :&#xa;* cooperative projects&#xa;* capacity building&#xa;* people2people link&#xa;* infra + institution" FOLDED="true" ID="ID_392607717" CREATED="1498839046210" MODIFIED="1498839114256">
+<node TEXT="japan = tech&#xa;india = experience in east africa" ID="ID_51936413" CREATED="1500104515095" MODIFIED="1500104531956"/>
+<node ID="ID_1691778913" CREATED="1500104406196" MODIFIED="1500104634638"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      aka<br/>asia africa growth corridor project
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="nuclear deal" FOLDED="true" ID="ID_486272647" CREATED="1499137042392" MODIFIED="1499137044580">
+<node TEXT="on peaceful uses of nuclear energy" ID="ID_454397586" CREATED="1499137155769" MODIFIED="1499137161723"/>
+<node TEXT="skill, access to reactor key components" ID="ID_1002383630" CREATED="1499137139736" MODIFIED="1499137151644"/>
+<node TEXT="benefit for japan?" ID="ID_769109275" CREATED="1499137045205" MODIFIED="1499137051238">
+<node TEXT="nuclear export =&gt; kickstart japanese economy" ID="ID_1165997534" CREATED="1499137092932" MODIFIED="1499137109559"/>
+</node>
+<node TEXT="benefit for india?" ID="ID_1099126102" CREATED="1499137051581" MODIFIED="1499137057645">
+<node TEXT="wider acceptance as responsible actor globally" ID="ID_1105894713" CREATED="1499137058067" MODIFIED="1499137078554"/>
+</node>
+<node TEXT="2011 Fukushima disaster" ID="ID_226368203" CREATED="1499137171944" MODIFIED="1499137176898"/>
+</node>
+<node TEXT="malabar" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_939042546" CREATED="1496098115859" MODIFIED="1499309154751" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="india + japan + USA" ID="ID_91805526" CREATED="1496098117863" MODIFIED="1496098121146"/>
+</node>
+<node TEXT="GRAPES 3 [ sci tech ]" FOLDED="true" ID="ID_226747321" CREATED="1499309128776" MODIFIED="1499309136501">
+<node TEXT="ooty" ID="ID_1510698926" CREATED="1496108583169" MODIFIED="1496108584010"/>
+<node TEXT="india japan" ID="ID_1120588961" CREATED="1496108612643" MODIFIED="1496108614519"/>
+<node ID="ID_166451661" CREATED="1496108607236" MODIFIED="1496108607236"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">muon intensity correlated with a weakening of the earth's<br/>magnetic field due to a solar storm</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="North east road connectivity project Phase I" FOLDED="true" ID="ID_1164620007" CREATED="1492163515267" MODIFIED="1499309215301">
+<node TEXT="funded By JICA" ID="ID_1362835878" CREATED="1492163523260" MODIFIED="1492163528158">
+<node TEXT="Japan Intl. Cooperation agency" ID="ID_968539555" CREATED="1492163528345" MODIFIED="1492163539001"/>
+</node>
+<node TEXT="Meghalaya + mizoram NH" ID="ID_898509895" CREATED="1492163553514" MODIFIED="1492163561196"/>
+<node TEXT="EPC model" ID="ID_1258391763" CREATED="1492163564465" MODIFIED="1492163565569"/>
+</node>
+<node TEXT="HSR tech [ High Speed Rail ]" ID="ID_1488269976" CREATED="1499309221019" MODIFIED="1499309230787"/>
+<node TEXT="funds for DMIC (delhi mumbai industrial corridor)" ID="ID_1131324441" CREATED="1503158917046" MODIFIED="1503158926690"/>
+<node TEXT="japan in industrial parks e.g. toyota" ID="ID_1368147075" CREATED="1503158934093" MODIFIED="1503158950267"/>
+<node TEXT="india japan partnership forum" ID="ID_674171440" CREATED="1503158995500" MODIFIED="1503159002081"/>
+</node>
 <node TEXT="india myanmar" FOLDED="true" ID="ID_1917283011" CREATED="1500105421116" MODIFIED="1500105423038">
 <node TEXT="kaldan multi modal transport" FOLDED="true" ID="ID_1349144300" CREATED="1498147110089" MODIFIED="1498147115064">
 <font NAME="Calibri"/>
@@ -839,14 +839,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="india EU" FOLDED="true" ID="ID_1228239151" CREATED="1500105942595" MODIFIED="1500105944083">
-<node TEXT="invest india" FOLDED="true" ID="ID_1676227728" CREATED="1496141193697" MODIFIED="1496141258389">
-<node TEXT="DIPP, FICCI, State govt" ID="ID_623658514" CREATED="1496141179113" MODIFIED="1496141192447"/>
-<node TEXT="not for profit   Investment Promotion Agency" ID="ID_228938995" CREATED="1496141237940" MODIFIED="1496141245082"/>
-</node>
-<node TEXT="IFM&#xa;investment facilitation mechanism" ID="ID_1197743646" CREATED="1500105946940" MODIFIED="1500105961952"/>
-</node>
-<node TEXT="india nepal" ID="ID_1409001838" CREATED="1499309321190" MODIFIED="1499309323550">
+<node TEXT="india nepal" FOLDED="true" ID="ID_1409001838" CREATED="1499309321190" MODIFIED="1499309323550">
 <node TEXT="neighborhood first" FOLDED="true" ID="ID_894724755" CREATED="1499309323664" MODIFIED="1499309328472">
 <node TEXT="ensure speedy delivery of generous $ 1b pledges" ID="ID_956461884" CREATED="1499309335071" MODIFIED="1499309360146"/>
 </node>
@@ -855,19 +848,9 @@
 <node TEXT="agriculture, forestry, education , health" ID="ID_672115068" CREATED="1504152287515" MODIFIED="1504152293909"/>
 </node>
 </node>
-<node TEXT="india israel" FOLDED="true" ID="ID_542912436" CREATED="1499081888408" MODIFIED="1499081892327">
-<node TEXT="water management" FOLDED="true" ID="ID_1872925940" CREATED="1499081892499" MODIFIED="1499081898712">
-<node TEXT="israel has tech becoz water scarce country" ID="ID_1657514314" CREATED="1499081898772" MODIFIED="1499081921765"/>
-<node TEXT="drip irrigation + desalination" ID="ID_1895684286" CREATED="1499081922401" MODIFIED="1499081929301">
-<node TEXT="desalination useful to coastal areas!" ID="ID_1492178824" CREATED="1499081974035" MODIFIED="1499081982254"/>
-</node>
-<node TEXT="harness wastewater potential + PMKSY + more crop per drop" ID="ID_114976620" CREATED="1499081951004" MODIFIED="1499081962338"/>
-</node>
-<node TEXT="setup a millitary manufacturing unit Joint venture at MP" ID="ID_877698006" CREATED="1499083937498" MODIFIED="1499083958756"/>
-</node>
 <node TEXT="India Sri Lanka" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1603334366" CREATED="1489900858826" MODIFIED="1499774339668">
 <font NAME="Calibri"/>
-<node TEXT="Fishermen Issue" ID="ID_1729018834" CREATED="1489900864212" MODIFIED="1489900870936">
+<node TEXT="Fishermen Issue" FOLDED="true" ID="ID_1729018834" CREATED="1489900864212" MODIFIED="1489900870936">
 <node TEXT="JWG&#xa;hotline" ID="ID_810079925" CREATED="1489900871454" MODIFIED="1499774362220"/>
 <node TEXT="use NAVIC to for navigation" FOLDED="true" ID="ID_654020785" CREATED="1489900878210" MODIFIED="1489900894103">
 <node TEXT="=&gt; don&apos;t cross the border" ID="ID_619195820" CREATED="1489900894333" MODIFIED="1489900903272"/>
@@ -900,7 +883,7 @@
 <node TEXT="laex.doc" ID="ID_1155537120" CREATED="1490947252787" MODIFIED="1490947257684" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/2017%20editorials%20Laex%20insights%20thehindu.docx"/>
 </node>
 </node>
-<node TEXT="India thailand" LOCALIZED_STYLE_REF="default" ID="ID_6403308" CREATED="1503053461188" MODIFIED="1503053463751">
+<node TEXT="India thailand" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_6403308" CREATED="1503053461188" MODIFIED="1503053463751">
 <font NAME="Calibri"/>
 <node ID="ID_1589586267" CREATED="1503053520602" MODIFIED="1503053544202"><richcontent TYPE="NODE">
 
@@ -923,6 +906,45 @@
 <node TEXT="FTA on trade, education" ID="ID_461444743" CREATED="1503053486119" MODIFIED="1503053513326"/>
 <node TEXT="BUddhism" ID="ID_1251053426" CREATED="1503053489480" MODIFIED="1503053491112"/>
 <node TEXT="Andaman border - thailand" ID="ID_1438022192" CREATED="1503053492512" MODIFIED="1503053503235"/>
+</node>
+<node TEXT="india US" FOLDED="true" ID="ID_1209136312" CREATED="1498839037741" MODIFIED="1498839040913">
+<node TEXT="phases" FOLDED="true" ID="ID_323784907" CREATED="1498841723572" MODIFIED="1498841724617">
+<node TEXT="I (47-71)" ID="ID_1480186997" CREATED="1498841724792" MODIFIED="1498841738227">
+<node TEXT="india = mixed economic model" ID="ID_90334932" CREATED="1498841776120" MODIFIED="1498841788847"/>
+</node>
+<node TEXT="II (71-89)" ID="ID_1955937763" CREATED="1498841725994" MODIFIED="1498841745901">
+<node TEXT="pokharan criticised by US" ID="ID_486649072" CREATED="1498841802556" MODIFIED="1498841808931"/>
+<node TEXT="india (NAM member) but Russia favor = helpful in 71&apos; = bangladesh liberation" ID="ID_323988646" CREATED="1498841830384" MODIFIED="1498841854195"/>
+</node>
+<node TEXT="III" ID="ID_1052587" CREATED="1498841726790" MODIFIED="1498841728212">
+<node TEXT="LPG" ID="ID_1205440970" CREATED="1498841863415" MODIFIED="1498841866632"/>
+<node TEXT="USSR disintegrated" ID="ID_1862230093" CREATED="1498841868105" MODIFIED="1498841876025"/>
+</node>
+</node>
+<node ID="ID_1972907026" CREATED="1498408746730" MODIFIED="1498409004654"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      india - us<br/>5 point programme
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Tread Mil + Agri + Tech + energy + health" ID="ID_1105680309" CREATED="1498408750573" MODIFIED="1498408793470"/>
+<node TEXT="tread = trade&#xa;IP issues" ID="ID_355756448" CREATED="1498408916213" MODIFIED="1498408923468">
+<node TEXT="WTO food subsidy" ID="ID_297562905" CREATED="1498841928570" MODIFIED="1498841931618"/>
+</node>
+<node TEXT="mil = LEMOA + Major defense partner" FOLDED="true" ID="ID_694069706" CREATED="1498408805775" MODIFIED="1498408816394">
+<node TEXT="logistics exchange memorandum of agreement" ID="ID_210844922" CREATED="1498408826354" MODIFIED="1498408839630"/>
+</node>
+<node TEXT="Agri = share tech for food security" ID="ID_982739671" CREATED="1498408842084" MODIFIED="1498408866666"/>
+<node TEXT="health = 3(d) patents act" ID="ID_1624517059" CREATED="1498408798266" MODIFIED="1498408805150"/>
+<node TEXT="energy" ID="ID_405312820" CREATED="1498408933202" MODIFIED="1498408980616"/>
+</node>
 </node>
 </node>
 <node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
@@ -1552,7 +1574,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="organised crime" ID="ID_1959637242" CREATED="1499316180417" MODIFIED="1499316182369">
+<node TEXT="organised crime" FOLDED="true" ID="ID_1959637242" CREATED="1499316180417" MODIFIED="1499316182369">
 <node FOLDED="true" ID="ID_1813744871" CREATED="1499316190254" MODIFIED="1499318934818">
 <icon BUILTIN="flag-green"/>
 <richcontent TYPE="NODE">
@@ -2113,7 +2135,7 @@
 <node TEXT="DDUGJY" ID="ID_434197991" CREATED="1503152183873" MODIFIED="1503152185888"/>
 </node>
 </node>
-<node TEXT="21-06" ID="ID_264539958" CREATED="1498103303321" MODIFIED="1498103305370">
+<node TEXT="21-06" FOLDED="true" ID="ID_264539958" CREATED="1498103303321" MODIFIED="1498103305370">
 <node TEXT="child adoption" ID="ID_574698241" CREATED="1498103305544" MODIFIED="1498103309125">
 <node TEXT="CARA" FOLDED="true" ID="ID_422956603" CREATED="1498103309731" MODIFIED="1498103311424">
 <node TEXT="under JJ, 2015 (MoWCD)" ID="ID_756805436" CREATED="1498103311702" MODIFIED="1498103329632"/>
