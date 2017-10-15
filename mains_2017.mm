@@ -1844,16 +1844,20 @@
 </node>
 </node>
 </node>
-<node TEXT="22(3) = preventive detention" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1497969643649">
+<node TEXT="22(3) = preventive detention" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1497969643649">
 <node TEXT="preventive detention is statutory in nature" ID="ID_1008594485" CREATED="1499333772906" MODIFIED="1499334254728">
+<node TEXT="not as discretionary power of executive" ID="ID_591013130" CREATED="1503413488605" MODIFIED="1507780181922">
+<font BOLD="true"/>
+</node>
 <node TEXT="its exercise has to be within limitation of statue!" ID="ID_914941349" CREATED="1499334255080" MODIFIED="1499334273106"/>
-<node TEXT="not as discretionary power of executive" ID="ID_591013130" CREATED="1503413488605" MODIFIED="1503413494841"/>
-<node TEXT="respect liberty of citizen" ID="ID_651891413" CREATED="1503413503047" MODIFIED="1503413508393"/>
+<node TEXT="respect liberty of citizen" ID="ID_651891413" CREATED="1503413503047" MODIFIED="1507780180881">
+<font BOLD="true"/>
+</node>
 </node>
 <node TEXT="four grounds" FOLDED="true" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
 <node TEXT="security of state&#xa;maintain essential services&#xa;foreign affairs&#xa;maintain public order" ID="ID_513890276" CREATED="1497969610998" MODIFIED="1497969667521"/>
 </node>
-<node TEXT="exceptions" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
+<node TEXT="exceptions" FOLDED="true" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
 <node ID="ID_1180436773" CREATED="1497969671950" MODIFIED="1497969763660" MAX_WIDTH="161.66212004813764 pt" MIN_WIDTH="161.66212004813764 pt"><richcontent TYPE="NODE">
 
 <html>
