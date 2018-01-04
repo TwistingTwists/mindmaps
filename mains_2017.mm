@@ -810,6 +810,10 @@
 <node TEXT="fodder" FOLDED="true" ID="ID_1118068492" CREATED="1503151783567" MODIFIED="1503151786919">
 <node TEXT="economic capacity + national resources meet political will" ID="ID_52544716" CREATED="1503151787195" MODIFIED="1503151800501"/>
 </node>
+<node TEXT="UN peace keeping mission" ID="ID_1258502823" CREATED="1514840772703" MODIFIED="1514840775792">
+<node TEXT="contribution of troops by china&#xa;as a low cost committment to global stability" ID="ID_1854772871" CREATED="1514840775949" MODIFIED="1514840798905"/>
+<node TEXT="china = 7.9%&#xa;india = 0.7 %&#xa;contribution to UN budget =&gt; say in UN&#xa;--&#xa;contrarywise, india = largest peacekeeping force, but no say in UN" ID="ID_821674372" CREATED="1514840802890" MODIFIED="1514840847523"/>
+</node>
 </node>
 <node TEXT="india EU" FOLDED="true" ID="ID_1228239151" CREATED="1500105942595" MODIFIED="1500105944083">
 <node TEXT="invest india" FOLDED="true" ID="ID_1676227728" CREATED="1496141193697" MODIFIED="1496141258389">
@@ -1353,7 +1357,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1400,7 +1403,7 @@
 <node TEXT="waterways framework?" ID="ID_441639446" CREATED="1499048431809" MODIFIED="1499048438980"/>
 </node>
 </node>
-<node TEXT="daily CA" FOLDED="true" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
+<node TEXT="daily CA" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
 <node TEXT="20-06" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
 <node TEXT="administered price regime&#xa;APM" FOLDED="true" ID="ID_392238165" CREATED="1497940476093" MODIFIED="1497940483259">
 <node TEXT="petrol + diesel&#xa;=&gt; APM to TPP" ID="ID_213753914" CREATED="1497940484348" MODIFIED="1497940523048"/>
@@ -4248,6 +4251,24 @@
 </node>
 <node TEXT="to evolve from agri commodity markets, SEBI can help" ID="ID_282584577" CREATED="1504154285661" MODIFIED="1504154298811"/>
 </node>
+<node TEXT="sunset clauses in legislation" ID="ID_1298266886" CREATED="1515032469333" MODIFIED="1515032475792">
+<node TEXT="legislative intertia remove" ID="ID_1446464735" CREATED="1515032586846" MODIFIED="1515032597075"/>
+<node ID="ID_1173843010" CREATED="1515032597561" MODIFIED="1515032646224"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>evidence based </b>policy making free from whims of political parties
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 <node TEXT="SAMPLES" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1670268375" CREATED="1488236400869" MODIFIED="1496055203534">
 <font NAME="Calibri"/>
 <node TEXT="Green Format" LOCALIZED_STYLE_REF="default" ID="ID_621056387" CREATED="1488235618881" MODIFIED="1497045889968" BACKGROUND_COLOR="#a4ffaa">
@@ -4280,7 +4301,7 @@
 <node TEXT="reco of Sarkaria Commission" ID="ID_1367634798" CREATED="1499236042611" MODIFIED="1499236051472"/>
 <node TEXT="mrunal 2nd arc report" ID="ID_366042131" CREATED="1499268945381" MODIFIED="1499268951174"/>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
 <node TEXT="funda" FOLDED="true" ID="ID_62157491" CREATED="1497938540781" MODIFIED="1497938541789">
 <node TEXT="insight secure" ID="ID_319550013" CREATED="1490334067522" MODIFIED="1490334069222"/>
 <node TEXT="Security" ID="ID_490644501" CREATED="1490334103218" MODIFIED="1490334105249">
@@ -4848,7 +4869,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="moral auth (eg) = CJI taking over hearing against SC judge =&gt; no probity" ID="ID_1137148154" CREATED="1514840111610" MODIFIED="1514840161055"/>
 </node>
