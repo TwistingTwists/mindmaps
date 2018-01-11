@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.09">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -372,18 +372,18 @@
 <node TEXT="Hindustani vs carnatic music" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1043058058" CREATED="1489207452336" MODIFIED="1489207457120">
 <node TEXT="before 13th century, more or less unfirom. After that bifurcation" ID="ID_1210388337" CREATED="1489207457367" MODIFIED="1489207481745"/>
 </node>
-<node TEXT="geography" LOCALIZED_STYLE_REF="default" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
+<node TEXT="geography" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
 <node TEXT="Oceanic salinity&#xa;factors and effects" ID="ID_498653593" CREATED="1515567008134" MODIFIED="1515567048848">
 <node TEXT="defence budget = More on corrosive salinity in equitorial regions" ID="ID_1170195369" CREATED="1515567049205" MODIFIED="1515567090427"/>
 <node TEXT="food, fish" ID="ID_1129153962" CREATED="1515567112456" MODIFIED="1515567119018"/>
 </node>
 </node>
-<node TEXT="creativity vs popular sentiment" LOCALIZED_STYLE_REF="default" ID="ID_1706435975" CREATED="1515647274595" MODIFIED="1515647281238">
+<node TEXT="creativity vs popular sentiment" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1706435975" CREATED="1515647274595" MODIFIED="1515647281238">
 <node TEXT="creativity&#xa;* cinema = Padmavati, India&apos;s daughter&#xa;* LIterature - Mathorubhagan, Aseem trivedi political cartoons,&#xa;* Political  = Nagaland Women reservation&#xa;* economy = 1991 reforms" ID="ID_1610430554" CREATED="1515647281505" MODIFIED="1515647467969" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt"/>
 <node TEXT="artilce 19 (2) restriction due to public order, morality, decency" ID="ID_569131969" CREATED="1515648725085" MODIFIED="1515648742656" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt"/>
 <node TEXT="how to handle?" ID="ID_1512586242" CREATED="1515647751336" MODIFIED="1515647759149" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt">
 <node TEXT="tolerance" ID="ID_276599592" CREATED="1515647760113" MODIFIED="1515647763735">
-<node TEXT="ancient to today, examples" FOLDED="true" ID="ID_1273829858" CREATED="1515647763931" MODIFIED="1515647768471">
+<node TEXT="ancient to today, examples" ID="ID_1273829858" CREATED="1515647763931" MODIFIED="1515647768471">
 <node TEXT="Kanishka = multi religious incorporated&#xa;Ashoka = Dhamma" ID="ID_36014283" CREATED="1515647768882" MODIFIED="1515647817416"/>
 <node TEXT="various gods in hindu religion" ID="ID_382841875" CREATED="1515647823563" MODIFIED="1515647837608"/>
 <node TEXT="samudragupta = vaishanvite + patron of buddhist scholar Vasubandu" ID="ID_1871747638" CREATED="1515648183864" MODIFIED="1515648219665"/>
@@ -405,7 +405,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1513678444" CREATED="1515648957375" MODIFIED="1515649083329"><richcontent TYPE="NODE">
@@ -420,7 +419,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
