@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.09">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -589,7 +589,7 @@
 <node TEXT="woman and man in sexual relationship.&#xa;&#xa;1. Husband of woman can file case against the man.&#xa;while the wife of man can&apos;t.&#xa;2. no provision for punishment for woman for sexual misconduct" ID="ID_1760640851" CREATED="1514028772697" MODIFIED="1514028834606"/>
 </node>
 </node>
-<node TEXT="Social" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
+<node TEXT="Social" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
@@ -774,34 +774,28 @@
 </node>
 </node>
 </node>
-<node TEXT="International Relations" FOLDED="true" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
-<node TEXT="PET SEM" ID="ID_1677716879" CREATED="1509253549725" MODIFIED="1509253552178">
+<node TEXT="International Relations" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
+<node TEXT="PET SEM" FOLDED="true" ID="ID_1677716879" CREATED="1509253549725" MODIFIED="1509253552178">
 <node TEXT="people economy, trade strategic environment military" ID="ID_314291566" CREATED="1509253552366" MODIFIED="1509253571497"/>
 </node>
 <node TEXT="india afghanistan" FOLDED="true" ID="ID_1220612907" CREATED="1504243557832" MODIFIED="1504243562162">
-<node TEXT="heart of asia summit" ID="ID_1700590639" CREATED="1504243777226" MODIFIED="1507192147878">
-<node TEXT="delete all terrorism, economic and regional prosperity" ID="ID_96911858" CREATED="1507192149510" MODIFIED="1507192166672"/>
-<node ID="ID_1194343621" CREATED="1507192189391" MODIFIED="1507192189391"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      air corridor
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
 <node TEXT="APTTA (afghan pakistan transit trade agreement)" ID="ID_451713991" CREATED="1504243856436" MODIFIED="1504243868331"/>
 <node TEXT="TAPI gas pipeline" ID="ID_985756611" CREATED="1504243875947" MODIFIED="1504243878627"/>
 <node TEXT="salma = friendship dam" ID="ID_396406718" CREATED="1507192028808" MODIFIED="1507192034144"/>
 <node TEXT="first strategic partner = india!" ID="ID_1203385265" CREATED="1507192095439" MODIFIED="1507192104108">
 <font BOLD="true"/>
 </node>
+<node TEXT="need to do?" FOLDED="true" ID="ID_170901018" CREATED="1516077637872" MODIFIED="1516077639837">
+<font BOLD="true"/>
+<node TEXT="HoA summit =&gt; eliminate All (including state sponsored)&#xa; terrorism" ID="ID_1775635037" CREATED="1516077640069" MODIFIED="1516077678121"/>
+</node>
+</node>
+<node TEXT="india pak" FOLDED="true" ID="ID_319585544" CREATED="1516055760952" MODIFIED="1516055762562">
+<node TEXT="sir creek" FOLDED="true" ID="ID_69977894" CREATED="1516055762828" MODIFIED="1516055764711">
+<node TEXT="drug trafficking, survelliance problem during rainy, marshy land minerals, fisherman issues" ID="ID_860981041" CREATED="1516055769640" MODIFIED="1516055817155"/>
+</node>
+<node TEXT="stopping dialogue means terrorists win,&#xa;strengthen the civilian government," ID="ID_1666156693" CREATED="1516076932105" MODIFIED="1516076965124"/>
+<node TEXT="opinion building measures in international community" ID="ID_1511044108" CREATED="1516077031792" MODIFIED="1516077047663"/>
 </node>
 <node TEXT="india china" FOLDED="true" ID="ID_1757074045" CREATED="1499757667131" MODIFIED="1499757668553">
 <node TEXT="india china border infra" FOLDED="true" ID="ID_726005955" CREATED="1498917634432" MODIFIED="1498917637202">
@@ -901,6 +895,7 @@
 </node>
 </node>
 <node TEXT="setup a millitary manufacturing unit Joint venture at MP" ID="ID_877698006" CREATED="1499083937498" MODIFIED="1499083958756"/>
+<node TEXT="" ID="ID_1432460743" CREATED="1516079666537" MODIFIED="1516079666537"/>
 </node>
 <node TEXT="india japan" FOLDED="true" ID="ID_802890247" CREATED="1498839041178" MODIFIED="1498839045803">
 <node TEXT="in africa :&#xa;* cooperative projects&#xa;* capacity building&#xa;* people2people link&#xa;* infra + institution" FOLDED="true" ID="ID_392607717" CREATED="1498839046210" MODIFIED="1498839114256">
@@ -1457,7 +1452,7 @@
 <node TEXT="waterways framework?" ID="ID_441639446" CREATED="1499048431809" MODIFIED="1499048438980"/>
 </node>
 </node>
-<node TEXT="daily CA" FOLDED="true" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
+<node TEXT="daily CA" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
 <node TEXT="20-06" FOLDED="true" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
 <node TEXT="administered price regime&#xa;APM" FOLDED="true" ID="ID_392238165" CREATED="1497940476093" MODIFIED="1497940483259">
 <node TEXT="petrol + diesel&#xa;=&gt; APM to TPP" ID="ID_213753914" CREATED="1497940484348" MODIFIED="1497940523048"/>
@@ -3472,11 +3467,12 @@
 </node>
 <node TEXT="issues template = BMC = budget monitoring corruptoin" ID="ID_523944338" CREATED="1509014330309" MODIFIED="1509014342769"/>
 </node>
-<node TEXT="29-04" FOLDED="true" ID="ID_384017805" CREATED="1498925170861" MODIFIED="1498925177145">
+<node TEXT="29-04" ID="ID_384017805" CREATED="1498925170861" MODIFIED="1498925177145">
 <node TEXT="education policy 1986 vs NEP, 2016" FOLDED="true" ID="ID_175251335" CREATED="1498925177526" MODIFIED="1498925194895">
+<node TEXT="New Education Policy 2017 BY Kasturirangan committee" ID="ID_1657174981" CREATED="1516305973965" MODIFIED="1516305988556"/>
 <node TEXT="LPG =&gt; today, knowledge based economy development" ID="ID_1281412649" CREATED="1498925195489" MODIFIED="1498925213439"/>
 <node TEXT="skilling important part" ID="ID_178320148" CREATED="1498925214695" MODIFIED="1498925218542"/>
-<node TEXT="inclusive" ID="ID_33674467" CREATED="1498925366222" MODIFIED="1498925368007">
+<node TEXT="inclusive" FOLDED="true" ID="ID_33674467" CREATED="1498925366222" MODIFIED="1498925368007">
 <node TEXT="PwD, gender, ethics + social harmony" ID="ID_188222768" CREATED="1498925368253" MODIFIED="1498925389176"/>
 </node>
 <node TEXT="school education" FOLDED="true" ID="ID_22938561" CREATED="1498925313914" MODIFIED="1498925316581">
@@ -3485,12 +3481,12 @@
 <node TEXT="comprehensive education = ethics + NCC/NSS" ID="ID_270126193" CREATED="1498925417801" MODIFIED="1498925428390"/>
 </node>
 <node TEXT="convergence with SEQI, SWAYAM portal (MOOC), Shala Asmita" ID="ID_1396098505" CREATED="1498925322865" MODIFIED="1498925506399"/>
-<node TEXT="higher education" ID="ID_1651545353" CREATED="1498925436940" MODIFIED="1498925443269">
+<node TEXT="higher education" FOLDED="true" ID="ID_1651545353" CREATED="1498925436940" MODIFIED="1498925443269">
 <node TEXT="institutes of eminence =&gt; global presence" ID="ID_1318212955" CREATED="1498925218683" MODIFIED="1498925230848"/>
 <node TEXT="VAJRA = collaborative research international" ID="ID_759225125" CREATED="1498925509361" MODIFIED="1498925523087"/>
 </node>
 <node TEXT="HEFA = financing" ID="ID_262396546" CREATED="1498925534755" MODIFIED="1498925538840"/>
-<node TEXT="lifelong learning" ID="ID_1187576171" CREATED="1498925279129" MODIFIED="1498925280643">
+<node TEXT="lifelong learning" FOLDED="true" ID="ID_1187576171" CREATED="1498925279129" MODIFIED="1498925280643">
 <node TEXT="via SHG, NGO" ID="ID_748871102" CREATED="1498925286660" MODIFIED="1498925289064"/>
 <node TEXT="financial digital literacy" ID="ID_1632993148" CREATED="1498925292407" MODIFIED="1498925302503"/>
 <node TEXT="adult literacy" ID="ID_90973264" CREATED="1498925302803" MODIFIED="1498925306522"/>
@@ -3512,7 +3508,7 @@
 <node TEXT="growth of public + private univ both" ID="ID_838714774" CREATED="1499059343346" MODIFIED="1499059356012"/>
 </node>
 </node>
-<node TEXT="education" FOLDED="true" ID="ID_351763480" CREATED="1507079546938" MODIFIED="1507079548403">
+<node TEXT="education" ID="ID_351763480" CREATED="1507079546938" MODIFIED="1507079548403">
 <node TEXT="aims" ID="ID_1672749925" CREATED="1507079548556" MODIFIED="1507079550686">
 <node TEXT="quality of life, employment, social fabric," ID="ID_711874563" CREATED="1507079550824" MODIFIED="1507079582958"/>
 </node>
@@ -3522,11 +3518,20 @@
 <node TEXT="5-8&#xa;no NDP (TSR Subramanium)&#xa;learning outcomes low&#xa;ASER report" ID="ID_1723307584" CREATED="1507643043777" MODIFIED="1507643084596"/>
 </node>
 <node TEXT="higher education" ID="ID_95434989" CREATED="1507643000974" MODIFIED="1507643001724"/>
-<node TEXT="innovation" ID="ID_1493358365" CREATED="1507644402692" MODIFIED="1507644409255">
+<node TEXT="innovation" FOLDED="true" ID="ID_1493358365" CREATED="1507644402692" MODIFIED="1507644409255">
 <node TEXT="MOOC" ID="ID_1939166331" CREATED="1507644414209" MODIFIED="1507644415959"/>
 <node TEXT="integrated schools" ID="ID_134772982" CREATED="1507644417288" MODIFIED="1507644431274"/>
 <node TEXT="SEQI&#xa;School education quality index" ID="ID_961806100" CREATED="1507644472655" MODIFIED="1507644479093"/>
 </node>
+<node TEXT="aser 2017" ID="ID_1585211030" CREATED="1516305231459" MODIFIED="1516305240536">
+<node TEXT="more girls have bank accounts, but boys operate them more" ID="ID_1520947088" CREATED="1516306153666" MODIFIED="1516306163750">
+<node TEXT="expectation from girls is less!" ID="ID_521885172" CREATED="1516306163958" MODIFIED="1516306169883"/>
+</node>
+<node TEXT="lesser schools for higher secondary =&gt; girls dropout more because have to travel more distance." ID="ID_552098717" CREATED="1516306181793" MODIFIED="1516306243018"/>
+</node>
+</node>
+<node TEXT="National Achievement Survey NAS 2018" FOLDED="true" ID="ID_82648310" CREATED="1516306034358" MODIFIED="1516306043171">
+<node TEXT="only for govt. schools" ID="ID_68755924" CREATED="1516306048571" MODIFIED="1516306052853"/>
 </node>
 </node>
 <node TEXT="04-05" FOLDED="true" ID="ID_1327143351" CREATED="1499067039191" MODIFIED="1499067051764">

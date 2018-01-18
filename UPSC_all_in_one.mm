@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.199">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -5302,7 +5302,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node TEXT="Rio +20" LOCALIZED_STYLE_REF="default" ID="ID_51778647" CREATED="1495086904451" MODIFIED="1495087187729" LINK="http://mrunal.org/2012/09/diplomacy-rio20-meaning-outcomes-explain-sustainable-development.html">
+<node TEXT="Rio +20" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_51778647" CREATED="1495086904451" MODIFIED="1495087187729" LINK="http://mrunal.org/2012/09/diplomacy-rio20-meaning-outcomes-explain-sustainable-development.html">
 <font NAME="Calibri"/>
 <node TEXT="formation of UNFCCC" ID="ID_1979760202" CREATED="1495086917525" MODIFIED="1495087042524">
 <font NAME="Calibri"/>
@@ -5537,7 +5537,9 @@
 </richcontent>
 </node>
 <node TEXT="tech + Finance" ID="ID_1386208714" CREATED="1489125718342" MODIFIED="1489125724402"/>
-<node TEXT="ozone layer depleting substances = production + consumption!" ID="ID_1173191581" CREATED="1489125757622" MODIFIED="1495436028169"/>
+<node TEXT="ozone layer depleting substances = production + consumption!" ID="ID_1173191581" CREATED="1489125757622" MODIFIED="1516269692262">
+<font BOLD="true"/>
+</node>
 <node TEXT="Tech Transfer from developed to developing" ID="ID_10402785" CREATED="1489125770401" MODIFIED="1489125779730"/>
 <node TEXT="Kigali Amendment" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_947912721" CREATED="1488276638797" MODIFIED="1488545169658">
 <node TEXT="to - 1987, Montreal" LOCALIZED_STYLE_REF="default" ID="ID_1159909544" CREATED="1488276651508" MODIFIED="1488545169658"/>
@@ -5588,11 +5590,10 @@
 <node TEXT="hazardous chemicals" ID="ID_316405021" CREATED="1489229198807" MODIFIED="1489229202764"/>
 <node TEXT="legally binding obligations for PIC procedure (prior informed consent)" ID="ID_1209929644" CREATED="1489229203170" MODIFIED="1489229222131"/>
 </node>
-<node TEXT="CWC" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1942255547" CREATED="1494834650603" MODIFIED="1495087034508">
+<node TEXT="CWC&#xa;chemical weapon convention" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1942255547" CREATED="1494834650603" MODIFIED="1516269747419">
 <font NAME="Calibri"/>
-<node TEXT="chemical weapon convention" ID="ID_409763996" CREATED="1494834651989" MODIFIED="1494834655705"/>
 <node TEXT="India ratified in 1996" ID="ID_1505424170" CREATED="1494834657095" MODIFIED="1494834664170"/>
-<node TEXT="made NACWC" FOLDED="true" ID="ID_33400325" CREATED="1496027219912" MODIFIED="1496027229968">
+<node TEXT="made NACWC" ID="ID_33400325" CREATED="1496027219912" MODIFIED="1496027229968">
 <node ID="ID_1054945220" CREATED="1496027230133" MODIFIED="1496027246871"><richcontent TYPE="NODE">
 
 <html>
@@ -5641,7 +5642,7 @@
 </node>
 </node>
 <node TEXT="CMS acts as a framework Convention" ID="ID_1066911692" CREATED="1489408658874" MODIFIED="1489408659296"/>
-<node TEXT="Appendix I" FOLDED="true" ID="ID_132509172" CREATED="1495493505020" MODIFIED="1495493509036">
+<node TEXT="Appendix I" ID="ID_132509172" CREATED="1495493505020" MODIFIED="1495493509036">
 <node ID="ID_447295094" CREATED="1495493512881" MODIFIED="1495493520913"><richcontent TYPE="NODE">
 
 <html>
@@ -5657,7 +5658,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Appendix II" FOLDED="true" ID="ID_1505762245" CREATED="1495493509255" MODIFIED="1495493511740">
+<node TEXT="Appendix II" ID="ID_1505762245" CREATED="1495493509255" MODIFIED="1495493511740">
 <node TEXT="will benefit from International cooperation" ID="ID_1663044475" CREATED="1495493522413" MODIFIED="1495493531805"/>
 </node>
 </node>
@@ -5716,7 +5717,7 @@
 <node TEXT="Appendix II" FOLDED="true" ID="ID_991415025" CREATED="1488689049175" MODIFIED="1488689051528">
 <node TEXT="trade strictly regulated ; export country needing permit" ID="ID_860709744" CREATED="1488689074389" MODIFIED="1495493704926"/>
 </node>
-<node TEXT="Appendix III" FOLDED="true" ID="ID_312218501" CREATED="1488689052288" MODIFIED="1488689055312">
+<node TEXT="Appendix III" ID="ID_312218501" CREATED="1488689052288" MODIFIED="1488689055312">
 <node TEXT="require only certificate of origin to be traded" ID="ID_1490907547" CREATED="1488689095668" MODIFIED="1488689116003"/>
 <node TEXT="countries which have asked CITES Parties for assistance in controlling trade" ID="ID_37732709" CREATED="1495493717599" MODIFIED="1495493731945"/>
 </node>
@@ -5726,7 +5727,7 @@
 <font NAME="Calibri"/>
 <node TEXT="baltic area marine protection" ID="ID_1480891510" CREATED="1491365721555" MODIFIED="1491365726793"/>
 </node>
-<node TEXT="NAPCC (8)" LOCALIZED_STYLE_REF="default" ID="ID_1849902039" CREATED="1488606857845" MODIFIED="1495087034516" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Jan&apos;17/Vision%20IAS%20CSP%202017%20ECOLOGY_ENVIRONMENT_AND_DISASTER_MANAGEMENT.pdf">
+<node TEXT="NAPCC (8)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1849902039" CREATED="1488606857845" MODIFIED="1495087034516" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Jan&apos;17/Vision%20IAS%20CSP%202017%20ECOLOGY_ENVIRONMENT_AND_DISASTER_MANAGEMENT.pdf">
 <font NAME="Calibri"/>
 <node TEXT="Green India" LOCALIZED_STYLE_REF="default" ID="ID_1475753581" CREATED="1488607114127" MODIFIED="1488607173281" BACKGROUND_COLOR="#e3f7e4"/>
 <node TEXT="Water" ID="ID_1093542994" CREATED="1488607121553" MODIFIED="1488607124635"/>
@@ -8156,7 +8157,7 @@
 <node TEXT="summarise this once" ID="ID_952582751" CREATED="1493888724729" MODIFIED="1493888728544"/>
 </node>
 </node>
-<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
+<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
 <icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
 <node TEXT="Geography" FOLDED="true" ID="ID_24166292" CREATED="1490945390147" MODIFIED="1496055203518">
