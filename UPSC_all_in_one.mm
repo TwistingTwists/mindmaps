@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.199">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -3241,10 +3241,10 @@
 </node>
 </node>
 </node>
-<node TEXT="Economy" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
+<node TEXT="Economy" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
 <font NAME="Calibri"/>
 <node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
-<node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
+<node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
 <node TEXT="Intro" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_635115520" CREATED="1488427334339" MODIFIED="1488545169567">
 <node TEXT="demographic data/trends" FOLDED="true" ID="ID_306319748" CREATED="1495142919356" MODIFIED="1495142935258">
 <node TEXT="water use trend" ID="ID_1402918979" CREATED="1489497861158" MODIFIED="1489497863494">
@@ -3819,15 +3819,98 @@
 <node TEXT="Use local resources to create global product" LOCALIZED_STYLE_REF="default" ID="ID_92461022" CREATED="1487760627941" MODIFIED="1488545169552"/>
 <node TEXT="Balanced regional development" LOCALIZED_STYLE_REF="default" ID="ID_57113050" CREATED="1487760423265" MODIFIED="1508685673911">
 <font BOLD="true"/>
+<node TEXT="north east skilling centres" ID="ID_694069553" CREATED="1516448833545" MODIFIED="1516448838858"/>
 </node>
 <node TEXT="use of traditional skill" LOCALIZED_STYLE_REF="default" ID="ID_97993100" CREATED="1487760607500" MODIFIED="1508685673926">
 <font BOLD="true"/>
 </node>
-<node TEXT="gender + social balance = inclusive" LOCALIZED_STYLE_REF="default" ID="ID_11301422" CREATED="1487760613798" MODIFIED="1508950910663">
+<node TEXT="gender + social balance = inclusive" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_11301422" CREATED="1487760613798" MODIFIED="1508950910663">
 <font BOLD="true"/>
+<node TEXT="gender + social balance = Stand Up India," ID="ID_1061860053" CREATED="1516448846906" MODIFIED="1516450398099" MAX_WIDTH="190.61338818536643 pt" MIN_WIDTH="190.61338818536643 pt"/>
+<node TEXT="Social = public procurement (4%) by SC/ST entrepreneurs" ID="ID_1132092066" CREATED="1516450399583" MODIFIED="1516450400177" MAX_WIDTH="190.61338818536643 pt" MIN_WIDTH="190.61338818536643 pt"/>
+<node TEXT="Gender = Mahila Coir Yojna for electric looms + TREAD scheme" ID="ID_901025676" CREATED="1516450393988" MODIFIED="1516450395176" MAX_WIDTH="190.61338818536643 pt" MIN_WIDTH="190.61338818536643 pt"/>
 </node>
 <node TEXT="Absorb tech fast =&gt; Dynamism" LOCALIZED_STYLE_REF="default" ID="ID_622936032" CREATED="1487760585215" MODIFIED="1488545169562"/>
-<node TEXT="Disguise employment absorb" LOCALIZED_STYLE_REF="default" ID="ID_1481454712" CREATED="1487760593998" MODIFIED="1497080909557"/>
+<node TEXT="Disguise employment absorb" LOCALIZED_STYLE_REF="default" ID="ID_1481454712" CREATED="1487760593998" MODIFIED="1497080909557">
+<node TEXT="which is a drawback for big industrial players" ID="ID_1357076537" CREATED="1516448933123" MODIFIED="1516448950860"/>
+</node>
+</node>
+<node TEXT="Challenges" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_951571154" CREATED="1516448957142" MODIFIED="1516448960190">
+<node TEXT="finance = informal loans" ID="ID_647843501" CREATED="1516449591481" MODIFIED="1516449598560"/>
+<node TEXT="effective tax rate high, labor laws (need separate, as proposed in second labor commission)" ID="ID_1715895194" CREATED="1516450355404" MODIFIED="1516450370688"/>
+</node>
+<node TEXT="focus in msme" ID="ID_1507199260" CREATED="1516450781705" MODIFIED="1516450789253">
+<node TEXT="Quality" LOCALIZED_STYLE_REF="default" ID="ID_1760424096" CREATED="1516449275411" MODIFIED="1516449278786">
+<node TEXT="certification of ZED by QCI" ID="ID_1590745922" CREATED="1516449278942" MODIFIED="1516449287271"/>
+<node TEXT="ISO certification, bar codes certification," ID="ID_1251463713" CREATED="1516449288068" MODIFIED="1516449300194"/>
+</node>
+<node TEXT="marketing" LOCALIZED_STYLE_REF="default" ID="ID_325965635" CREATED="1516449308461" MODIFIED="1516449310883">
+<node TEXT="Natoinal manufacturing competitive programme (NMCP) = ICT + marketing support to make competitive" ID="ID_1065209944" CREATED="1516449311039" MODIFIED="1516449345762"/>
+</node>
+<node TEXT="finances" FOLDED="true" ID="ID_1500600511" CREATED="1516449600404" MODIFIED="1516449604452">
+<node ID="ID_750151162" CREATED="1516449604608" MODIFIED="1516449727800" MAX_WIDTH="217.90886142765493 pt" MIN_WIDTH="217.90886142765493 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <table border="0" style="width: 80%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0">
+      <tr>
+        <td valign="top" style="width: 50%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1; text-align: center">
+            <font size="1">Rating ---&gt; </font>
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1; text-align: center">
+            <font size="1">* GoI Subsidised under Performance credit rating scheme </font>
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1; text-align: center">
+            <font size="1">* Capabilities + creditworthiness </font>
+          </p>
+        </td>
+        <td valign="top" style="width: 50%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1; text-align: center">
+            <font size="1">Loan </font>
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1; text-align: center">
+            
+          </p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="MUDRA Bank [ 2124 -13 ]" LOCALIZED_STYLE_REF="default" ID="ID_1223721724" CREATED="1488862490289" MODIFIED="1488862518315" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf">
+<node TEXT="wholly owned subsidiary SIDBI" ID="ID_497772514" CREATED="1489324226653" MODIFIED="1489324247169"/>
+<node TEXT="CGF for MUDRA loans" ID="ID_346200742" CREATED="1489324247481" MODIFIED="1489324256903">
+<node TEXT="credit guarantee fund" ID="ID_202762588" CREATED="1495176241289" MODIFIED="1495176244824"/>
+</node>
+</node>
+</node>
+<node TEXT="Technology transfer" ID="ID_520187497" CREATED="1516450775392" MODIFIED="1516450779220"/>
+<node TEXT="role of local government" FOLDED="true" ID="ID_1406294689" CREATED="1516450535588" MODIFIED="1516450539761">
+<node ID="ID_1629146054" CREATED="1516450638574" MODIFIED="1516450660076"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      village and small scale industries is a subject under <b>local government</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="but local government are fund starved, not skilled enough," ID="ID_1935825510" CREATED="1516450662280" MODIFIED="1516450681611"/>
+</node>
+<node TEXT="entrepreneurship is a local phenomenon =&gt; other than administrative services, need to provide other support" ID="ID_325751736" CREATED="1516450548262" MODIFIED="1516450572641">
+<node TEXT="identify good project ideas, incubation, information, market analysis&#xa;[services to be rendered by local government]" ID="ID_1545601358" CREATED="1516450573110" MODIFIED="1516450615320"/>
+</node>
 </node>
 <node TEXT="schemes" FOLDED="true" ID="ID_1650072463" CREATED="1515686305641" MODIFIED="1515686306857">
 <node TEXT="TADF : Under Nat. Manuf. Policy (NMP)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1521729291" CREATED="1488627041096" MODIFIED="1488876842117">
@@ -3840,7 +3923,6 @@
 <node TEXT="not an All India service" ID="ID_1609169723" CREATED="1497080845769" MODIFIED="1497080850408"/>
 <node TEXT="min MSME" ID="ID_1165345647" CREATED="1497080859035" MODIFIED="1497080862751"/>
 </node>
-<node TEXT="ZED" LOCALIZED_STYLE_REF="default" ID="ID_37284806" CREATED="1488268649804" MODIFIED="1488545169643"/>
 <node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1451427138" CREATED="1490790071220" MODIFIED="1497080936069">
 <icon BUILTIN="idea"/>
 <icon BUILTIN="full-1"/>
@@ -3872,12 +3954,49 @@
 </node>
 <node TEXT="Uchchtar avishkar = MHRD" LOCALIZED_STYLE_REF="default" ID="ID_190209267" CREATED="1497683573708" MODIFIED="1497683581458"/>
 <node TEXT="SIPP = scheme for IPR protection (min commerce)" LOCALIZED_STYLE_REF="default" ID="ID_172062653" CREATED="1497683557233" MODIFIED="1497683568179"/>
+<node TEXT="TREAD" FOLDED="true" ID="ID_1048430232" CREATED="1497671507448" MODIFIED="1497671509791" STYLE="bubble">
+<node TEXT="min MSME" ID="ID_1219188397" CREATED="1497671509936" MODIFIED="1497671512250"/>
+<node TEXT="for women in non farm activities + training too!" ID="ID_916699959" CREATED="1497671512404" MODIFIED="1497671525245"/>
 </node>
-<node TEXT="MUDRA Bank [ 2124 -13 ]" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1223721724" CREATED="1488862490289" MODIFIED="1488862518315" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf">
-<node TEXT="wholly owned subsidiary SIDBI" ID="ID_497772514" CREATED="1489324226653" MODIFIED="1489324247169"/>
-<node TEXT="CGF for MUDRA loans" ID="ID_346200742" CREATED="1489324247481" MODIFIED="1489324256903">
-<node TEXT="credit guarantee fund" ID="ID_202762588" CREATED="1495176241289" MODIFIED="1495176244824"/>
 </node>
+</node>
+<node TEXT="ancillarisation in defence procurement via MSME" ID="ID_364017769" CREATED="1516450465218" MODIFIED="1516450479892"/>
+<node TEXT="KVIC" FOLDED="true" ID="ID_1013494654" CREATED="1497062877920" MODIFIED="1497705540959">
+<icon BUILTIN="full-1"/>
+<node ID="ID_1022051205" CREATED="1497062880483" MODIFIED="1516449793411"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      khadi <u><i>village industries </i></u>commission
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="village industries - Honey," ID="ID_1111670110" CREATED="1516449794005" MODIFIED="1516450119432"/>
+</node>
+<node TEXT="statutory&#xa;under Min MSME" ID="ID_1868938476" CREATED="1497062923563" MODIFIED="1516450132466"/>
+<node TEXT="promote Khadi?" FOLDED="true" ID="ID_1852493531" CREATED="1516450133825" MODIFIED="1516450138045">
+<node TEXT="Govt procurement - Air India,&#xa;international - To players (chess) ," ID="ID_902027824" CREATED="1516450138217" MODIFIED="1516450185724"/>
+</node>
+<node TEXT="healthy supply and demand situation important for village industry development" ID="ID_465253938" CREATED="1516450187521" MODIFIED="1516450266829"/>
+<node TEXT="implements PMEGP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1603350585" CREATED="1497062893256" MODIFIED="1497705543194" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node TEXT="PM employment generation programme" ID="ID_1192116915" CREATED="1497062900919" MODIFIED="1497062906826"/>
+<node TEXT="credit linked subsidy for MSME" LOCALIZED_STYLE_REF="default" ID="ID_1379596404" CREATED="1497223871382" MODIFIED="1497705655969" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="both rural + urban areas" LOCALIZED_STYLE_REF="default" ID="ID_477046329" CREATED="1497223888087" MODIFIED="1497705675302" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+</node>
+</node>
+<node TEXT="fodder lines" FOLDED="true" ID="ID_1447953392" CREATED="1516450521789" MODIFIED="1516450524446">
+<node TEXT="MSME = as powerful handmaid of country" ID="ID_30308264" CREATED="1516450432713" MODIFIED="1516450441558"/>
 </node>
 </node>
 <node TEXT="Infrastructure" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_678112031" CREATED="1488268303536" MODIFIED="1488545169567">
@@ -4169,7 +4288,7 @@
 </node>
 </node>
 </node>
-<node TEXT="FDI Policy 2017&#xa;has underperformed" LOCALIZED_STYLE_REF="default" ID="ID_1670170705" CREATED="1515688030937" MODIFIED="1515690453365">
+<node TEXT="FDI Policy 2017&#xa;has underperformed" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1670170705" CREATED="1515688030937" MODIFIED="1515690453365">
 <node TEXT="labor reforms, ease of doing business" ID="ID_1841861981" CREATED="1515688044458" MODIFIED="1515688051567"/>
 <node TEXT="RnD focus" ID="ID_227737519" CREATED="1515688063780" MODIFIED="1515688066684"/>
 <node TEXT="real estate = legislative crunch" ID="ID_1515133518" CREATED="1515689525743" MODIFIED="1515689540814"/>
@@ -4887,7 +5006,7 @@
 </html>
 </richcontent>
 </node>
-<node FOLDED="true" ID="ID_1879210771" CREATED="1489676131908" MODIFIED="1489676144733"><richcontent TYPE="NODE">
+<node ID="ID_1879210771" CREATED="1489676131908" MODIFIED="1489676144733"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4903,7 +5022,7 @@
 <node TEXT="ES 2016, ch07" ID="ID_1207263411" CREATED="1489676148017" MODIFIED="1489676156347"/>
 </node>
 </node>
-<node TEXT="GST" FOLDED="true" ID="ID_1002067101" CREATED="1489901079304" MODIFIED="1496881306530">
+<node TEXT="GST" ID="ID_1002067101" CREATED="1489901079304" MODIFIED="1496881306530">
 <icon BUILTIN="full-1"/>
 <node TEXT="122nd amendment bill" FOLDED="true" ID="ID_291230085" CREATED="1489901082742" MODIFIED="1495405600462">
 <icon BUILTIN="launch"/>
@@ -4986,11 +5105,11 @@
 <node TEXT="bibek debroy and Anil Kaodkar committee reports" ID="ID_775793252" CREATED="1505106388994" MODIFIED="1505106405419"/>
 </node>
 <node TEXT="[3] Infrastructural development" FOLDED="true" ID="ID_1054732781" CREATED="1495142132544" MODIFIED="1495142153703">
-<node TEXT="Construction near protected monuments" FOLDED="true" ID="ID_878078022" CREATED="1495142213728" MODIFIED="1495142230431">
-<node TEXT="list?" FOLDED="true" ID="ID_1552929073" CREATED="1495142231605" MODIFIED="1495142233323">
+<node TEXT="Construction near protected monuments" ID="ID_878078022" CREATED="1495142213728" MODIFIED="1495142230431">
+<node TEXT="list?" ID="ID_1552929073" CREATED="1495142231605" MODIFIED="1495142233323">
 <node TEXT="CD, 18 May 2017" ID="ID_234185209" CREATED="1495142233671" MODIFIED="1495142256465"/>
 </node>
-<node TEXT="Prohibited Area" FOLDED="true" ID="ID_102767919" CREATED="1495142158745" MODIFIED="1495142165081">
+<node TEXT="Prohibited Area" ID="ID_102767919" CREATED="1495142158745" MODIFIED="1495142165081">
 <node TEXT="100 m around Ancient monument" ID="ID_1049696916" CREATED="1495142165436" MODIFIED="1495142180114"/>
 <node TEXT="only repair work, no new construction" ID="ID_706258125" CREATED="1495142190917" MODIFIED="1495142197338"/>
 </node>
@@ -11603,10 +11722,6 @@
 <node TEXT="awareness campaign for use of natural gas" ID="ID_425350383" CREATED="1490804288783" MODIFIED="1490804295768"/>
 </node>
 </node>
-<node TEXT="TREAD" FOLDED="true" ID="ID_1048430232" CREATED="1497671507448" MODIFIED="1497671509791" STYLE="bubble">
-<node TEXT="min MSME" ID="ID_1219188397" CREATED="1497671509936" MODIFIED="1497671512250"/>
-<node TEXT="for women in non farm activities + training too!" ID="ID_916699959" CREATED="1497671512404" MODIFIED="1497671525245"/>
-</node>
 <node TEXT="Skill Development SKill INDIA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_719824105" CREATED="1489562102635" MODIFIED="1489562110057">
 <node TEXT="India - Singapore" ID="ID_247960834" CREATED="1489562110229" MODIFIED="1489562114825"/>
 <node TEXT="PKVY" FOLDED="true" ID="ID_230169745" CREATED="1489562114950" MODIFIED="1495013504735">
@@ -13680,9 +13795,6 @@
 <node TEXT="vulnerable" ID="ID_1448909597" CREATED="1497172893778" MODIFIED="1497172895955"/>
 <node TEXT="gulf of mannar" ID="ID_1150485995" CREATED="1497172905860" MODIFIED="1497172909867"/>
 </node>
-<node TEXT="NMCP&#xa;national manufacturing competitiveness programme" FOLDED="true" ID="ID_1205161788" CREATED="1497173213794" MODIFIED="1497173230258">
-<node TEXT="by min MSME" ID="ID_872954184" CREATED="1497173230866" MODIFIED="1497173233850"/>
-</node>
 <node TEXT="sports, communication, affordable housing, irrigation = infrastructure status" ID="ID_847925047" CREATED="1497173254675" MODIFIED="1497173272520"/>
 </node>
 <node TEXT="v_35" ID="ID_539784001" CREATED="1497056790125" MODIFIED="1497056791828">
@@ -13702,22 +13814,6 @@
 <node TEXT="lingayat" FOLDED="true" ID="ID_889578524" CREATED="1497062400645" MODIFIED="1497062402614">
 <node TEXT="shiva worshipper" ID="ID_1976713151" CREATED="1497062407621" MODIFIED="1497062411340"/>
 <node TEXT="against caste, child marriage" ID="ID_1488639550" CREATED="1497062413544" MODIFIED="1497062425915"/>
-</node>
-<node TEXT="KVIC" FOLDED="true" ID="ID_1013494654" CREATED="1497062877920" MODIFIED="1497705540959">
-<icon BUILTIN="full-1"/>
-<node TEXT="khadi village industries commission" ID="ID_1022051205" CREATED="1497062880483" MODIFIED="1497062889992"/>
-<node TEXT="statutory" ID="ID_1868938476" CREATED="1497062923563" MODIFIED="1497062925954"/>
-<node TEXT="under Min MSME" ID="ID_481407710" CREATED="1497062890195" MODIFIED="1497062893022"/>
-<node TEXT="implements PMEGP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1603350585" CREATED="1497062893256" MODIFIED="1497705543194" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="PM employment generation programme" ID="ID_1192116915" CREATED="1497062900919" MODIFIED="1497062906826"/>
-<node TEXT="credit linked subsidy for MSME" LOCALIZED_STYLE_REF="default" ID="ID_1379596404" CREATED="1497223871382" MODIFIED="1497705655969" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="both rural + urban areas" LOCALIZED_STYLE_REF="default" ID="ID_477046329" CREATED="1497223888087" MODIFIED="1497705675302" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-</node>
 </node>
 <node TEXT="Anchor investor" FOLDED="true" ID="ID_1692442372" CREATED="1497080399079" MODIFIED="1497080401499">
 <node TEXT="aka cornerstone investor" ID="ID_1061416409" CREATED="1497080434651" MODIFIED="1497080440060"/>
