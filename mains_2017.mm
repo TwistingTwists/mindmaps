@@ -428,12 +428,12 @@
 </node>
 </node>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
 <node TEXT="Funda" FOLDED="true" ID="ID_1172058679" CREATED="1497873875002" MODIFIED="1497873876237">
 <node TEXT="Know the articles related to each issue" ID="ID_1615131595" CREATED="1490334026799" MODIFIED="1490334035501"/>
 <node TEXT="Social Justice" ID="ID_761817598" CREATED="1490334039845" MODIFIED="1490334041730"/>
 </node>
-<node TEXT="Social Justice" FOLDED="true" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1499987020972">
+<node TEXT="Social Justice" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1499987020972">
 <node TEXT="children" ID="ID_1782340994" CREATED="1507641586177" MODIFIED="1507641587865">
 <node TEXT="Child Labor" ID="ID_1027291556" CREATED="1497950728446" MODIFIED="1497950731068">
 <node TEXT="family enterprise" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1572271001" CREATED="1512619575488" MODIFIED="1512619581696">
@@ -639,6 +639,7 @@
 <node TEXT="when girls are allowed to be girls, everybody wins!" ID="ID_1491439684" CREATED="1497971451974" MODIFIED="1497971463304"/>
 </node>
 <node TEXT="e.g. Child marriage in Rajasthan + Bengal&apos;s KanyaShree" ID="ID_1837542500" CREATED="1499932295809" MODIFIED="1499932311652"/>
+<node TEXT="female child is ignored. e.g. gender gap in child stunting" ID="ID_1181468348" CREATED="1519539993255" MODIFIED="1519540011189"/>
 </node>
 <node TEXT="adultery" FOLDED="true" ID="ID_1823541654" CREATED="1514028769787" MODIFIED="1514028771163">
 <node TEXT="woman and man in sexual relationship.&#xa;&#xa;1. Husband of woman can file case against the man.&#xa;while the wife of man can&apos;t.&#xa;2. no provision for punishment for woman for sexual misconduct" ID="ID_1760640851" CREATED="1514028772697" MODIFIED="1514028834606"/>
@@ -846,7 +847,7 @@
 </node>
 </node>
 </node>
-<node TEXT="International Relations" FOLDED="true" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
+<node TEXT="International Relations" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
 <node TEXT="PET SEM" FOLDED="true" ID="ID_1677716879" CREATED="1509253549725" MODIFIED="1509253552178">
 <node TEXT="people economy, trade strategic environment military" ID="ID_314291566" CREATED="1509253552366" MODIFIED="1509253571497"/>
 </node>
@@ -969,7 +970,7 @@
 <node TEXT="setup a millitary manufacturing unit Joint venture at MP" ID="ID_877698006" CREATED="1499083937498" MODIFIED="1499083958756"/>
 <node TEXT="" ID="ID_1432460743" CREATED="1516079666537" MODIFIED="1516079666537"/>
 </node>
-<node TEXT="india japan" FOLDED="true" ID="ID_802890247" CREATED="1498839041178" MODIFIED="1498839045803">
+<node TEXT="india japan" ID="ID_802890247" CREATED="1498839041178" MODIFIED="1498839045803">
 <node TEXT="in africa :&#xa;* cooperative projects&#xa;* capacity building&#xa;* people2people link&#xa;* infra + institution" FOLDED="true" ID="ID_392607717" CREATED="1498839046210" MODIFIED="1498839114256">
 <node TEXT="japan = tech&#xa;india = experience in east africa" ID="ID_51936413" CREATED="1500104515095" MODIFIED="1500104531956"/>
 <node ID="ID_1691778913" CREATED="1500104406196" MODIFIED="1500104634638"><richcontent TYPE="NODE">
@@ -1030,8 +1031,8 @@
 <node TEXT="japan in industrial parks e.g. toyota" ID="ID_1368147075" CREATED="1503158934093" MODIFIED="1503158950267"/>
 <node TEXT="india japan partnership forum" ID="ID_674171440" CREATED="1503158995500" MODIFIED="1503159002081"/>
 </node>
-<node TEXT="india myanmar" FOLDED="true" ID="ID_1917283011" CREATED="1500105421116" MODIFIED="1500105423038">
-<node TEXT="kaldan multi modal transport" FOLDED="true" ID="ID_1349144300" CREATED="1498147110089" MODIFIED="1498147115064">
+<node TEXT="india myanmar" ID="ID_1917283011" CREATED="1500105421116" MODIFIED="1500105423038">
+<node TEXT="kaldan multi modal transport" ID="ID_1349144300" CREATED="1498147110089" MODIFIED="1498147115064">
 <font NAME="Calibri"/>
 <node TEXT="NE port connectivity (sittwe) from Myanmar" ID="ID_1370711058" CREATED="1498147121780" MODIFIED="1498147137551"/>
 <node TEXT="passes through rakhine - rohingta issue" ID="ID_1125939162" CREATED="1498147177588" MODIFIED="1498147188620"/>
@@ -4398,12 +4399,82 @@
 <font NAME="Calibri"/>
 <node TEXT="MP banning gel sticks for fireworks as precaution for disaster management" ID="ID_1310744981" CREATED="1519383336141" MODIFIED="1519383367470"/>
 </node>
+<node TEXT="community radio" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1715904865" CREATED="1519538600001" MODIFIED="1519538605265">
+<font NAME="Calibri"/>
+<node TEXT="useful e.g." FOLDED="true" ID="ID_1318100155" CREATED="1519538667529" MODIFIED="1519538669634">
+<node TEXT="Bengaluru, garbage collectors," ID="ID_1381825997" CREATED="1519538605909" MODIFIED="1519538619724"/>
+<node TEXT="case of sexual harassment handling, menstrual health, taboo topics" ID="ID_591332375" CREATED="1519538623647" MODIFIED="1519538640764"/>
+</node>
+<node TEXT="topics on which mainstream media not interested" ID="ID_1160919743" CREATED="1519538646317" MODIFIED="1519538656954"/>
+<node TEXT="individual scucess stories to motivate people" ID="ID_335409850" CREATED="1519538700283" MODIFIED="1519538706825"/>
+<node TEXT="problems?" ID="ID_389106882" CREATED="1519538671632" MODIFIED="1519538674848">
+<node TEXT="NGO taking licenses, their interest may not align with communities gdeprving a sense of community ownership" ID="ID_764263678" CREATED="1519538675143" MODIFIED="1519538695378"/>
+</node>
+</node>
+<node TEXT="North east" FOLDED="true" ID="ID_180272368" CREATED="1519599459664" MODIFIED="1519599463679">
+<node TEXT="Insurgency issue" ID="ID_1947052450" CREATED="1519599463830" MODIFIED="1519599467610"/>
+<node TEXT="efforts by govt." ID="ID_1378358049" CREATED="1519599471494" MODIFIED="1519599679552">
+<node TEXT="india japan NE road project" ID="ID_960141949" CREATED="1519599483944" MODIFIED="1519599507778" LINK="#ID_1164620007"/>
+<node TEXT="agartala to akhaura rail link by DoNER" ID="ID_1589644054" CREATED="1519599624509" MODIFIED="1519599635033"/>
+<node TEXT="Mizoram a power surplus state of india (60 MW hydroproject)" ID="ID_1694594394" CREATED="1519599606828" MODIFIED="1519599624055"/>
+<node TEXT="DoNER&apos;s Traditional Skilling centres" ID="ID_1567497738" CREATED="1519599474890" MODIFIED="1519599675018" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="8.509090835319078 pt"/>
+<node TEXT="air dispensary for remote inaccessible regions" ID="ID_515426069" CREATED="1519599635214" MODIFIED="1519599677783"/>
+<node TEXT="VCfunds for Startups investing in region by DoNER" ID="ID_331794870" CREATED="1519599650440" MODIFIED="1519599679549" VSHIFT_QUANTITY="18.98181801725025 pt"/>
+</node>
+</node>
+<node TEXT="forest restoration" ID="ID_1972224457" CREATED="1519615671814" MODIFIED="1519615674833">
+<node TEXT="India State of Forest Report, 2017" ID="ID_1836060015" CREATED="1519615674976" MODIFIED="1519615689920"/>
+<node TEXT="no monoculture of forests, bio diversity focus, regional focus" FOLDED="true" ID="ID_429474304" CREATED="1519615690088" MODIFIED="1519615743463">
+<font BOLD="true"/>
+<node TEXT="NE focus (major biodiversity loss )" ID="ID_683808531" CREATED="1519615705902" MODIFIED="1519615720957"/>
+</node>
+<node TEXT="tree cover is not same as forest restoratoin" ID="ID_1845569344" CREATED="1519615724618" MODIFIED="1519615739303"/>
+</node>
 </node>
 <node TEXT="todo" FOLDED="true" POSITION="right" ID="ID_1234533700" CREATED="1499236041502" MODIFIED="1499236042346">
 <node TEXT="reco of Sarkaria Commission" ID="ID_1367634798" CREATED="1499236042611" MODIFIED="1499236051472"/>
 <node TEXT="mrunal 2nd arc report" ID="ID_366042131" CREATED="1499268945381" MODIFIED="1499268951174"/>
 </node>
 <node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
+<node TEXT="2017 mains" ID="ID_180616381" CREATED="1519604337394" MODIFIED="1519604339879">
+<node ID="ID_123910175" CREATED="1519604340521" MODIFIED="1519604371521"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Account for the failure of manufacturing sector in achieving the goal of labour-intensive exports rather than capital-intensive exports. <b>Suggest measures </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_280944812" CREATED="1519604378212" MODIFIED="1519604518839"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      capital intensive <b><i>CIE</i></b>&#160;(automobiles + steel + refinery ) have more export share than labor intensive <b><i>LIE </i></b>(leather, apparel)
+    </p>
+    <p>
+      why?
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="inverted duty structure == import finished product is cheaper than assembling here. =&gt; LIE discouraged" ID="ID_116893117" CREATED="1519604429962" MODIFIED="1519604505636"/>
+<node TEXT="export for LIE are less competitive (logistics, infra, labors law)" ID="ID_640729147" CREATED="1519604461154" MODIFIED="1519604491870"/>
+</node>
+</node>
+<node TEXT="PPP in airports" ID="ID_1824088032" CREATED="1519605065704" MODIFIED="1519605069507">
+<node TEXT="operational efficiency, catering to increasing traffic, modern facilities to flyers" ID="ID_1113452295" CREATED="1519605069748" MODIFIED="1519605109844"/>
+<node TEXT="" ID="ID_1309669452" CREATED="1519615643732" MODIFIED="1519615643735"/>
+</node>
+</node>
 <node TEXT="funda" FOLDED="true" ID="ID_62157491" CREATED="1497938540781" MODIFIED="1497938541789">
 <node TEXT="insight secure" ID="ID_319550013" CREATED="1490334067522" MODIFIED="1490334069222"/>
 <node TEXT="Security" ID="ID_490644501" CREATED="1490334103218" MODIFIED="1490334105249">
@@ -4413,7 +4484,7 @@
 <node TEXT="more dynamic!" ID="ID_1628430788" CREATED="1490334125768" MODIFIED="1490334128138"/>
 </node>
 </node>
-<node TEXT="Economy" ID="ID_1068182109" CREATED="1497938542645" MODIFIED="1497938547956">
+<node TEXT="Economy" FOLDED="true" ID="ID_1068182109" CREATED="1497938542645" MODIFIED="1497938547956">
 <node TEXT="NPA : Twin Balance Sheet" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1863912573" CREATED="1488267884083" MODIFIED="1497949509067"><richcontent TYPE="DETAILS">
 
 <html>
