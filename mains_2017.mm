@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.09">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -648,7 +648,7 @@
 <node TEXT="schemes like housing have separate provisions for transgenders, women head of house, sc/st manual scavengers" ID="ID_1184459193" CREATED="1516465703712" MODIFIED="1516465734039"/>
 </node>
 </node>
-<node TEXT="Social" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
+<node TEXT="Social" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
@@ -777,7 +777,7 @@
 <node TEXT="no hatred, no info public" ID="ID_378907188" CREATED="1498840944496" MODIFIED="1498840968997"/>
 </node>
 </node>
-<node TEXT="population" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_595301335" CREATED="1499774041023" MODIFIED="1499774043906">
+<node TEXT="population" LOCALIZED_STYLE_REF="default" ID="ID_595301335" CREATED="1499774041023" MODIFIED="1499774043906">
 <font NAME="Calibri"/>
 <node TEXT="policies" ID="ID_1376990681" CREATED="1499774044184" MODIFIED="1499774045743">
 <node TEXT="family planning" ID="ID_390436982" CREATED="1499774093711" MODIFIED="1499774095810"/>
@@ -1163,7 +1163,7 @@
 <node TEXT="acquisition process too tardy" ID="ID_1346307724" CREATED="1517363146243" MODIFIED="1517363152749"/>
 </node>
 </node>
-<node TEXT="Governance, constitution polity" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
+<node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1494887616079">
 <font NAME="Calibri"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
@@ -1394,7 +1394,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1550,7 +1549,7 @@
 <node TEXT="waterways framework?" ID="ID_441639446" CREATED="1499048431809" MODIFIED="1499048438980"/>
 </node>
 </node>
-<node TEXT="daily CA" FOLDED="true" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
+<node TEXT="daily CA" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
 <node TEXT="20-06" FOLDED="true" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
 <node TEXT="administered price regime&#xa;APM" FOLDED="true" ID="ID_392238165" CREATED="1497940476093" MODIFIED="1497940483259">
 <node TEXT="petrol + diesel&#xa;=&gt; APM to TPP" ID="ID_213753914" CREATED="1497940484348" MODIFIED="1497940523048"/>
@@ -2309,7 +2308,7 @@
 <node TEXT="social" ID="ID_558177746" CREATED="1494494360430" MODIFIED="1494494362232">
 <node TEXT="women + vulnerable groups" ID="ID_938170796" CREATED="1494492101123" MODIFIED="1494492117648"/>
 </node>
-<node TEXT="governance" FOLDED="true" ID="ID_1788905902" CREATED="1494494436086" MODIFIED="1494494437579">
+<node TEXT="governance" ID="ID_1788905902" CREATED="1494494436086" MODIFIED="1494494437579">
 <node TEXT="Service delivery" ID="ID_1452590178" CREATED="1494494431040" MODIFIED="1494494434055">
 <node TEXT="reduce the cost of service delivery == questionable!" ID="ID_1468241614" CREATED="1499703431424" MODIFIED="1499703444799"/>
 <node TEXT="CAG report," ID="ID_749264974" CREATED="1499843058077" MODIFIED="1499843067681"/>
@@ -2472,7 +2471,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2nd ARC - citizen centric administration" ID="ID_1301973351" CREATED="1498148125030" MODIFIED="1498148134782">
+<node TEXT="2nd ARC - citizen centric administration" FOLDED="true" ID="ID_1301973351" CREATED="1498148125030" MODIFIED="1498148134782">
 <font NAME="Calibri"/>
 <node TEXT="problems / issues in governance" FOLDED="true" ID="ID_1318784157" CREATED="1498148499125" MODIFIED="1498148601772">
 <node TEXT="symptoms of problematic implementation&#xa;( not formulation - i.e. at policy level )" ID="ID_197498292" CREATED="1498148624462" MODIFIED="1498148730989"/>
@@ -3673,7 +3672,7 @@
 <node TEXT="strategic for infra" ID="ID_381720005" CREATED="1499272763702" MODIFIED="1499272771281"/>
 </node>
 </node>
-<node TEXT="June" FOLDED="true" ID="ID_1221575938" CREATED="1499137029641" MODIFIED="1499137031281">
+<node TEXT="June" ID="ID_1221575938" CREATED="1499137029641" MODIFIED="1499137031281">
 <node TEXT="Legal Services affordable" ID="ID_535324880" CREATED="1490373708177" MODIFIED="1490373712497">
 <node TEXT="21, 39-A" ID="ID_655784215" CREATED="1490373712624" MODIFIED="1490373715017"/>
 <node TEXT="MIG Scheme ; &lt;7.5 L pa" ID="ID_1621267159" CREATED="1490373717514" MODIFIED="1499393169761">
@@ -3771,6 +3770,7 @@
 <node TEXT="community participation only ensured with ICT + services depend on ICT" ID="ID_1067828257" CREATED="1499756108396" MODIFIED="1499756142525"/>
 </node>
 </node>
+<node TEXT="em" ID="ID_887864474" CREATED="1520172085695" MODIFIED="1520172085945"/>
 </node>
 <node TEXT="state development loans" FOLDED="true" ID="ID_1196617618" CREATED="1499536089078" MODIFIED="1499536095806">
 <node TEXT="dated securities to meet budgetary requirements of state govt." ID="ID_1313166352" CREATED="1499536096143" MODIFIED="1499536122958"/>
@@ -3783,7 +3783,7 @@
 <node TEXT="tropical region highest decline" ID="ID_1535758931" CREATED="1499843864285" MODIFIED="1499843876341"/>
 </node>
 </node>
-<node TEXT="july" ID="ID_310990760" CREATED="1500103462624" MODIFIED="1500103464781">
+<node TEXT="july" FOLDED="true" ID="ID_310990760" CREATED="1500103462624" MODIFIED="1500103464781">
 <node TEXT="luther king vs ramanujan" ID="ID_1526910227" CREATED="1500103465937" MODIFIED="1500103471719">
 <node ID="ID_1377574120" CREATED="1500103471860" MODIFIED="1500103762003" MAX_WIDTH="308.10105039178933 pt" MIN_WIDTH="308.10105039178933 pt"><richcontent TYPE="NODE">
 
@@ -4432,15 +4432,49 @@
 <node TEXT="NGO taking licenses, their interest may not align with communities gdeprving a sense of community ownership" ID="ID_764263678" CREATED="1519538675143" MODIFIED="1519538695378"/>
 </node>
 </node>
-<node TEXT="North east" FOLDED="true" ID="ID_180272368" CREATED="1519599459664" MODIFIED="1519599463679">
+<node TEXT="Why Land Records?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_654801680" CREATED="1520172526483" MODIFIED="1520172529929">
+<font NAME="Calibri"/>
+<node TEXT="GLIS (govt, land information system)" FOLDED="true" ID="ID_333567757" CREATED="1520172530128" MODIFIED="1520172541353">
+<node TEXT="artificial scarcity raising prices, prone to encroachment, no proper management" ID="ID_610555842" CREATED="1520172573577" MODIFIED="1520172597292"/>
+</node>
+</node>
+<node TEXT="national year of millets, 2018" LOCALIZED_STYLE_REF="default" ID="ID_1658076672" CREATED="1520172611599" MODIFIED="1520172704926">
+<font NAME="Calibri"/>
+<node TEXT="largest producer" ID="ID_945875094" CREATED="1520172615767" MODIFIED="1520172620664"/>
+<node TEXT="significance?" FOLDED="true" ID="ID_1525783085" CREATED="1520172620851" MODIFIED="1520172622975">
+<node TEXT="rajasthan ka gareeb kisan uga sakta hai =&gt; poverty, nutrition, secondary income, food security" ID="ID_415062277" CREATED="1520172623559" MODIFIED="1520172653776"/>
+<node TEXT="sequesters carbon, climate adaptive, less water, short growing period" ID="ID_812762781" CREATED="1520172674487" MODIFIED="1520172692541"/>
+<node TEXT="included in NFSA, 2013 under PDS" ID="ID_1631838901" CREATED="1520172657571" MODIFIED="1520172667237"/>
+</node>
+</node>
+<node TEXT="North east" ID="ID_180272368" CREATED="1519599459664" MODIFIED="1519599463679">
 <node TEXT="Insurgency issue" ID="ID_1947052450" CREATED="1519599463830" MODIFIED="1519599467610"/>
 <node TEXT="efforts by govt." ID="ID_1378358049" CREATED="1519599471494" MODIFIED="1519599679552">
+<node TEXT="Infrastructure" FOLDED="true" ID="ID_1138077254" CREATED="1520172345112" MODIFIED="1520172347879">
 <node TEXT="india japan NE road project" ID="ID_960141949" CREATED="1519599483944" MODIFIED="1519599507778" LINK="#ID_1164620007"/>
-<node TEXT="agartala to akhaura rail link by DoNER" ID="ID_1589644054" CREATED="1519599624509" MODIFIED="1519599635033"/>
+<node ID="ID_1589644054" CREATED="1519599624509" MODIFIED="1520172332851"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      agartala to akhaura <b><i>rail link</i></b>&#160;by DoNER
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 <node TEXT="Mizoram a power surplus state of india (60 MW hydroproject)" ID="ID_1694594394" CREATED="1519599606828" MODIFIED="1519599624055"/>
-<node TEXT="DoNER&apos;s Traditional Skilling centres" ID="ID_1567497738" CREATED="1519599474890" MODIFIED="1519599675018" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="8.509090835319078 pt"/>
 <node TEXT="air dispensary for remote inaccessible regions" ID="ID_515426069" CREATED="1519599635214" MODIFIED="1519599677783"/>
+</node>
+<node TEXT="skilling, employment" ID="ID_1705893434" CREATED="1520172348345" MODIFIED="1520172351518">
+<node TEXT="DoNER&apos;s Traditional Skilling centres" ID="ID_1567497738" CREATED="1519599474890" MODIFIED="1519599675018" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="8.509090835319078 pt"/>
 <node TEXT="VCfunds for Startups investing in region by DoNER" ID="ID_331794870" CREATED="1519599650440" MODIFIED="1519599679549" VSHIFT_QUANTITY="18.98181801725025 pt"/>
+</node>
+<node TEXT="BPO promotion scheme in North East region" ID="ID_465409100" CREATED="1520172394653" MODIFIED="1520172404454"/>
 </node>
 </node>
 <node TEXT="forest restoration" ID="ID_1972224457" CREATED="1519615671814" MODIFIED="1519615674833">
