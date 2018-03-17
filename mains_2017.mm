@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.09">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -560,7 +560,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -983,7 +982,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="true"/>
 <node TEXT="CPEC, including china to improve relations" ID="ID_916871788" CREATED="1520913016495" MODIFIED="1520913029259"/>
@@ -2334,7 +2332,7 @@
 <node TEXT="DDUGJY" ID="ID_434197991" CREATED="1503152183873" MODIFIED="1503152185888"/>
 </node>
 </node>
-<node TEXT="21-06" ID="ID_264539958" CREATED="1498103303321" MODIFIED="1498103305370">
+<node TEXT="21-06" FOLDED="true" ID="ID_264539958" CREATED="1498103303321" MODIFIED="1498103305370">
 <node TEXT="child adoption" FOLDED="true" ID="ID_574698241" CREATED="1498103305544" MODIFIED="1498103309125">
 <node TEXT="CARA" FOLDED="true" ID="ID_422956603" CREATED="1498103309731" MODIFIED="1498103311424">
 <node TEXT="under JJ, 2015 (MoWCD)" ID="ID_756805436" CREATED="1498103311702" MODIFIED="1498103329632"/>
@@ -3272,7 +3270,30 @@
 </node>
 <node TEXT="farmer distress agriculture" FOLDED="true" ID="ID_181254086" CREATED="1503035720778" MODIFIED="1503035727604">
 <node TEXT="economic distress (ES 17)" FOLDED="true" ID="ID_949620088" CREATED="1503035728241" MODIFIED="1503035745710">
-<node TEXT="loss in real revenue&#xa;due to&#xa;- price&#xa;- quantity" ID="ID_1751326297" CREATED="1503035753786" MODIFIED="1503035774502"/>
+<node ID="ID_1751326297" CREATED="1503035753786" MODIFIED="1521264653195"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><i>loss in real revenue</i></b>
+    </p>
+    <p>
+      due to
+    </p>
+    <p>
+      - price
+    </p>
+    <p>
+      - quantity
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 <node ID="ID_293054495" CREATED="1503035798580" MODIFIED="1503035848281"><richcontent TYPE="NODE">
 
 <html>
@@ -3289,6 +3310,9 @@
 </node>
 <node TEXT="pulses = more quantity + more procurement + selling &lt; MSP =&gt; Economic Distress" ID="ID_1411268093" CREATED="1503035778874" MODIFIED="1503035797651"/>
 <node TEXT="demonetisation = rural cash shortage =&gt; less investment, untimely =&gt; loss in production at some places" ID="ID_1743515835" CREATED="1503035875996" MODIFIED="1503035901557"/>
+</node>
+<node TEXT="Gujrat elections showed that agrarian distress could have political ramifications." ID="ID_1365890091" CREATED="1521264737058" MODIFIED="1521264750441">
+<font BOLD="true"/>
 </node>
 <node TEXT="price deficiency payments = yes/no?" ID="ID_1289878503" CREATED="1503154383677" MODIFIED="1503154392602">
 <node TEXT="pay price diff if drops below threshold (MSP) via DBT" ID="ID_1718347050" CREATED="1503154407149" MODIFIED="1503154432239"/>
@@ -3462,7 +3486,7 @@
 </node>
 </node>
 </node>
-<node TEXT="01-07" ID="ID_727529390" CREATED="1498917132169" MODIFIED="1498917134119">
+<node TEXT="01-07" FOLDED="true" ID="ID_727529390" CREATED="1498917132169" MODIFIED="1498917134119">
 <node TEXT="short term challenges in GST" ID="ID_1341402664" CREATED="1498918565308" MODIFIED="1498920072396">
 <node TEXT="anti profiteering clause" FOLDED="true" ID="ID_1863233275" CREATED="1498918457940" MODIFIED="1498918462002">
 <node ID="ID_1224290" CREATED="1498918463580" MODIFIED="1498918550764"><richcontent TYPE="NODE">
@@ -3758,7 +3782,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -4934,7 +4957,7 @@
 <node TEXT="GeM 3.0&#xa;governance e market place" FOLDED="true" ID="ID_1303431378" CREATED="1520664287884" MODIFIED="1520664295506">
 <node TEXT="cost comparing between providers,&#xa;transparent procurement ,&#xa;rating according to user performance" ID="ID_401073654" CREATED="1520664295570" MODIFIED="1520664356567"/>
 </node>
-<node FOLDED="true" ID="ID_608056183" CREATED="1520672165891" MODIFIED="1520677290214">
+<node ID="ID_608056183" CREATED="1520672165891" MODIFIED="1521267323612">
 <icon BUILTIN="flag-green"/>
 <richcontent TYPE="NODE">
 
@@ -4951,11 +4974,16 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="more effective use of subsidy" ID="ID_1773790341" CREATED="1520672211397" MODIFIED="1520672215407"/>
 <node TEXT="ujjawala yojna = cleaner fuel = 4 times refill on avg by 80% consumer" ID="ID_690866693" CREATED="1520672172406" MODIFIED="1520672249290"/>
 <node TEXT="NFHS , 2015 = more than double toilets constructed!" ID="ID_1686637007" CREATED="1520672232076" MODIFIED="1520672241302"/>
 <node TEXT="active jan dhan accounts" ID="ID_345682559" CREATED="1520677325386" MODIFIED="1520677330505"/>
+<node TEXT="2000cr. worth properties under PMLA =&gt; managed by NBCC&#xa;national building construction corporation" ID="ID_1632294371" CREATED="1521267351559" MODIFIED="1521267387093">
+<node TEXT="to maintain the upkeep" ID="ID_1659532713" CREATED="1521267696955" MODIFIED="1521267700726"/>
+</node>
+<node TEXT="" ID="ID_1920354356" CREATED="1521268163040" MODIFIED="1521268163042"/>
 </node>
 <node TEXT="decoupled growth of indian economy" FOLDED="true" ID="ID_768512940" CREATED="1520677631818" MODIFIED="1520677638828">
 <node TEXT="world trade up, india trade down" ID="ID_1719350155" CREATED="1520677639005" MODIFIED="1520677650391">
@@ -5289,7 +5317,7 @@
 <node TEXT="implications" ID="ID_1625398625" CREATED="1520872072939" MODIFIED="1520872074609"/>
 </node>
 </node>
-<node TEXT="Health" LOCALIZED_STYLE_REF="default" ID="ID_1891134012" CREATED="1487759811580" MODIFIED="1494887616075">
+<node TEXT="Health" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1891134012" CREATED="1487759811580" MODIFIED="1494887616075">
 <font NAME="Calibri"/>
 <node TEXT="Introduction" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_389214174" CREATED="1487759811580" MODIFIED="1488545169788">
 <node TEXT="4% of GDP spent = 3% by households + 1 % by govt. { By NHA }" LOCALIZED_STYLE_REF="default" ID="ID_201914583" CREATED="1487759811580" MODIFIED="1488545169788"/>
@@ -5881,7 +5909,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -5948,6 +5975,18 @@
 <node TEXT="60% of diseases are lifestyle" ID="ID_1593911995" CREATED="1520936664145" MODIFIED="1520936672494"/>
 <node TEXT="india = diabetic capital of world by 2030" ID="ID_1679262355" CREATED="1520936674113" MODIFIED="1520936681941"/>
 </node>
+</node>
+<node TEXT="Science and society" LOCALIZED_STYLE_REF="default" ID="ID_1321721180" CREATED="1521265139600" MODIFIED="1521265143865">
+<font NAME="Calibri"/>
+<node TEXT="Indian Science Congress, PM =&#xa;Research and dev -&gt; research ON dev" ID="ID_1953202597" CREATED="1521265143990" MODIFIED="1521265160702"/>
+</node>
+<node TEXT="UN on Pharmaceuticals = Fully utilise the rights conferred by TRIPS flexibilities (under DOHA, WTO)&#xa;i.e. can use CL for generic meds" LOCALIZED_STYLE_REF="default" ID="ID_1887042685" CREATED="1521264341242" MODIFIED="1521264384702">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Bank Frauds" LOCALIZED_STYLE_REF="default" ID="ID_1816481683" CREATED="1521264478958" MODIFIED="1521264481444">
+<font NAME="Calibri"/>
+<node TEXT="RBI&apos;s power over banks to be ownership neutral" ID="ID_739264090" CREATED="1521264481585" MODIFIED="1521264493881"/>
+<node TEXT="Use HR for preventive intelligence, recruitment specific to banking" ID="ID_1363241619" CREATED="1521264497241" MODIFIED="1521264546334"/>
 </node>
 </node>
 <node TEXT="todo" FOLDED="true" POSITION="right" ID="ID_1234533700" CREATED="1499236041502" MODIFIED="1499236042346">
