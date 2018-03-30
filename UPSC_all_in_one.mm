@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.199">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -8419,7 +8419,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
+<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
 <icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
 <node TEXT="Geography" FOLDED="true" ID="ID_24166292" CREATED="1490945390147" MODIFIED="1496055203518">
@@ -9320,7 +9320,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Env Eco" FOLDED="true" ID="ID_1752209541" CREATED="1490947951833" MODIFIED="1496055203521">
+<node TEXT="Env Eco" ID="ID_1752209541" CREATED="1490947951833" MODIFIED="1496055203521">
 <font NAME="Calibri"/>
 <node TEXT="Exotic species" ID="ID_642299618" CREATED="1490947953945" MODIFIED="1490947958858"/>
 <node TEXT="Majuli, Assam" ID="ID_1841669135" CREATED="1496733758882" MODIFIED="1496733762044">
@@ -10761,7 +10761,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Schemes" FOLDED="true" ID="ID_393676532" CREATED="1491534203781" MODIFIED="1496055203525">
+<node TEXT="Schemes" ID="ID_393676532" CREATED="1491534203781" MODIFIED="1496055203525">
 <font NAME="Calibri"/>
 <node TEXT="part 1" LOCALIZED_STYLE_REF="default" ID="ID_1828187281" CREATED="1488865189044" MODIFIED="1495405328900">
 <font NAME="Calibri"/>
@@ -11454,7 +11454,7 @@
 </node>
 </node>
 <node TEXT="part 4" ID="ID_1657858177" CREATED="1496289011921" MODIFIED="1496651229639">
-<node TEXT="Agriculture and food process" FOLDED="true" ID="ID_1864643720" CREATED="1496706289537" MODIFIED="1496706294554">
+<node TEXT="Agriculture and food process" ID="ID_1864643720" CREATED="1496706289537" MODIFIED="1496706294554">
 <node TEXT="NFSM" FOLDED="true" ID="ID_184183833" CREATED="1490408709669" MODIFIED="1490408710591">
 <node TEXT="MinAgri" ID="ID_28940621" CREATED="1490408710825" MODIFIED="1490408713310"/>
 <node TEXT="cash crops + cereals" FOLDED="true" ID="ID_661638710" CREATED="1490408720939" MODIFIED="1496290769040">
@@ -11463,10 +11463,24 @@
 </node>
 <node TEXT="cash = 100 % centre&#xa;cereals = 50% centre" ID="ID_1525192208" CREATED="1490408749858" MODIFIED="1490408762169"/>
 </node>
-<node TEXT="Kisan Credit Card" FOLDED="true" ID="ID_216193662" CREATED="1491129212628" MODIFIED="1497232480574">
+<node TEXT="Kisan Credit Card" ID="ID_216193662" CREATED="1491129212628" MODIFIED="1497232480574">
 <icon BUILTIN="full-1"/>
 <node TEXT="3-5 yr validity" ID="ID_13292216" CREATED="1491129296187" MODIFIED="1491129299631"/>
-<node TEXT="credit limit = decided by area under cultivation" ID="ID_224619148" CREATED="1491129305352" MODIFIED="1496102036099"/>
+<node ID="ID_224619148" CREATED="1491129305352" MODIFIED="1522383966500"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: left">
+      credit limit = decided by<br/>&#160;area under cultivation<br/>+ Crop type
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 <node TEXT="Cooperative + Commercial + RRB, throughout the country" LOCALIZED_STYLE_REF="default" ID="ID_865312764" CREATED="1496102013191" MODIFIED="1496102027679" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
@@ -16209,7 +16223,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
