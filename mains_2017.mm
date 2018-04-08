@@ -425,7 +425,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
 <node TEXT="Funda" FOLDED="true" ID="ID_1172058679" CREATED="1497873875002" MODIFIED="1497873876237">
 <node TEXT="Know the articles related to each issue" ID="ID_1615131595" CREATED="1490334026799" MODIFIED="1490334035501"/>
 <node TEXT="Social Justice" ID="ID_761817598" CREATED="1490334039845" MODIFIED="1490334041730"/>
@@ -3540,7 +3540,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="GST compensation" FOLDED="true" ID="ID_62879919" CREATED="1498917134260" MODIFIED="1498917138244">
+<node TEXT="GST compensation" ID="ID_62879919" CREATED="1498917134260" MODIFIED="1498917138244">
 <node TEXT="revenue neutral rate (RNR) for states?" ID="ID_429616130" CREATED="1498918892973" MODIFIED="1498918904855">
 <node TEXT="state income = mostly VAT&#xa;centre=income direct tax!&#xa;=&gt; states loose more!" ID="ID_1697979113" CREATED="1498918916072" MODIFIED="1498918981349"/>
 </node>
@@ -6092,13 +6092,44 @@
 <font NAME="Calibri"/>
 <node TEXT="nobel peace prize 2013,&#xa;enforces CWC,&#xa;outlaws production, use of stockpiles of chemical weapons" ID="ID_1068309043" CREATED="1523005324644" MODIFIED="1523005390575"/>
 </node>
-<node TEXT="India INX" LOCALIZED_STYLE_REF="default" ID="ID_1505325256" CREATED="1523006681054" MODIFIED="1523006684113">
+<node TEXT="India INX" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1505325256" CREATED="1523006681054" MODIFIED="1523006684113">
 <font NAME="Calibri"/>
 <node TEXT="subsidiary of BSE," ID="ID_1097512666" CREATED="1523006684284" MODIFIED="1523006705419"/>
 <node TEXT="its Global securities market (GSM) = allows fund raising in any currency!" ID="ID_395483560" CREATED="1523006705584" MODIFIED="1523006720407"/>
 </node>
+<node TEXT="overview of consumer protection in india&#xa;as a normal man" LOCALIZED_STYLE_REF="default" ID="ID_1472976695" CREATED="1523088361878" MODIFIED="1523088372515">
+<font NAME="Calibri"/>
+<node TEXT="Min Consumer Affairs" LOCALIZED_STYLE_REF="default" ID="ID_1377739424" CREATED="1523088467033" MODIFIED="1523088513035" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
 </node>
-<node TEXT="prelims 2018" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
+<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1124351943" CREATED="1523088382740" MODIFIED="1523088513051" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>consumer protection conference </b>- Empowering for digital markets
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<font NAME="Calibri"/>
+<node TEXT="first time international conf. for south south asian countries" ID="ID_1568301420" CREATED="1523088444953" MODIFIED="1523088458234"/>
+</node>
+<node TEXT="COTPA -&gt; Consumer protection bill, 2017" ID="ID_915380906" CREATED="1523088372664" MODIFIED="1523088381539"/>
+<node TEXT="consumer welfare fund under GST Law&#xa;National Anti-Profiteering Authority" LOCALIZED_STYLE_REF="default" ID="ID_979744037" CREATED="1523090168089" MODIFIED="1523090196123" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node TEXT="input tax credit, tax reductions pass on to customers" ID="ID_1523657963" CREATED="1523090213811" MODIFIED="1523090222530"/>
+</node>
+<node TEXT="price stabilisation fund" LOCALIZED_STYLE_REF="default" ID="ID_1226805183" CREATED="1523090223390" MODIFIED="1523090242498" LINK="UPSC_all_in_one.mm#ID_7950738" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+</node>
+</node>
+<node TEXT="prelims 2018" FOLDED="true" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
 <node TEXT="map type" ID="ID_1857282730" CREATED="1523033044582" MODIFIED="1523033050475">
 <font BOLD="true"/>
 <node TEXT="&#x2018;Rafah Crossing Point" FOLDED="true" ID="ID_488008338" CREATED="1523033036842" MODIFIED="1523033037356">
@@ -6119,7 +6150,7 @@
 <node TEXT="rashtriya arogya Nidhi" FOLDED="true" ID="ID_1504366143" CREATED="1522214613609" MODIFIED="1522214617958">
 <node TEXT="financial assistance to BPL patients with life threatening illness" ID="ID_785787780" CREATED="1522214624911" MODIFIED="1522214660314"/>
 </node>
-<node TEXT="FoSCoRIS" ID="ID_1078701318" CREATED="1522568756265" MODIFIED="1522568760835">
+<node TEXT="FoSCoRIS&#xa;food safety compliance through regular sampling" FOLDED="true" ID="ID_1078701318" CREATED="1522568756265" MODIFIED="1523074656057">
 <node TEXT="food safety online, FSSAI, MoHFFW" ID="ID_81495534" CREATED="1522568760975" MODIFIED="1522568766666"/>
 </node>
 </node>
@@ -6129,6 +6160,9 @@
 </node>
 <node TEXT="env" ID="ID_1507228707" CREATED="1522568331403" MODIFIED="1523033065019">
 <font BOLD="true"/>
+<node TEXT="neuston, plankton, benthos" FOLDED="true" ID="ID_457110277" CREATED="1523074679576" MODIFIED="1523074688452">
+<node TEXT="neuston = interface of air water,&#xa;plannkton = miccoscopic plants&#xa;benthos = bottom of water mass" ID="ID_1863851432" CREATED="1523074688733" MODIFIED="1523074719706"/>
+</node>
 </node>
 <node TEXT="Medical devices rules, 2017" ID="ID_1946548576" CREATED="1522214667771" MODIFIED="1522214688275">
 <node TEXT="import, manuf, sale, distribution = fillip to make in india" ID="ID_484030093" CREATED="1522214688401" MODIFIED="1522214699907"/>
@@ -6232,12 +6266,24 @@
 <node TEXT="under Min Defence" ID="ID_1317052849" CREATED="1522601070323" MODIFIED="1522601075001"/>
 <node TEXT="ammunition, arms quality assurance" ID="ID_1605643482" CREATED="1522601062884" MODIFIED="1522601070051"/>
 </node>
-<node TEXT="SELENE&#x2019;" ID="ID_2837009" CREATED="1523033183035" MODIFIED="1523033183798">
+<node TEXT="SELENE&#x2019;" FOLDED="true" ID="ID_2837009" CREATED="1523033183035" MODIFIED="1523033183798">
 <node TEXT=" by the Institute of Space and Astronautical Science (ISAS) and the National&#xa;Space Development Agency (NASDA)," ID="ID_1746483276" CREATED="1523033199276" MODIFIED="1523033200008"/>
 <node TEXT=" orbiting the Moon for a year and eight months, the main orbiter&#xa;was instructed to impact on the lunar surface near the crater Gill in June, 2009." ID="ID_995428548" CREATED="1523033211250" MODIFIED="1523033212052"/>
 <node TEXT="moon study gravity and geological evolution" ID="ID_873581906" CREATED="1523033221465" MODIFIED="1523033245592">
 <font ITALIC="true"/>
 </node>
+</node>
+<node TEXT="tiger population in states" ID="ID_1019723284" CREATED="1523074793497" MODIFIED="1523074799123">
+<node TEXT="Karnataka &gt; UK &gt; MP &gt; TN  &gt; Mah &gt; Assam" ID="ID_1591563993" CREATED="1523074799263" MODIFIED="1523074834502"/>
+</node>
+<node TEXT="talle wildlife sanctuary" ID="ID_106781543" CREATED="1523074916139" MODIFIED="1523074920952">
+<node TEXT="Arunachal," ID="ID_501229468" CREATED="1523074926219" MODIFIED="1523074951942"/>
+</node>
+<node TEXT="red sanders" ID="ID_504915828" CREATED="1523074953286" MODIFIED="1523074956599">
+<node TEXT="dry deciduous, Tropical hot and dry, endangered" ID="ID_834998346" CREATED="1523074963350" MODIFIED="1523074998668"/>
+</node>
+<node TEXT="ameenpur lake" ID="ID_1415327862" CREATED="1523074844379" MODIFIED="1523074846114">
+<node TEXT="first water body to get Biodiversity Heritage Tag.&#xa;&#xa;by NBA, 2002" ID="ID_1258357424" CREATED="1523074846973" MODIFIED="1523074873289"/>
 </node>
 <node TEXT="IRFC&#xa;indian railway financial corporation" ID="ID_1261666863" CREATED="1523007383531" MODIFIED="1523007401611">
 <node TEXT="launched green bond at India INX" ID="ID_397148231" CREATED="1523007403642" MODIFIED="1523007409975"/>
@@ -6680,7 +6726,7 @@
 <node TEXT="ISEA = Information security education and awareness" ID="ID_1053288201" CREATED="1522383826416" MODIFIED="1522383848294"/>
 </node>
 </node>
-<node TEXT="Science and society" LOCALIZED_STYLE_REF="default" ID="ID_1321721180" CREATED="1521265139600" MODIFIED="1521265143865">
+<node TEXT="Science and society" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1321721180" CREATED="1521265139600" MODIFIED="1521265143865">
 <font NAME="Calibri"/>
 <node TEXT="Indian Science Congress, PM =&#xa;Research and dev -&gt; research ON dev" ID="ID_1953202597" CREATED="1521265143990" MODIFIED="1521265160702"/>
 <node TEXT="women in science" ID="ID_900592187" CREATED="1522383630495" MODIFIED="1522383634729">
@@ -6690,7 +6736,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS4" FOLDED="true" POSITION="left" ID="ID_381119914" CREATED="1490334134419" MODIFIED="1490334135116">
+<node TEXT="GS4" POSITION="left" ID="ID_381119914" CREATED="1490334134419" MODIFIED="1490334135116">
 <node TEXT="Funda" FOLDED="true" ID="ID_733633861" CREATED="1490334144171" MODIFIED="1497938602738">
 <node TEXT="define terms = every term pe 100-200 word material" FOLDED="true" ID="ID_504245028" CREATED="1490334153534" MODIFIED="1497938616123">
 <node TEXT="e.g. objectivity" ID="ID_1531463076" CREATED="1490334173017" MODIFIED="1490334176158">
