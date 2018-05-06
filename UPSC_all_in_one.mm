@@ -12349,7 +12349,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Need attention Trivia" ID="ID_1044880168" CREATED="1494811273532" MODIFIED="1496055203525" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="32.072726994664215 pt">
+<node TEXT="Need attention Trivia" FOLDED="true" ID="ID_1044880168" CREATED="1494811273532" MODIFIED="1496055203525" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="32.072726994664215 pt">
 <font NAME="Calibri"/>
 <node TEXT="part 0" FOLDED="true" ID="ID_918391584" CREATED="1495962618170" MODIFIED="1496055203525">
 <font NAME="Calibri"/>
@@ -12807,7 +12807,7 @@
 <node TEXT="use omega 3 fatty acid + vitamind D3 to fight!" ID="ID_1421224702" CREATED="1497532541384" MODIFIED="1497532552839"/>
 </node>
 </node>
-<node TEXT="part 3 v_March-may" ID="ID_304366501" CREATED="1495167281150" MODIFIED="1496055203533">
+<node TEXT="part 3 v_March-may" FOLDED="true" ID="ID_304366501" CREATED="1495167281150" MODIFIED="1496055203533">
 <font NAME="Calibri"/>
 <node TEXT="ICEGOV" FOLDED="true" ID="ID_1643187770" CREATED="1495167288770" MODIFIED="1495167292061">
 <node TEXT="international convention on E governance" ID="ID_1970474209" CREATED="1495167320588" MODIFIED="1495167328975"/>
@@ -13331,7 +13331,7 @@
 <node TEXT="Swacch bharat" ID="ID_1975212909" CREATED="1495695749347" MODIFIED="1495695790353"/>
 </node>
 </node>
-<node TEXT="part 5 v_apr June" ID="ID_754456841" CREATED="1495932520003" MODIFIED="1496055203534">
+<node TEXT="part 5 v_apr June" FOLDED="true" ID="ID_754456841" CREATED="1495932520003" MODIFIED="1496055203534">
 <font NAME="Calibri"/>
 <node TEXT="SWIFT" FOLDED="true" ID="ID_1064760646" CREATED="1495935521563" MODIFIED="1495935523892">
 <node TEXT="by CBEC" ID="ID_473570354" CREATED="1495935529564" MODIFIED="1495935531940"/>
@@ -13416,7 +13416,7 @@
 <node TEXT="liquid fertiliser ( oxygenated ) to put on  flower leaves" ID="ID_181806834" CREATED="1496132097722" MODIFIED="1496132186468"/>
 <node TEXT="concentrated from compost =&gt; nutrients + micro organisms!" ID="ID_1762181805" CREATED="1496132117037" MODIFIED="1496132136446"/>
 </node>
-<node TEXT="factual questions list" ID="ID_668998223" CREATED="1496101629306" MODIFIED="1496789167322">
+<node TEXT="factual questions list" FOLDED="true" ID="ID_668998223" CREATED="1496101629306" MODIFIED="1496789167322">
 <icon BUILTIN="full-1"/>
 <node TEXT="2129 - 48" ID="ID_520175834" CREATED="1496101634290" MODIFIED="1496101644062"/>
 <node TEXT="national anthem, 1911 Calcutta, 24-01-1950" ID="ID_561406001" CREATED="1496102199204" MODIFIED="1496102218910"/>
@@ -14676,7 +14676,9 @@
 </node>
 <node TEXT="Kohinoor + Dariya-i-noor" FOLDED="true" ID="ID_417492811" CREATED="1497500995316" MODIFIED="1497501003554">
 <node TEXT="after aurangzeb died, everyone fighting =&gt; weak mughals" ID="ID_65210713" CREATED="1497501014568" MODIFIED="1497501027809"/>
-<node TEXT="taken by Nadir shah in battle of karnal, 1739&#xa; (defeated Muhammad Shah)" ID="ID_1645024496" CREATED="1497501003913" MODIFIED="1497501043801"/>
+<node TEXT="taken by Nadir shah (NS) in battle of karnal, 1739&#xa; (defeated Muhammad Shah)" ID="ID_1645024496" CREATED="1497501003913" MODIFIED="1525603891289">
+<node TEXT="NS = afsharid dynasty" ID="ID_917858172" CREATED="1525603871630" MODIFIED="1525603885581"/>
+</node>
 </node>
 <node TEXT="gnaneshwar jodhpura culture" FOLDED="true" ID="ID_220168385" CREATED="1497677521701" MODIFIED="1497677527857">
 <node TEXT="Cu metallurgy in Rajasthan" ID="ID_1602910692" CREATED="1497677527957" MODIFIED="1497677542028"/>
@@ -17674,12 +17676,12 @@
 </node>
 </node>
 </node>
-<node TEXT="History" FOLDED="true" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
+<node TEXT="History" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
 <font NAME="Calibri"/>
-<node TEXT="Modern History" FOLDED="true" ID="ID_1728381134" CREATED="1492167601191" MODIFIED="1492167605578">
-<node TEXT="Peasant movements" FOLDED="true" ID="ID_659844323" CREATED="1492167605844" MODIFIED="1495363658086">
+<node TEXT="Modern History" ID="ID_1728381134" CREATED="1492167601191" MODIFIED="1492167605578">
+<node TEXT="Peasant movements" ID="ID_659844323" CREATED="1492167605844" MODIFIED="1495363658086">
 <icon BUILTIN="launch"/>
-<node TEXT="financial hardships" FOLDED="true" ID="ID_794699648" CREATED="1492167624469" MODIFIED="1509288446970"><richcontent TYPE="DETAILS">
+<node TEXT="financial hardships" ID="ID_794699648" CREATED="1492167624469" MODIFIED="1509288446970"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -17741,7 +17743,7 @@
 <node TEXT="1936; Bihar" ID="ID_1422955893" CREATED="1492168348379" MODIFIED="1492168350982"/>
 </node>
 </node>
-<node FOLDED="true" ID="ID_1459974373" CREATED="1492167657054" MODIFIED="1492167678283"><richcontent TYPE="NODE">
+<node ID="ID_1459974373" CREATED="1492167657054" MODIFIED="1492167678283"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17774,8 +17776,9 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Pagal panthis" FOLDED="true" ID="ID_1385668968" CREATED="1492167960010" MODIFIED="1492167962923">
-<node TEXT="Tipu Shah" FOLDED="true" ID="ID_1865874894" CREATED="1492167968622" MODIFIED="1492167974315">
+<node TEXT="Pagal panthis (1825-1833)" ID="ID_1385668968" CREATED="1492167960010" MODIFIED="1525604068495">
+<icon BUILTIN="idea"/>
+<node TEXT="Tipu Shah" ID="ID_1865874894" CREATED="1492167968622" MODIFIED="1492167974315">
 <node TEXT="son of Karam shah = founder of Pagal Panthis" ID="ID_1816933083" CREATED="1492168020508" MODIFIED="1492168033324"/>
 </node>
 <node TEXT="Bengal" ID="ID_1060861152" CREATED="1492167963095" MODIFIED="1492167967729"/>
@@ -17783,19 +17786,24 @@
 </node>
 </node>
 <node TEXT="Corruption! or against the state" FOLDED="true" ID="ID_776077731" CREATED="1492168107191" MODIFIED="1492168112473">
-<node TEXT="Deccan uprising" FOLDED="true" ID="ID_1940549673" CREATED="1492168112660" MODIFIED="1492168121268">
+<node TEXT="Deccan uprising, 1874" FOLDED="true" ID="ID_1940549673" CREATED="1492168112660" MODIFIED="1525602231893">
+<icon BUILTIN="idea"/>
 <node TEXT="Moneylenders exploit (seen as outsiders) = social boycott of moneylenders" ID="ID_1577424430" CREATED="1495600467558" MODIFIED="1495693919209"/>
-<node ID="ID_1841186745" CREATED="1495600485958" MODIFIED="1495600491947"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="default" ID="ID_1841186745" CREATED="1495600485958" MODIFIED="1525602190262" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
 
 <html>
   <head>
     
   </head>
   <body>
-    <span class="fontstyle0">&#160;taxation under the Ryotwari system.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+    <p>
+      Ryotwari system.<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+    </p>
   </body>
 </html>
+
 </richcontent>
+<font NAME="Calibri"/>
 </node>
 <node ID="ID_764160947" CREATED="1495600554214" MODIFIED="1495600601882"><richcontent TYPE="NODE">
 
@@ -17821,7 +17829,10 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="agri relief 1879 passed" ID="ID_1123804729" CREATED="1492168146923" MODIFIED="1492168153517"/>
+<node TEXT="agri relief 1879 passed" LOCALIZED_STYLE_REF="default" ID="ID_1123804729" CREATED="1492168146923" MODIFIED="1525602197286" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="no farmer arrested or imprisoned if unable to pay taxes" ID="ID_420446617" CREATED="1525602197705" MODIFIED="1525602210928"/>
+</node>
 </node>
 <node TEXT="Telangana Uprising" FOLDED="true" ID="ID_1366718508" CREATED="1492168390380" MODIFIED="1492168397035">
 <node TEXT="against practices of money lenders + Nizam of Hyderabad" ID="ID_239062446" CREATED="1492168397206" MODIFIED="1492168410659"/>
@@ -17884,6 +17895,28 @@
 <node TEXT="c rajgopalachari&#xa;1959" ID="ID_1326476131" CREATED="1524124015859" MODIFIED="1524124032879"/>
 <node TEXT="classic liberal principles, free enterprise" ID="ID_1778658810" CREATED="1524124035349" MODIFIED="1524124046814"/>
 </node>
+<node TEXT="justice party" ID="ID_197321229" CREATED="1525607537015" MODIFIED="1525607539294">
+<node ID="ID_1985515591" CREATED="1525607590306" MODIFIED="1525607605598"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      by Nair and Chetty
+    </p>
+    <p>
+      <b><i>as alternative to INC</i></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="1920&apos;s election won, lost 1937 never recovered" ID="ID_77038336" CREATED="1525607543430" MODIFIED="1525607553324"/>
+<node TEXT="E periyar swami&apos;s leadership -&gt; transformed to Dravidar Kazhagam" ID="ID_1258865245" CREATED="1525607556879" MODIFIED="1525607586306"/>
+</node>
 <node TEXT="vedaranyam salt satyagraha" FOLDED="true" ID="ID_278245055" CREATED="1524124114095" MODIFIED="1524124132254">
 <node TEXT="c rajgopalachari&#xa;near tanjore" ID="ID_1299251953" CREATED="1524124132367" MODIFIED="1524124151514"/>
 </node>
@@ -17895,7 +17928,7 @@
 <node TEXT="Mundas and Oraons of Chota Nagpur areas" ID="ID_409429540" CREATED="1495696288123" MODIFIED="1495696296827"/>
 </node>
 </node>
-<node TEXT="Mugo" FOLDED="true" ID="ID_1782007387" CREATED="1494568290184" MODIFIED="1494568293510">
+<node TEXT="Mugo" ID="ID_1782007387" CREATED="1494568290184" MODIFIED="1494568293510">
 <node TEXT="India Legaue in Britain" FOLDED="true" ID="ID_1994445108" CREATED="1494568280834" MODIFIED="1494568288558">
 <node TEXT="by Menon" ID="ID_1954622396" CREATED="1494568294837" MODIFIED="1494568303986"/>
 <node TEXT="Sister org. to INC" ID="ID_230805924" CREATED="1494568297482" MODIFIED="1495580499262"/>
