@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1362,7 +1362,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="bills imposing restriction on freedom of trade &amp; commerce" ID="ID_1855107875" CREATED="1496573571632" MODIFIED="1496573582434"/>
 </node>
@@ -1434,7 +1433,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Puncchi Commission recommendations" FOLDED="true" ID="ID_1362055242" CREATED="1501036836506" MODIFIED="1525497978854">
@@ -3412,7 +3410,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1200758473" CREATED="1523454066573" MODIFIED="1525508905573">
@@ -3441,7 +3438,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -6325,7 +6321,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="location specific composite farming systems" ID="ID_1251255432" CREATED="1489499872372" MODIFIED="1489499885581"/>
 <node TEXT="Soil Health Management (SHM)" FOLDED="true" ID="ID_370100748" CREATED="1491742283058" MODIFIED="1491742344425">
@@ -6976,7 +6971,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -9844,7 +9838,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="SG&#xa;, under WPA, 1972&#xa;, animals can be hunted of religious purposes&#xa;, in situ biodiversity conservation" ID="ID_760837655" CREATED="1525510314022" MODIFIED="1525510352420"/>
 </node>
@@ -12342,7 +12335,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Need attention Trivia" FOLDED="true" ID="ID_1044880168" CREATED="1494811273532" MODIFIED="1496055203525" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="32.072726994664215 pt">
+<node TEXT="Need attention Trivia" ID="ID_1044880168" CREATED="1494811273532" MODIFIED="1496055203525" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="32.072726994664215 pt">
 <font NAME="Calibri"/>
 <node TEXT="part 0" FOLDED="true" ID="ID_918391584" CREATED="1495962618170" MODIFIED="1496055203525">
 <font NAME="Calibri"/>
@@ -13538,47 +13531,6 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="population" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1278004207" CREATED="1496392704625" MODIFIED="1496788393175" BACKGROUND_COLOR="#feffd6">
-<icon BUILTIN="full-1"/>
-<font NAME="Calibri"/>
-<node TEXT="part of SDG -3" ID="ID_1744678584" CREATED="1509014947898" MODIFIED="1509014953533"/>
-<node TEXT="factor affecting population growth" FOLDED="true" ID="ID_71278630" CREATED="1496392733063" MODIFIED="1496392741008">
-<node TEXT="contraceptive use + awareness" ID="ID_1426682294" CREATED="1496392757366" MODIFIED="1496392762922"/>
-<node TEXT="socio economic development" ID="ID_862905694" CREATED="1496392766396" MODIFIED="1496392770584"/>
-<node TEXT="infant mortality rate" ID="ID_124171427" CREATED="1496392747302" MODIFIED="1496392750644"/>
-<node TEXT="school education of girls" ID="ID_1435065210" CREATED="1509014822989" MODIFIED="1509014827191"/>
-<node TEXT="early marriage" ID="ID_552925873" CREATED="1496392754854" MODIFIED="1509014817226">
-<font BOLD="true"/>
-</node>
-</node>
-<node TEXT="Mission Parivar Vikas" FOLDED="true" ID="ID_583267122" CREATED="1496392714015" MODIFIED="1496392719911">
-<node TEXT="MoHFW" ID="ID_746096473" CREATED="1496392720027" MODIFIED="1496392724712"/>
-<node TEXT="aims to control total fertility rate" ID="ID_1934978507" CREATED="1509015016444" MODIFIED="1509015021709"/>
-<node TEXT="SAARTHI- awareness" ID="ID_1504698860" CREATED="1509014994340" MODIFIED="1509015000562"/>
-<node TEXT="contraception by government," ID="ID_630863544" CREATED="1509015000703" MODIFIED="1509015012412"/>
-</node>
-<node TEXT="national population stabilisation fund&#xa;NPSF" FOLDED="true" ID="ID_1175712673" CREATED="1491633592912" MODIFIED="1495932847864">
-<node TEXT="central sector scheme" ID="ID_65615442" CREATED="1491633652105" MODIFIED="1491633656403"/>
-<node TEXT="prerna + Santushti" FOLDED="true" ID="ID_1118340888" CREATED="1491633603148" MODIFIED="1491633613329">
-<node TEXT="break paradigm of early marriage + PPP mode vasectomy" ID="ID_1810803049" CREATED="1491633616814" MODIFIED="1491633637985"/>
-</node>
-<node TEXT="JSK&#xa;Jansankhya sthirtha kosh" FOLDED="true" ID="ID_1450013312" CREATED="1491633669919" MODIFIED="1496707769041">
-<node TEXT="under societies reg. act, 1960" ID="ID_427437908" CREATED="1491633673178" MODIFIED="1491633675425"/>
-</node>
-</node>
-<node TEXT="National Population Commission" FOLDED="true" ID="ID_479588284" CREATED="1496707577934" MODIFIED="1496707582278">
-<node TEXT="chaired by PM" ID="ID_1864685504" CREATED="1496707582466" MODIFIED="1496707586185"/>
-<node TEXT="give directions to National Population Policy, 2000" FOLDED="true" ID="ID_262753560" CREATED="1496707599078" MODIFIED="1496707611986">
-<node TEXT="voluntary and informed choice" ID="ID_1016927234" CREATED="1495932946669" MODIFIED="1495932956334"/>
-<node TEXT="High infant Mortality rate =&gt; increase in population" LOCALIZED_STYLE_REF="default" ID="ID_416860550" CREATED="1495932956615" MODIFIED="1495933013591" BACKGROUND_COLOR="#feffd6">
-<font NAME="Century Schoolbook L" ITALIC="true"/>
-</node>
-<node TEXT="free primary education for all, institutional deliveries" ID="ID_1706593224" CREATED="1495932978504" MODIFIED="1495933012464">
-<font ITALIC="false"/>
-</node>
-</node>
-</node>
-</node>
 <node TEXT="red line campaign" FOLDED="true" ID="ID_1701572641" CREATED="1496394250640" MODIFIED="1496394253443">
 <node TEXT="against feverish use of antibiotics" ID="ID_252630024" CREATED="1496394253577" MODIFIED="1496394262835"/>
 </node>
@@ -14415,7 +14367,7 @@
 <node TEXT="largest state capital = Japiur" ID="ID_1298201126" CREATED="1497006503842" MODIFIED="1497006509496"/>
 <node TEXT="india does not have FTA with Pak and Bangladesh" ID="ID_805787240" CREATED="1497005376422" MODIFIED="1497005384667"/>
 </node>
-<node TEXT="insights_2" FOLDED="true" ID="ID_793254629" CREATED="1497008139345" MODIFIED="1497008144941">
+<node TEXT="insights_2" ID="ID_793254629" CREATED="1497008139345" MODIFIED="1497008144941">
 <font NAME="Calibri"/>
 <node TEXT="UNDRIP" FOLDED="true" ID="ID_1191252912" CREATED="1497008145146" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
@@ -14472,6 +14424,7 @@
 <node TEXT="under CBD" ID="ID_677998333" CREATED="1497152278909" MODIFIED="1497152280824"/>
 </node>
 <node TEXT="global youth development index = Commonwealth secretariat" ID="ID_1629902595" CREATED="1497676939029" MODIFIED="1497676955225"/>
+<node TEXT="" ID="ID_208937372" CREATED="1525687503493" MODIFIED="1525687503509"/>
 <node TEXT="harrapa = mixed cropping" ID="ID_1793391547" CREATED="1497677103688" MODIFIED="1497677110288"/>
 <node TEXT="atacama desert = South america, doubly rain shadow region, driest non polar desert" ID="ID_1813117569" CREATED="1497477232875" MODIFIED="1497477286693"/>
 </node>
@@ -15146,39 +15099,6 @@
 <node TEXT="non proliferation treaty" ID="ID_1620339486" CREATED="1494895609626" MODIFIED="1494895613976"/>
 <node TEXT="India Pak Israel South Sudan = never joined" ID="ID_1856580983" CREATED="1494895615945" MODIFIED="1494895626652"/>
 </node>
-<node TEXT="FCTC" FOLDED="true" ID="ID_278606915" CREATED="1494908971700" MODIFIED="1497043998716">
-<font NAME="Calibri"/>
-<node TEXT="WHO on tobacco" ID="ID_529303446" CREATED="1494908975099" MODIFIED="1494908981215"/>
-<node TEXT="legally binding, india ratified" ID="ID_1741528392" CREATED="1496372151263" MODIFIED="1496372160421"/>
-<node FOLDED="true" ID="ID_486695591" CREATED="1496372162624" MODIFIED="1503153623189"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      demand side = price, awareness, image on box
-    </p>
-    <p>
-      &#160;
-    </p>
-    <p>
-      supply side = trade control
-    </p>
-    <p>
-      chemical control (amount of <b>nicotine control</b>)
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="reduce nicotine to non addictive levels" ID="ID_1642344493" CREATED="1503153637383" MODIFIED="1503153644552"/>
-</node>
-<node TEXT="ENDS  = electronic nicotine delivery systems" FOLDED="true" ID="ID_260863970" CREATED="1496372254520" MODIFIED="1496372272035">
-<node TEXT="WHO says ban at public places" ID="ID_1035178745" CREATED="1496372284553" MODIFIED="1496372294706"/>
-<node TEXT="non-nicotine system + nicotine system both are &apos;vaping&apos;" ID="ID_1243501925" CREATED="1496372295003" MODIFIED="1496372309583"/>
-</node>
-</node>
 <node TEXT="Myanmar" FOLDED="true" ID="ID_1378026562" CREATED="1495427358384" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
 <node TEXT="capacity building for navy" ID="ID_1768089908" CREATED="1495427361474" MODIFIED="1495427366141"/>
@@ -15333,7 +15253,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -15615,7 +15534,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Economic and Social Commission for Asia and the Pacific" ID="ID_1267066591" CREATED="1525511604845" MODIFIED="1525511606408"/>
 <node TEXT="HQ = thailand" ID="ID_49998301" CREATED="1495170009429" MODIFIED="1495170015459"/>
@@ -16525,8 +16443,7 @@
 <icon BUILTIN="idea"/>
 <node TEXT="Aedes Aegypti + Aedes Albopictus" ID="ID_1678084873" CREATED="1494648073103" MODIFIED="1494648088227"/>
 </node>
-<node TEXT="Brucellosis" FOLDED="true" ID="ID_1746652517" CREATED="1494908373265" MODIFIED="1494908394437">
-<icon BUILTIN="launch"/>
+<node TEXT="Brucellosis" ID="ID_1746652517" CREATED="1494908373265" MODIFIED="1525680701904">
 <node TEXT="zoonotic disease" ID="ID_1791713276" CREATED="1494908379250" MODIFIED="1494908388085"/>
 <node TEXT="bacteria" ID="ID_1077903961" CREATED="1494908400552" MODIFIED="1494908402682"/>
 </node>
@@ -16768,49 +16685,6 @@
 <node TEXT="breastfeeding" ID="ID_1743106092" CREATED="1489736734118" MODIFIED="1489736736769"/>
 <node TEXT="MoHFW" ID="ID_1603844267" CREATED="1489736736914" MODIFIED="1489736740831"/>
 </node>
-<node TEXT="Indradhanush" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_489695362" CREATED="1491717534109" MODIFIED="1497421163970">
-<icon BUILTIN="full-1"/>
-<node TEXT="MoHFW" ID="ID_1481198774" CREATED="1491717557531" MODIFIED="1491717559008"/>
-<node TEXT="mission mode 2020&#xa;learn from Polio eradication mission&#xa;- vaccination storage&#xa;- surveillance of the programme" ID="ID_1329654234" CREATED="1491717571089" MODIFIED="1521958076342"/>
-<node TEXT="&lt;2 yrs + P&amp;L mothers immunised" ID="ID_222429960" CREATED="1491717595625" MODIFIED="1491717617151"/>
-<node TEXT="D P T  BCG P M&#xa;polio measles" FOLDED="true" ID="ID_555177286" CREATED="1491717536717" MODIFIED="1521958032551">
-<node ID="ID_735285559" CREATED="1497429654760" MODIFIED="1497429713591"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p style="text-align: left">
-      Whooping couh = Pertussis
-    </p>
-    <p style="text-align: left">
-      * caused by bacteria
-    </p>
-    <p style="text-align: left">
-      *
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Measles _ Rubella&#xa;rotavirus&#xa;inactivated polio" ID="ID_1488966923" CREATED="1497260729605" MODIFIED="1497260738090"/>
-<node ID="ID_1419495440" CREATED="1521958113723" MODIFIED="1521958126693"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      intensified for <b>urban </b>and <b>NE areas</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
 <node TEXT="NFHS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_152582315" CREATED="1489857562324" MODIFIED="1489857563426">
 <node TEXT="Min Health" ID="ID_1297967494" CREATED="1489857563832" MODIFIED="1489857641913" BACKGROUND_COLOR="#ccffcc"/>
 </node>
@@ -16924,8 +16798,7 @@
 <node TEXT="strong regulatory on quality standards" ID="ID_820182566" CREATED="1489853194089" MODIFIED="1489853204397"/>
 <node TEXT="diagnostic services @rural PHC" ID="ID_1687586207" CREATED="1489853207577" MODIFIED="1489853215616"/>
 <node TEXT="Digital Health initiative" FOLDED="true" ID="ID_998788830" CREATED="1490332209761" MODIFIED="1490332217056">
-<node TEXT="eVIN&#xa;electronic vaccine network" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_486992953" CREATED="1494401469253" MODIFIED="1496291802847">
-<icon BUILTIN="full-1"/>
+<node TEXT="eVIN&#xa;electronic vaccine network" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_486992953" CREATED="1494401469253" MODIFIED="1525681050391">
 <node TEXT="MoHFW + UNDP" LOCALIZED_STYLE_REF="default" ID="ID_787511571" CREATED="1494401515321" MODIFIED="1525497062281" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
@@ -17794,7 +17667,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font NAME="Calibri"/>
 </node>
@@ -17904,7 +17776,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="1920&apos;s election won, lost 1937 never recovered" ID="ID_77038336" CREATED="1525607543430" MODIFIED="1525607553324"/>
