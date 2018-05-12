@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1490,7 +1490,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Examples" FOLDED="true" POSITION="right" ID="ID_955710471" CREATED="1515414845986" MODIFIED="1515414852565">
+<node TEXT="Examples" POSITION="right" ID="ID_955710471" CREATED="1515414845986" MODIFIED="1515414852565">
 <node TEXT="Social inclusion" FOLDED="true" ID="ID_1609961148" CREATED="1515414853924" MODIFIED="1515414966041">
 <node TEXT="Travancore Devaswom Board (TDB) in Kerala decided to introduce a reservation&#xa;policy in the recruitment of temple priests" ID="ID_992530900" CREATED="1515414966557" MODIFIED="1515414970510"/>
 <node TEXT="Northe east Rural Livelihood Projects" ID="ID_1030456886" CREATED="1515784927365" MODIFIED="1515784941695"/>
@@ -1540,7 +1540,7 @@
 <node TEXT="International Engagements" FOLDED="true" ID="ID_1530377217" CREATED="1518774504210" MODIFIED="1518774514178">
 <node TEXT="International Dialogue on Civilisation" ID="ID_1313047700" CREATED="1518774515130" MODIFIED="1518774527906"/>
 </node>
-<node TEXT="Citizen Engagement" ID="ID_1177685326" CREATED="1517749578440" MODIFIED="1517749589415">
+<node TEXT="Citizen Engagement" FOLDED="true" ID="ID_1177685326" CREATED="1517749578440" MODIFIED="1517749589415">
 <node TEXT="Meri SADAK" ID="ID_529725638" CREATED="1517749590515" MODIFIED="1517749621777"/>
 <node TEXT="Kubuqi" ID="ID_1356515507" CREATED="1520525023706" MODIFIED="1520525027788">
 <node TEXT=" Chinese firm Elion Resources Group partnered with local people and the Beijing&#xa;government to combat desertification" ID="ID_329462987" CREATED="1520525034403" MODIFIED="1520525050355"/>
@@ -1556,8 +1556,9 @@
 <node TEXT="TB drug parallel to Bedquiline" ID="ID_1952305424" CREATED="1518773780731" MODIFIED="1518773792905"/>
 </node>
 </node>
+<node TEXT="Trafficking victims - Beti Zindabad Bakery, Jashpur" ID="ID_838525164" CREATED="1526125503025" MODIFIED="1526125518525"/>
 </node>
-<node TEXT="Prelims" POSITION="right" ID="ID_702299847" CREATED="1518297380366" MODIFIED="1520524888496">
+<node TEXT="Prelims" FOLDED="true" POSITION="right" ID="ID_702299847" CREATED="1518297380366" MODIFIED="1520524888496">
 <node TEXT="Agriculture" FOLDED="true" ID="ID_587017194" CREATED="1518297421234" MODIFIED="1518297424471">
 <node TEXT="Credit" FOLDED="true" ID="ID_1503542635" CREATED="1518554635689" MODIFIED="1518554641082">
 <node TEXT="Loan per hectare" ID="ID_1147660779" CREATED="1518554642230" MODIFIED="1518554666656"/>
@@ -3590,7 +3591,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Environment" FOLDED="true" ID="ID_1164183901" CREATED="1497938550841" MODIFIED="1497938552872">
+<node TEXT="Environment" ID="ID_1164183901" CREATED="1497938550841" MODIFIED="1497938552872">
 <node TEXT="&#x2022; Disaster and disaster management." ID="ID_658276234" CREATED="1517732322376" MODIFIED="1517732324078"/>
 <node TEXT="&#x2022; Conservation, environmental pollution and degradation, environmental impact assessment" ID="ID_836897404" CREATED="1517732311991" MODIFIED="1517732314374"/>
 <node TEXT="Energy" FOLDED="true" ID="ID_1829707631" CREATED="1517986290683" MODIFIED="1517986293334">
