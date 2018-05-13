@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -135,9 +135,9 @@
 </hook>
 <font NAME="Calibri"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
-<node TEXT="Polity" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
+<node TEXT="Polity" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
 <font NAME="Calibri"/>
-<node TEXT="Legislations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
+<node TEXT="Legislations" LOCALIZED_STYLE_REF="default" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
 <font NAME="Calibri"/>
 <node TEXT="COPRA, 1986" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_212585028" CREATED="1488179043829" MODIFIED="1494887615890">
 <font NAME="Calibri"/>
@@ -493,7 +493,7 @@
 </node>
 <node TEXT="custodian as owner retrospectively , 1968" ID="ID_589702605" CREATED="1525522189809" MODIFIED="1525522213229"/>
 </node>
-<node TEXT="Forest Dwellers Act, 2006" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1044454238" CREATED="1489409996526" MODIFIED="1494887616031">
+<node TEXT="Forest Dwellers Act, 2006" LOCALIZED_STYLE_REF="default" ID="ID_1044454238" CREATED="1489409996526" MODIFIED="1494887616031">
 <font NAME="Calibri"/>
 <node TEXT="2126 - 70" ID="ID_161394463" CREATED="1489410005152" MODIFIED="1495494771286" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Answer.pdf" MAX_WIDTH="59.678479840201135 pt" MIN_WIDTH="59.678479840201135 pt"/>
 <node TEXT="Min Tribal" ID="ID_1890462133" CREATED="1492150368529" MODIFIED="1492150371025"/>
@@ -1211,6 +1211,45 @@
 <node TEXT="punishment to the private developer + consumer forum for complaints + compensation in case of misleading ads" ID="ID_1112908218" CREATED="1516467172376" MODIFIED="1516467206129"/>
 <node TEXT="for accountability, transparency + foreign investment + consumer confidence" ID="ID_243925071" CREATED="1499046898351" MODIFIED="1499047012543"/>
 </node>
+<node TEXT="Central Road Fund, 2017" ID="ID_313134302" CREATED="1526197623150" MODIFIED="1526197629381">
+<node ID="ID_1984881654" CREATED="1526197670283" MODIFIED="1526197749284"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      established to fund development and maintenance of
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      National Highways
+    </p>
+    <p>
+      , State Highways
+    </p>
+    <p>
+      , Rural roads
+    </p>
+    <p>
+      , unmanned rail
+    </p>
+    <p>
+      , over / under bridge
+    </p>
+    <p>
+      <b><i><u>, national waterways (2.5%)</u></i></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="via cess collected on high speed diesel and petrol" ID="ID_954257541" CREATED="1526197629725" MODIFIED="1526197742009"/>
+</node>
 </node>
 <node TEXT="Laxmikanth" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1966133345" CREATED="1488094079918" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
@@ -1630,6 +1669,9 @@
 <node TEXT="President" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_739368893" CREATED="1499703132717" MODIFIED="1499703135125">
 <font NAME="Calibri"/>
 <node TEXT="represent the nation, above the electoral politics" ID="ID_972082860" CREATED="1499703135326" MODIFIED="1499703150771"/>
+<node TEXT="pardon is executive power" ID="ID_1006946465" CREATED="1526182586160" MODIFIED="1526182591348">
+<icon BUILTIN="idea"/>
+</node>
 </node>
 <node TEXT="22. Parliament" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_88383589" CREATED="1494661630854" MODIFIED="1525497743684">
 <font NAME="Calibri"/>
@@ -1863,6 +1905,13 @@
 <node TEXT="everyone makes mistakes =&gt; criticism of judiciary should be allowed" LOCALIZED_STYLE_REF="default" ID="ID_770605539" CREATED="1488859135116" MODIFIED="1488859151344" BACKGROUND_COLOR="#ebe8ff"/>
 <node TEXT="use this power not to uphold the dignity of the court but just its functioning ==&gt; Without dignity, where is the functioning??" LOCALIZED_STYLE_REF="default" ID="ID_1907422184" CREATED="1488859052230" MODIFIED="1488859092477" BACKGROUND_COLOR="#ebe8ff"/>
 </node>
+<node TEXT="29. State Legislature" LOCALIZED_STYLE_REF="default" ID="ID_1122098220" CREATED="1526181974154" MODIFIED="1526181978873">
+<font NAME="Calibri"/>
+<node TEXT="seats in Legislative Assembly (LA) (60)&#xa;&#xa;G AP S = 30&#xa;&#xa;M N = 40,46" ID="ID_726016489" CREATED="1526181982374" MODIFIED="1526182013379"/>
+<node TEXT="legislative council" ID="ID_1787068827" CREATED="1526184316762" MODIFIED="1526184321647">
+<node TEXT="permanent house (like RS) - no dissolution of term" ID="ID_370706366" CREATED="1526184321828" MODIFIED="1526184346783"/>
+</node>
+</node>
 <node TEXT="30. HC" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1774078040" CREATED="1489845648043" MODIFIED="1525497744855">
 <font NAME="Calibri"/>
 <node TEXT="Indepenence" FOLDED="true" ID="ID_558273476" CREATED="1489845652583" MODIFIED="1489845655215">
@@ -2061,7 +2110,7 @@
 </node>
 </node>
 </node>
-<node TEXT="37. Scheduled and Tribal Areas" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_25340720" CREATED="1496963008850" MODIFIED="1525497749697">
+<node TEXT="37. Scheduled and Tribal Areas" LOCALIZED_STYLE_REF="default" ID="ID_25340720" CREATED="1496963008850" MODIFIED="1525497749697">
 <font NAME="Calibri"/>
 <node TEXT="Scheduled areas" FOLDED="true" ID="ID_14531100" CREATED="1496963016012" MODIFIED="1496963019356">
 <node TEXT="5th schedule" ID="ID_1209898227" CREATED="1496963038195" MODIFIED="1496963040244"/>
@@ -2074,7 +2123,7 @@
 </node>
 <node TEXT="a commission to report administration of schedules areas =&gt; Constitution says president to make!" ID="ID_1565924864" CREATED="1496963212089" MODIFIED="1496963235893"/>
 </node>
-<node TEXT="Tribal Areas" FOLDED="true" ID="ID_1082717101" CREATED="1496963019700" MODIFIED="1496963021468">
+<node TEXT="Tribal Areas" ID="ID_1082717101" CREATED="1496963019700" MODIFIED="1496963021468">
 <node ID="ID_1375564672" CREATED="1496963263165" MODIFIED="1496963297306"><richcontent TYPE="NODE">
 
 <html>
@@ -2090,13 +2139,14 @@
 </richcontent>
 </node>
 <node TEXT="organise + reorganise = governor" ID="ID_219766478" CREATED="1496963301682" MODIFIED="1496963316639"/>
-<node TEXT="district council = nominated + elected" FOLDED="true" ID="ID_1174791085" CREATED="1496963380886" MODIFIED="1496963391159">
+<node TEXT="district council = nominated + elected" ID="ID_1174791085" CREATED="1496963380886" MODIFIED="1496963391159">
 <node TEXT="nominated = on pleasure of governor" ID="ID_1555209710" CREATED="1496963391315" MODIFIED="1496963398785"/>
 <node TEXT="elected = 5 yrs (unless dissolved)" ID="ID_888179739" CREATED="1496963399208" MODIFIED="1496963407381"/>
 </node>
 <node TEXT="primary school, money lending etc rules = by district council" FOLDED="true" ID="ID_488951665" CREATED="1496963483061" MODIFIED="1496963499097">
 <node TEXT="assent of governor" ID="ID_1101909901" CREATED="1496963499222" MODIFIED="1496963504208"/>
 </node>
+<node TEXT="taxing, land revenue = district council - no governor assent needed" ID="ID_1843172467" CREATED="1526192146621" MODIFIED="1526192164996"/>
 </node>
 </node>
 <node TEXT="38. ECI" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1965153912" CREATED="1489082989584" MODIFIED="1525497749699">
@@ -2370,6 +2420,16 @@
 </node>
 </node>
 </node>
+<node TEXT="District Judge" ID="ID_373676403" CREATED="1526182646805" MODIFIED="1526182672634">
+<icon BUILTIN="idea"/>
+<font NAME="Calibri"/>
+<node TEXT="reco of HC&#xa;, not currently in service&#xa;, 7 yrs advocate" ID="ID_827063204" CREATED="1526182651103" MODIFIED="1526182668728"/>
+</node>
+<node TEXT="state election commissioner" ID="ID_906783551" CREATED="1526182843475" MODIFIED="1526182877063">
+<icon BUILTIN="idea"/>
+<node TEXT="conditions of service + tenure = governor" ID="ID_1733020282" CREATED="1526182854445" MODIFIED="1526182863537"/>
+<node TEXT="removed = as HC judge" ID="ID_1217144048" CREATED="1526182863678" MODIFIED="1526182875414"/>
+</node>
 </node>
 <node TEXT="Constitution" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1340862862" CREATED="1488234371502" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
@@ -2600,7 +2660,7 @@
 <node TEXT="justice kannan case" ID="ID_1061130256" CREATED="1508756079403" MODIFIED="1508756085492"/>
 </node>
 <node TEXT="Women in judiciary" LOCALIZED_STYLE_REF="default" ID="ID_1090432905" CREATED="1488426007323" MODIFIED="1488545169532"/>
-<node TEXT="Pendency in Judiciary" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_233863063" CREATED="1492492490845" MODIFIED="1492492494855">
+<node TEXT="Pendency in Judiciary" LOCALIZED_STYLE_REF="default" ID="ID_233863063" CREATED="1492492490845" MODIFIED="1492492494855">
 <node TEXT="cases aate kahan se hain?" FOLDED="true" ID="ID_366974458" CREATED="1509112330430" MODIFIED="1509112334071">
 <node TEXT="lower court to higher court =&gt; Not effective ADR" ID="ID_1806011121" CREATED="1509112334321" MODIFIED="1509112344926"/>
 <node TEXT="RTI  =&gt; PIL" ID="ID_623624449" CREATED="1509112345067" MODIFIED="1509112358882"/>
@@ -2621,11 +2681,16 @@
 <node TEXT="fodder" FOLDED="true" ID="ID_1112479574" CREATED="1509112441754" MODIFIED="1509112443208">
 <node TEXT="justice delayed is justice denied" ID="ID_952161103" CREATED="1509112444020" MODIFIED="1509112448396"/>
 </node>
-<node TEXT="way forward" FOLDED="true" ID="ID_424283566" CREATED="1492492587707" MODIFIED="1492492595066">
-<node TEXT="Alternate dispute resolution" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1981218529" CREATED="1492492698699" MODIFIED="1492492705532" BACKGROUND_COLOR="#feffd6">
+<node TEXT="way forward" ID="ID_424283566" CREATED="1492492587707" MODIFIED="1492492595066">
+<node TEXT="Alternate dispute resolution" LOCALIZED_STYLE_REF="default" ID="ID_1981218529" CREATED="1492492698699" MODIFIED="1492492705532" BACKGROUND_COLOR="#feffd6">
 <font NAME="Century Schoolbook L"/>
-<node TEXT="lok adalat" FOLDED="true" ID="ID_159352019" CREATED="1492492736016" MODIFIED="1492492738617">
+<node TEXT="lok adalat" FOLDED="true" ID="ID_159352019" CREATED="1492492736016" MODIFIED="1526191708191">
+<icon BUILTIN="idea"/>
 <node TEXT="BSES organised lok adalat&#xa;to recover 50 cr." ID="ID_1795198188" CREATED="1516775945135" MODIFIED="1516775993971"/>
+<node TEXT="only public utility service cases" ID="ID_1933944796" CREATED="1526191689125" MODIFIED="1526191709738"/>
+<node TEXT="final and binding awards" LOCALIZED_STYLE_REF="default" ID="ID_219997899" CREATED="1526191696815" MODIFIED="1526191705706" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
 </node>
 </node>
 <node TEXT="All india judicial service" ID="ID_1609271747" CREATED="1492493732484" MODIFIED="1492493736862"/>
@@ -2669,7 +2734,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Bodies of India" LOCALIZED_STYLE_REF="default" ID="ID_1739541457" CREATED="1488864616898" MODIFIED="1495493339747">
+<node TEXT="Bodies of India" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1739541457" CREATED="1488864616898" MODIFIED="1495493339747">
 <font NAME="Calibri" BOLD="false"/>
 <node TEXT="TRAI" FOLDED="true" ID="ID_421186995" CREATED="1488864652505" MODIFIED="1488864654017">
 <node TEXT="TRAI Act, 1997" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_365046113" CREATED="1488864592537" MODIFIED="1488864597693">
@@ -3003,6 +3068,11 @@
 <node TEXT="1890, under MoEFCC,&#xa;@Kolkata = HQ" ID="ID_1571436930" CREATED="1496109169034" MODIFIED="1496109196817"/>
 <node TEXT="red data book" ID="ID_119723636" CREATED="1496109180732" MODIFIED="1496109183669"/>
 </node>
+<node TEXT="Law Commission of India&#xa;LCI" ID="ID_795822728" CREATED="1526184205529" MODIFIED="1526184210291">
+<node TEXT="setup every 3 years by parliament order" ID="ID_1784015674" CREATED="1526184210700" MODIFIED="1526184225427"/>
+<node TEXT="submit report to min law n justice" ID="ID_464557915" CREATED="1526184225554" MODIFIED="1526184231579"/>
+<node TEXT="state can have LC too" ID="ID_703806723" CREATED="1526184233935" MODIFIED="1526184240537"/>
+</node>
 <node TEXT="ICHR" FOLDED="true" ID="ID_1831592261" CREATED="1496282111807" MODIFIED="1496282113057">
 <node TEXT="autonomous under MHRD" ID="ID_119206222" CREATED="1496282118922" MODIFIED="1496282127746"/>
 <node TEXT="financial assistance to foreigners" ID="ID_302049380" CREATED="1496282170337" MODIFIED="1496282175668"/>
@@ -3103,12 +3173,11 @@
 <node TEXT="Meity" ID="ID_181960606" CREATED="1490415529306" MODIFIED="1490415533297"/>
 </node>
 </node>
-<node TEXT="CSO" FOLDED="true" ID="ID_472547604" CREATED="1490348241553" MODIFIED="1496293711219">
-<icon BUILTIN="full-1"/>
+<node TEXT="CSO" FOLDED="true" ID="ID_472547604" CREATED="1490348241553" MODIFIED="1526200283696">
 <font NAME="Calibri"/>
 <node TEXT="MoSPI" ID="ID_1981388966" CREATED="1490348246819" MODIFIED="1490348248320"/>
 <node TEXT="2012" OBJECT="java.lang.Long|2012" ID="ID_940717949" CREATED="1490348249163" MODIFIED="1490348250882"/>
-<node TEXT="publishes" FOLDED="true" ID="ID_1883831732" CREATED="1492075365982" MODIFIED="1492075410976">
+<node TEXT="publishes" FOLDED="true" ID="ID_1883831732" CREATED="1492075365982" MODIFIED="1526200263337">
 <icon BUILTIN="idea"/>
 <node TEXT="Compiles National Accounts (GDP)" ID="ID_1841437315" CREATED="1492075367725" MODIFIED="1492075378258"/>
 <node TEXT="Economic Census" ID="ID_991266872" CREATED="1492075393097" MODIFIED="1492075397487"/>
@@ -3163,6 +3232,10 @@
 <node TEXT="national sample survey Office" ID="ID_1824541801" CREATED="1494489428775" MODIFIED="1494562214056">
 <font NAME="Corbel"/>
 </node>
+</node>
+<node TEXT="Central council of local govt." ID="ID_406243273" CREATED="1526183672198" MODIFIED="1526183675881">
+<node TEXT="1954 by president" ID="ID_1143951540" CREATED="1526183675953" MODIFIED="1526183681055"/>
+<node TEXT="advisory, chaired by MoHUA" ID="ID_576761424" CREATED="1526183681117" MODIFIED="1526183688835"/>
 </node>
 </node>
 <node TEXT="Election" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_87035788" CREATED="1489405226488" MODIFIED="1494887616053">
@@ -3823,8 +3896,9 @@
 <node TEXT="trade related RnD" ID="ID_718991936" CREATED="1489498724032" MODIFIED="1489498736432"/>
 </node>
 </node>
-<node TEXT="SFAC&#xa;small farmers agri-business consortium" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1862588209" CREATED="1490408958229" MODIFIED="1525243695753">
+<node TEXT="SFAC&#xa;small farmers agri-business consortium" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1862588209" CREATED="1490408958229" MODIFIED="1526200902712">
 <icon BUILTIN="flag-green"/>
+<icon BUILTIN="idea"/>
 <node ID="ID_1906672337" CREATED="1525243686401" MODIFIED="1525243746849"><richcontent TYPE="NODE">
 
 <html>
@@ -3845,6 +3919,7 @@
 <icon BUILTIN="idea"/>
 </node>
 </node>
+<node TEXT="FPO, e-NAM" ID="ID_674227129" CREATED="1526200895202" MODIFIED="1526200898535"/>
 </node>
 </node>
 <node TEXT="Food Processing" FOLDED="true" ID="ID_1617892606" CREATED="1489714831706" MODIFIED="1504939026742">
@@ -4373,7 +4448,7 @@
 <node TEXT="Cartelisation and collective bidding has to reduce govt. public spending." ID="ID_607465530" CREATED="1488545515607" MODIFIED="1488545538143"/>
 </node>
 </node>
-<node TEXT="MSME" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_471693202" CREATED="1487760065557" MODIFIED="1508950914912">
+<node TEXT="MSME" LOCALIZED_STYLE_REF="default" ID="ID_471693202" CREATED="1487760065557" MODIFIED="1508950914912">
 <icon BUILTIN="flag-green"/>
 <node TEXT="classification" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_124429632" CREATED="1489482890095" MODIFIED="1489482894096">
 <node TEXT="manuf" FOLDED="true" ID="ID_632936181" CREATED="1489482897947" MODIFIED="1489482901058">
@@ -5726,7 +5801,6 @@
     <span class="fontstyle0">occurs on the previously sterile or primarily bare area. I</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -5868,9 +5942,9 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node TEXT="Rio +20" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_51778647" CREATED="1495086904451" MODIFIED="1495087187729" LINK="http://mrunal.org/2012/09/diplomacy-rio20-meaning-outcomes-explain-sustainable-development.html">
+<node TEXT="Rio +20" LOCALIZED_STYLE_REF="default" ID="ID_51778647" CREATED="1495086904451" MODIFIED="1495087187729" LINK="http://mrunal.org/2012/09/diplomacy-rio20-meaning-outcomes-explain-sustainable-development.html">
 <font NAME="Calibri"/>
-<node TEXT="formation of UNFCCC" FOLDED="true" ID="ID_1979760202" CREATED="1495086917525" MODIFIED="1495087042524">
+<node TEXT="formation of UNFCCC" ID="ID_1979760202" CREATED="1495086917525" MODIFIED="1495087042524">
 <font NAME="Calibri"/>
 <node TEXT="Kyoto Protocol" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_66077788" CREATED="1488277382678" MODIFIED="1495087042524" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Jan&apos;17/Vision%20Current%20affairs%20Jan%202017.pdf">
 <font NAME="Calibri"/>
@@ -5980,7 +6054,7 @@
 <node TEXT="UNCCD" LOCALIZED_STYLE_REF="default" ID="ID_531980561" CREATED="1495087047833" MODIFIED="1495087048633">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="CBD" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_98512147" CREATED="1489228587900" MODIFIED="1495087042524" BACKGROUND_COLOR="#feffd6">
+<node TEXT="CBD" LOCALIZED_STYLE_REF="default" ID="ID_98512147" CREATED="1489228587900" MODIFIED="1495087042524" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 <node TEXT="1. conservation of biological diversity" ID="ID_503626528" CREATED="1489228588728" MODIFIED="1489228598792"/>
 <node TEXT="2. sustainable use of its components" ID="ID_323237116" CREATED="1489228609419" MODIFIED="1489228622781"/>
@@ -6050,6 +6124,29 @@
 <node TEXT="C" ID="ID_678138538" CREATED="1495328261871" MODIFIED="1495328262262"/>
 <node TEXT="D" ID="ID_1228723973" CREATED="1495328262451" MODIFIED="1495328262789"/>
 <node TEXT="E" ID="ID_1505692238" CREATED="1495328263090" MODIFIED="1495328263492"/>
+</node>
+<node TEXT="clearing house mechanism&#xa;CHM" ID="ID_980417271" CREATED="1526228747910" MODIFIED="1526228756369">
+<node ID="ID_993336459" CREATED="1526228703500" MODIFIED="1526228746408"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      information utility for
+    </p>
+    <p>
+      &#160;<i>strategic plan of biodiversity 2011-2020 + </i>
+    </p>
+    <p>
+      to achieve Aichi biodiversity Targets
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 </node>
@@ -6310,7 +6407,7 @@
 <node TEXT="countries which have asked CITES Parties for assistance in controlling trade" ID="ID_37732709" CREATED="1495493717599" MODIFIED="1495493731945"/>
 </node>
 </node>
-<node TEXT="Helinski" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1400338943" CREATED="1491365718141" MODIFIED="1495087034513">
+<node TEXT="Helinski" LOCALIZED_STYLE_REF="default" ID="ID_1400338943" CREATED="1491365718141" MODIFIED="1495087034513">
 <icon BUILTIN="launch"/>
 <font NAME="Calibri"/>
 <node TEXT="baltic area marine protection" ID="ID_1480891510" CREATED="1491365721555" MODIFIED="1491365726793"/>
@@ -7504,7 +7601,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Conservation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1711325434" CREATED="1488691208195" MODIFIED="1497043998654">
+<node TEXT="Conservation" LOCALIZED_STYLE_REF="default" ID="ID_1711325434" CREATED="1488691208195" MODIFIED="1497043998654">
 <font NAME="Calibri"/>
 <node TEXT="olive ridley" FOLDED="true" ID="ID_368589800" CREATED="1488691975460" MODIFIED="1526098368120">
 <icon BUILTIN="idea"/>
@@ -8055,7 +8152,8 @@
 </node>
 </node>
 <node TEXT="Navy" ID="ID_672372423" CREATED="1490502778004" MODIFIED="1490502779176">
-<node TEXT="Project 15B" FOLDED="true" ID="ID_1422599936" CREATED="1489479113531" MODIFIED="1489479117115">
+<node TEXT="Project 15B" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1422599936" CREATED="1489479113531" MODIFIED="1526185693487" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
 <node TEXT="stealth guided missile destroyers" ID="ID_1994400135" CREATED="1496381039350" MODIFIED="1496381044435"/>
 <node TEXT="vishakha pattnam class of ships" ID="ID_123131572" CREATED="1496381050322" MODIFIED="1496381056658"/>
 <node TEXT="Mormugao" FOLDED="true" ID="ID_813959071" CREATED="1496381066582" MODIFIED="1496381135231">
@@ -8069,7 +8167,8 @@
 <font BOLD="true"/>
 </node>
 </node>
-<node TEXT="project 75" FOLDED="true" ID="ID_1932165143" CREATED="1489479117278" MODIFIED="1495423985064">
+<node TEXT="project 75" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1932165143" CREATED="1489479117278" MODIFIED="1526185693987" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
 <node ID="ID_1779087961" CREATED="1495423985986" MODIFIED="1496381478082"><richcontent TYPE="NODE">
 
 <html>
@@ -8085,7 +8184,7 @@
 </richcontent>
 </node>
 <node TEXT="diesel electric attack submarines" ID="ID_201639592" CREATED="1497964728741" MODIFIED="1497964737498"/>
-<node TEXT="&#x201c;air independent propulsion system&#x201d;" FOLDED="true" ID="ID_1497114275" CREATED="1495424070379" MODIFIED="1495424074313">
+<node TEXT="&#x201c;air independent propulsion system&#x201d;" ID="ID_1497114275" CREATED="1495424070379" MODIFIED="1495424074313">
 <node TEXT="to allow submarine stay&#xa;underwater for longer duration." ID="ID_1970933612" CREATED="1495424077658" MODIFIED="1495424079451"/>
 </node>
 <node TEXT="INS Kalvari" FOLDED="true" ID="ID_1040956314" CREATED="1495423921040" MODIFIED="1495423928774">
@@ -8103,11 +8202,17 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="named after tiger shark" ID="ID_1954098583" CREATED="1526185608633" MODIFIED="1526185615540"/>
 </node>
-<node TEXT="2. INS Khanderi" FOLDED="true" ID="ID_1019407653" CREATED="1492239523121" MODIFIED="1495424024859">
+<node TEXT="2. INS Khanderi" ID="ID_1019407653" CREATED="1492239523121" MODIFIED="1495424024859">
 <node TEXT="name = Island fort of Shivaji" ID="ID_1161240861" CREATED="1492239614096" MODIFIED="1492239623350"/>
 <node TEXT=" operate in all theatres, including the Tropics." ID="ID_720143975" CREATED="1495424132747" MODIFIED="1495424135635"/>
 </node>
+<node TEXT="Karanj, vela, vagir, vagsheer" ID="ID_1191141350" CREATED="1526185576026" MODIFIED="1526185590276"/>
+</node>
+<node TEXT="project 28" LOCALIZED_STYLE_REF="default" ID="ID_277364733" CREATED="1526185724146" MODIFIED="1526185726479" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node TEXT="anti submarine warfare" ID="ID_1414368013" CREATED="1526185726913" MODIFIED="1526185730029"/>
 </node>
 <node TEXT="INS Viraat" FOLDED="true" ID="ID_425098349" CREATED="1490502791977" MODIFIED="1490502793823">
 <node TEXT="decommissioned, 6 march" ID="ID_900307541" CREATED="1490502818901" MODIFIED="1497625342478"/>
@@ -8156,8 +8261,10 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="INS Arihant" FOLDED="true" ID="ID_812073752" CREATED="1495166104584" MODIFIED="1495166106163">
+<node TEXT="INS Arihant" FOLDED="true" ID="ID_812073752" CREATED="1495166104584" MODIFIED="1526185656388">
+<icon BUILTIN="idea"/>
 <node TEXT="nuclear powered ballistic missile submarine" ID="ID_415271787" CREATED="1495166120110" MODIFIED="1495166128946"/>
+<node TEXT="also INS Aridhman" ID="ID_28318594" CREATED="1526185650498" MODIFIED="1526185654969"/>
 </node>
 <node TEXT="INS Tarini" FOLDED="true" ID="ID_1411692858" CREATED="1495799638441" MODIFIED="1525509327478">
 <icon BUILTIN="idea"/>
@@ -8976,8 +9083,8 @@
 <node TEXT="important bird area" ID="ID_1118406326" CREATED="1495500609352" MODIFIED="1495500611948"/>
 <node TEXT="UNSECO World Heritage site" ID="ID_621500941" CREATED="1495500587591" MODIFIED="1495500597202"/>
 </node>
-<node TEXT="Bandipur national park" FOLDED="true" ID="ID_859673238" CREATED="1496131004338" MODIFIED="1496131010419">
-<icon BUILTIN="full-0"/>
+<node TEXT="Bandipur national park" FOLDED="true" ID="ID_859673238" CREATED="1496131004338" MODIFIED="1526228106113">
+<icon BUILTIN="idea"/>
 <node ID="ID_459662909" CREATED="1496131013858" MODIFIED="1496746651351"><richcontent TYPE="NODE">
 
 <html>
@@ -8991,6 +9098,9 @@
   </body>
 </html>
 </richcontent>
+</node>
+<node TEXT="kabini in north + Moyar in south" LOCALIZED_STYLE_REF="default" ID="ID_181918930" CREATED="1526228110215" MODIFIED="1526228118733" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
 </node>
 <node TEXT="part of NILGIRI biosphere reserve = largest biosphere reserve" ID="ID_121163811" CREATED="1496131030699" MODIFIED="1496131044593"/>
 <node TEXT="karnataka" ID="ID_1083857645" CREATED="1496746626303" MODIFIED="1496746628004"/>
@@ -9017,6 +9127,9 @@
 <node TEXT="Dholes (wild dogs)" FOLDED="true" ID="ID_132588711" CREATED="1494400430689" MODIFIED="1494400438612">
 <node TEXT="endangered" ID="ID_255207350" CREATED="1494400449707" MODIFIED="1494400451864"/>
 </node>
+</node>
+<node TEXT="valley of flowers national park" ID="ID_1849476285" CREATED="1526224851220" MODIFIED="1526224855737">
+<node TEXT="UNESCO biosphere reserves but not a world heritage site" ID="ID_357704546" CREATED="1526224855861" MODIFIED="1526224870737"/>
 </node>
 <node TEXT="Buxa tiger reserve" FOLDED="true" ID="ID_619135890" CREATED="1495150205588" MODIFIED="1496028694595">
 <icon BUILTIN="full-1"/>
@@ -9976,7 +10089,7 @@
 <node TEXT="india = founding member" ID="ID_805630486" CREATED="1494904293568" MODIFIED="1494904298517"/>
 </node>
 </node>
-<node TEXT="Sci Tech" ID="ID_952839723" CREATED="1494810978496" MODIFIED="1496055203522">
+<node TEXT="Sci Tech" FOLDED="true" ID="ID_952839723" CREATED="1494810978496" MODIFIED="1496055203522">
 <font NAME="Calibri"/>
 <node TEXT="Blazar" FOLDED="true" ID="ID_1974831847" CREATED="1494810982649" MODIFIED="1494811015000" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Jan&apos;17/VIsion%20CA%20Feb%202017.pdf">
 <node TEXT="galaxy with intense nucleus" ID="ID_100230724" CREATED="1494810996139" MODIFIED="1494811004013"/>
@@ -10390,13 +10503,14 @@
 <node TEXT="coins of lead copper bronze" ID="ID_1233564042" CREATED="1496728236322" MODIFIED="1496728242813"/>
 <node TEXT="Official language = prakrit" ID="ID_238738981" CREATED="1496728243670" MODIFIED="1496728258741"/>
 </node>
-<node TEXT="mathematics" FOLDED="true" ID="ID_757253804" CREATED="1495345837955" MODIFIED="1495345840620">
-<node TEXT="baudhyana" FOLDED="true" ID="ID_473568249" CREATED="1495345847906" MODIFIED="1495345849929">
+<node TEXT="mathematics" FOLDED="true" ID="ID_757253804" CREATED="1495345837955" MODIFIED="1526205204159">
+<icon BUILTIN="idea"/>
+<node TEXT="baudhyana" ID="ID_473568249" CREATED="1495345847906" MODIFIED="1495345849929">
 <node TEXT="sulabhsutra" ID="ID_112707065" CREATED="1495345862126" MODIFIED="1495345864196"/>
 <node TEXT="value of pi calculate" ID="ID_363349220" CREATED="1496475748388" MODIFIED="1496475751433"/>
 </node>
 <node TEXT="aryabhatta" ID="ID_433213994" CREATED="1495345850877" MODIFIED="1495345852724"/>
-<node TEXT="brahamgupta, 7th centruy" FOLDED="true" ID="ID_36561441" CREATED="1524137059452" MODIFIED="1524137082612">
+<node TEXT="brahamgupta, 7th centruy" ID="ID_36561441" CREATED="1524137059452" MODIFIED="1524137082612">
 <node TEXT="negative numbers, 0" ID="ID_1767164741" CREATED="1524137046378" MODIFIED="1524137049715"/>
 <node ID="ID_1108777471" CREATED="1524137072756" MODIFIED="1524137075817"><richcontent TYPE="NODE">
 
@@ -10430,8 +10544,8 @@
 </node>
 <node TEXT="during Rashtrakuta" ID="ID_364321574" CREATED="1525840261513" MODIFIED="1525840267033"/>
 </node>
-<node TEXT="bhaskaracharya" FOLDED="true" ID="ID_1739367984" CREATED="1495345843242" MODIFIED="1495345847408">
-<node TEXT="wrote Siddhant Shiromani, 12th century" FOLDED="true" ID="ID_1607692474" CREATED="1496475689682" MODIFIED="1496475739355">
+<node TEXT="bhaskaracharya" ID="ID_1739367984" CREATED="1495345843242" MODIFIED="1495345847408">
+<node TEXT="wrote Siddhant Shiromani, 12th century" ID="ID_1607692474" CREATED="1496475689682" MODIFIED="1496475739355">
 <node TEXT="4 parts" ID="ID_1570612868" CREATED="1496475698764" MODIFIED="1496475700942"/>
 </node>
 <node TEXT="cyclic method to solve equations&#xa;aka inverse cycle" ID="ID_784144012" CREATED="1495345870841" MODIFIED="1524137046053"/>
@@ -10849,7 +10963,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Committees" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_46370831" CREATED="1491534168713" MODIFIED="1496055203523" BACKGROUND_COLOR="#a4ffaa">
+<node TEXT="Committees" LOCALIZED_STYLE_REF="default" ID="ID_46370831" CREATED="1491534168713" MODIFIED="1496055203523" BACKGROUND_COLOR="#a4ffaa">
 <font NAME="Calibri"/>
 <node TEXT="Santosh Hedge" FOLDED="true" ID="ID_1914471466" CREATED="1495148226019" MODIFIED="1499335427742">
 <icon BUILTIN="button_cancel"/>
@@ -11023,7 +11137,9 @@
 <node TEXT="Public Accounts Committee" LOCALIZED_STYLE_REF="default" ID="ID_1100273039" CREATED="1496462431151" MODIFIED="1496570553473" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="Committee on Public Undertaking" ID="ID_1535495025" CREATED="1496462431149" MODIFIED="1496462431149"/>
+<node TEXT="Committee on Public Undertaking" ID="ID_1535495025" CREATED="1496462431149" MODIFIED="1496462431149">
+<node TEXT="LS + RS&#xa;1 yr" ID="ID_123705135" CREATED="1526192225882" MODIFIED="1526192233387"/>
+</node>
 <node TEXT="Departmental Standing Committees" ID="ID_869539784" CREATED="1496462431155" MODIFIED="1496462431155"/>
 <node TEXT="Committee on Government Assurances (in Lok Sabha)" ID="ID_331622954" CREATED="1496462431157" MODIFIED="1496462431157"/>
 <node TEXT="Committee on Subordinated Legislation (in Lok Sabha)" ID="ID_783466193" CREATED="1496462431161" MODIFIED="1496462431161"/>
@@ -11117,6 +11233,25 @@
 </node>
 <node TEXT="1 yr, ( LS + RS = 21 + 10 ) , no Min, secure financial accountability of executive!" ID="ID_277584269" CREATED="1496021246289" MODIFIED="1496021300549"/>
 </node>
+</node>
+<node TEXT="Cabinet COmmittees" ID="ID_438422009" CREATED="1526180859992" MODIFIED="1526180874963">
+<node ID="ID_961611359" CREATED="1526180908390" MODIFIED="1526180922205"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      established by <b>rules of business</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="delegate the work of cabinet" ID="ID_705121499" CREATED="1526180893685" MODIFIED="1526180902701"/>
+<node TEXT="cabinet + non-cabinet members" ID="ID_1870613053" CREATED="1526180881339" MODIFIED="1526180893044"/>
 </node>
 </node>
 <node TEXT="Trivia" FOLDED="true" ID="ID_1860866553" CREATED="1491534230382" MODIFIED="1496055203524">
@@ -11292,9 +11427,9 @@
 </node>
 </node>
 </node>
-<node TEXT="Schemes" ID="ID_393676532" CREATED="1491534203781" MODIFIED="1496055203525">
+<node TEXT="Schemes" FOLDED="true" ID="ID_393676532" CREATED="1491534203781" MODIFIED="1496055203525">
 <font NAME="Calibri"/>
-<node TEXT="part 1" LOCALIZED_STYLE_REF="default" ID="ID_1828187281" CREATED="1488865189044" MODIFIED="1495405328900">
+<node TEXT="part 1" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1828187281" CREATED="1488865189044" MODIFIED="1495405328900">
 <font NAME="Calibri"/>
 <node TEXT="DISHA" FOLDED="true" ID="ID_699331310" CREATED="1489579466108" MODIFIED="1489579467904">
 <node TEXT="District Development coordination and monitoring committee" ID="ID_1939462586" CREATED="1489579496326" MODIFIED="1489579513998"/>
@@ -11698,7 +11833,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -11880,29 +12014,6 @@
 </node>
 <node TEXT="saur sujala" FOLDED="true" ID="ID_1584801182" CREATED="1494905559959" MODIFIED="1494905562303">
 <node TEXT="solar pump" ID="ID_1470912148" CREATED="1494905562459" MODIFIED="1494905564739"/>
-</node>
-<node TEXT="vanjeevan" FOLDED="true" ID="ID_1148471109" CREATED="1494919058449" MODIFIED="1497696613955">
-<icon BUILTIN="full-1"/>
-<node TEXT="UNDP + NSTFDC" FOLDED="true" ID="ID_969978861" CREATED="1494919060166" MODIFIED="1496286374391">
-<node TEXT="NSTFDC = non-profit company under Min. Tribal" FOLDED="true" ID="ID_1777140556" CREATED="1494925724675" MODIFIED="1494925740172">
-<node ID="ID_1199814456" CREATED="1494925755039" MODIFIED="1495501119670"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      financial assistance at <i>concessional </i>rates of interest for undertaking viable income generating activities to the Scheduled Tribes upto <b>double the poverty line</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="also research + technical assistance" ID="ID_1831706865" CREATED="1497152579764" MODIFIED="1497152588346"/>
-<node TEXT="tribal livelihood" ID="ID_1957326992" CREATED="1494919249687" MODIFIED="1494919255485"/>
 </node>
 <node TEXT="MADAD,&#xa;MEA" FOLDED="true" ID="ID_208820008" CREATED="1496651205974" MODIFIED="1496651252774" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="11.78181807967257 pt">
 <node TEXT="NRI in distress, work visa" ID="ID_1936961375" CREATED="1496651260812" MODIFIED="1496651265308"/>
@@ -12318,19 +12429,21 @@
 <node TEXT="NC Saxena for rural" ID="ID_1897614466" CREATED="1496705663105" MODIFIED="1496705667418"/>
 <node TEXT="SR Hashim for urban" ID="ID_1111310" CREATED="1496705667574" MODIFIED="1496705672450"/>
 </node>
-<node TEXT="Minority Schemes" FOLDED="true" ID="ID_1943211378" CREATED="1489896806443" MODIFIED="1496617295349" STYLE="bubble">
-<node TEXT="USTTAD" FOLDED="true" ID="ID_1907779343" CREATED="1489898196918" MODIFIED="1524896443830">
-<icon BUILTIN="full-1"/>
+<node TEXT="Minority Schemes" FOLDED="true" ID="ID_1943211378" CREATED="1489896806443" MODIFIED="1526205107279" STYLE="bubble">
+<icon BUILTIN="idea"/>
+<node TEXT="USTTAD" FOLDED="true" ID="ID_1907779343" CREATED="1489898196918" MODIFIED="1526205092520">
+<icon BUILTIN="idea"/>
 <node TEXT="traditional&#xa;skills arts and crafts" ID="ID_764081124" CREATED="1489898283371" MODIFIED="1489898313296"/>
 <node TEXT="entire india applicable" ID="ID_684123408" CREATED="1496286256570" MODIFIED="1496617309831">
 <font BOLD="true"/>
 </node>
-<node TEXT="hunar haat by NMFDC" FOLDED="true" ID="ID_1893289331" CREATED="1497330413839" MODIFIED="1497330432692">
+<node TEXT="hunar haat by NMFDC" LOCALIZED_STYLE_REF="default" ID="ID_1893289331" CREATED="1497330413839" MODIFIED="1526205089300" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
 <node TEXT="national minorities financial development council" ID="ID_850147594" CREATED="1497330433062" MODIFIED="1497330440789"/>
 </node>
 </node>
 <node TEXT="nai udaan" FOLDED="true" ID="ID_513651710" CREATED="1495501712785" MODIFIED="1495501714515">
-<node TEXT="free coaching via empanelled institutions" FOLDED="true" ID="ID_1246070095" CREATED="1495501732582" MODIFIED="1495501753145">
+<node TEXT="free coaching via empanelled institutions" ID="ID_1246070095" CREATED="1495501732582" MODIFIED="1495501753145">
 <node TEXT="for group A, B, C exams + bank + insurance" ID="ID_1197754235" CREATED="1495501755194" MODIFIED="1495501767609"/>
 </node>
 <node TEXT="stipend to students too!" ID="ID_1446517576" CREATED="1495501768780" MODIFIED="1495501785111"/>
@@ -12341,7 +12454,7 @@
 <node TEXT="school dropouts from minority to join open schooling" ID="ID_902791228" CREATED="1526093074995" MODIFIED="1526093087775"/>
 <node TEXT="integrated Education and Livelihood Initiative for the Minority Youth" ID="ID_370774560" CREATED="1489898244346" MODIFIED="1489898259428"/>
 </node>
-<node TEXT="Nai ROshni" FOLDED="true" ID="ID_1802397146" CREATED="1489898213764" MODIFIED="1489898217646">
+<node TEXT="Nai ROshni" ID="ID_1802397146" CREATED="1489898213764" MODIFIED="1489898217646">
 <node ID="ID_1128933349" CREATED="1489898328399" MODIFIED="1496292175448"><richcontent TYPE="NODE">
 
 <html>
@@ -12357,14 +12470,14 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Padho PArdesh" FOLDED="true" ID="ID_761126893" CREATED="1489654039037" MODIFIED="1490268062940" STYLE="bubble">
+<node TEXT="Padho PArdesh" ID="ID_761126893" CREATED="1489654039037" MODIFIED="1490268062940" STYLE="bubble">
 <node TEXT="For Minority  education loan.  interest subsidy" ID="ID_1686175980" CREATED="1489654086757" MODIFIED="1489896984393"/>
 </node>
-<node TEXT="MANAS" FOLDED="true" ID="ID_611713764" CREATED="1495501316379" MODIFIED="1495501677594" STYLE="bubble">
+<node TEXT="MANAS" ID="ID_611713764" CREATED="1495501316379" MODIFIED="1495501677594" STYLE="bubble">
 <node TEXT="Maulana Azad National academy for Skills" ID="ID_830440073" CREATED="1495501683857" MODIFIED="1495501689125"/>
 <node TEXT="skill dev, PPP, minority" ID="ID_1893022668" CREATED="1495501690391" MODIFIED="1495501698153"/>
 </node>
-<node TEXT="garib nawaz skill development centre" FOLDED="true" ID="ID_1669012260" CREATED="1524896458933" MODIFIED="1524896475858" STYLE="bubble">
+<node TEXT="garib nawaz skill development centre" ID="ID_1669012260" CREATED="1524896458933" MODIFIED="1524896475858" STYLE="bubble">
 <node TEXT="min minority" ID="ID_846339602" CREATED="1524896479184" MODIFIED="1524896482247"/>
 <node TEXT="employment oriented skill dev" ID="ID_864417966" CREATED="1524896482365" MODIFIED="1524896487320"/>
 </node>
@@ -14136,23 +14249,6 @@
 </node>
 <node TEXT="coordinated by MoEFCC" ID="ID_1004451137" CREATED="1496634256836" MODIFIED="1496634262432"/>
 </node>
-<node TEXT="eklavya model residential schools&#xa;    EMRS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_613549527" CREATED="1496635028250" MODIFIED="1497701855419" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="full-1"/>
-<font NAME="Calibri"/>
-<node ID="ID_355086411" CREATED="1496635034542" MODIFIED="1496635034542"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">middle and high level education to Scheduled Tribe (ST)<br/>students in remote areas</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="min Tribal" ID="ID_926880914" CREATED="1496635046581" MODIFIED="1496635052825"/>
-</node>
 <node TEXT="UNEP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1474288831" CREATED="1496636090942" MODIFIED="1497701848277" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
@@ -14935,7 +15031,7 @@
 </node>
 </node>
 </node>
-<node TEXT="IR" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
+<node TEXT="IR" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
 <font NAME="Calibri"/>
 <node TEXT="Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1034117854" CREATED="1488085350288" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
@@ -15162,7 +15258,7 @@
 <node TEXT="South China Sea" LOCALIZED_STYLE_REF="default" ID="ID_316452416" CREATED="1488085959430" MODIFIED="1494887616063">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="Organisations" LOCALIZED_STYLE_REF="default" ID="ID_555659560" CREATED="1488181337149" MODIFIED="1494887616063">
+<node TEXT="Organisations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_555659560" CREATED="1488181337149" MODIFIED="1494887616063">
 <font NAME="Calibri"/>
 <node TEXT="ADB" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1629169116" CREATED="1494451195011" MODIFIED="1526125990806">
 <icon BUILTIN="idea"/>
@@ -15495,10 +15591,13 @@
 </node>
 <node TEXT="United Nations (UN)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1755492517" CREATED="1489558384205" MODIFIED="1496749549416">
 <font NAME="Calibri"/>
-<node TEXT="UN secretariat" FOLDED="true" ID="ID_1758404720" CREATED="1489558500669" MODIFIED="1489558504619">
-<node TEXT="UN general Secretary" FOLDED="true" ID="ID_760682603" CREATED="1489558449958" MODIFIED="1489558457007">
+<node TEXT="UN secretariat" ID="ID_1758404720" CREATED="1489558500669" MODIFIED="1489558504619">
+<node TEXT="UN general Secretary" ID="ID_760682603" CREATED="1489558449958" MODIFIED="1489558457007">
 <node TEXT="5 yr term (inf.)" ID="ID_1582801855" CREATED="1489558458612" MODIFIED="1489558467623"/>
-<node TEXT="appointed by UN General Assembly =&gt; Selection subject to veto" FOLDED="true" ID="ID_1819598931" CREATED="1489558518179" MODIFIED="1496704642207">
+<node TEXT="de facto spokesperson for UN" LOCALIZED_STYLE_REF="default" ID="ID_1521995347" CREATED="1526204498331" MODIFIED="1526204506790" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="appointed by UN General Assembly =&gt; Selection subject to veto" ID="ID_1819598931" CREATED="1489558518179" MODIFIED="1496704642207">
 <node TEXT="on reco. of UNSC" ID="ID_15296002" CREATED="1494385515007" MODIFIED="1494385520507"/>
 </node>
 <node ID="ID_1909211498" CREATED="1495769504855" MODIFIED="1495769522832"><richcontent TYPE="NODE">
@@ -17019,9 +17118,10 @@
 </node>
 </node>
 </node>
-<node TEXT="Vulnerable Sections" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1505326792" CREATED="1488271332966" MODIFIED="1488545169858">
-<node TEXT="Elderly" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_364614497" CREATED="1488271336600" MODIFIED="1496790145301">
-<icon BUILTIN="full-1"/>
+<node TEXT="Vulnerable Sections" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1505326792" CREATED="1488271332966" MODIFIED="1526192054656" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+<node TEXT="Elderly" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_364614497" CREATED="1488271336600" MODIFIED="1526192058641">
 <node TEXT="facts" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_357128747" CREATED="1495408598495" MODIFIED="1495408599123">
 <node TEXT="for 38% pension is the only income" LOCALIZED_STYLE_REF="default" ID="ID_1763513367" CREATED="1488271368703" MODIFIED="1488545169858"/>
 <node TEXT="65% dependent for financial needs" LOCALIZED_STYLE_REF="default" ID="ID_743732823" CREATED="1488271348077" MODIFIED="1488545169858"/>
@@ -17062,7 +17162,11 @@
 <node TEXT="by ALIMCO" ID="ID_1121300601" CREATED="1524895923455" MODIFIED="1524895940169"/>
 </node>
 </node>
-<node TEXT="Tribal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_969099627" CREATED="1488271339741" MODIFIED="1488545169863">
+<node TEXT="Tribal" LOCALIZED_STYLE_REF="default" ID="ID_969099627" CREATED="1488271339741" MODIFIED="1488545169863">
+<node TEXT="provisions" FOLDED="true" ID="ID_1660830173" CREATED="1526191935777" MODIFIED="1526191939278">
+<node TEXT="forest dwellers act" ID="ID_1679345545" CREATED="1526191940020" MODIFIED="1526191968603" LINK="#ID_1044454238"/>
+<node TEXT="laxmikanth" ID="ID_1111035123" CREATED="1526191944672" MODIFIED="1526191951587" LINK="#ID_25340720"/>
+</node>
 <node TEXT="PVTG" FOLDED="true" ID="ID_1247671953" CREATED="1491718145353" MODIFIED="1491718207984">
 <icon BUILTIN="idea"/>
 <node TEXT="Criteria of identification" FOLDED="true" ID="ID_451671275" CREATED="1491718452916" MODIFIED="1491718458213">
@@ -17100,7 +17204,7 @@
 </node>
 <node TEXT="examples of PVTG" ID="ID_1349854983" CREATED="1492165469819" MODIFIED="1492234172083"/>
 </node>
-<node TEXT="govt. initiatives" FOLDED="true" ID="ID_140460565" CREATED="1492242467511" MODIFIED="1492242472333">
+<node TEXT="govt. initiatives" ID="ID_140460565" CREATED="1492242467511" MODIFIED="1492242472333">
 <node TEXT="Special Central Assistance to Tribal Sub Plan (SCA to TSP)" FOLDED="true" ID="ID_1991423971" CREATED="1492242472827" MODIFIED="1492242489421">
 <node TEXT="additive to state plan efforts for tribal dev" ID="ID_1908845525" CREATED="1492242501399" MODIFIED="1492242515198"/>
 </node>
@@ -17111,15 +17215,47 @@
 <font NAME="Calibri"/>
 </node>
 <node TEXT="Vocational Training - via NGO" ID="ID_1762062730" CREATED="1492242576292" MODIFIED="1492242582181"/>
+<node TEXT="vanjeevan" ID="ID_1148471109" CREATED="1494919058449" MODIFIED="1526191990043">
+<icon BUILTIN="idea"/>
+<node TEXT="UNDP + NSTFDC" ID="ID_969978861" CREATED="1494919060166" MODIFIED="1496286374391">
+<node TEXT="NSTFDC = non-profit company under Min. Tribal" ID="ID_1777140556" CREATED="1494925724675" MODIFIED="1494925740172">
+<node ID="ID_1199814456" CREATED="1494925755039" MODIFIED="1495501119670"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      financial assistance at <i>concessional </i>rates of interest for undertaking viable income generating activities to the Scheduled Tribes upto <b>double the poverty line</b>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="universities" FOLDED="true" ID="ID_1408693120" CREATED="1495233898660" MODIFIED="1497241881252">
+</node>
+</node>
+<node TEXT="also research + technical assistance" ID="ID_1831706865" CREATED="1497152579764" MODIFIED="1497152588346"/>
+<node TEXT="tribal livelihood" ID="ID_1957326992" CREATED="1494919249687" MODIFIED="1494919255485"/>
+</node>
+<node TEXT="eklavya model residential schools&#xa;    EMRS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_613549527" CREATED="1496635028250" MODIFIED="1526192024054" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="idea"/>
+<font NAME="Calibri"/>
+<node TEXT="min Tribal" ID="ID_926880914" CREATED="1496635046581" MODIFIED="1496635052825"/>
+<node TEXT="all tribal blocks with &gt;50% ST" ID="ID_1878627358" CREATED="1524896850793" MODIFIED="1524896875200"/>
+<node TEXT="sports, skill, local art n culture" ID="ID_639201987" CREATED="1524896876048" MODIFIED="1526192099909">
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+<node TEXT="universities" ID="ID_1408693120" CREATED="1495233898660" MODIFIED="1497241881252">
 <icon BUILTIN="full-1"/>
 <node TEXT="1. Indira Gandhi Tribal University ,Amarkantak, MP" ID="ID_1537452286" CREATED="1495233901301" MODIFIED="1495233925257"/>
 <node TEXT="2. coming up in Jharkhand" ID="ID_195811088" CREATED="1495233925741" MODIFIED="1495233934914"/>
 </node>
 <node TEXT="Demographics of tribals" FOLDED="true" ID="ID_695691080" CREATED="1492234274321" MODIFIED="1492234935746">
 <icon BUILTIN="idea"/>
-<node TEXT="highest literacy rate" FOLDED="true" ID="ID_1489782326" CREATED="1492234277527" MODIFIED="1492234285250">
+<node TEXT="highest literacy rate" ID="ID_1489782326" CREATED="1492234277527" MODIFIED="1492234285250">
 <node TEXT="Lakshwadeep = 91.7%&#xa;kerala = 76%" ID="ID_1546059111" CREATED="1492234285394" MODIFIED="1492234313082"/>
 </node>
 </node>
@@ -17309,7 +17445,7 @@
 <node TEXT="French revolution" LOCALIZED_STYLE_REF="default" ID="ID_785161958" CREATED="1488321609009" MODIFIED="1488545169868"/>
 </node>
 </node>
-<node TEXT="Minority" LOCALIZED_STYLE_REF="default" ID="ID_51571520" CREATED="1489572489862" MODIFIED="1489572491969">
+<node TEXT="Minority" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_51571520" CREATED="1489572489862" MODIFIED="1489572491969">
 <node TEXT="3E - education , employment, empowerment" ID="ID_258759023" CREATED="1526130749191" MODIFIED="1526132681717">
 <icon BUILTIN="flag-green"/>
 <node TEXT="education&#xa;3T - teacher tiffin toilet" ID="ID_274287428" CREATED="1526130768807" MODIFIED="1526130788989"/>
@@ -18943,7 +19079,7 @@
 <node TEXT="believe in fatalism" ID="ID_1593374796" CREATED="1497066938239" MODIFIED="1497066940927"/>
 </node>
 </node>
-<node TEXT="Paintings" FOLDED="true" ID="ID_765136895" CREATED="1490876242722" MODIFIED="1497043998716">
+<node TEXT="Paintings" ID="ID_765136895" CREATED="1490876242722" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
 <node TEXT="pal" FOLDED="true" ID="ID_95390277" CREATED="1496020386071" MODIFIED="1496020387741">
 <node TEXT="@magadha region, South Bihar, 750 AD (Pala Dynasty)" LOCALIZED_STYLE_REF="default" ID="ID_1894553504" CREATED="1496021606663" MODIFIED="1496021702462" BACKGROUND_COLOR="#feffd6">
@@ -19057,6 +19193,11 @@
 <node TEXT="17-19 th century" ID="ID_784137983" CREATED="1496738040418" MODIFIED="1496738044605"/>
 <node TEXT="used at Kota Railway station" ID="ID_1506486549" CREATED="1496738044746" MODIFIED="1496738051202"/>
 <node TEXT="" ID="ID_889181850" CREATED="1525838629632" MODIFIED="1525838629632"/>
+</node>
+<node TEXT="kalighat paintings" ID="ID_1712375357" CREATED="1526204251606" MODIFIED="1526204254874">
+<node TEXT="lithography, Hindu" ID="ID_308807415" CREATED="1526204255609" MODIFIED="1526204259490"/>
+<node TEXT="ram, sita, durga = oriental branch" ID="ID_949763565" CREATED="1526204348004" MODIFIED="1526204357803"/>
+<node TEXT="daily life = occidental branch" ID="ID_347543758" CREATED="1526204358063" MODIFIED="1526204363951"/>
 </node>
 </node>
 </node>
