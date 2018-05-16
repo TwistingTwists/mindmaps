@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1558,7 +1558,7 @@
 </node>
 <node TEXT="Trafficking victims - Beti Zindabad Bakery, Jashpur" ID="ID_838525164" CREATED="1526125503025" MODIFIED="1526125518525"/>
 </node>
-<node TEXT="Prelims" FOLDED="true" POSITION="right" ID="ID_702299847" CREATED="1518297380366" MODIFIED="1520524888496">
+<node TEXT="Prelims" POSITION="right" ID="ID_702299847" CREATED="1518297380366" MODIFIED="1520524888496">
 <node TEXT="Agriculture" FOLDED="true" ID="ID_587017194" CREATED="1518297421234" MODIFIED="1518297424471">
 <node TEXT="Credit" FOLDED="true" ID="ID_1503542635" CREATED="1518554635689" MODIFIED="1518554641082">
 <node TEXT="Loan per hectare" ID="ID_1147660779" CREATED="1518554642230" MODIFIED="1518554666656"/>

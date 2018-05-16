@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -3517,7 +3517,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Economy" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
+<node TEXT="Economy" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
 <font NAME="Calibri"/>
 <node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
 <node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
@@ -5888,7 +5888,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Climate Change" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_414253046" CREATED="1488274042052" MODIFIED="1497043998622">
+<node TEXT="Climate Change" LOCALIZED_STYLE_REF="default" ID="ID_414253046" CREATED="1488274042052" MODIFIED="1497043998622">
 <font NAME="Calibri"/>
 <node TEXT="HIMANSH" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_511486212" CREATED="1488274045791" MODIFIED="1495087034462">
 <icon BUILTIN="launch"/>
@@ -6182,7 +6182,7 @@
 </node>
 <node TEXT="India = ratified" ID="ID_1823419843" CREATED="1489407923883" MODIFIED="1489407926963"/>
 </node>
-<node TEXT="Montreal Protocol" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_751302684" CREATED="1489125713858" MODIFIED="1495087034503">
+<node TEXT="Montreal Protocol" LOCALIZED_STYLE_REF="default" ID="ID_751302684" CREATED="1489125713858" MODIFIED="1495087034503">
 <font NAME="Calibri"/>
 <node ID="ID_483622327" CREATED="1495435995963" MODIFIED="1495436012141"><richcontent TYPE="NODE">
 
@@ -6199,8 +6199,9 @@
 </richcontent>
 </node>
 <node TEXT="tech + Finance" ID="ID_1386208714" CREATED="1489125718342" MODIFIED="1489125724402"/>
-<node TEXT="ozone layer depleting substances = production + consumption!" ID="ID_1173191581" CREATED="1489125757622" MODIFIED="1516269692262">
+<node TEXT="ozone layer depleting substances (ODS)&#xa;= production + consumption!" ID="ID_1173191581" CREATED="1489125757622" MODIFIED="1526493228362">
 <font BOLD="true"/>
+<node TEXT="Methyl Chlrofoform, CTC Halons, Methly Bromide" ID="ID_1228940547" CREATED="1526493193495" MODIFIED="1526493203724"/>
 </node>
 <node TEXT="Tech Transfer from developed to developing" ID="ID_10402785" CREATED="1489125770401" MODIFIED="1489125779730"/>
 <node TEXT="Kigali Amendment" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_947912721" CREATED="1488276638797" MODIFIED="1488545169658">
@@ -8995,7 +8996,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
+<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
 <icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
 <node TEXT="Geography" ID="ID_24166292" CREATED="1490945390147" MODIFIED="1496055203518">
@@ -10458,11 +10459,16 @@
 <node TEXT="ramayan, mahabharta, purana stories, TN" ID="ID_1250693805" CREATED="1497327498342" MODIFIED="1506417885526"/>
 <node TEXT="kaniyan = scheduled tribes" ID="ID_1937497608" CREATED="1497327513563" MODIFIED="1497327519903"/>
 </node>
-<node TEXT="Tirukkal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_793552099" CREATED="1497531363120" MODIFIED="1497532017459" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="full-1"/>
+<node TEXT="Tirukkal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_793552099" CREATED="1497531363120" MODIFIED="1526490893217" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
 <node TEXT="sangam before Silappdikaram, and manimekalai" ID="ID_366181420" CREATED="1497531371066" MODIFIED="1497531387273"/>
 <node TEXT="ethics + universality" ID="ID_1112649910" CREATED="1497531999743" MODIFIED="1497532015271"/>
+</node>
+<node TEXT="Pathi nenkil kanakku" LOCALIZED_STYLE_REF="default" ID="ID_604534228" CREATED="1526490893780" MODIFIED="1526490911733" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="idea"/>
+<font NAME="Calibri"/>
+<node TEXT="ethics + morality" ID="ID_630423198" CREATED="1526490905610" MODIFIED="1526490909765"/>
 </node>
 <node TEXT="kunthi, yakshgana [ dance + drama + ramayana + mahabharata ]&#xa;karnataka" ID="ID_1910501853" CREATED="1495940594418" MODIFIED="1506417915345"/>
 <node TEXT="Bhavai = Gujrat" FOLDED="true" ID="ID_1253482557" CREATED="1496638227306" MODIFIED="1496638238007">
@@ -14702,12 +14708,6 @@
 <node TEXT="geological and sedimentary basin data" ID="ID_1198183817" CREATED="1497439877309" MODIFIED="1497439884298"/>
 <node TEXT="Open Acreage Policy mein used" ID="ID_220167762" CREATED="1497439885829" MODIFIED="1497439892973"/>
 </node>
-<node TEXT="BioTrade" FOLDED="true" ID="ID_868430148" CREATED="1497148111284" MODIFIED="1497439077654">
-<icon BUILTIN="full-1"/>
-<node TEXT="by UNCTAD, 1996" ID="ID_524008363" CREATED="1497148114834" MODIFIED="1497148119547"/>
-<node TEXT="inline with CBD" ID="ID_244516339" CREATED="1497148119687" MODIFIED="1497148122506"/>
-<node TEXT="capacity building for developing countries to make products using Biodiversity" ID="ID_281421928" CREATED="1497148123084" MODIFIED="1497148145058"/>
-</node>
 <node TEXT="Delhi" FOLDED="true" ID="ID_1401778132" CREATED="1497063293567" MODIFIED="1497438439242">
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
@@ -15003,6 +15003,13 @@
 <node TEXT="9.9 pt 365 econ" ID="ID_1680648948" CREATED="1526042678617" MODIFIED="1526042682613"/>
 </node>
 </node>
+</node>
+<node TEXT="Geography overview" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1884441230" CREATED="1526472808185" MODIFIED="1526472812914">
+<font NAME="Calibri"/>
+<node TEXT="factors affecting T of a place" ID="ID_237622832" CREATED="1526472812946" MODIFIED="1526472819588">
+<node TEXT="Latitude,&#xa;Ocean Current,&#xa;Altitude&#xa;Continentality&#xa;Slope,&#xa;vegetation" ID="ID_520668913" CREATED="1526472819728" MODIFIED="1526472879539"/>
+</node>
+<node TEXT="reasons of formation of tropical cyclone" ID="ID_407031278" CREATED="1526475043148" MODIFIED="1526475051977"/>
 </node>
 <node TEXT="IR" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
 <font NAME="Calibri"/>
