@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -4587,7 +4587,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -9053,7 +9052,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
+<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
 <icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
 <node TEXT="Geography" ID="ID_24166292" CREATED="1490945390147" MODIFIED="1496055203518">
@@ -9194,7 +9193,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="eastern ghats" ID="ID_919879890" CREATED="1494400440628" MODIFIED="1494400443956"/>
 <node TEXT="Andhra, Vishakapattnam" ID="ID_2530043" CREATED="1494400421429" MODIFIED="1494400428894"/>
@@ -11033,7 +11031,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Committees" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_46370831" CREATED="1491534168713" MODIFIED="1496055203523" BACKGROUND_COLOR="#a4ffaa">
+<node TEXT="Committees" LOCALIZED_STYLE_REF="default" ID="ID_46370831" CREATED="1491534168713" MODIFIED="1496055203523" BACKGROUND_COLOR="#a4ffaa">
 <font NAME="Calibri"/>
 <node TEXT="Santosh Hedge" ID="ID_1914471466" CREATED="1495148226019" MODIFIED="1499335427742">
 <icon BUILTIN="button_cancel"/>
@@ -11171,7 +11169,7 @@
 <node TEXT="Kadyam Srihari" FOLDED="true" ID="ID_443229737" CREATED="1496728288360" MODIFIED="1526740891638">
 <node TEXT="girl education improve" ID="ID_1735528762" CREATED="1496728292341" MODIFIED="1496728299845"/>
 </node>
-<node TEXT="PARLIAMENTARY COMMITTEES" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1991299844" CREATED="1496462404754" MODIFIED="1526127591430" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="PARLIAMENTARY COMMITTEES" LOCALIZED_STYLE_REF="default" ID="ID_1991299844" CREATED="1496462404754" MODIFIED="1526127591430" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 <node TEXT="Why need parliamentary committee?" FOLDED="true" ID="ID_691124576" CREATED="1497532951447" MODIFIED="1497532959238">
 <node ID="ID_836614204" CREATED="1497532961277" MODIFIED="1497533091301" MAX_WIDTH="139.54203427596863 pt" MIN_WIDTH="139.54203427596863 pt"><richcontent TYPE="NODE">
@@ -11201,7 +11199,7 @@
 <node TEXT="Committee on Absence of Members" ID="ID_161367433" CREATED="1526127629262" MODIFIED="1526127629571"/>
 <node TEXT="Rules Committee" ID="ID_838221289" CREATED="1526127640099" MODIFIED="1526127640507"/>
 </node>
-<node TEXT="CAN;T HAVE MINISTER AS MEMBER" FOLDED="true" ID="ID_747623577" CREATED="1496462423890" MODIFIED="1496462430585">
+<node TEXT="CAN;T HAVE MINISTER AS MEMBER" ID="ID_747623577" CREATED="1496462423890" MODIFIED="1496462430585">
 <node TEXT="Estimates Committee" LOCALIZED_STYLE_REF="default" ID="ID_452270541" CREATED="1496462431149" MODIFIED="1496570553505" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
@@ -15081,7 +15079,7 @@
 </node>
 <node TEXT="reasons of formation of tropical cyclone" ID="ID_407031278" CREATED="1526475043148" MODIFIED="1526475051977"/>
 </node>
-<node TEXT="IR" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
+<node TEXT="IR" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
 <font NAME="Calibri"/>
 <node TEXT="Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1034117854" CREATED="1488085350288" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
@@ -15404,10 +15402,10 @@
 <node TEXT="EU + Iceland, Liechtenstein, NOrway - forming internal market" ID="ID_151449810" CREATED="1494903759777" MODIFIED="1494903782640"/>
 </node>
 </node>
-<node TEXT="IAEA" FOLDED="true" ID="ID_1500118673" CREATED="1495235949897" MODIFIED="1495235951631">
+<node TEXT="IAEA" ID="ID_1500118673" CREATED="1495235949897" MODIFIED="1495235951631">
 <node TEXT="not under UN" ID="ID_1033172138" CREATED="1523640286471" MODIFIED="1523640288338"/>
 <node TEXT="reports to UNGA + UNSC both" ID="ID_948099130" CREATED="1495235958210" MODIFIED="1495235969774"/>
-<node TEXT="LEU&#xa;low enriched uranium" FOLDED="true" ID="ID_26347378" CREATED="1523640291823" MODIFIED="1523640308126">
+<node TEXT="LEU&#xa;low enriched uranium" ID="ID_26347378" CREATED="1523640291823" MODIFIED="1523640308126">
 <icon BUILTIN="idea"/>
 <node ID="ID_1753653339" CREATED="1523640326924" MODIFIED="1523640326924"><richcontent TYPE="NODE">
 
@@ -15443,7 +15441,7 @@
 </node>
 </node>
 <node TEXT="IEA&#xa;international energy agency" FOLDED="true" ID="ID_1446325645" CREATED="1495430258701" MODIFIED="1525511583767">
-<node TEXT="autonomous intergovernmental organization" FOLDED="true" ID="ID_786300738" CREATED="1495430318361" MODIFIED="1495430319834">
+<node TEXT="autonomous intergovernmental organization" ID="ID_786300738" CREATED="1495430318361" MODIFIED="1495430319834">
 <node ID="ID_375759022" CREATED="1495430429883" MODIFIED="1525511848132"><richcontent TYPE="NODE">
 
 <html>
@@ -15459,7 +15457,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT=" four main areas of focus:" FOLDED="true" ID="ID_1262247859" CREATED="1495430340546" MODIFIED="1495430344685">
+<node TEXT=" four main areas of focus:" ID="ID_1262247859" CREATED="1495430340546" MODIFIED="1495430344685">
 <node TEXT="energy security&#xa; economic development environmental awareness engagement worldwide" ID="ID_865257191" CREATED="1495430345582" MODIFIED="1495430409605"/>
 </node>
 <node TEXT="to be a member, must be in OECD!! ( but if in OECD != member of IEA)" LOCALIZED_STYLE_REF="default" ID="ID_1385319590" CREATED="1496458695425" MODIFIED="1496458716542" BACKGROUND_COLOR="#feffd6">
@@ -15472,7 +15470,7 @@
 <node TEXT="world energy investment" LOCALIZED_STYLE_REF="default" ID="ID_1192420205" CREATED="1495430462214" MODIFIED="1495430472515" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="International Smart Grid Action Network (ISGAN)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_801715720" CREATED="1495430489165" MODIFIED="1497417095781" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="International Smart Grid Action Network (ISGAN)" LOCALIZED_STYLE_REF="default" ID="ID_801715720" CREATED="1495430489165" MODIFIED="1497417095781" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 <node TEXT="agreement under IEA" ID="ID_556740411" CREATED="1495430495393" MODIFIED="1495430504441"/>
 <node TEXT="india = founding member" ID="ID_1520081017" CREATED="1495430504978" MODIFIED="1495430508741"/>
@@ -17808,7 +17806,7 @@
 </node>
 </node>
 </node>
-<node TEXT="History" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
+<node TEXT="History" FOLDED="true" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
 <font NAME="Calibri"/>
 <node TEXT="Modern History" ID="ID_1728381134" CREATED="1492167601191" MODIFIED="1492167605578">
 <node TEXT="Peasant movements" FOLDED="true" ID="ID_659844323" CREATED="1492167605844" MODIFIED="1526810416286">
@@ -18101,7 +18099,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -19219,7 +19216,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Saptbhanginaya - 7 types of judgement&#xa;&#xa;, [ not uncertainty in judgement but its conditional character ]" ID="ID_1969681272" CREATED="1526793001471" MODIFIED="1526793013175"/>
 </node>
