@@ -8577,6 +8577,29 @@
 <node TEXT="autarky" ID="ID_837115950" CREATED="1527171494280" MODIFIED="1527171495516">
 <node TEXT="closed self sufficient economy" ID="ID_115657415" CREATED="1527171495729" MODIFIED="1527171500148"/>
 </node>
+<node TEXT="decentralised procurement" ID="ID_1248860857" CREATED="1527182569433" MODIFIED="1527182572991">
+<node TEXT="centre to fund + states to procure under TPDS" ID="ID_638252668" CREATED="1527182574115" MODIFIED="1527182593510"/>
+</node>
+<node TEXT="Agriculture census" ID="ID_399737272" CREATED="1527182630859" MODIFIED="1527182633489">
+<node ID="ID_1304775038" CREATED="1527182634395" MODIFIED="1527182634395"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">Department of Agriculture and Cooperation, Ministry of Agriculture</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="order of exports 2016-17" ID="ID_1820568522" CREATED="1527182778309" MODIFIED="1527182783231">
+<node TEXT="engg goods, gems agri, electronic goods" ID="ID_1531341849" CREATED="1527182783918" MODIFIED="1527182796600"/>
+</node>
+<node TEXT="census town = urban town" ID="ID_834560772" CREATED="1527182995755" MODIFIED="1527182999998"/>
+<node TEXT=" Indian states exhibit a negative relationship between the size of the state and the&#xa;openness to both inter- and intra-firm trade" ID="ID_1828967647" CREATED="1527183153855" MODIFIED="1527183154522"/>
 </node>
 </node>
 <node TEXT="culture" FOLDED="true" ID="ID_1174035393" CREATED="1524238727502" MODIFIED="1524238731294">
