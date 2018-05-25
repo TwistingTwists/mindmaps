@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.903">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -8546,7 +8546,7 @@
 <node TEXT="artbitrage" FOLDED="true" ID="ID_735831422" CREATED="1526619368061" MODIFIED="1526619371233">
 <node TEXT="simlutaneous buying and selling of assets in different markets" ID="ID_1904206792" CREATED="1526619371327" MODIFIED="1526619383360"/>
 </node>
-<node TEXT="vision 17" ID="ID_1473775953" CREATED="1527169304443" MODIFIED="1527169306371">
+<node TEXT="vision 17" FOLDED="true" ID="ID_1473775953" CREATED="1527169304443" MODIFIED="1527169306371">
 <node TEXT="NBFC" FOLDED="true" ID="ID_649071631" CREATED="1527169306486" MODIFIED="1527169320204">
 <node TEXT="- no demand deposit, not a part of payment and settlement" ID="ID_1286954883" CREATED="1527169327361" MODIFIED="1527169350464"/>
 </node>
@@ -8591,7 +8591,6 @@
     <span class="fontstyle0">Department of Agriculture and Cooperation, Ministry of Agriculture</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -8600,6 +8599,70 @@
 </node>
 <node TEXT="census town = urban town" ID="ID_834560772" CREATED="1527182995755" MODIFIED="1527182999998"/>
 <node TEXT=" Indian states exhibit a negative relationship between the size of the state and the&#xa;openness to both inter- and intra-firm trade" ID="ID_1828967647" CREATED="1527183153855" MODIFIED="1527183154522"/>
+</node>
+<node TEXT="vision 25" ID="ID_424627697" CREATED="1527240701028" MODIFIED="1527245379500">
+<node TEXT="udranga, uparika" ID="ID_450091698" CREATED="1527240703480" MODIFIED="1527240710366">
+<node TEXT="gupta agri taxes" ID="ID_1439784200" CREATED="1527240712504" MODIFIED="1527240716020"/>
+</node>
+<node TEXT="bamako convention" ID="ID_1922345793" CREATED="1527240717302" MODIFIED="1527240723798">
+<node TEXT="africa waste and hazardous products" ID="ID_1363777904" CREATED="1527240723868" MODIFIED="1527240730730"/>
+</node>
+<node TEXT="SRI&#xa;System of rice intensification" ID="ID_1069282117" CREATED="1527240798660" MODIFIED="1527245379488">
+<node TEXT="alternate wet and drying of land =&gt; weed growth susceptible" ID="ID_891284550" CREATED="1527240803360" MODIFIED="1527240828630"/>
+<node ID="ID_1748850630" CREATED="1527240829029" MODIFIED="1527240835532"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      no <b><i>chemical </i></b>fertilizers
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="municipalities have right to be heard before being dissolved before completion of their tenure by Constitution" ID="ID_1122728359" CREATED="1527245473343" MODIFIED="1527245499928"/>
+<node TEXT="Engels Law" ID="ID_1588495372" CREATED="1527245505440" MODIFIED="1527245508279">
+<node TEXT="income up =&gt; less on food" ID="ID_985588219" CREATED="1527245508335" MODIFIED="1527245513056"/>
+</node>
+<node TEXT="Periodic Labor force survey (PLFS)" ID="ID_1701547401" CREATED="1527245518997" MODIFIED="1527245528172">
+<node TEXT="NSSO" ID="ID_1812358089" CREATED="1527245529431" MODIFIED="1527245534221"/>
+</node>
+<node TEXT="ambedakar" ID="ID_1842515900" CREATED="1527245542941" MODIFIED="1527245545724">
+<node TEXT="All India SC League, 1942" ID="ID_1721215661" CREATED="1527245546479" MODIFIED="1527245566037"/>
+<node TEXT="Bhaishkrit Hitkarni sabha, 1923" ID="ID_1489896227" CREATED="1527245551925" MODIFIED="1527245562670"/>
+</node>
+<node TEXT="Central council of local govt." FOLDED="true" ID="ID_766012762" CREATED="1527245680692" MODIFIED="1527245686206">
+<node TEXT="263, MoUD, Urban dev only" ID="ID_1060531150" CREATED="1527245686519" MODIFIED="1527245697514"/>
+</node>
+<node TEXT="pioneer species" FOLDED="true" ID="ID_777784919" CREATED="1527245706627" MODIFIED="1527245709864">
+<node TEXT="short life span, first to colonise , bacteria and fungi" ID="ID_555796086" CREATED="1527245709982" MODIFIED="1527245737977"/>
+</node>
+<node TEXT="heliopause" ID="ID_974474908" CREATED="1527245751246" MODIFIED="1527245754204">
+<node TEXT="interstellar wind + solar wind ki boundary" ID="ID_896825085" CREATED="1527245755997" MODIFIED="1527245762857"/>
+</node>
+<node TEXT="All India Depressed classes association , 1935" FOLDED="true" ID="ID_1036884687" CREATED="1527245604266" MODIFIED="1527245611908">
+<node TEXT="By INC for depressed classes votes" ID="ID_1035644926" CREATED="1527245612008" MODIFIED="1527245619908"/>
+</node>
+<node TEXT="smithsonian agreement, 1970" ID="ID_1363007145" CREATED="1527240840107" MODIFIED="1527240845723">
+<node TEXT="end of fixed exchange rates with gold / silver backing" ID="ID_110595767" CREATED="1527240845787" MODIFIED="1527240867536"/>
+</node>
+<node TEXT="mahaprainibbana" ID="ID_624049278" CREATED="1527241771262" MODIFIED="1527241778355">
+<node TEXT="Ghantasala village in Krishna district" ID="ID_701547839" CREATED="1527241768385" MODIFIED="1527241769729"/>
+<node TEXT="Andhra 70 feet buddha" ID="ID_428564189" CREATED="1527241778642" MODIFIED="1527241782535"/>
+</node>
+<node TEXT="trachoma" FOLDED="true" ID="ID_720993474" CREATED="1527242238501" MODIFIED="1527242241463">
+<node TEXT="GET2020 elimination" ID="ID_1425791907" CREATED="1527242250215" MODIFIED="1527242260831"/>
+</node>
+<node TEXT="aarambh" FOLDED="true" ID="ID_320421342" CREATED="1527241246786" MODIFIED="1527241248149">
+<node TEXT="monitor rural roads app" ID="ID_1362377563" CREATED="1527241248298" MODIFIED="1527241252226"/>
+</node>
+<node TEXT="CPI vs GDP deflator as inflator indices" ID="ID_1814401346" CREATED="1527241284397" MODIFIED="1527241292598"/>
+<node TEXT="creation of leg council" ID="ID_1796327277" CREATED="1527241375917" MODIFIED="1527241379606"/>
 </node>
 </node>
 <node TEXT="culture" FOLDED="true" ID="ID_1174035393" CREATED="1524238727502" MODIFIED="1524238731294">
@@ -9828,7 +9891,6 @@
     <span class="fontstyle0">a statistical snapshot of the current status of<br/>skills development in more than 200 countries, </span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="OECD" ID="ID_836920703" CREATED="1527152747602" MODIFIED="1527152748841"/>
