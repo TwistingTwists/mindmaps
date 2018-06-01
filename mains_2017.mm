@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.138">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -7596,7 +7596,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Kathputli" FOLDED="true" ID="ID_1169460817" CREATED="1527768411080" MODIFIED="1527768412830">
@@ -7614,7 +7613,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -7656,7 +7654,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -8445,7 +8442,7 @@
 <node TEXT="for ASHA workers" ID="ID_129276628" CREATED="1527312323416" MODIFIED="1527312349618"/>
 </node>
 </node>
-<node TEXT="schemes" ID="ID_1793300457" CREATED="1523033053850" MODIFIED="1523033055098">
+<node TEXT="schemes" FOLDED="true" ID="ID_1793300457" CREATED="1523033053850" MODIFIED="1523033055098">
 <font BOLD="true"/>
 <node TEXT="swadhar greh" FOLDED="true" ID="ID_1359431071" CREATED="1522214491945" MODIFIED="1522214495814">
 <node TEXT="institutional support  for women rehab" ID="ID_1947719931" CREATED="1522214495968" MODIFIED="1522214511768"/>
@@ -9220,7 +9217,6 @@
     <span class="fontstyle0">judge of a High Court as an ad hoc judge of the Supreme Court</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_843487141" CREATED="1527743783556" MODIFIED="1527743783556"><richcontent TYPE="NODE">
@@ -9233,7 +9229,6 @@
     <span class="fontstyle0">a retired judge of the Supreme Court or a retired judge of a high court to<br/>act as a judge of the Supreme Court</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1768112283" CREATED="1527743789017" MODIFIED="1527743789017"><richcontent TYPE="NODE">
@@ -9246,7 +9241,6 @@
     <span class="fontstyle0">appointing other place or places other than Delhi as seat of the Supreme Court</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -9263,7 +9257,6 @@
     <span class="fontstyle0">ome seats are allotted to areas which are occupied by<br/>Pakistan and these seats remain vacant.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="governor = 5 yrs terms" LOCALIZED_STYLE_REF="default" ID="ID_32821086" CREATED="1527746295467" MODIFIED="1527746300238" BACKGROUND_COLOR="#feffd6">
@@ -9670,7 +9663,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -10774,7 +10766,7 @@
 <node TEXT="widespread banking entwork serving both retail and corporate" ID="ID_1404726994" CREATED="1526729496845" MODIFIED="1526729517641"/>
 </node>
 </node>
-<node TEXT="last days" ID="ID_1578105650" CREATED="1527761987575" MODIFIED="1527761989645">
+<node TEXT="last days" FOLDED="true" ID="ID_1578105650" CREATED="1527761987575" MODIFIED="1527761989645">
 <node TEXT="ren21" ID="ID_1889399511" CREATED="1527761962362" MODIFIED="1527761964206">
 <node TEXT="renewable energy partnership by UN" ID="ID_375539195" CREATED="1527761976932" MODIFIED="1527761983230"/>
 <node TEXT="for both industralised + developing countries" ID="ID_1833652523" CREATED="1527761964378" MODIFIED="1527761976089"/>
@@ -10848,6 +10840,16 @@
 <node TEXT="Min Petrol and gas" ID="ID_1024229871" CREATED="1527772083967" MODIFIED="1527772090776"/>
 <node TEXT="startup India scheme" ID="ID_1417318898" CREATED="1527772097764" MODIFIED="1527772105238"/>
 </node>
+<node TEXT="press freedom indxe" ID="ID_1017419793" CREATED="1527827601205" MODIFIED="1527827605393">
+<node TEXT="reporters without borders" ID="ID_1114454528" CREATED="1527827605424" MODIFIED="1527827610668"/>
+</node>
+<node TEXT="cooperative leection body by which state" ID="ID_1896809412" CREATED="1527827612935" MODIFIED="1527827625081">
+<node TEXT="haryana" ID="ID_582507489" CREATED="1527827625206" MODIFIED="1527827626690"/>
+</node>
+<node TEXT="e vidhan" ID="ID_572349884" CREATED="1527827630159" MODIFIED="1527827631481">
+<node TEXT="software suite for paperless governance" ID="ID_1754346538" CREATED="1527827631684" MODIFIED="1527827639934"/>
+</node>
+<node TEXT="arunachal 2 tier panchayati raj" ID="ID_1251987902" CREATED="1527827648127" MODIFIED="1527827654359"/>
 </node>
 </node>
 <node TEXT="mains watchlist" FOLDED="true" POSITION="right" ID="ID_1975959847" CREATED="1524239783547" MODIFIED="1524239786680">

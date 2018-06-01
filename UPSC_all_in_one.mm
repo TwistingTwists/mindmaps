@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.008">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -2129,7 +2129,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="MP, Chattis, Jhar, Odisha, AP, Telanga, Mah, Guj, Raj" ID="ID_482699716" CREATED="1492235518475" MODIFIED="1492235546007"/>
 <node TEXT="and these areas too : JnK, nagaland, meghalya, mizoram" ID="ID_1697860576" CREATED="1494464105302" MODIFIED="1494464178986"/>
@@ -2473,7 +2472,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -11931,10 +11929,10 @@
 <node TEXT="understand how the knowledge and manipulation of the monsoon winds has shaped interactions&#xa;across the Indian Ocean&#xa;&#xa;and led to the spread of shared knowledge systems, traditions, technologies and ideas&#xa;along maritime routes" ID="ID_1037286342" CREATED="1527778515220" MODIFIED="1527778527888"/>
 <node TEXT="nodal = ASI" ID="ID_458740787" CREATED="1490409637999" MODIFIED="1490409643391"/>
 </node>
-<node TEXT="CORE of the CORE schemes (6)" LOCALIZED_STYLE_REF="default" ID="ID_1405991195" CREATED="1489576133687" MODIFIED="1489761445285">
+<node TEXT="CORE of the CORE schemes (6)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1405991195" CREATED="1489576133687" MODIFIED="1489761445285">
 <icon BUILTIN="idea"/>
 <node TEXT="2125 - 79" ID="ID_1412165784" CREATED="1489576143251" MODIFIED="1489576152152" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/22-Question.pdf"/>
-<node TEXT="MNREGA" LOCALIZED_STYLE_REF="default" ID="ID_1787749712" CREATED="1489576137578" MODIFIED="1496290998022" BACKGROUND_COLOR="#feffd6">
+<node TEXT="MNREGA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1787749712" CREATED="1489576137578" MODIFIED="1496290998022" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 <node TEXT="MoRD" ID="ID_907118790" CREATED="1496709017698" MODIFIED="1496709019276"/>
 <node ID="ID_1266604599" CREATED="1496294228880" MODIFIED="1496294241680"><richcontent TYPE="NODE">
@@ -11982,7 +11980,7 @@
 </node>
 <node TEXT="geo tagging" ID="ID_1946427888" CREATED="1516870745467" MODIFIED="1516870750092"/>
 </node>
-<node TEXT="NSAP&#xa;national social assistance programme" FOLDED="true" ID="ID_1951778802" CREATED="1489576140925" MODIFIED="1526096168719">
+<node TEXT="NSAP&#xa;national social assistance programme" ID="ID_1951778802" CREATED="1489576140925" MODIFIED="1526096168719">
 <icon BUILTIN="idea"/>
 <node TEXT="2125 - 25" ID="ID_1229015700" CREATED="1490366456165" MODIFIED="1490366458404"/>
 <node TEXT="MoRD" LOCALIZED_STYLE_REF="default" ID="ID_1688414965" CREATED="1490366461558" MODIFIED="1496792797809" BACKGROUND_COLOR="#feffd6">
@@ -11990,7 +11988,7 @@
 </node>
 <node TEXT="SECC data" ID="ID_215260061" CREATED="1496705600907" MODIFIED="1496705602845"/>
 <node TEXT="old + widow + disabled" ID="ID_1502991080" CREATED="1491717083518" MODIFIED="1491717089307"/>
-<node TEXT="national family benefit INSURANCE" FOLDED="true" ID="ID_489703582" CREATED="1496228953753" MODIFIED="1496228965583">
+<node TEXT="national family benefit INSURANCE" ID="ID_489703582" CREATED="1496228953753" MODIFIED="1496228965583">
 <node TEXT="bread winner dies =&gt; 10k by central govt." ID="ID_1347548619" CREATED="1496228969049" MODIFIED="1496228979836"/>
 </node>
 <node TEXT="Annapurna yojna" ID="ID_872224983" CREATED="1496228878766" MODIFIED="1496228883291">
@@ -12024,7 +12022,7 @@
 <font NAME="Calibri"/>
 </node>
 <node TEXT="assist living devices" ID="ID_1385110481" CREATED="1490417191451" MODIFIED="1490417195650"/>
-<node TEXT="By ALMICO" FOLDED="true" ID="ID_1774893810" CREATED="1492170282611" MODIFIED="1492170284073">
+<node TEXT="By ALMICO" ID="ID_1774893810" CREATED="1492170282611" MODIFIED="1492170284073">
 <node TEXT="under MoSJE" ID="ID_1573190926" CREATED="1492170284208" MODIFIED="1492170287735"/>
 </node>
 </node>
