@@ -346,7 +346,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS1" FOLDED="true" POSITION="left" ID="ID_660311744" CREATED="1490333930862" MODIFIED="1490333932165">
+<node TEXT="GS1" POSITION="left" ID="ID_660311744" CREATED="1490333930862" MODIFIED="1490333932165">
 <node TEXT="Funda" FOLDED="true" ID="ID_1950705657" CREATED="1497873881444" MODIFIED="1497873882638">
 <node TEXT="history" FOLDED="true" ID="ID_886973533" CREATED="1490333932326" MODIFIED="1490333934679">
 <node TEXT="Analytical skills" ID="ID_1648795758" CREATED="1490333966160" MODIFIED="1490333970343"/>
@@ -369,10 +369,18 @@
 <node TEXT="Hindustani vs carnatic music" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1043058058" CREATED="1489207452336" MODIFIED="1489207457120">
 <node TEXT="before 13th century, more or less unfirom. After that bifurcation" ID="ID_1210388337" CREATED="1489207457367" MODIFIED="1489207481745"/>
 </node>
-<node TEXT="geography" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
+<node TEXT="geography" LOCALIZED_STYLE_REF="default" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
 <node TEXT="Oceanic salinity&#xa;factors and effects" FOLDED="true" ID="ID_498653593" CREATED="1515567008134" MODIFIED="1515567048848">
 <node TEXT="defence budget = More on corrosive salinity in equitorial regions" ID="ID_1170195369" CREATED="1515567049205" MODIFIED="1515567090427"/>
 <node TEXT="food, fish" ID="ID_1129153962" CREATED="1515567112456" MODIFIED="1515567119018"/>
+</node>
+<node TEXT="Human Animal Conflict&#xa;&#xa;Tadoba and Pilibhit are e.g. [tiger]" ID="ID_602408552" CREATED="1530380751636" MODIFIED="1530380781587">
+<node TEXT="eco bridge" FOLDED="true" ID="ID_148469099" CREATED="1523814777256" MODIFIED="1523814779846">
+<node TEXT="why needed?" ID="ID_975169758" CREATED="1523814779939" MODIFIED="1523814781804">
+<node TEXT="prevent inbreeding,&#xa;Reduce human animal conflict,&#xa;need for migration of animals addressed" ID="ID_92241395" CREATED="1523814781917" MODIFIED="1523814807861"/>
+</node>
+<node TEXT="tadoba andhari tiger reserve" ID="ID_1187577704" CREATED="1527841106180" MODIFIED="1527841111782"/>
+</node>
 </node>
 </node>
 <node TEXT="creativity vs popular sentiment" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1706435975" CREATED="1515647274595" MODIFIED="1515647281238">
@@ -634,6 +642,10 @@
 </node>
 <node TEXT="UPSC mains :&#xa;partiarchy&apos;s effect on middle class working women = don&apos;t control their spending" ID="ID_1250987877" CREATED="1520860827182" MODIFIED="1520860862878">
 <icon BUILTIN="flag-green"/>
+</node>
+<node TEXT="    Natinoal COmmission on Women" FOLDED="true" ID="ID_1924372560" CREATED="1530252503926" MODIFIED="1530252509664">
+<node TEXT="Nagaland - legal aid to female inmates" ID="ID_126017272" CREATED="1530252509706" MODIFIED="1530252519809"/>
+<node TEXT="Khunti, JHK gangrape cognisance" ID="ID_963084878" CREATED="1530252526598" MODIFIED="1530252536012"/>
 </node>
 </node>
 <node TEXT="social show off in marriage is harmful, why?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1570423987" CREATED="1517370936140" MODIFIED="1517370956009">
@@ -6885,7 +6897,6 @@
 </node>
 </node>
 <node TEXT="COmmittees" FOLDED="true" ID="ID_1243096775" CREATED="1523261573032" MODIFIED="1523261575564">
-<node TEXT="Direct tax law = Arbind Modi" ID="ID_351271184" CREATED="1523261562056" MODIFIED="1523261569107"/>
 <node TEXT="DB Shekatkar Panel" FOLDED="true" ID="ID_1839223332" CREATED="1523641969232" MODIFIED="1523641976797">
 <node ID="ID_1546897264" CREATED="1523641990410" MODIFIED="1523641990410"><richcontent TYPE="NODE">
 
@@ -6898,16 +6909,6 @@
   </body>
 </html>
 </richcontent>
-</node>
-</node>
-<node TEXT="Shome Panel" FOLDED="true" ID="ID_1015458278" CREATED="1525246780427" MODIFIED="1525246783755">
-<node TEXT="TARC&#xa;&#xa;Tax Administration Reforms Commission&#xa;&#xa;[baba 20 econ, Q 10]" FOLDED="true" ID="ID_1599959802" CREATED="1525246783894" MODIFIED="1525246972035">
-<node TEXT="10% tax administration budget spent on taxpayer services" ID="ID_787704906" CREATED="1525246842857" MODIFIED="1525246858326"/>
-<node TEXT="pre filled tax returns to all individuals - accept or deny" ID="ID_121053730" CREATED="1525246807906" MODIFIED="1525246842071"/>
-<node TEXT="CBDT + CBEC --&gt; CBDIT" ID="ID_1179147764" CREATED="1525246865235" MODIFIED="1525246874947"/>
-<node TEXT="Dispute resolution" ID="ID_1974114212" CREATED="1525247071056" MODIFIED="1525247081399">
-<font ITALIC="true"/>
-</node>
 </node>
 </node>
 </node>
@@ -7078,12 +7079,6 @@
 <node TEXT="chitosan = as backbone for nanoparticles to sit on =&gt; water purify" ID="ID_26467736" CREATED="1523032424141" MODIFIED="1523032865268"/>
 <node TEXT="diamonds,&#xa;coal,&#xa;bauxite&#xa;max in world" FOLDED="true" ID="ID_1242135074" CREATED="1524399802174" MODIFIED="1524399812448">
 <node TEXT="russia, china, australia" ID="ID_1339925091" CREATED="1524399812511" MODIFIED="1524399824035"/>
-</node>
-<node TEXT="eco bridge" FOLDED="true" ID="ID_148469099" CREATED="1523814777256" MODIFIED="1523814779846">
-<node TEXT="why needed?" FOLDED="true" ID="ID_975169758" CREATED="1523814779939" MODIFIED="1523814781804">
-<node TEXT="prevent inbreeding,&#xa;Reduce human animal conflict,&#xa;need for migration of animals addressed" ID="ID_92241395" CREATED="1523814781917" MODIFIED="1523814807861"/>
-</node>
-<node TEXT="tadoba andhari tiger reserve" ID="ID_1187577704" CREATED="1527841106180" MODIFIED="1527841111782"/>
 </node>
 <node TEXT="tibetian antelope, chiru" FOLDED="true" ID="ID_165918660" CREATED="1523773384466" MODIFIED="1523773388714">
 <node TEXT="shatoosh shawl" ID="ID_1845711723" CREATED="1523773389370" MODIFIED="1523773393059"/>
@@ -10907,14 +10902,7 @@
 <node TEXT="http://upscpractice.blogspot.com/search/label/General%20Studies%20Paper%20I" ID="ID_1745392535" CREATED="1524239787385" MODIFIED="1524239787385" LINK="http://upscpractice.blogspot.com/search/label/General%20Studies%20Paper%20I"/>
 <node TEXT="http://upscpractice.blogspot.com/2017/09/radical-humanism-mn-roy.html" ID="ID_1283649668" CREATED="1524239791453" MODIFIED="1524239791453" LINK="http://upscpractice.blogspot.com/2017/09/radical-humanism-mn-roy.html"/>
 </node>
-<node TEXT="todo" FOLDED="true" POSITION="right" ID="ID_1234533700" CREATED="1499236041502" MODIFIED="1499236042346">
-<node TEXT="reco of Sarkaria Commission" ID="ID_1367634798" CREATED="1499236042611" MODIFIED="1499236051472"/>
-<node TEXT="mrunal 2nd arc report" ID="ID_366042131" CREATED="1499268945381" MODIFIED="1499268951174"/>
-<node TEXT="schemes = Objective, min core/core of core/optional, beneficiary, implmenting agency" ID="ID_1582007795" CREATED="1520871999769" MODIFIED="1520872022389">
-<icon BUILTIN="flag-green"/>
-</node>
-</node>
-<node TEXT="GS3" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
 <node TEXT="Environment" ID="ID_1164183901" CREATED="1497938550841" MODIFIED="1497938552872"/>
 <node TEXT="2017 mains" FOLDED="true" ID="ID_180616381" CREATED="1519604337394" MODIFIED="1519604339879">
 <node FOLDED="true" ID="ID_123910175" CREATED="1519604340521" MODIFIED="1519604371521"><richcontent TYPE="NODE">
@@ -11540,7 +11528,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_366544280" CREATED="1528989953180" MODIFIED="1528989969838"><richcontent TYPE="NODE">
@@ -11558,7 +11545,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -11567,9 +11553,9 @@
 <node TEXT="Food Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1525330834" CREATED="1489466556896" MODIFIED="1528989667346">
 <icon BUILTIN="flag-green"/>
 <font BOLD="true"/>
-<node TEXT="cALORIE + nutritional" LOCALIZED_STYLE_REF="default" ID="ID_854579664" CREATED="1526474295410" MODIFIED="1526474312637">
+<node TEXT="cALORIE + nutritional" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_854579664" CREATED="1526474295410" MODIFIED="1526474312637">
 <font BOLD="true"/>
-<node TEXT="nutritional security" ID="ID_94699115" CREATED="1528993152146" MODIFIED="1528993220926">
+<node TEXT="nutritional security" FOLDED="true" ID="ID_94699115" CREATED="1528993152146" MODIFIED="1528993220926">
 <icon BUILTIN="flag-green"/>
 <node ID="ID_133122294" CREATED="1528993221551" MODIFIED="1528993303021"><richcontent TYPE="NODE">
 
@@ -11595,7 +11581,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_792517269" CREATED="1528993323268" MODIFIED="1528993339935"><richcontent TYPE="NODE">
@@ -11610,7 +11595,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -11627,7 +11611,7 @@
 <node TEXT="More nutritious" ID="ID_126900634" CREATED="1489466613379" MODIFIED="1489466615886"/>
 <node TEXT="Promote via PDS + MSP + MId day meal" ID="ID_16354001" CREATED="1489466624055" MODIFIED="1489466635921"/>
 </node>
-<node TEXT="TPDS" ID="ID_178974939" CREATED="1528993171677" MODIFIED="1528993173052">
+<node TEXT="TPDS" FOLDED="true" ID="ID_178974939" CREATED="1528993171677" MODIFIED="1528993173052">
 <node TEXT="PST (procure, store, transport) = centre&#xa;distritbution = state" ID="ID_1824254378" CREATED="1528993174021" MODIFIED="1528993194415"/>
 </node>
 <node TEXT="NFSA&#xa;National Food Security Act" FOLDED="true" ID="ID_1695650649" CREATED="1494675675512" MODIFIED="1502369535344">
