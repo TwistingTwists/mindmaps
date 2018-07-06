@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.138">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -441,12 +441,12 @@
 </node>
 </node>
 </node>
-<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
+<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1490333976841">
 <node TEXT="Funda" FOLDED="true" ID="ID_1172058679" CREATED="1497873875002" MODIFIED="1497873876237">
 <node TEXT="Know the articles related to each issue" ID="ID_1615131595" CREATED="1490334026799" MODIFIED="1490334035501"/>
 <node TEXT="Social Justice" ID="ID_761817598" CREATED="1490334039845" MODIFIED="1490334041730"/>
 </node>
-<node TEXT="Social" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
+<node TEXT="Social" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1498840570581">
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
@@ -659,7 +659,7 @@
 <node TEXT="def&#xa;&#xa;Age related, acquire transition into adulthood" ID="ID_1437336555" CREATED="1530720316580" MODIFIED="1530720336622"/>
 </node>
 </node>
-<node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
+<node TEXT="Governance, constitution polity" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1494887616079">
 <font NAME="Calibri"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
@@ -908,6 +908,51 @@
 <node TEXT="J =&#xa;bound by precedents" ID="ID_1683976440" CREATED="1499235100310" MODIFIED="1499235143270" MAX_WIDTH="132.3650010139095 pt" MIN_WIDTH="132.3650010139095 pt"/>
 </node>
 <node TEXT="Whistleblowing act, 2014" ID="ID_628279591" CREATED="1499316698710" MODIFIED="1503053967437"/>
+<node TEXT="UAPA&#xa;unlawful activities prevention act" ID="ID_1654085839" CREATED="1530861856243" MODIFIED="1530861866799">
+<node ID="ID_733129422" CREATED="1530861867087" MODIFIED="1530861925238"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      bail = should be allowed as per <i>Kabir kala manch case </i>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>unlawful (def) = SC 2011 judgement - </i><b>activities that incite violence</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="124 A&#xa;    sedition = defamation or treason with govt." ID="ID_1235830218" CREATED="1530862753175" MODIFIED="1530862755325">
+<node TEXT="Kedarnath vs State of Bihar" ID="ID_818981416" CREATED="1530862779282" MODIFIED="1530862790504">
+<node TEXT="124A strikes fine balance between FR and publici order" ID="ID_985571188" CREATED="1530862915276" MODIFIED="1530863507434">
+<font BOLD="true"/>
+</node>
+<node TEXT="warning against arbitrary action of 124A!" ID="ID_1879649674" CREATED="1530862934290" MODIFIED="1530863510231">
+<font ITALIC="true"/>
+</node>
+</node>
+<node TEXT="Menaka gandhi vs Union of India" ID="ID_387496611" CREATED="1530862723614" MODIFIED="1530862728635">
+<node TEXT="freedom of speech = gather info + express oneself at home + abroad" ID="ID_652485613" CREATED="1530862951467" MODIFIED="1530863506809">
+<font BOLD="true"/>
+</node>
+<node TEXT="depriving someone of personal liberty has to withstand 21, 19,14" ID="ID_1190822497" CREATED="1530862695589" MODIFIED="1530862720940"/>
+</node>
+</node>
+<node TEXT="personal liberty" FOLDED="true" ID="ID_1183868895" CREATED="1530862692287" MODIFIED="1530862695349">
+<node ID="ID_1475773313" TREE_ID="ID_387496611">
+<node ID="ID_1734278044" TREE_ID="ID_652485613"/>
+<node ID="ID_215689877" TREE_ID="ID_1190822497"/>
+</node>
+</node>
 <node TEXT="Voting Behaviour" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_29133261" CREATED="1489125865057" MODIFIED="1489125867404">
 <node TEXT="Governance" ID="ID_1689301870" CREATED="1489125874275" MODIFIED="1489125880379"/>
 <node TEXT="economic benefits to the people" ID="ID_544386813" CREATED="1489125880504" MODIFIED="1489125886917"/>
@@ -1891,7 +1936,7 @@
 <node TEXT="waterways framework?" ID="ID_441639446" CREATED="1499048431809" MODIFIED="1499048438980"/>
 </node>
 </node>
-<node TEXT="daily CA" FOLDED="true" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
+<node TEXT="daily CA" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
 <node TEXT="20-06" FOLDED="true" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
 <node TEXT="administered price regime&#xa;APM" FOLDED="true" ID="ID_392238165" CREATED="1497940476093" MODIFIED="1497940483259">
 <node TEXT="petrol + diesel&#xa;=&gt; APM to TPP" ID="ID_213753914" CREATED="1497940484348" MODIFIED="1497940523048"/>
@@ -1947,7 +1992,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Kashmir" FOLDED="true" ID="ID_676284868" CREATED="1497955933301" MODIFIED="1497955935659">
+<node TEXT="Kashmir" ID="ID_676284868" CREATED="1497955933301" MODIFIED="1497955935659">
 <node TEXT="more a matter of sovereignty than lives of people there (violence)" ID="ID_1820183864" CREATED="1497955935883" MODIFIED="1497955954662"/>
 <node TEXT="situation" FOLDED="true" ID="ID_536791781" CREATED="1527746060333" MODIFIED="1527746063818">
 <node TEXT="social media = painting the picture in different highlight for the common man" FOLDED="true" ID="ID_803894213" CREATED="1497956224314" MODIFIED="1497956237445">
@@ -2011,336 +2056,6 @@
   </body>
 </html>
 </richcontent>
-</node>
-</node>
-<node TEXT="internal security" FOLDED="true" ID="ID_47828840" CREATED="1497960380450" MODIFIED="1527746079478">
-<icon BUILTIN="flag-green"/>
-<node TEXT="non state actors in internal security" FOLDED="true" ID="ID_1474140306" CREATED="1497956943978" MODIFIED="1497956955296">
-<node TEXT="radicalisation via internet" ID="ID_1374428467" CREATED="1497960420913" MODIFIED="1497960640905"/>
-<node TEXT="remote controlled terrorism" ID="ID_548965506" CREATED="1497960650908" MODIFIED="1497960655285"/>
-<node TEXT="propaganda =&gt; lone wolf attacks" ID="ID_1671764181" CREATED="1499396587401" MODIFIED="1499396595204"/>
-</node>
-<node TEXT="terrorism" FOLDED="true" ID="ID_404673515" CREATED="1497960385857" MODIFIED="1497960387547">
-<node ID="ID_1089607077" CREATED="1497960387674" MODIFIED="1497960414978"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      more a threat to international <b>peace </b><i>than <b>human life </b></i>loss. There are more deadly diseases.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="organised crime" FOLDED="true" ID="ID_1959637242" CREATED="1499316180417" MODIFIED="1499316182369">
-<node FOLDED="true" ID="ID_1813744871" CREATED="1499316190254" MODIFIED="1499318934818">
-<icon BUILTIN="flag-green"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      highly <b>centralised </b>groups engaged in <b>illegal/unlawful </b>activities for profit
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="hierarchy, centralised, code of conduct" ID="ID_732036262" CREATED="1499316310064" MODIFIED="1499316318477"/>
-<node TEXT="power and profit" ID="ID_1564826609" CREATED="1499316325276" MODIFIED="1499316326858"/>
-<node TEXT="continue over period of time" ID="ID_563149478" CREATED="1499316328364" MODIFIED="1499316334360"/>
-<node TEXT="restricted membership" ID="ID_1943954957" CREATED="1499316335070" MODIFIED="1499316337920"/>
-<node TEXT="monopoly usually accompanies organised crime" FOLDED="true" ID="ID_598707178" CREATED="1499316366944" MODIFIED="1499316387987">
-<node TEXT="e.g. casino" ID="ID_636885316" CREATED="1499316390588" MODIFIED="1499316392702"/>
-</node>
-<node TEXT="need support system" FOLDED="true" ID="ID_1060440631" CREATED="1499316397025" MODIFIED="1499316443260">
-<node TEXT="hackers, social support (afghan), corrupt politicians" ID="ID_1615994315" CREATED="1499316399702" MODIFIED="1499316418976"/>
-</node>
-</node>
-<node TEXT="history in india" FOLDED="true" ID="ID_441381206" CREATED="1499316444772" MODIFIED="1499316447969">
-<node TEXT="zamindars with private army" ID="ID_761298853" CREATED="1499316448394" MODIFIED="1499316454554"/>
-<node TEXT="thug movement" FOLDED="true" ID="ID_712166346" CREATED="1499316454888" MODIFIED="1499316457114">
-<node TEXT="Thugee Sleeman!" ID="ID_1729961817" CREATED="1499316457819" MODIFIED="1499316461390"/>
-</node>
-</node>
-<node TEXT="today in india" FOLDED="true" ID="ID_1897955946" CREATED="1499316468101" MODIFIED="1499316470200">
-<node TEXT="started from bombay - liquor" ID="ID_134339286" CREATED="1499316487431" MODIFIED="1499316498392"/>
-<node TEXT="Maharasthra control of organised crime act" ID="ID_1496053237" CREATED="1499316267610" MODIFIED="1499319575336"/>
-<node TEXT="mafia" ID="ID_1855863026" CREATED="1499316507128" MODIFIED="1499316507873"/>
-<node TEXT="types of organised crime" FOLDED="true" ID="ID_994193375" CREATED="1499316569000" MODIFIED="1499316573631">
-<node TEXT="trafficiking - drug, human" ID="ID_32137707" CREATED="1499316573843" MODIFIED="1499316581166"/>
-<node TEXT="arms, drugs, liquor" FOLDED="true" ID="ID_821405653" CREATED="1499316583688" MODIFIED="1499316591040">
-<node TEXT="drugs" FOLDED="true" ID="ID_1137131071" CREATED="1499318243498" MODIFIED="1499318244713">
-<node TEXT="golden crescent (Afghan, Iran, pakistan) + golden triangle (Myanmar, Laos, Thailand)" FOLDED="true" ID="ID_625407769" CREATED="1499318244866" MODIFIED="1499318277956">
-<node TEXT="border management" ID="ID_1707663612" CREATED="1499318310089" MODIFIED="1499318312237"/>
-</node>
-</node>
-<node TEXT="same transport route for arms, drugs, humans etc" ID="ID_916221906" CREATED="1499318889800" MODIFIED="1499318900455"/>
-<node TEXT="hawala network for money transaction" ID="ID_1553883159" CREATED="1499318906137" MODIFIED="1499318915571"/>
-</node>
-<node TEXT="money laundering, black money (BMoney)" FOLDED="true" ID="ID_532102647" CREATED="1499317674256" MODIFIED="1499317701312">
-<node ID="ID_1882378980" CREATED="1499317683264" MODIFIED="1499318013452"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      legally <b>avoiding </b>tax
-    </p>
-    <p>
-      or
-    </p>
-    <p>
-      earned through illegal means =&gt; BMeans
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Hawala system" ID="ID_1578140" CREATED="1499318032598" MODIFIED="1499318034961"/>
-<node TEXT="being seen as tough on black money is politically beneficial (elections!)" ID="ID_683864045" CREATED="1499317778370" MODIFIED="1499317818364"/>
-<node TEXT="measure taken?" FOLDED="true" ID="ID_641726903" CREATED="1499317826649" MODIFIED="1499317831262">
-<node TEXT="Declare black money" ID="ID_625077630" CREATED="1499317831376" MODIFIED="1499317845484"/>
-<node TEXT="Mrunal" ID="ID_95611722" CREATED="1499317845636" MODIFIED="1499317853536"/>
-<node TEXT="FATF" ID="ID_447299597" CREATED="1499318188526" MODIFIED="1499318192983"/>
-</node>
-<node TEXT="effect of black money" FOLDED="true" ID="ID_436343976" CREATED="1499318061269" MODIFIED="1499318065477">
-<node TEXT="social problem" FOLDED="true" ID="ID_988321119" CREATED="1499317728404" MODIFIED="1499317730521">
-<node TEXT="why everyone is evading tax?" FOLDED="true" ID="ID_1941085564" CREATED="1499317731615" MODIFIED="1499317740252">
-<node TEXT="accountability of govt?" ID="ID_1975158195" CREATED="1499317751568" MODIFIED="1499317759406"/>
-</node>
-<node TEXT="ES 2017" ID="ID_1424229865" CREATED="1499317741112" MODIFIED="1499317743455"/>
-</node>
-<node TEXT="integrity of nation, banks, financial system" ID="ID_1439480405" CREATED="1499318068673" MODIFIED="1499318079443"/>
-<node TEXT="related with corruption" ID="ID_635824811" CREATED="1499318115699" MODIFIED="1499318118974"/>
-<node TEXT="terrorism, drug terrorists" ID="ID_1307529497" CREATED="1499318079803" MODIFIED="1499318088637"/>
-<node TEXT="trans national organised crime =&gt; BMoney" ID="ID_868431644" CREATED="1499318101238" MODIFIED="1499318110569"/>
-</node>
-</node>
-<node TEXT="FICN" FOLDED="true" ID="ID_44094840" CREATED="1499316591386" MODIFIED="1499316595567">
-<node TEXT="fake indian currency notes" ID="ID_1378846854" CREATED="1499317639291" MODIFIED="1499317643492"/>
-<node TEXT="international dimension" FOLDED="true" ID="ID_701666649" CREATED="1499316751611" MODIFIED="1499316754989">
-<node TEXT="pak, bangladesh FICN" ID="ID_143241199" CREATED="1499316755148" MODIFIED="1499316762612"/>
-</node>
-<node TEXT="black money" ID="ID_147297613" CREATED="1499316768161" MODIFIED="1499316772845"/>
-<node TEXT="terror financing" ID="ID_581474787" CREATED="1499316775697" MODIFIED="1499316777829"/>
-</node>
-<node TEXT="financial fraud" FOLDED="true" ID="ID_11723949" CREATED="1499316596225" MODIFIED="1499317669487">
-<node TEXT="institutional measures" FOLDED="true" ID="ID_935686980" CREATED="1499316705148" MODIFIED="1499316707492">
-<node TEXT="DRI (director of revenue intelligence)" ID="ID_153213128" CREATED="1499316612969" MODIFIED="1499316622576"/>
-<node TEXT="SFIO" FOLDED="true" ID="ID_1967596977" CREATED="1499316611191" MODIFIED="1499316612290">
-<node TEXT="enables auditor to act as whistle blowers" ID="ID_1967723876" CREATED="1499316681674" MODIFIED="1499316694204"/>
-</node>
-</node>
-<node TEXT="legislative measures" FOLDED="true" ID="ID_387103638" CREATED="1499316669041" MODIFIED="1499316675255">
-<node TEXT="Benami transaction Act!" ID="ID_401482426" CREATED="1499316638168" MODIFIED="1499316644673"/>
-<node ID="ID_638316936" TREE_ID="ID_628279591"/>
-<node TEXT="PMLA" ID="ID_1716470517" CREATED="1499316664732" MODIFIED="1499316665699"/>
-</node>
-<node TEXT="e.g.&#xa;Sharda, rose valley" ID="ID_830780986" CREATED="1499316712515" MODIFIED="1499316724619"/>
-</node>
-</node>
-<node TEXT="effects" FOLDED="true" ID="ID_1713905401" CREATED="1499316550970" MODIFIED="1499316552326">
-<node ID="ID_1525548180" CREATED="1499316524978" MODIFIED="1499316547834"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      election rigging using <i>black money</i>/muscle power
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="regional distribution examples" FOLDED="true" ID="ID_1069753709" CREATED="1499319394735" MODIFIED="1499319399352">
-<node TEXT="NE insurgency supported by means of organised crime" ID="ID_423048558" CREATED="1499319399501" MODIFIED="1499319438450"/>
-<node TEXT="Kashmir" ID="ID_1361945290" CREATED="1499319400526" MODIFIED="1499319401503"/>
-</node>
-<node FOLDED="true" ID="ID_133491142" CREATED="1499319059406" MODIFIED="1499319245247" MAX_WIDTH="249.24811573127795 pt" MIN_WIDTH="249.24811573127795 pt"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <table border="0" style="width: 80%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0">
-      <tr>
-        <td valign="top" style="width: 50%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <b>Terrorism</b>
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            * violence
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            * change status quo
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            * political/ ideological objective
-          </p>
-        </td>
-        <td valign="top" style="width: 50%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <b>Organised Crime</b>
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            * threat of violence
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            * not change! (warna benefit band :p )
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            * economic objective
-          </p>
-        </td>
-      </tr>
-    </table>
-  </body>
-</html>
-</richcontent>
-<node TEXT="both use terror network (for violence or threat of violence)" ID="ID_1168432998" CREATED="1499319249454" MODIFIED="1499319265411"/>
-<node TEXT="change of status quo is not static. Dynamic so longer fulfills objectives!" ID="ID_248587579" CREATED="1499319296835" MODIFIED="1499319310499"/>
-</node>
-</node>
-<node TEXT="trans national organised crime" FOLDED="true" ID="ID_1536060414" CREATED="1499318974177" MODIFIED="1499318980113">
-<node TEXT="arms, money, logistics (hackers, satellite phones)" ID="ID_549295710" CREATED="1499319013279" MODIFIED="1499319029728"/>
-<node TEXT="black money, Money laundering, FICN," ID="ID_1805374370" CREATED="1499319040652" MODIFIED="1499319050287"/>
-</node>
-</node>
-<node TEXT="LWE" FOLDED="true" ID="ID_49951788" CREATED="1499351550463" MODIFIED="1499351551839">
-<node TEXT="vision pt 365 updated, 5.32" ID="ID_1931786892" CREATED="1526993499460" MODIFIED="1526993510507">
-<icon BUILTIN="flag-green"/>
-<font BOLD="true" ITALIC="true"/>
-</node>
-<node TEXT="socio economic issue + law and order issue" ID="ID_460153567" CREATED="1499351694116" MODIFIED="1499351707943"/>
-<node TEXT="forest dweller and relation with land - economic + socio cultural link" ID="ID_861527228" CREATED="1499354470706" MODIFIED="1499354493921"/>
-<node TEXT="corruption causing alienation of MFP + rights" ID="ID_1867181175" CREATED="1499357604161" MODIFIED="1499357614428"/>
-<node TEXT="kill lowest administrative officials to create vaccum and coerce local population into naxal movement" FOLDED="true" ID="ID_1729045370" CREATED="1509377834067" MODIFIED="1509377862185">
-<node TEXT="need to increase developmental efforts + rigorous monitoring + so that sympathisers realise futility of their act [idsa]" ID="ID_1369217938" CREATED="1509378376250" MODIFIED="1509378426397"/>
-</node>
-<node TEXT="http://www.insightsonindia.com/2015/01/05/linkages-between-development-and-spread-of-extremism-naxalism-left-wing-extremism/" ID="ID_332719335" CREATED="1509378851455" MODIFIED="1509378852643"/>
-<node TEXT="Forest Rights Act" ID="ID_1325495937" CREATED="1499357617909" MODIFIED="1499357620981"/>
-<node TEXT="5th and 6th schedule" ID="ID_537012365" CREATED="1499357628597" MODIFIED="1499357634567"/>
-</node>
-<node TEXT="constitutionalism" FOLDED="true" ID="ID_500283336" CREATED="1499334321697" MODIFIED="1499334325241">
-<node TEXT="public order = only states handle" FOLDED="true" ID="ID_585306288" CREATED="1499334326117" MODIFIED="1499334331664">
-<node TEXT="tribal insurgency to be dealt by state" ID="ID_383572232" CREATED="1499334331826" MODIFIED="1499334345738"/>
-<node TEXT="can take centre help" ID="ID_702406026" CREATED="1499334346394" MODIFIED="1499334377667"/>
-<node TEXT="why in state list?" FOLDED="true" ID="ID_1230884985" CREATED="1499334494255" MODIFIED="1499334505558">
-<node TEXT="definition is context specific" ID="ID_1761992421" CREATED="1499335208913" MODIFIED="1499335215421"/>
-<node TEXT="principle of subsidiartiy" ID="ID_650754542" CREATED="1499334412353" MODIFIED="1499334417176"/>
-<node TEXT="if in concurrent" FOLDED="true" ID="ID_705143123" CREATED="1499334418727" MODIFIED="1499334531625">
-<node ID="ID_1691452025" CREATED="1499334532465" MODIFIED="1499334532465"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      encroaches on state jurisdiction
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="dual responsibility (i.e. concurrent list) for key issue like public order might cause delay in immediate action" ID="ID_336618664" CREATED="1499334436660" MODIFIED="1499334488710"/>
-</node>
-</node>
-</node>
-<node TEXT="public order should be in concurrent list?" FOLDED="true" ID="ID_361460079" CREATED="1499334395008" MODIFIED="1499334579758">
-<node TEXT="organised crime not within boundaries of state" ID="ID_1704972685" CREATED="1499334554750" MODIFIED="1499334569337"/>
-</node>
-<node TEXT="355 = duty of union to protect states" FOLDED="true" ID="ID_307563461" CREATED="1499334771010" MODIFIED="1499334778840">
-<node TEXT="operational role" FOLDED="true" ID="ID_1710697453" CREATED="1499334707789" MODIFIED="1499334739072">
-<node TEXT="e.g. deployment for CAPF for JnK and LWE" ID="ID_1881523645" CREATED="1499334744563" MODIFIED="1499334761392"/>
-</node>
-</node>
-<node TEXT="todo" FOLDED="true" ID="ID_64775771" CREATED="1499334902701" MODIFIED="1499334903897">
-<node TEXT="standing committees on internal security" ID="ID_1511772535" CREATED="1499334676070" MODIFIED="1499334706828"/>
-<node TEXT="central enforcement agency" FOLDED="true" ID="ID_507157880" CREATED="1499334631360" MODIFIED="1499334644701">
-<node TEXT="CBI cannot indulge in matters of state unless asked for" ID="ID_261194094" CREATED="1499334644876" MODIFIED="1499334657637"/>
-</node>
-<node TEXT="internal security threat vs internal disturbance" FOLDED="true" ID="ID_205558199" CREATED="1499334954921" MODIFIED="1499334970056">
-<icon BUILTIN="help"/>
-<node TEXT="constitutional amendment" ID="ID_1276081453" CREATED="1499335048615" MODIFIED="1499335053320"/>
-</node>
-<node TEXT="federal nature of crimes" ID="ID_830984464" CREATED="1499335116320" MODIFIED="1499335123809"/>
-<node TEXT="community vigilance and participation" ID="ID_937691982" CREATED="1499335270105" MODIFIED="1499335276769"/>
-</node>
-</node>
-<node TEXT="communalism" FOLDED="true" ID="ID_433489610" CREATED="1499319477673" MODIFIED="1499319482364">
-<node TEXT="secularism - constitution basic structure" ID="ID_213740594" CREATED="1499319482967" MODIFIED="1499319490743"/>
-<node TEXT="1905 bengal parition + 1906 muslim league + 1915 Hindu Mahasabha + Wahabi / deboand movement" ID="ID_1744266254" CREATED="1499319491072" MODIFIED="1499319517155"/>
-</node>
-<node TEXT="questions" FOLDED="true" ID="ID_1098776641" CREATED="1499336298619" MODIFIED="1499336300524">
-<node TEXT="effect of middle east situations on India&apos;s internal security" FOLDED="true" ID="ID_1853814528" CREATED="1499336300820" MODIFIED="1499336322430">
-<node TEXT="ISIS, Iraq, Syria" ID="ID_1847197602" CREATED="1499350747421" MODIFIED="1499350758246"/>
-<node TEXT="middle east diaspora" ID="ID_469495870" CREATED="1499350851037" MODIFIED="1499350862519"/>
-<node TEXT="economic = remittance" ID="ID_683267310" CREATED="1499351114498" MODIFIED="1499351123744"/>
-<node FOLDED="true" ID="ID_39462341" CREATED="1499351143829" MODIFIED="1499351479963"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      GCC stability =&gt; energy security at risk, oil prices<br/>+ foreign exchange rates
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="balanced international policy may suffer" ID="ID_1203138162" CREATED="1499351506701" MODIFIED="1499351517554"/>
-</node>
-<node TEXT="rescue operation, Sankat mochan" FOLDED="true" ID="ID_1350983326" CREATED="1499351079248" MODIFIED="1499351089312">
-<node TEXT="bring radicalised youth =&gt; infect country" ID="ID_417739172" CREATED="1499351107395" MODIFIED="1499351114326"/>
-<node TEXT="personnel + ships/planes at risk" ID="ID_1913832192" CREATED="1499351130648" MODIFIED="1499351141942"/>
-</node>
-<node TEXT="propaganda of ISIS" ID="ID_1675462325" CREATED="1499351309970" MODIFIED="1499351319092"/>
-</node>
-<node TEXT="radicalisation" FOLDED="true" ID="ID_1825440181" CREATED="1499336323567" MODIFIED="1499336327577">
-<node TEXT="ISIS = islamic fundamentalist group seeking caliphate" FOLDED="true" ID="ID_1001411015" CREATED="1499344737089" MODIFIED="1499344749393">
-<node TEXT="many indian youth influenced by propaganda" ID="ID_1353963674" CREATED="1499344749920" MODIFIED="1499344761629"/>
-<node TEXT="sectarian organisation" ID="ID_285954878" CREATED="1499344766676" MODIFIED="1499344770814"/>
-</node>
-<node TEXT="Kashmir" FOLDED="true" ID="ID_667137475" CREATED="1499344797099" MODIFIED="1499344798446">
-<node TEXT="earlier by external agencies, like ISI" ID="ID_1889785408" CREATED="1499344802579" MODIFIED="1499344812608"/>
-<node TEXT="domestic radicalisation, e.g. stone pelting" ID="ID_1046861811" CREATED="1499344813259" MODIFIED="1499344823297"/>
-</node>
-<node TEXT="measures to combat" FOLDED="true" ID="ID_1298005912" CREATED="1499344867566" MODIFIED="1499344870657">
-<node TEXT="national anti terror framework" ID="ID_635715462" CREATED="1499344874385" MODIFIED="1499344884024"/>
-<node TEXT="NIA" ID="ID_117762524" CREATED="1499344889904" MODIFIED="1499348533995"/>
-<node TEXT="international cooperation" FOLDED="true" ID="ID_554250802" CREATED="1499348557553" MODIFIED="1499348560991">
-<node TEXT="extradition treaty" ID="ID_1219270723" CREATED="1499348568822" MODIFIED="1499348571784"/>
-<node TEXT="mutual legal assistance treaties" ID="ID_1354310500" CREATED="1499348584836" MODIFIED="1499348590892"/>
-</node>
-<node TEXT="improve technology, new monitoring techniques to police" ID="ID_1863563066" CREATED="1499348620113" MODIFIED="1499348651692"/>
-</node>
-</node>
-<node TEXT="Indian Mujahideen" FOLDED="true" ID="ID_454835560" CREATED="1499348748755" MODIFIED="1499348754779">
-<node TEXT="home grown islamic fundamentalism" ID="ID_1423697109" CREATED="1499348756017" MODIFIED="1499348774405"/>
-<node TEXT="product of religious intolerance" FOLDED="true" ID="ID_1927059898" CREATED="1499348950252" MODIFIED="1499348958820">
-<node TEXT="after Gujrat riots, and harsh treatment of muslims in India" ID="ID_480852486" CREATED="1499348977455" MODIFIED="1499348996649"/>
-</node>
-<node TEXT="also failure of justice system" ID="ID_36648306" CREATED="1499349037042" MODIFIED="1499349041893"/>
-<node TEXT="biased police attitude" ID="ID_450390480" CREATED="1499349114163" MODIFIED="1499349122020"/>
-<node TEXT="socio economic conditions" FOLDED="true" ID="ID_1783468642" CREATED="1499349042081" MODIFIED="1499349046846">
-<node TEXT="unemployment" ID="ID_1258883517" CREATED="1499349051749" MODIFIED="1499349055027"/>
-</node>
-</node>
 </node>
 </node>
 <node TEXT="violation of rights" FOLDED="true" ID="ID_836557560" CREATED="1499335325603" MODIFIED="1499335329050">
@@ -5050,7 +4765,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="industrial disasters" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1885216610" CREATED="1519383332611" MODIFIED="1519383336111">
+<node TEXT="industrial disasters" LOCALIZED_STYLE_REF="default" ID="ID_1885216610" CREATED="1519383332611" MODIFIED="1519383336111">
 <font NAME="Calibri"/>
 <node TEXT="MP banning gel sticks for fireworks as precaution for disaster management" ID="ID_1310744981" CREATED="1519383336141" MODIFIED="1519383367470"/>
 </node>
@@ -5987,44 +5702,69 @@
 </node>
 <node TEXT="Policies /schemes" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1287603073" CREATED="1487759811580" MODIFIED="1525674741976">
 <node TEXT="Swacch Bharat Mission" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_653347620" CREATED="1488277453472" MODIFIED="1525496758250">
-<node TEXT="Swacch Bharat Abhiyaan" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1570453838" CREATED="1487759811580" MODIFIED="1488545169808">
-<node TEXT="Sensitisation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1951472371" CREATED="1487759811580" MODIFIED="1488545169808" HGAP_QUANTITY="13.250000022351742 pt" VSHIFT_QUANTITY="-14.249999575316918 pt">
-<node TEXT="MoDWS + Tata Trust = Volunteer for awareness in districts" LOCALIZED_STYLE_REF="default" ID="ID_352993536" CREATED="1487759811580" MODIFIED="1488545169813"/>
-<node TEXT="Healthy India Magazine - Quarterly free!" LOCALIZED_STYLE_REF="default" ID="ID_1110023871" CREATED="1487759811580" MODIFIED="1488545169813"/>
+<node TEXT="Swacch Bharat Abhiyaan" LOCALIZED_STYLE_REF="default" ID="ID_1570453838" CREATED="1487759811580" MODIFIED="1488545169808">
+<node TEXT="evaluation of SBM" LOCALIZED_STYLE_REF="default" ID="ID_1855222847" CREATED="1487759811580" MODIFIED="1530870338041" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-13.49999959766866 pt">
+<icon BUILTIN="flag-green"/>
+<node TEXT="objective" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_988578845" CREATED="1530864011532" MODIFIED="1530864017017">
+<node TEXT="personal, public, community toilets" ID="ID_1899458255" CREATED="1530864017298" MODIFIED="1530864026284">
+<node TEXT="ODF status" FOLDED="true" ID="ID_894196419" CREATED="1530863963256" MODIFIED="1530863965756">
+<node TEXT="Guj + Andhra ODF Urban&#xa;Kerala + Sikkim + Himachal = ODF complete&#xa;1L villages ODF Free" LOCALIZED_STYLE_REF="default" ID="ID_1124178685" CREATED="1488273592179" MODIFIED="1530863968554"/>
 </node>
-<node TEXT="assessment" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1855222847" CREATED="1487759811580" MODIFIED="1499181564710" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-13.49999959766866 pt">
-<node TEXT="Guj + Andhra ODF Urban" LOCALIZED_STYLE_REF="default" ID="ID_1124178685" CREATED="1488273592179" MODIFIED="1488545169818"/>
-<node TEXT="Kerala + Sikkim + Himachal = ODF complete" LOCALIZED_STYLE_REF="default" ID="ID_848578719" CREATED="1488273603199" MODIFIED="1488545169818"/>
-<node TEXT="1L villages ODF Free" LOCALIZED_STYLE_REF="default" ID="ID_1076553483" CREATED="1488273615875" MODIFIED="1488545169818"/>
+<node TEXT="cash incentive for toilet building" ID="ID_74590978" CREATED="1530864129960" MODIFIED="1530864135509"/>
+<node TEXT="toilet usage up" ID="ID_1434569598" CREATED="1530870359419" MODIFIED="1530870362607"/>
 </node>
-<node TEXT="SBM Kosh =&gt; More funding" LOCALIZED_STYLE_REF="default" ID="ID_1901620072" CREATED="1488273631945" MODIFIED="1488545169818"/>
+<node TEXT="eliminate manual scavenging" ID="ID_375791097" CREATED="1530864051788" MODIFIED="1530864057164"/>
+<node TEXT="modern scientific Municipal sewage mgmt" ID="ID_859572284" CREATED="1530864059508" MODIFIED="1530864081079">
+<node TEXT="split model of compost pit" ID="ID_222541809" CREATED="1530864112635" MODIFIED="1530864121277"/>
+<node TEXT="participatory planning at gram sabha level" ID="ID_911382120" CREATED="1530870368514" MODIFIED="1530870375875"/>
+</node>
+<node TEXT="behavioral change + awareness" ID="ID_336700935" CREATED="1530864095409" MODIFIED="1530864241863">
+<node TEXT="roping in celebrities&#xa;, children whistle" ID="ID_645742473" CREATED="1530864141932" MODIFIED="1530864151777"/>
+<node TEXT="[sensitisation]&#xa;&#xa;, MoDWS + Tata Trust = Volunteer for awareness in districts&#xa;&#xa;, Healthy India Magazine - Quarterly free!" LOCALIZED_STYLE_REF="default" ID="ID_352993536" CREATED="1487759811580" MODIFIED="1530864232800"/>
+</node>
+</node>
+<node TEXT="innovation" LOCALIZED_STYLE_REF="default" ID="ID_468390963" CREATED="1530872583657" MODIFIED="1530872585483">
+<node TEXT="[water scarcity]&#xa;low cost effective toilet cleaning product&#xa;&#xa;=&gt; a dry toilet cleaning powder (enabled with rice husk + enzyme + fragrance) in rural areas" ID="ID_1363293833" CREATED="1530872585639" MODIFIED="1530872743092">
+<node ID="ID_1898316703" CREATED="1530872651000" MODIFIED="1530872661639"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rick husk is extremely <b>abrasive </b>and has <b>moisture absorption </b>and <b>odour absorption </b>properties which when combined with enzymes can create an effective cleaning and disinfectant solution.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="From &#x201c;Open Defecation Free India&#x201d; to &#x201c;100% hygienic India&#x2019;&#x2019;" ID="ID_594799570" CREATED="1530872686665" MODIFIED="1530872688420">
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+<node TEXT="SBM Kosh =&gt; More funding" LOCALIZED_STYLE_REF="default" ID="ID_1901620072" CREATED="1488273631945" MODIFIED="1530863850812" LINK="#ID_1282059695"/>
 <node TEXT="ODF a problem?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_357824480" CREATED="1488273692978" MODIFIED="1488545169818">
-<node TEXT="Malnutrition" LOCALIZED_STYLE_REF="default" ID="ID_1713419985" CREATED="1488273696972" MODIFIED="1488545169818"/>
-<node TEXT="Diseases = Diarrhoea" LOCALIZED_STYLE_REF="default" ID="ID_22085175" CREATED="1488273699689" MODIFIED="1488545169818"/>
-<node TEXT="Dignity of women" LOCALIZED_STYLE_REF="default" ID="ID_74476392" CREATED="1488273706999" MODIFIED="1488545169818"/>
+<node TEXT="Malnutrition&#xa;Diseases = Diarrhoea&#xa;Dignity of women" LOCALIZED_STYLE_REF="default" ID="ID_1713419985" CREATED="1488273696972" MODIFIED="1530863989700"/>
 </node>
-<node TEXT="implementation issues" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_600142720" CREATED="1499182026164" MODIFIED="1499182031836">
-<node TEXT="water supply?" ID="ID_1302528317" CREATED="1499182032149" MODIFIED="1499182035821"/>
+<node TEXT="implementation issues" LOCALIZED_STYLE_REF="default" ID="ID_600142720" CREATED="1499182026164" MODIFIED="1499182031836">
+<node TEXT="water, electricity supply?" ID="ID_1302528317" CREATED="1499182032149" MODIFIED="1530864000217"/>
 <node TEXT="poor families need to invest substantial portion of their income" ID="ID_1251497105" CREATED="1499182036196" MODIFIED="1499182054465"/>
 </node>
 </node>
-<node TEXT="Swacch Bharat Kosh" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1282059695" CREATED="1490409751046" MODIFIED="1490409755094">
+<node TEXT="Swacch Bharat Kosh" LOCALIZED_STYLE_REF="default" ID="ID_1282059695" CREATED="1490409751046" MODIFIED="1490409755094">
 <node TEXT="CSR funds" ID="ID_136443180" CREATED="1490409755454" MODIFIED="1490409759952"/>
 <node TEXT="clean india by 2019" ID="ID_398834541" CREATED="1490409767199" MODIFIED="1490409770580"/>
 </node>
-<node TEXT="Swacchta Status Report" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_703764488" CREATED="1492073559045" MODIFIED="1497239607383">
-<icon BUILTIN="full-1"/>
+<node TEXT="Swacchta Status Report" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_703764488" CREATED="1492073559045" MODIFIED="1530863856137">
 <node TEXT="NSSO" ID="ID_1958453969" CREATED="1492073563539" MODIFIED="1492073567469"/>
 </node>
 <node TEXT="Swacch Sarvekshan 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_602877776" CREATED="1494385177309" MODIFIED="1525496767581">
 <icon BUILTIN="idea"/>
-<node TEXT="MoUD" LOCALIZED_STYLE_REF="default" ID="ID_1293589797" CREATED="1494385184386" MODIFIED="1496372500598" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="outcome oriented" LOCALIZED_STYLE_REF="default" ID="ID_768935448" CREATED="1494385223452" MODIFIED="1496372501458" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="carried out by QCI" LOCALIZED_STYLE_REF="default" ID="ID_1496612638" CREATED="1494401115207" MODIFIED="1496372504474" BACKGROUND_COLOR="#feffd6">
+<node TEXT="MoUD&#xa;outcome oriented&#xa;carried out by QCI" LOCALIZED_STYLE_REF="default" ID="ID_1293589797" CREATED="1494385184386" MODIFIED="1530863866728" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
 <node TEXT="criteria" FOLDED="true" ID="ID_1689786942" CREATED="1494385230816" MODIFIED="1494385232370">
@@ -6039,7 +5779,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Green Corridor" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1599310089" CREATED="1488277468573" MODIFIED="1488545169818" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
+<node TEXT="Green Corridor" LOCALIZED_STYLE_REF="default" ID="ID_1599310089" CREATED="1488277468573" MODIFIED="1488545169818" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
 <node TEXT="rameshwaram - manamadurai" ID="ID_971381726" CREATED="1497477917268" MODIFIED="1497477927983"/>
 <node TEXT="Bio toilet, DRDO developed" ID="ID_1077172489" CREATED="1497477928264" MODIFIED="1497477965082"/>
 </node>
@@ -6372,6 +6112,9 @@
 <node TEXT="use Nudge theory = nobel prize 2017, economics" ID="ID_1087221217" CREATED="1523254257430" MODIFIED="1523254267508"/>
 <node TEXT="2. SBM needed Behavioral change&#xa;3. Gudda Guddi Boards - BBBP scheme" ID="ID_936526680" CREATED="1523253344463" MODIFIED="1523254190602"/>
 </node>
+<node TEXT="PM interacting with young entrepreneurs and beneficiaries of govt. schemes" LOCALIZED_STYLE_REF="default" ID="ID_10885641" CREATED="1530889877561" MODIFIED="1530889892545">
+<font NAME="Calibri"/>
+</node>
 <node TEXT="UN on Pharmaceuticals = Fully utilise the rights conferred by TRIPS flexibilities (under DOHA, WTO)&#xa;i.e. can use CL for generic meds" LOCALIZED_STYLE_REF="default" ID="ID_1887042685" CREATED="1521264341242" MODIFIED="1521264384702">
 <font NAME="Calibri"/>
 </node>
@@ -6535,7 +6278,7 @@
 </node>
 </node>
 </node>
-<node TEXT="prelims 2018" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
+<node TEXT="prelims 2018" FOLDED="true" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
 <node TEXT="map type" FOLDED="true" ID="ID_1857282730" CREATED="1523033044582" MODIFIED="1523033050475">
 <font BOLD="true"/>
 <node TEXT="&#x2018;Rafah Crossing Point" FOLDED="true" ID="ID_488008338" CREATED="1523033036842" MODIFIED="1523033037356">
@@ -9057,9 +8800,6 @@
 </node>
 </node>
 <node TEXT="cabinet vs CoM difference,  pg 247" ID="ID_1809873889" CREATED="1524902183763" MODIFIED="1524902204763"/>
-<node TEXT="124 A" FOLDED="true" ID="ID_1820184291" CREATED="1524899729708" MODIFIED="1524899732396">
-<node TEXT="sedition = defamation or treason with govt." ID="ID_1183019795" CREATED="1524899733282" MODIFIED="1524899742315"/>
-</node>
 <node TEXT="Ministries created by president (PM advice)" ID="ID_1025595445" CREATED="1524902345811" MODIFIED="1524902365033"/>
 <node TEXT="244A" FOLDED="true" ID="ID_636702772" CREATED="1524902406454" MODIFIED="1524902408365">
 <node TEXT="tribal areas in assam" ID="ID_434929249" CREATED="1524902415668" MODIFIED="1524902420264"/>
@@ -11376,12 +11116,341 @@
 </node>
 <node TEXT="Intelligence sharing a bigger problem than intelligence gathering - MK Narayan (former NSA)" ID="ID_940641920" CREATED="1514840212876" MODIFIED="1514840242428"/>
 </node>
-<node TEXT="Indian Internal Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_471716220" CREATED="1488086201742" MODIFIED="1515563627681">
+<node TEXT="Indian Internal Security" LOCALIZED_STYLE_REF="default" ID="ID_471716220" CREATED="1488086201742" MODIFIED="1515563627681">
 <node TEXT="International Institutions&#xa;NAM,&#xa;NIEO,&#xa;Kyoto 1997" LOCALIZED_STYLE_REF="default" ID="ID_206360478" CREATED="1488086209900" MODIFIED="1488545169698"/>
 <node TEXT="Role of external state and non state actors ?" ID="ID_156617735" CREATED="1515563640401" MODIFIED="1515563648652"/>
 <node TEXT="Cyber Security" FOLDED="true" ID="ID_247723559" CREATED="1522383794926" MODIFIED="1522383798786">
 <node TEXT="NCIIPC + Cyber Swacchta Kendra + Cyber Security policy, 2013" ID="ID_409939955" CREATED="1522383798896" MODIFIED="1522383820118"/>
 <node TEXT="ISEA = Information security education and awareness" ID="ID_1053288201" CREATED="1522383826416" MODIFIED="1522383848294"/>
+</node>
+<node TEXT="internal security" ID="ID_47828840" CREATED="1497960380450" MODIFIED="1527746079478">
+<icon BUILTIN="flag-green"/>
+<node TEXT="non state actors in internal security" FOLDED="true" ID="ID_1474140306" CREATED="1497956943978" MODIFIED="1497956955296">
+<node TEXT="radicalisation via internet" ID="ID_1374428467" CREATED="1497960420913" MODIFIED="1497960640905"/>
+<node TEXT="remote controlled terrorism" ID="ID_548965506" CREATED="1497960650908" MODIFIED="1497960655285"/>
+<node TEXT="propaganda =&gt; lone wolf attacks" ID="ID_1671764181" CREATED="1499396587401" MODIFIED="1499396595204"/>
+</node>
+<node TEXT="terrorism" FOLDED="true" ID="ID_404673515" CREATED="1497960385857" MODIFIED="1497960387547">
+<node ID="ID_1089607077" CREATED="1497960387674" MODIFIED="1497960414978"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      more a threat to international <b>peace </b><i>than <b>human life </b></i>loss. There are more deadly diseases.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="organised crime" LOCALIZED_STYLE_REF="default" ID="ID_1959637242" CREATED="1499316180417" MODIFIED="1530889686062" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node FOLDED="true" ID="ID_1813744871" CREATED="1499316190254" MODIFIED="1499318934818">
+<icon BUILTIN="flag-green"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      highly <b>centralised </b>groups engaged in <b>illegal/unlawful </b>activities for profit
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="hierarchy, centralised, code of conduct" ID="ID_732036262" CREATED="1499316310064" MODIFIED="1499316318477"/>
+<node TEXT="power and profit" ID="ID_1564826609" CREATED="1499316325276" MODIFIED="1499316326858"/>
+<node TEXT="continue over period of time" ID="ID_563149478" CREATED="1499316328364" MODIFIED="1499316334360"/>
+<node TEXT="restricted membership" ID="ID_1943954957" CREATED="1499316335070" MODIFIED="1499316337920"/>
+<node TEXT="monopoly usually accompanies organised crime" ID="ID_598707178" CREATED="1499316366944" MODIFIED="1499316387987">
+<node TEXT="e.g. casino" ID="ID_636885316" CREATED="1499316390588" MODIFIED="1499316392702"/>
+</node>
+<node TEXT="need support system" ID="ID_1060440631" CREATED="1499316397025" MODIFIED="1499316443260">
+<node TEXT="hackers, social support (afghan), corrupt politicians" ID="ID_1615994315" CREATED="1499316399702" MODIFIED="1499316418976"/>
+</node>
+</node>
+<node TEXT="history in india" FOLDED="true" ID="ID_441381206" CREATED="1499316444772" MODIFIED="1499316447969">
+<node TEXT="zamindars with private army" ID="ID_761298853" CREATED="1499316448394" MODIFIED="1499316454554"/>
+<node TEXT="thug movement" ID="ID_712166346" CREATED="1499316454888" MODIFIED="1499316457114"/>
+</node>
+<node TEXT="today in india" ID="ID_1897955946" CREATED="1499316468101" MODIFIED="1499316470200">
+<node TEXT="started from bombay - liquor" ID="ID_134339286" CREATED="1499316487431" MODIFIED="1499316498392"/>
+<node TEXT="Maharasthra control of organised crime act" ID="ID_1496053237" CREATED="1499316267610" MODIFIED="1499319575336"/>
+<node TEXT="mafia" ID="ID_1855863026" CREATED="1499316507128" MODIFIED="1499316507873"/>
+<node TEXT="types of organised crime" ID="ID_994193375" CREATED="1499316569000" MODIFIED="1499316573631">
+<node TEXT="trafficiking - drug, human" ID="ID_32137707" CREATED="1499316573843" MODIFIED="1499316581166"/>
+<node TEXT="arms, drugs, liquor" FOLDED="true" ID="ID_821405653" CREATED="1499316583688" MODIFIED="1499316591040">
+<node TEXT="drugs" FOLDED="true" ID="ID_1137131071" CREATED="1499318243498" MODIFIED="1499318244713">
+<node TEXT="golden crescent (Afghan, Iran, pakistan) + golden triangle (Myanmar, Laos, Thailand)" FOLDED="true" ID="ID_625407769" CREATED="1499318244866" MODIFIED="1499318277956">
+<node TEXT="border management" ID="ID_1707663612" CREATED="1499318310089" MODIFIED="1499318312237"/>
+</node>
+</node>
+<node TEXT="same transport route for arms, drugs, humans etc" ID="ID_916221906" CREATED="1499318889800" MODIFIED="1499318900455"/>
+<node TEXT="hawala network for money transaction" ID="ID_1553883159" CREATED="1499318906137" MODIFIED="1499318915571"/>
+</node>
+<node TEXT="money laundering, black money (BMoney)" FOLDED="true" ID="ID_532102647" CREATED="1499317674256" MODIFIED="1499317701312">
+<node ID="ID_1882378980" CREATED="1499317683264" MODIFIED="1499318013452"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      legally <b>avoiding </b>tax
+    </p>
+    <p>
+      or
+    </p>
+    <p>
+      earned through illegal means =&gt; BMeans
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="being seen as tough on black money is politically beneficial (elections!)" ID="ID_683864045" CREATED="1499317778370" MODIFIED="1499317818364"/>
+<node TEXT="measure taken by govt." LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_641726903" CREATED="1499317826649" MODIFIED="1530889622479" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="Benami properties act&#xa;, Demonetisation&#xa;, IDS Scheme&#xa;, Fugitive economic offender&apos;s bill&#xa;, DTAA - mauritius, singapore, cyprus&#xa;&#xa;, singapore - real time info sharing" ID="ID_1913240512" CREATED="1530889739940" MODIFIED="1530889799458"/>
+<node TEXT="PMLA" ID="ID_368228555" CREATED="1530889806982" MODIFIED="1530889807810"/>
+</node>
+<node TEXT="effect of black money" FOLDED="true" ID="ID_436343976" CREATED="1499318061269" MODIFIED="1530889590494">
+<icon BUILTIN="flag-green"/>
+<node TEXT="social problem" ID="ID_988321119" CREATED="1499317728404" MODIFIED="1499317730521">
+<node TEXT="why everyone is evading tax?" ID="ID_1941085564" CREATED="1499317731615" MODIFIED="1499317740252">
+<node TEXT="accountability of govt?" ID="ID_1975158195" CREATED="1499317751568" MODIFIED="1499317759406"/>
+</node>
+<node TEXT="ES 2017" ID="ID_1424229865" CREATED="1499317741112" MODIFIED="1499317743455"/>
+</node>
+<node TEXT="Inflation, Volatility in economy" ID="ID_1592752368" CREATED="1530889577518" MODIFIED="1530889588230"/>
+<node TEXT="integrity of nation, banks, financial system" ID="ID_1439480405" CREATED="1499318068673" MODIFIED="1499318079443"/>
+<node TEXT="related with corruption" ID="ID_635824811" CREATED="1499318115699" MODIFIED="1499318118974"/>
+<node TEXT="trans national organised crime =&gt; BMoney" ID="ID_868431644" CREATED="1499318101238" MODIFIED="1499318110569"/>
+</node>
+</node>
+<node TEXT="FICN" FOLDED="true" ID="ID_44094840" CREATED="1499316591386" MODIFIED="1499316595567">
+<node TEXT="fake indian currency notes" ID="ID_1378846854" CREATED="1499317639291" MODIFIED="1499317643492"/>
+<node TEXT="international dimension" FOLDED="true" ID="ID_701666649" CREATED="1499316751611" MODIFIED="1499316754989">
+<node TEXT="pak, bangladesh FICN" ID="ID_143241199" CREATED="1499316755148" MODIFIED="1499316762612"/>
+</node>
+<node TEXT="black money" ID="ID_147297613" CREATED="1499316768161" MODIFIED="1499316772845"/>
+<node TEXT="terror financing" ID="ID_581474787" CREATED="1499316775697" MODIFIED="1499316777829"/>
+</node>
+<node TEXT="financial fraud" FOLDED="true" ID="ID_11723949" CREATED="1499316596225" MODIFIED="1499317669487">
+<node TEXT="institutional measures" FOLDED="true" ID="ID_935686980" CREATED="1499316705148" MODIFIED="1499316707492">
+<node TEXT="DRI (director of revenue intelligence)" ID="ID_153213128" CREATED="1499316612969" MODIFIED="1499316622576"/>
+<node TEXT="SFIO" FOLDED="true" ID="ID_1967596977" CREATED="1499316611191" MODIFIED="1499316612290">
+<node TEXT="enables auditor to act as whistle blowers" ID="ID_1967723876" CREATED="1499316681674" MODIFIED="1499316694204"/>
+</node>
+</node>
+<node TEXT="legislative measures" FOLDED="true" ID="ID_387103638" CREATED="1499316669041" MODIFIED="1499316675255">
+<node TEXT="Benami transaction Act!" ID="ID_401482426" CREATED="1499316638168" MODIFIED="1499316644673"/>
+<node TEXT="Whistleblowing act, 2014" ID="ID_638316936" CREATED="1499316698710" MODIFIED="1503053967437"/>
+<node TEXT="PMLA" ID="ID_1716470517" CREATED="1499316664732" MODIFIED="1499316665699"/>
+</node>
+<node TEXT="e.g.&#xa;Sharda, rose valley" ID="ID_830780986" CREATED="1499316712515" MODIFIED="1499316724619"/>
+</node>
+</node>
+<node TEXT="effects" FOLDED="true" ID="ID_1713905401" CREATED="1499316550970" MODIFIED="1499316552326">
+<node ID="ID_1525548180" CREATED="1499316524978" MODIFIED="1499316547834"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      election rigging using <i>black money</i>/muscle power
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="regional distribution examples" FOLDED="true" ID="ID_1069753709" CREATED="1499319394735" MODIFIED="1499319399352">
+<node TEXT="NE insurgency supported by means of organised crime" ID="ID_423048558" CREATED="1499319399501" MODIFIED="1499319438450"/>
+<node TEXT="Kashmir" ID="ID_1361945290" CREATED="1499319400526" MODIFIED="1499319401503"/>
+</node>
+<node ID="ID_133491142" CREATED="1499319059406" MODIFIED="1499319245247" MAX_WIDTH="249.24811573127795 pt" MIN_WIDTH="249.24811573127795 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <table border="0" style="width: 80%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0">
+      <tr>
+        <td valign="top" style="width: 50%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            <b>Terrorism</b>
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            * violence
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            * change status quo
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            * political/ ideological objective
+          </p>
+        </td>
+        <td valign="top" style="width: 50%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            <b>Organised Crime</b>
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            * threat of violence
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            * not change! (warna benefit band :p )
+          </p>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            * economic objective
+          </p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+</richcontent>
+<node TEXT="both use terror network (for violence or threat of violence)" ID="ID_1168432998" CREATED="1499319249454" MODIFIED="1499319265411"/>
+<node TEXT="change of status quo is not static. Dynamic so longer fulfills objectives!" ID="ID_248587579" CREATED="1499319296835" MODIFIED="1499319310499"/>
+</node>
+</node>
+<node TEXT="trans national organised crime" FOLDED="true" ID="ID_1536060414" CREATED="1499318974177" MODIFIED="1499318980113">
+<node TEXT="arms, money, logistics (hackers, satellite phones)" ID="ID_549295710" CREATED="1499319013279" MODIFIED="1499319029728"/>
+<node TEXT="black money, Money laundering, FICN," ID="ID_1805374370" CREATED="1499319040652" MODIFIED="1499319050287"/>
+</node>
+</node>
+<node TEXT="LWE" FOLDED="true" ID="ID_49951788" CREATED="1499351550463" MODIFIED="1499351551839">
+<node TEXT="vision pt 365 updated, 5.32" ID="ID_1931786892" CREATED="1526993499460" MODIFIED="1526993510507">
+<icon BUILTIN="flag-green"/>
+<font BOLD="true" ITALIC="true"/>
+</node>
+<node TEXT="socio economic issue + law and order issue" ID="ID_460153567" CREATED="1499351694116" MODIFIED="1499351707943"/>
+<node TEXT="forest dweller and relation with land - economic + socio cultural link" ID="ID_861527228" CREATED="1499354470706" MODIFIED="1499354493921"/>
+<node TEXT="corruption causing alienation of MFP + rights" ID="ID_1867181175" CREATED="1499357604161" MODIFIED="1499357614428"/>
+<node TEXT="kill lowest administrative officials to create vaccum and coerce local population into naxal movement" FOLDED="true" ID="ID_1729045370" CREATED="1509377834067" MODIFIED="1509377862185">
+<node TEXT="need to increase developmental efforts + rigorous monitoring + so that sympathisers realise futility of their act [idsa]" ID="ID_1369217938" CREATED="1509378376250" MODIFIED="1509378426397"/>
+</node>
+<node TEXT="http://www.insightsonindia.com/2015/01/05/linkages-between-development-and-spread-of-extremism-naxalism-left-wing-extremism/" ID="ID_332719335" CREATED="1509378851455" MODIFIED="1509378852643"/>
+<node TEXT="Forest Rights Act" ID="ID_1325495937" CREATED="1499357617909" MODIFIED="1499357620981"/>
+<node TEXT="5th and 6th schedule" ID="ID_537012365" CREATED="1499357628597" MODIFIED="1499357634567"/>
+</node>
+<node TEXT="constitutionalism" FOLDED="true" ID="ID_500283336" CREATED="1499334321697" MODIFIED="1499334325241">
+<node TEXT="public order = only states handle" FOLDED="true" ID="ID_585306288" CREATED="1499334326117" MODIFIED="1499334331664">
+<node TEXT="tribal insurgency to be dealt by state" ID="ID_383572232" CREATED="1499334331826" MODIFIED="1499334345738"/>
+<node TEXT="can take centre help" ID="ID_702406026" CREATED="1499334346394" MODIFIED="1499334377667"/>
+<node TEXT="why in state list?" FOLDED="true" ID="ID_1230884985" CREATED="1499334494255" MODIFIED="1499334505558">
+<node TEXT="definition is context specific" ID="ID_1761992421" CREATED="1499335208913" MODIFIED="1499335215421"/>
+<node TEXT="principle of subsidiartiy" ID="ID_650754542" CREATED="1499334412353" MODIFIED="1499334417176"/>
+<node TEXT="if in concurrent" FOLDED="true" ID="ID_705143123" CREATED="1499334418727" MODIFIED="1499334531625">
+<node ID="ID_1691452025" CREATED="1499334532465" MODIFIED="1499334532465"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      encroaches on state jurisdiction
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="dual responsibility (i.e. concurrent list) for key issue like public order might cause delay in immediate action" ID="ID_336618664" CREATED="1499334436660" MODIFIED="1499334488710"/>
+</node>
+</node>
+</node>
+<node TEXT="public order should be in concurrent list?" FOLDED="true" ID="ID_361460079" CREATED="1499334395008" MODIFIED="1499334579758">
+<node TEXT="organised crime not within boundaries of state" ID="ID_1704972685" CREATED="1499334554750" MODIFIED="1499334569337"/>
+</node>
+<node TEXT="355 = duty of union to protect states" FOLDED="true" ID="ID_307563461" CREATED="1499334771010" MODIFIED="1499334778840">
+<node TEXT="operational role" FOLDED="true" ID="ID_1710697453" CREATED="1499334707789" MODIFIED="1499334739072">
+<node TEXT="e.g. deployment for CAPF for JnK and LWE" ID="ID_1881523645" CREATED="1499334744563" MODIFIED="1499334761392"/>
+</node>
+</node>
+<node TEXT="todo" FOLDED="true" ID="ID_64775771" CREATED="1499334902701" MODIFIED="1499334903897">
+<node TEXT="standing committees on internal security" ID="ID_1511772535" CREATED="1499334676070" MODIFIED="1499334706828"/>
+<node TEXT="central enforcement agency" FOLDED="true" ID="ID_507157880" CREATED="1499334631360" MODIFIED="1499334644701">
+<node TEXT="CBI cannot indulge in matters of state unless asked for" ID="ID_261194094" CREATED="1499334644876" MODIFIED="1499334657637"/>
+</node>
+<node TEXT="internal security threat vs internal disturbance" FOLDED="true" ID="ID_205558199" CREATED="1499334954921" MODIFIED="1499334970056">
+<icon BUILTIN="help"/>
+<node TEXT="constitutional amendment" ID="ID_1276081453" CREATED="1499335048615" MODIFIED="1499335053320"/>
+</node>
+<node TEXT="federal nature of crimes" ID="ID_830984464" CREATED="1499335116320" MODIFIED="1499335123809"/>
+<node TEXT="community vigilance and participation" ID="ID_937691982" CREATED="1499335270105" MODIFIED="1499335276769"/>
+</node>
+</node>
+<node TEXT="communalism" FOLDED="true" ID="ID_433489610" CREATED="1499319477673" MODIFIED="1499319482364">
+<node TEXT="secularism - constitution basic structure" ID="ID_213740594" CREATED="1499319482967" MODIFIED="1499319490743"/>
+<node TEXT="1905 bengal parition + 1906 muslim league + 1915 Hindu Mahasabha + Wahabi / deboand movement" ID="ID_1744266254" CREATED="1499319491072" MODIFIED="1499319517155"/>
+</node>
+<node TEXT="questions" FOLDED="true" ID="ID_1098776641" CREATED="1499336298619" MODIFIED="1499336300524">
+<node TEXT="effect of middle east situations on India&apos;s internal security" FOLDED="true" ID="ID_1853814528" CREATED="1499336300820" MODIFIED="1499336322430">
+<node TEXT="ISIS, Iraq, Syria" ID="ID_1847197602" CREATED="1499350747421" MODIFIED="1499350758246"/>
+<node TEXT="middle east diaspora" ID="ID_469495870" CREATED="1499350851037" MODIFIED="1499350862519"/>
+<node TEXT="economic = remittance" ID="ID_683267310" CREATED="1499351114498" MODIFIED="1499351123744"/>
+<node FOLDED="true" ID="ID_39462341" CREATED="1499351143829" MODIFIED="1499351479963"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      GCC stability =&gt; energy security at risk, oil prices<br/>+ foreign exchange rates
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="balanced international policy may suffer" ID="ID_1203138162" CREATED="1499351506701" MODIFIED="1499351517554"/>
+</node>
+<node TEXT="rescue operation, Sankat mochan" FOLDED="true" ID="ID_1350983326" CREATED="1499351079248" MODIFIED="1499351089312">
+<node TEXT="bring radicalised youth =&gt; infect country" ID="ID_417739172" CREATED="1499351107395" MODIFIED="1499351114326"/>
+<node TEXT="personnel + ships/planes at risk" ID="ID_1913832192" CREATED="1499351130648" MODIFIED="1499351141942"/>
+</node>
+<node TEXT="propaganda of ISIS" ID="ID_1675462325" CREATED="1499351309970" MODIFIED="1499351319092"/>
+</node>
+<node TEXT="radicalisation" FOLDED="true" ID="ID_1825440181" CREATED="1499336323567" MODIFIED="1499336327577">
+<node TEXT="ISIS = islamic fundamentalist group seeking caliphate" FOLDED="true" ID="ID_1001411015" CREATED="1499344737089" MODIFIED="1499344749393">
+<node TEXT="many indian youth influenced by propaganda" ID="ID_1353963674" CREATED="1499344749920" MODIFIED="1499344761629"/>
+<node TEXT="sectarian organisation" ID="ID_285954878" CREATED="1499344766676" MODIFIED="1499344770814"/>
+</node>
+<node TEXT="Kashmir" FOLDED="true" ID="ID_667137475" CREATED="1499344797099" MODIFIED="1499344798446">
+<node TEXT="earlier by external agencies, like ISI" ID="ID_1889785408" CREATED="1499344802579" MODIFIED="1499344812608"/>
+<node TEXT="domestic radicalisation, e.g. stone pelting" ID="ID_1046861811" CREATED="1499344813259" MODIFIED="1499344823297"/>
+</node>
+<node TEXT="measures to combat" FOLDED="true" ID="ID_1298005912" CREATED="1499344867566" MODIFIED="1499344870657">
+<node TEXT="national anti terror framework" ID="ID_635715462" CREATED="1499344874385" MODIFIED="1499344884024"/>
+<node TEXT="NIA" ID="ID_117762524" CREATED="1499344889904" MODIFIED="1499348533995"/>
+<node TEXT="international cooperation" FOLDED="true" ID="ID_554250802" CREATED="1499348557553" MODIFIED="1499348560991">
+<node TEXT="extradition treaty" ID="ID_1219270723" CREATED="1499348568822" MODIFIED="1499348571784"/>
+<node TEXT="mutual legal assistance treaties" ID="ID_1354310500" CREATED="1499348584836" MODIFIED="1499348590892"/>
+</node>
+<node TEXT="improve technology, new monitoring techniques to police" ID="ID_1863563066" CREATED="1499348620113" MODIFIED="1499348651692"/>
+</node>
+</node>
+<node TEXT="Indian Mujahideen" FOLDED="true" ID="ID_454835560" CREATED="1499348748755" MODIFIED="1499348754779">
+<node TEXT="home grown islamic fundamentalism" ID="ID_1423697109" CREATED="1499348756017" MODIFIED="1499348774405"/>
+<node TEXT="product of religious intolerance" FOLDED="true" ID="ID_1927059898" CREATED="1499348950252" MODIFIED="1499348958820">
+<node TEXT="after Gujrat riots, and harsh treatment of muslims in India" ID="ID_480852486" CREATED="1499348977455" MODIFIED="1499348996649"/>
+</node>
+<node TEXT="also failure of justice system" ID="ID_36648306" CREATED="1499349037042" MODIFIED="1499349041893"/>
+<node TEXT="biased police attitude" ID="ID_450390480" CREATED="1499349114163" MODIFIED="1499349122020"/>
+<node TEXT="socio economic conditions" FOLDED="true" ID="ID_1783468642" CREATED="1499349042081" MODIFIED="1499349046846">
+<node TEXT="unemployment" ID="ID_1258883517" CREATED="1499349051749" MODIFIED="1499349055027"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="Science and society" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1321721180" CREATED="1521265139600" MODIFIED="1521265143865">
