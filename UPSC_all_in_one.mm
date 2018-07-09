@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.109">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -135,9 +135,9 @@
 </hook>
 <font NAME="Calibri"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
-<node TEXT="Polity" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
+<node TEXT="Polity" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
 <font NAME="Calibri"/>
-<node TEXT="Legislations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
+<node TEXT="Legislations" LOCALIZED_STYLE_REF="default" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
 <font NAME="Calibri"/>
 <node TEXT="COPRA, 1986" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_212585028" CREATED="1488179043829" MODIFIED="1494887615890">
 <font NAME="Calibri"/>
@@ -1193,13 +1193,13 @@
 <node TEXT="G2C : service delivery, accountable, public confidence" ID="ID_1359939778" CREATED="1499578726292" MODIFIED="1499578740056"/>
 <node TEXT="NGOs : disasters, waster mgmt, impact of service delivery, human rights violation" ID="ID_380438412" CREATED="1499578740487" MODIFIED="1499578769282"/>
 </node>
-<node TEXT="section 8" FOLDED="true" ID="ID_654739585" CREATED="1530690598810" MODIFIED="1530690601905">
-<node TEXT="national security bill to resolve conflict between OSA and RTI" ID="ID_1506619937" CREATED="1530690520236" MODIFIED="1530690542146"/>
+<node TEXT="section 8" ID="ID_654739585" CREATED="1530690598810" MODIFIED="1530690601905">
+<node TEXT="national security bill to resolve conflict between OSA and RTI&#xa;(2nd ARC reco)" ID="ID_1506619937" CREATED="1530690520236" MODIFIED="1531070061236"/>
 </node>
-<node TEXT="section 7, 11 are used ad grounds of denial of Info by public auth" FOLDED="true" ID="ID_72313264" CREATED="1530690604749" MODIFIED="1530690695888">
+<node TEXT="section 7, 11 are used ad grounds of denial of Info by public auth" ID="ID_72313264" CREATED="1530690604749" MODIFIED="1530690695888">
 <node TEXT="7 - disproportionate diversion of resources&#xa;&#xa;11 - third party info" ID="ID_1127693776" CREATED="1530690617469" MODIFIED="1530690635582"/>
 </node>
-<node TEXT="frivolous RTI?" FOLDED="true" ID="ID_658995801" CREATED="1530690697185" MODIFIED="1530690700107">
+<node TEXT="frivolous RTI?" ID="ID_658995801" CREATED="1530690697185" MODIFIED="1530690700107">
 <node TEXT="RaaG study found&#xa;&#xa;&lt;1% are frivolous" ID="ID_328562102" CREATED="1530690700216" MODIFIED="1530690712093"/>
 </node>
 </node>
@@ -3649,10 +3649,10 @@
 </node>
 </node>
 </node>
-<node TEXT="Economy" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
+<node TEXT="Economy" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
 <font NAME="Calibri"/>
 <node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
-<node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
+<node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
 <node TEXT="Intro" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_635115520" CREATED="1488427334339" MODIFIED="1488545169567">
 <node TEXT="demographic data/trends" FOLDED="true" ID="ID_306319748" CREATED="1495142919356" MODIFIED="1495142935258">
 <node TEXT="water use trend" FOLDED="true" ID="ID_1402918979" CREATED="1489497861158" MODIFIED="1489497863494">
@@ -4590,6 +4590,28 @@
 </node>
 </node>
 </node>
+<node TEXT="agri future markets" FOLDED="true" ID="ID_764587693" CREATED="1504154282509" MODIFIED="1504154285399">
+<node TEXT="why useful?" ID="ID_1264883242" CREATED="1504154299458" MODIFIED="1504154302488">
+<node TEXT="1. serve as collateral for farmer loans" ID="ID_1675460385" CREATED="1504154330934" MODIFIED="1513612991842"/>
+<node ID="ID_1946888001" CREATED="1504154357717" MODIFIED="1513613007188"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2. farmer price risk reduced &lt;= assured selling with '<b><i>future contracts'</i></b>&#160;&#160;based on market demands
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="3. private investment scope" ID="ID_19567486" CREATED="1506488212628" MODIFIED="1513613014049"/>
+<node TEXT="4. physical goods delivery, no speculation [china]" ID="ID_116069758" CREATED="1513613051289" MODIFIED="1513613067417"/>
+</node>
+<node TEXT="to evolve from agri commodity markets, SEBI can help" ID="ID_282584577" CREATED="1504154285661" MODIFIED="1504154298811"/>
+</node>
 </node>
 <node TEXT="Industry" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_771505404" CREATED="1487760067401" MODIFIED="1488545169567">
 <node TEXT="Public Procurement&#xa;30%GDP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1448793088" CREATED="1488545497592" MODIFIED="1488545515004">
@@ -5176,10 +5198,7 @@
 <node TEXT="poor price discovery,&#xa;Farmer distress,&#xa;non remunerative msp&#xa;market uncertainity" ID="ID_59677649" CREATED="1523278893382" MODIFIED="1523278973273"/>
 </node>
 <node TEXT="Model Contract Farming ACt" FOLDED="true" ID="ID_425370866" CREATED="1525239239371" MODIFIED="1525239244793">
-<node TEXT="buy ENTIRE pre-agreed quantity!" ID="ID_1102260951" CREATED="1525239351671" MODIFIED="1525239361750">
-<font ITALIC="false"/>
-</node>
-<node TEXT="=&gt; keep it out of purview of APMC" ID="ID_1525422449" CREATED="1523278882148" MODIFIED="1525239351139">
+<node TEXT="buy ENTIRE pre-agreed quantity!&#xa;&#xa;FPOs" ID="ID_1102260951" CREATED="1525239351671" MODIFIED="1531069174480">
 <font ITALIC="false"/>
 </node>
 <node ID="ID_1216518521" CREATED="1525239251154" MODIFIED="1525239339153"><richcontent TYPE="NODE">
@@ -5197,20 +5216,26 @@
 </richcontent>
 <font ITALIC="true"/>
 </node>
-<node TEXT="make FPO" ID="ID_1712851267" CREATED="1525239341997" MODIFIED="1525239347404">
-<font ITALIC="true"/>
 </node>
+<node ID="ID_1729875747" CREATED="1531069193175" MODIFIED="1531069201099"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      also&#160;&#160;need to ease <b>land leasing laws</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 <node TEXT="pro" FOLDED="true" ID="ID_15768906" CREATED="1523279124846" MODIFIED="1523279127675">
 <font ITALIC="true"/>
 <node TEXT="consumer benefit,&#xa;private participation." ID="ID_122293097" CREATED="1523279135973" MODIFIED="1523279170445"/>
 </node>
-<node TEXT="cons" ID="ID_948385253" CREATED="1523279128019" MODIFIED="1523279128815">
-<font ITALIC="true"/>
-</node>
-</node>
-<node TEXT="reduce post production losses" FOLDED="true" ID="ID_27087370" CREATED="1508685244298" MODIFIED="1508685247752">
-<node TEXT="farmer income impacted" ID="ID_582481525" CREATED="1508685257799" MODIFIED="1508685261128"/>
 </node>
 </node>
 </node>
@@ -5520,7 +5545,7 @@
 </node>
 <node TEXT="Direct tax law = Arbind Modi" ID="ID_351271184" CREATED="1523261562056" MODIFIED="1523261569107"/>
 </node>
-<node TEXT="Railway Reforms" ID="ID_1890727205" CREATED="1494560332584" MODIFIED="1494560338146">
+<node TEXT="Railway Reforms" FOLDED="true" ID="ID_1890727205" CREATED="1494560332584" MODIFIED="1494560338146">
 <node TEXT="HSR tech" ID="ID_751975955" CREATED="1494560366149" MODIFIED="1494560368387">
 <node TEXT="Indo-Japan Joint venture" ID="ID_1214577412" CREATED="1494560379014" MODIFIED="1499047905583">
 <node TEXT="Transfer of Technology ( TOT )" ID="ID_1525343202" CREATED="1494560464595" MODIFIED="1494560471602"/>
@@ -8678,7 +8703,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Disaster Management" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_559986731" CREATED="1488273941641" MODIFIED="1494887616059">
+<node TEXT="Disaster Management" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_559986731" CREATED="1488273941641" MODIFIED="1494887616059">
 <font NAME="Calibri"/>
 <node TEXT="definition" LOCALIZED_STYLE_REF="default" ID="ID_1193605376" CREATED="1490089243508" MODIFIED="1497043998669">
 <font NAME="Calibri"/>
@@ -12735,7 +12760,7 @@
 </node>
 <node TEXT="use fungi to extract Co + Li from batteries" ID="ID_620009086" CREATED="1495964689324" MODIFIED="1495964700073"/>
 </node>
-<node TEXT="part 1" FOLDED="true" ID="ID_1817529046" CREATED="1495019474597" MODIFIED="1496055203525">
+<node TEXT="part 1" ID="ID_1817529046" CREATED="1495019474597" MODIFIED="1496055203525">
 <font NAME="Calibri"/>
 <node TEXT="NSG" FOLDED="true" ID="ID_1379715604" CREATED="1490935746515" MODIFIED="1497079991374">
 <node TEXT="NSG waiver = 2008" FOLDED="true" ID="ID_762608495" CREATED="1490935792015" MODIFIED="1490935796400">
@@ -16615,7 +16640,7 @@
 <node TEXT="Quadrilateral cooperation n coordination mechanism&#xa;with Afghan + Pak + china + Tajikistan&#xa;on counterterror" LOCALIZED_STYLE_REF="default" ID="ID_1771990541" CREATED="1488534768587" MODIFIED="1488545169723"/>
 </node>
 </node>
-<node TEXT="Social" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1304810247" CREATED="1488174989799" MODIFIED="1494887616077">
+<node TEXT="Social" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1304810247" CREATED="1488174989799" MODIFIED="1494887616077">
 <font NAME="Calibri"/>
 <node TEXT="Inequality" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1369035341" CREATED="1488174991722" MODIFIED="1488545169843">
 <node TEXT="Facts" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_9103462" CREATED="1488175427027" MODIFIED="1488545169843">
@@ -16743,7 +16768,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Vulnerable Sections" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1505326792" CREATED="1488271332966" MODIFIED="1526192054656" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="Vulnerable Sections" LOCALIZED_STYLE_REF="default" ID="ID_1505326792" CREATED="1488271332966" MODIFIED="1526192054656" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
 <node TEXT="Elderly" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_364614497" CREATED="1488271336600" MODIFIED="1526192058641">
@@ -16785,145 +16810,6 @@
 <node TEXT="Rashtriya Vayoshri yojna" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1387733297" CREATED="1524895905017" MODIFIED="1524895911075">
 <node TEXT="physical aids + assisting living devices&#xa;to BPL old + women (30%)" ID="ID_1653475107" CREATED="1524895911189" MODIFIED="1524895970058"/>
 <node TEXT="by ALIMCO" ID="ID_1121300601" CREATED="1524895923455" MODIFIED="1524895940169"/>
-</node>
-</node>
-<node TEXT="Tribal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_969099627" CREATED="1488271339741" MODIFIED="1488545169863">
-<node TEXT="provisions" FOLDED="true" ID="ID_1660830173" CREATED="1526191935777" MODIFIED="1526191939278">
-<node TEXT="forest dwellers act" ID="ID_1679345545" CREATED="1526191940020" MODIFIED="1526191968603" LINK="#ID_1044454238"/>
-<node TEXT="laxmikanth" ID="ID_1111035123" CREATED="1526191944672" MODIFIED="1526191951587" LINK="#ID_25340720"/>
-</node>
-<node TEXT="PVTG" FOLDED="true" ID="ID_1247671953" CREATED="1491718145353" MODIFIED="1491718207984">
-<icon BUILTIN="idea"/>
-<node TEXT="Criteria of identification" FOLDED="true" ID="ID_451671275" CREATED="1491718452916" MODIFIED="1491718458213">
-<node TEXT="geographical isolation" ID="ID_778835129" CREATED="1491718173770" MODIFIED="1491718173770"/>
-<node TEXT="distinctive traits" ID="ID_1376943674" CREATED="1491718173770" MODIFIED="1491718401092"/>
-<node TEXT="shyness of contact with other cultures." ID="ID_29849034" CREATED="1491718232940" MODIFIED="1491718233584"/>
-<node TEXT="can profess any religion" ID="ID_1472077934" CREATED="1491718173770" MODIFIED="1491718173770"/>
-<node TEXT="primitive traits; backwardness" ID="ID_1293500634" CREATED="1491718173775" MODIFIED="1491718230994"/>
-</node>
-<node TEXT="Issues" FOLDED="true" ID="ID_294164070" CREATED="1491718445936" MODIFIED="1491718447127">
-<node TEXT="Pre agricultural system of existence, i.e. they practice hunting or gathering" ID="ID_1376494304" CREATED="1491718447756" MODIFIED="1491718447756"/>
-<node TEXT="Zero or negative population growth" ID="ID_1957613923" CREATED="1491718447756" MODIFIED="1491718447756"/>
-<node TEXT="Extremely low level of literacy" ID="ID_1531278245" CREATED="1491718447761" MODIFIED="1491718447761"/>
-<node TEXT="Absence of a written language" ID="ID_991999997" CREATED="1491718447766" MODIFIED="1491718447766"/>
-</node>
-<node TEXT="Schemes for PVTG, 2008" FOLDED="true" ID="ID_932461153" CREATED="1491718537190" MODIFIED="1491718541428">
-<node TEXT="CCD plan" FOLDED="true" ID="ID_104664782" CREATED="1491718541634" MODIFIED="1491718547819">
-<node TEXT="conservation cum Development plan" ID="ID_592438999" CREATED="1491718548386" MODIFIED="1491718559966"/>
-<node ID="ID_1147071569" CREATED="1491718562789" MODIFIED="1496790335018"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      approved by Experts Committee appointed by&#160;&#160;<b>MinTribal</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="funded by central govt." ID="ID_1972785019" CREATED="1491718590211" MODIFIED="1491718594318"/>
-</node>
-</node>
-<node TEXT="examples of PVTG" ID="ID_1349854983" CREATED="1492165469819" MODIFIED="1492234172083"/>
-</node>
-<node TEXT="govt. initiatives" FOLDED="true" ID="ID_140460565" CREATED="1492242467511" MODIFIED="1492242472333">
-<node TEXT="Special Central Assistance to Tribal Sub Plan (SCA to TSP)" FOLDED="true" ID="ID_1991423971" CREATED="1492242472827" MODIFIED="1492242489421">
-<node TEXT="additive to state plan efforts for tribal dev" ID="ID_1908845525" CREATED="1492242501399" MODIFIED="1492242515198"/>
-</node>
-<node TEXT="Grant under 275(1)" ID="ID_1305152069" CREATED="1492242523690" MODIFIED="1492242527258"/>
-<node TEXT="Grants in Aid to State Tribal Dev Corporation" ID="ID_1101425228" CREATED="1492242539511" MODIFIED="1492242554039"/>
-<node TEXT="MSP for MFP" ID="ID_1405711335" CREATED="1492242564754" MODIFIED="1492242567383"/>
-<node TEXT="TRIFED marketing for tribal products" LOCALIZED_STYLE_REF="default" ID="ID_1703433236" CREATED="1496790218841" MODIFIED="1497241875298" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Vocational Training - via NGO" ID="ID_1762062730" CREATED="1492242576292" MODIFIED="1492242582181"/>
-<node TEXT="vanjeevan" FOLDED="true" ID="ID_1148471109" CREATED="1494919058449" MODIFIED="1526191990043">
-<icon BUILTIN="idea"/>
-<node TEXT="UNDP + NSTFDC" FOLDED="true" ID="ID_969978861" CREATED="1494919060166" MODIFIED="1496286374391">
-<node TEXT="NSTFDC = non-profit company under Min. Tribal" FOLDED="true" ID="ID_1777140556" CREATED="1494925724675" MODIFIED="1494925740172">
-<node ID="ID_1199814456" CREATED="1494925755039" MODIFIED="1495501119670"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      financial assistance at <i>concessional </i>rates of interest for undertaking viable income generating activities to the Scheduled Tribes upto <b>double the poverty line</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="also research + technical assistance" ID="ID_1831706865" CREATED="1497152579764" MODIFIED="1497152588346"/>
-<node TEXT="tribal livelihood" ID="ID_1957326992" CREATED="1494919249687" MODIFIED="1494919255485"/>
-</node>
-<node TEXT="eklavya model residential schools&#xa;    EMRS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_613549527" CREATED="1496635028250" MODIFIED="1526192024054" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="idea"/>
-<font NAME="Calibri"/>
-<node TEXT="min Tribal" ID="ID_926880914" CREATED="1496635046581" MODIFIED="1496635052825"/>
-<node TEXT="all tribal blocks with &gt;50% ST" ID="ID_1878627358" CREATED="1524896850793" MODIFIED="1524896875200"/>
-<node TEXT="sports, skill, local art n culture" ID="ID_639201987" CREATED="1524896876048" MODIFIED="1526192099909">
-<font BOLD="true"/>
-</node>
-</node>
-</node>
-<node TEXT="universities" FOLDED="true" ID="ID_1408693120" CREATED="1495233898660" MODIFIED="1497241881252">
-<icon BUILTIN="full-1"/>
-<node TEXT="1. Indira Gandhi Tribal University ,Amarkantak, MP" ID="ID_1537452286" CREATED="1495233901301" MODIFIED="1495233925257"/>
-<node TEXT="2. coming up in Jharkhand" ID="ID_195811088" CREATED="1495233925741" MODIFIED="1495233934914"/>
-</node>
-<node TEXT="Demographics of tribals" FOLDED="true" ID="ID_695691080" CREATED="1492234274321" MODIFIED="1492234935746">
-<icon BUILTIN="idea"/>
-<node TEXT="highest literacy rate" FOLDED="true" ID="ID_1489782326" CREATED="1492234277527" MODIFIED="1492234285250">
-<node TEXT="Lakshwadeep = 91.7%&#xa;kerala = 76%" ID="ID_1546059111" CREATED="1492234285394" MODIFIED="1492234313082"/>
-</node>
-</node>
-<node TEXT="BITs" FOLDED="true" ID="ID_224398771" CREATED="1490670093277" MODIFIED="1490946815702">
-<icon BUILTIN="flag-green"/>
-<node TEXT="BIT and tribal rights" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1625050668" CREATED="1488235931587" MODIFIED="1488545169873">
-<node TEXT="If India does one, =&gt; guarantee the investment by these countries." LOCALIZED_STYLE_REF="default" ID="ID_741600652" CREATED="1488235934721" MODIFIED="1488545169876"/>
-<node TEXT="Affect tribal people&apos;s rights." LOCALIZED_STYLE_REF="default" ID="ID_514119517" CREATED="1488235954576" MODIFIED="1488545169878"/>
-<node TEXT="UN Declaration to rights of Indegenous People, UNRIP 2007" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_270365754" CREATED="1488235978580" MODIFIED="1488545169880">
-<node TEXT="" ID="ID_1523057238" CREATED="1488236596226" MODIFIED="1488236596230">
-<hook NAME="FirstGroupNode"/>
-</node>
-<node TEXT="self-determination" LOCALIZED_STYLE_REF="default" ID="ID_533906205" CREATED="1488236035326" MODIFIED="1488545169881" BACKGROUND_COLOR="#feffd6"/>
-<node TEXT="autonomy" LOCALIZED_STYLE_REF="default" ID="ID_1950286598" CREATED="1488236040869" MODIFIED="1488545169882" BACKGROUND_COLOR="#feffd6"/>
-<node TEXT="self-governance" LOCALIZED_STYLE_REF="default" ID="ID_599205193" CREATED="1488236044266" MODIFIED="1488545169883" BACKGROUND_COLOR="#feffd6"/>
-<node TEXT="" ID="ID_784719773" CREATED="1488236596214" MODIFIED="1488236596223">
-<hook NAME="SummaryNode"/>
-<hook NAME="AlwaysUnfoldedNode"/>
-<node TEXT="Rights of indegenous people for" LOCALIZED_STYLE_REF="default" ID="ID_1328955672" CREATED="1488236596233" MODIFIED="1488545169884" BACKGROUND_COLOR="#feffd6"/>
-</node>
-<node TEXT="right against forcible displacement with prior informed consent" LOCALIZED_STYLE_REF="default" ID="ID_626855262" CREATED="1488236052533" MODIFIED="1488545169885"/>
-</node>
-<node TEXT="Way forward" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1051766090" CREATED="1488236104805" MODIFIED="1488545169886">
-<node TEXT="Strong domestic legislation" LOCALIZED_STYLE_REF="default" ID="ID_196699921" CREATED="1488236116476" MODIFIED="1488545169886"/>
-<node TEXT="Exclude tribal rights in BIT like NZ (Maoris)" LOCALIZED_STYLE_REF="default" ID="ID_1348662771" CREATED="1488236125554" MODIFIED="1488545169888"/>
-<node TEXT="Tribal made partners (representations) in investment policy making" LOCALIZED_STYLE_REF="default" ID="ID_555542024" CREATED="1488236143966" MODIFIED="1488545169888"/>
-</node>
-</node>
-<node TEXT="promote commitment + protection to foreign investors =&gt; Increase FDI" LOCALIZED_STYLE_REF="default" ID="ID_261795105" CREATED="1490670097778" MODIFIED="1490670116373"/>
-<node TEXT="provisions for tribal rights" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1183926395" CREATED="1490946738855" MODIFIED="1490946804943">
-<node TEXT="5+6th schedule" ID="ID_1462435626" CREATED="1490946747157" MODIFIED="1490946752489"/>
-<node TEXT="PESA" ID="ID_147972960" CREATED="1490946753475" MODIFIED="1490946754631"/>
-<node TEXT="Forest Rights Act" FOLDED="true" ID="ID_1905789877" CREATED="1490946754830" MODIFIED="1497263704276">
-<icon BUILTIN="full-1"/>
-<node TEXT="vision mar 10.4" ID="ID_1775532056" CREATED="1493975154758" MODIFIED="1493975172612" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Mar&apos;17/Vision%20IAS%20Current%20Affairs%20March-2017%20.pdf"/>
-<node TEXT="title right" ID="ID_1198526697" CREATED="1493975121896" MODIFIED="1493975126625"/>
-<node TEXT="use right" ID="ID_633833680" CREATED="1493975143296" MODIFIED="1493975144887"/>
-<node TEXT="forest mgmt" ID="ID_942875548" CREATED="1493975184164" MODIFIED="1493975189856"/>
-<node TEXT="rehabilitation" ID="ID_1954624592" CREATED="1493975127501" MODIFIED="1493975130095"/>
-<node TEXT="development right" ID="ID_579611682" CREATED="1493975132502" MODIFIED="1493975135206"/>
-</node>
-<node TEXT="UNRIP" ID="ID_549361307" CREATED="1490946771931" MODIFIED="1490946794083" LINK="#ID_270365754"/>
-</node>
 </node>
 </node>
 <node TEXT="Disable People&#xa;Divyangjans" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1316804651" CREATED="1491235322683" MODIFIED="1491718212614">
