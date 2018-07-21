@@ -1036,7 +1036,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Social Justice" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
+<node TEXT="Social Justice" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
@@ -1181,9 +1181,9 @@
 </node>
 </node>
 </node>
-<node TEXT="women" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_132650656" CREATED="1502369843633" MODIFIED="1502369844595">
+<node TEXT="women" LOCALIZED_STYLE_REF="default" ID="ID_132650656" CREATED="1502369843633" MODIFIED="1502369844595">
 <font NAME="Calibri"/>
-<node TEXT="sexual harassment" FOLDED="true" ID="ID_865243950" CREATED="1502369847295" MODIFIED="1502369854764">
+<node TEXT="sexual harassment" ID="ID_865243950" CREATED="1502369847295" MODIFIED="1502369854764">
 <node TEXT="Sexual Harassment of Women at workplace, 2013" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1732270828" CREATED="1488257556240" MODIFIED="1502369862639" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
 <font NAME="Calibri"/>
 <node TEXT="Women complains only when unbearable" LOCALIZED_STYLE_REF="default" ID="ID_1626870880" CREATED="1488257660001" MODIFIED="1488545169408"/>
@@ -2439,7 +2439,7 @@
 <node TEXT="waterways framework?" ID="ID_441639446" CREATED="1499048431809" MODIFIED="1499048438980"/>
 </node>
 </node>
-<node TEXT="daily CA" FOLDED="true" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
+<node TEXT="daily CA" POSITION="right" ID="ID_130981153" CREATED="1497970622561" MODIFIED="1497970625096">
 <node TEXT="urban governance" FOLDED="true" ID="ID_947569012" CREATED="1526717149647" MODIFIED="1526717156146">
 <node TEXT="Elected Mayors and powers for speedy administration" ID="ID_1562122597" CREATED="1526717176798" MODIFIED="1526717193461"/>
 <node TEXT="judge ahluwali committee (vision)" ID="ID_840480935" CREATED="1526717197814" MODIFIED="1526717206527"/>
@@ -3235,7 +3235,7 @@
 </node>
 </node>
 </node>
-<node TEXT="20-06" FOLDED="true" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
+<node TEXT="20-06" ID="ID_1564938517" CREATED="1497940472551" MODIFIED="1497970633644">
 <node TEXT="administered price regime&#xa;APM" FOLDED="true" ID="ID_392238165" CREATED="1497940476093" MODIFIED="1497940483259">
 <node TEXT="petrol + diesel&#xa;=&gt; APM to TPP" ID="ID_213753914" CREATED="1497940484348" MODIFIED="1497940523048"/>
 <node TEXT="trade parity price (TPP) = weighted avg of Import parity, export parity" ID="ID_1233862064" CREATED="1497940524835" MODIFIED="1497940556903"/>
@@ -3356,7 +3356,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="violation of rights" FOLDED="true" ID="ID_836557560" CREATED="1499335325603" MODIFIED="1499335329050">
+<node TEXT="violation of rights" ID="ID_836557560" CREATED="1499335325603" MODIFIED="1499335329050">
 <node TEXT="only state can use force legitimately" ID="ID_448662230" CREATED="1499335329549" MODIFIED="1499335367145"/>
 <node TEXT="AFSPA" FOLDED="true" ID="ID_470827071" CREATED="1499335389365" MODIFIED="1499335390960">
 <node FOLDED="true" ID="ID_1552817217" CREATED="1499269758798" MODIFIED="1499269789173"><richcontent TYPE="NODE">
@@ -3860,7 +3860,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2nd ARC - citizen centric administration" ID="ID_1301973351" CREATED="1498148125030" MODIFIED="1498148134782">
+<node TEXT="2nd ARC - citizen centric administration" FOLDED="true" ID="ID_1301973351" CREATED="1498148125030" MODIFIED="1498148134782">
 <font NAME="Calibri"/>
 <node TEXT="problems / issues in governance" FOLDED="true" ID="ID_1318784157" CREATED="1498148499125" MODIFIED="1498148601772">
 <node TEXT="symptoms of problematic implementation&#xa;( not formulation - i.e. at policy level )" ID="ID_197498292" CREATED="1498148624462" MODIFIED="1498148730989"/>
@@ -4318,7 +4318,7 @@
 <node TEXT="protection, lack of procedural knowledge to public" ID="ID_734645580" CREATED="1498194299315" MODIFIED="1498194322373">
 <font ITALIC="true"/>
 </node>
-<node TEXT="use ICT to enforce accountability, transparency" ID="ID_984540850" CREATED="1498194337590" MODIFIED="1498194366384">
+<node TEXT="use ICT to enforce accountability, transparency" FOLDED="true" ID="ID_984540850" CREATED="1498194337590" MODIFIED="1498194366384">
 <font ITALIC="false"/>
 <node FOLDED="true" ID="ID_501033670" CREATED="1498194418329" MODIFIED="1498198674319"><richcontent TYPE="NODE">
 
@@ -4354,7 +4354,7 @@
 </node>
 <node TEXT="localised = available at grassroot level" ID="ID_1941722843" CREATED="1498198722269" MODIFIED="1498198731315"/>
 </node>
-<node TEXT="e-governance" ID="ID_1546281994" CREATED="1498194491451" MODIFIED="1498194493842">
+<node TEXT="e-governance" FOLDED="true" ID="ID_1546281994" CREATED="1498194491451" MODIFIED="1498194493842">
 <node TEXT="CPGRAMS, grievance redressal" ID="ID_863131010" CREATED="1498197136316" MODIFIED="1498197141886"/>
 <node TEXT="NOFN" ID="ID_210936527" CREATED="1498197143669" MODIFIED="1498197144995"/>
 <node TEXT="Digital India" FOLDED="true" ID="ID_543027996" CREATED="1498197145330" MODIFIED="1498197146720">
@@ -4392,7 +4392,7 @@
 <font BOLD="true"/>
 </node>
 <node TEXT="concurrent evaluation, transparency, efficient,effective" ID="ID_1830014906" CREATED="1498198116863" MODIFIED="1498198180872"/>
-<node TEXT="issues in achieving e-gov by 2nd ARC" ID="ID_1627596453" CREATED="1498198240384" MODIFIED="1498198259536">
+<node TEXT="issues in achieving e-gov by 2nd ARC" FOLDED="true" ID="ID_1627596453" CREATED="1498198240384" MODIFIED="1498198259536">
 <font BOLD="true"/>
 <node TEXT="human capital mein invest =&gt; better utilisation of other resources" ID="ID_470988214" CREATED="1498198262437" MODIFIED="1498198373108"/>
 <node TEXT="ICT = maximise potential use of resource (plug leakages etc)" ID="ID_385304021" CREATED="1498198379798" MODIFIED="1498198396058"/>
@@ -5142,57 +5142,6 @@
 <node TEXT="strategic for infra" ID="ID_381720005" CREATED="1499272763702" MODIFIED="1499272771281"/>
 </node>
 </node>
-</node>
-<node TEXT="Innovation" FOLDED="true" ID="ID_738436580" CREATED="1508070147140" MODIFIED="1531408034695">
-<icon BUILTIN="flag-green"/>
-<node TEXT="status" FOLDED="true" ID="ID_70070886" CREATED="1525528520025" MODIFIED="1525528521151">
-<node TEXT="Global Innovation index" FOLDED="true" ID="ID_1692388180" CREATED="1490421850276" MODIFIED="1531407500257">
-<node TEXT="India rank = 51 from 81 (prev)" ID="ID_1704490521" CREATED="1531407489992" MODIFIED="1531407498608">
-<font BOLD="true"/>
-</node>
-<node TEXT="India Innovation index" FOLDED="true" ID="ID_397686060" CREATED="1490421853884" MODIFIED="1495146040960">
-<node TEXT="NITI aayog + CII + DIPP" ID="ID_705612766" CREATED="1490421902600" MODIFIED="1490421907062"/>
-<node TEXT="moving india towads innovation driven economy" ID="ID_1151194111" CREATED="1495498621547" MODIFIED="1495498632486"/>
-</node>
-<node TEXT="by WIPO + INSEAD (cornell)" FOLDED="true" ID="ID_836178276" CREATED="1490421873625" MODIFIED="1490421886416">
-<node TEXT="CII = knowledge partner" ID="ID_241184500" CREATED="1490421871762" MODIFIED="1494837864841"/>
-</node>
-</node>
-</node>
-<node TEXT="govt steps" FOLDED="true" ID="ID_684326817" CREATED="1525528524925" MODIFIED="1525528533973">
-<node TEXT="DIPP = Patent, publish, Prosper" ID="ID_300674485" CREATED="1523240688889" MODIFIED="1523240704000"/>
-<node TEXT="Zero effect zero defect scheme" ID="ID_163750883" CREATED="1508070166451" MODIFIED="1508070173437"/>
-<node TEXT="IPrism" FOLDED="true" ID="ID_255230389" CREATED="1525528439907" MODIFIED="1525528442163">
-<node TEXT="competition in college for IPR" ID="ID_515800944" CREATED="1525528442929" MODIFIED="1525528448689"/>
-</node>
-<node TEXT="India Signs Madrid Protocol" FOLDED="true" ID="ID_744119323" CREATED="1525528456666" MODIFIED="1525528463336">
-<node ID="ID_838562962" CREATED="1525528584141" MODIFIED="1525528584141"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">eek registration in any of the<br/>countries that have joined Madrid Protocol by<br/>filing a single application.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Copyrights board&#xa;IPAB" ID="ID_644633798" CREATED="1525528469735" MODIFIED="1525528476117"/>
-<node TEXT="Atal innovation mission" ID="ID_1234222003" CREATED="1531407546365" MODIFIED="1531407551136"/>
-</node>
-<node TEXT="patent" FOLDED="true" ID="ID_1929845738" CREATED="1526130447844" MODIFIED="1526130449718">
-<node TEXT="grant of patent must contribute to tech innovation conducive to social welfare" LOCALIZED_STYLE_REF="default" ID="ID_1131047966" CREATED="1526130449864" MODIFIED="1526130475104" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="idea"/>
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="lessons from china" FOLDED="true" ID="ID_260108184" CREATED="1531407569114" MODIFIED="1531407573738">
-<font BOLD="true"/>
-<node TEXT="more RnD , tertiary education&#xa;&#xa;env. for home grown startups" ID="ID_1187267354" CREATED="1531407574093" MODIFIED="1531407598432"/>
-</node>
-<node TEXT="Smart India Hackathon 2018, by AICTE" ID="ID_155582712" CREATED="1523240556869" MODIFIED="1523240600923"/>
 </node>
 <node TEXT="sunset clauses in legislation" FOLDED="true" ID="ID_1298266886" CREATED="1515032469333" MODIFIED="1515032475792">
 <node TEXT="legislative intertia remove" ID="ID_1446464735" CREATED="1515032586846" MODIFIED="1515032597075"/>
@@ -8794,7 +8743,7 @@
 <node TEXT="by EESL" ID="ID_1609393911" CREATED="1526994546917" MODIFIED="1526994548902"/>
 </node>
 </node>
-<node TEXT="Tests" FOLDED="true" ID="ID_1588808463" CREATED="1527401817447" MODIFIED="1527401819201">
+<node TEXT="Tests" ID="ID_1588808463" CREATED="1527401817447" MODIFIED="1527401819201">
 <node TEXT="insights revision test" FOLDED="true" ID="ID_1372477098" CREATED="1526491779391" MODIFIED="1526491785892">
 <font BOLD="true"/>
 <node TEXT="National employment enhancement mission NEEM = AICTE" ID="ID_280812012" CREATED="1526491887282" MODIFIED="1526491902638"/>
@@ -9595,9 +9544,6 @@
 </node>
 <node TEXT="swayam prabha" FOLDED="true" ID="ID_1843009886" CREATED="1525506415900" MODIFIED="1525506418134">
 <node TEXT="education through DTH" ID="ID_1837250786" CREATED="1525506418235" MODIFIED="1525506424919"/>
-</node>
-<node TEXT="Project monitoring group" FOLDED="true" ID="ID_1284702268" CREATED="1525509804183" MODIFIED="1525509809672">
-<node TEXT="PPP fastrack approvals" ID="ID_774733918" CREATED="1525509809711" MODIFIED="1525509813622"/>
 </node>
 <node TEXT="micchami dukkadam" FOLDED="true" ID="ID_1153740471" CREATED="1525510643434" MODIFIED="1525510650964">
 <node TEXT="seek forgiveness, jaina" ID="ID_767453814" CREATED="1525510652543" MODIFIED="1525510658669"/>
@@ -12472,9 +12418,64 @@
 </node>
 <node TEXT="TRAI net neutrality" ID="ID_459452807" CREATED="1532175439722" MODIFIED="1532175445046"/>
 <node TEXT="e-Mitra kiosks in RJ,&#xa;&#xa;reduce footfall on Govt. office + service delivery timely" ID="ID_538160463" CREATED="1532175475593" MODIFIED="1532175498637"/>
+<node TEXT="Innovation" ID="ID_738436580" CREATED="1508070147140" MODIFIED="1531408034695">
+<icon BUILTIN="flag-green"/>
+<node TEXT="status" FOLDED="true" ID="ID_70070886" CREATED="1525528520025" MODIFIED="1525528521151">
+<node TEXT="Global Innovation index" FOLDED="true" ID="ID_1692388180" CREATED="1490421850276" MODIFIED="1531407500257">
+<node TEXT="India rank = 51 from 81 (prev)" ID="ID_1704490521" CREATED="1531407489992" MODIFIED="1531407498608">
+<font BOLD="true"/>
+</node>
+<node TEXT="India Innovation index" FOLDED="true" ID="ID_397686060" CREATED="1490421853884" MODIFIED="1495146040960">
+<node TEXT="NITI aayog + CII + DIPP" ID="ID_705612766" CREATED="1490421902600" MODIFIED="1490421907062"/>
+<node TEXT="moving india towads innovation driven economy" ID="ID_1151194111" CREATED="1495498621547" MODIFIED="1495498632486"/>
+</node>
+<node TEXT="by WIPO + INSEAD (cornell)" FOLDED="true" ID="ID_836178276" CREATED="1490421873625" MODIFIED="1490421886416">
+<node TEXT="CII = knowledge partner" ID="ID_241184500" CREATED="1490421871762" MODIFIED="1494837864841"/>
 </node>
 </node>
-<node TEXT="GS4" FOLDED="true" POSITION="left" ID="ID_381119914" CREATED="1490334134419" MODIFIED="1490334135116">
+<node TEXT="def - creating an idea and transferring utility to society" ID="ID_1960872527" CREATED="1532178109635" MODIFIED="1532178120382"/>
+</node>
+<node TEXT="dimensions" ID="ID_1591255539" CREATED="1532178141850" MODIFIED="1532178144942">
+<node TEXT="Human capital,&#xa;&#xa;Quality education&#xa;Rnd,&#xa;&#xa;collaboration,&#xa;&#xa;Funding,&#xa;&#xa;Legal" ID="ID_370248604" CREATED="1532178147147" MODIFIED="1532178176503"/>
+</node>
+<node TEXT="govt steps" FOLDED="true" ID="ID_684326817" CREATED="1525528524925" MODIFIED="1525528533973">
+<node TEXT="DIPP = Patent, publish, Prosper" ID="ID_300674485" CREATED="1523240688889" MODIFIED="1523240704000"/>
+<node TEXT="Zero effect zero defect scheme" ID="ID_163750883" CREATED="1508070166451" MODIFIED="1508070173437"/>
+<node TEXT="IPrism" FOLDED="true" ID="ID_255230389" CREATED="1525528439907" MODIFIED="1525528442163">
+<node TEXT="competition in college for IPR" ID="ID_515800944" CREATED="1525528442929" MODIFIED="1525528448689"/>
+</node>
+<node TEXT="India Signs Madrid Protocol" FOLDED="true" ID="ID_744119323" CREATED="1525528456666" MODIFIED="1525528463336">
+<node ID="ID_838562962" CREATED="1525528584141" MODIFIED="1525528584141"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">eek registration in any of the<br/>countries that have joined Madrid Protocol by<br/>filing a single application.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Copyrights board&#xa;IPAB" ID="ID_644633798" CREATED="1525528469735" MODIFIED="1525528476117"/>
+<node TEXT="Atal innovation mission" ID="ID_1234222003" CREATED="1531407546365" MODIFIED="1531407551136"/>
+</node>
+<node TEXT="patent" FOLDED="true" ID="ID_1929845738" CREATED="1526130447844" MODIFIED="1526130449718">
+<node TEXT="grant of patent must contribute to tech innovation conducive to social welfare" LOCALIZED_STYLE_REF="default" ID="ID_1131047966" CREATED="1526130449864" MODIFIED="1526130475104" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="idea"/>
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="lessons from china" FOLDED="true" ID="ID_260108184" CREATED="1531407569114" MODIFIED="1531407573738">
+<font BOLD="true"/>
+<node TEXT="more RnD , tertiary education&#xa;&#xa;env. for home grown startups" ID="ID_1187267354" CREATED="1531407574093" MODIFIED="1531407598432"/>
+</node>
+<node TEXT="Smart India Hackathon 2018, by AICTE" ID="ID_155582712" CREATED="1523240556869" MODIFIED="1523240600923"/>
+</node>
+</node>
+</node>
+<node TEXT="GS4" POSITION="left" ID="ID_381119914" CREATED="1490334134419" MODIFIED="1490334135116">
 <node TEXT="Funda" FOLDED="true" ID="ID_733633861" CREATED="1490334144171" MODIFIED="1497938602738">
 <node FOLDED="true" ID="ID_379601794" CREATED="1490504953763" MODIFIED="1490505150546"><richcontent TYPE="NODE">
 
