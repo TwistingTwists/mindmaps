@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -5045,7 +5045,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="HNI / institutions : min invest = 2 L" ID="ID_168428791" CREATED="1496655597356" MODIFIED="1496655606241"/>
@@ -5096,7 +5095,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -5565,7 +5563,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="startup definition" ID="ID_1738067487" CREATED="1532168204166" MODIFIED="1532168356879"/>
@@ -17240,7 +17237,7 @@
 <node TEXT="Social justice = reduced to Reservation" ID="ID_722770119" CREATED="1489721742644" MODIFIED="1489721756297"/>
 </node>
 </node>
-<node TEXT="Essay" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_169267200" CREATED="1490333094834" MODIFIED="1494887616077">
+<node TEXT="Essay" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_169267200" CREATED="1490333094834" MODIFIED="1494887616077">
 <font NAME="Calibri"/>
 <node TEXT="If progress is not engendered it will be endangered." ID="ID_73778537" CREATED="1489129053800" MODIFIED="1489129065703"/>
 <node TEXT="Merely opening women account do not ensure financial inclusion" ID="ID_1978673542" CREATED="1490948111438" MODIFIED="1490948125934"/>
@@ -17265,14 +17262,14 @@
 <node TEXT="reduce moral hazard by copayment from the insured" ID="ID_781910163" CREATED="1490423591449" MODIFIED="1490423607814"/>
 </node>
 </node>
-<node TEXT="How to ?" FOLDED="true" ID="ID_1210751765" CREATED="1490333101011" MODIFIED="1490333102404">
+<node TEXT="How to ?" ID="ID_1210751765" CREATED="1490333101011" MODIFIED="1490333102404">
 <node TEXT="intro = define each word in question" ID="ID_72984354" CREATED="1490333110848" MODIFIED="1490333117066"/>
 <node TEXT="temporal + sectoral scale" FOLDED="true" ID="ID_686800979" CREATED="1490333102562" MODIFIED="1490333109960">
 <node TEXT="max. dimension" ID="ID_288601183" CREATED="1490333138183" MODIFIED="1490333141293"/>
 <node TEXT="revise syllabus of GS1, 2, 3, 4 =&gt; all topics in mind =&gt; can write more dimensions in essay" ID="ID_1319012198" CREATED="1490333148618" MODIFIED="1490333169364"/>
 </node>
 <node TEXT="conclusion = no new idea" ID="ID_1560609543" CREATED="1490333119497" MODIFIED="1490333124206"/>
-<node TEXT="EXAMPLES" FOLDED="true" ID="ID_165407360" CREATED="1490333216075" MODIFIED="1490333217464">
+<node TEXT="EXAMPLES" ID="ID_165407360" CREATED="1490333216075" MODIFIED="1490333217464">
 <node TEXT="character of insitution reflects that of a leader" FOLDED="true" ID="ID_428094630" CREATED="1490333217684" MODIFIED="1490333229801">
 <node TEXT="define character, insitution, leader" FOLDED="true" ID="ID_1223733880" CREATED="1490333229997" MODIFIED="1490333236785">
 <node TEXT="institution = group of individual motivated towards common goals" ID="ID_644642397" CREATED="1490333341577" MODIFIED="1490333355561"/>
@@ -17344,8 +17341,8 @@
 </node>
 <node TEXT="conclusion" ID="ID_842897640" CREATED="1490333644351" MODIFIED="1490333646338"/>
 </node>
-<node TEXT="[self-chosen] 4th industrial revolution" FOLDED="true" ID="ID_1924445562" CREATED="1490337669137" MODIFIED="1490337694356">
-<node TEXT="what?" FOLDED="true" ID="ID_327107682" CREATED="1490337694728" MODIFIED="1490337698312">
+<node TEXT="[self-chosen] 4th industrial revolution" ID="ID_1924445562" CREATED="1490337669137" MODIFIED="1490337694356">
+<node TEXT="what?" ID="ID_327107682" CREATED="1490337694728" MODIFIED="1490337698312">
 <node TEXT="1. Mechanisation = Water and steam&#xa;2. Electricity&#xa;3. Electronics and IT = automation&#xa;4. Digital revolutoin = integration of services and products" ID="ID_1395881642" CREATED="1490337698526" MODIFIED="1490337738496"/>
 </node>
 <node TEXT="Challenges" FOLDED="true" ID="ID_1597835761" CREATED="1490337743091" MODIFIED="1490337745094">
