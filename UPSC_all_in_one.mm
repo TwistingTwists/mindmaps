@@ -2853,14 +2853,34 @@
 <node TEXT="appointment = PM + LoOpp + CJI ( or a judge on reco of CJI )" ID="ID_1429859715" CREATED="1496274625711" MODIFIED="1496274647721"/>
 <node TEXT="Vineet Narain Case" ID="ID_934035004" CREATED="1527742691415" MODIFIED="1527742698839"/>
 </node>
-<node TEXT="CCI&#xa;Competition commission of India" FOLDED="true" ID="ID_498806129" CREATED="1499528089437" MODIFIED="1523534585493">
+<node TEXT="CCI&#xa;Competition commission of India" FOLDED="true" ID="ID_498806129" CREATED="1499528089437" MODIFIED="1532667989312">
+<icon BUILTIN="flag-green"/>
 <node TEXT="MCA" ID="ID_1967004182" CREATED="1499528119876" MODIFIED="1499528123112"/>
-<node TEXT="to make markets work according to consumer demands" ID="ID_1751991455" CREATED="1523534594207" MODIFIED="1523534606012"/>
 <node TEXT="quasi judicial body under competition act, 2002" ID="ID_1067981983" CREATED="1499528106531" MODIFIED="1499528119435"/>
 <node TEXT="Chairperson + 6 members (appointed by centre)" ID="ID_1532474777" CREATED="1499528128605" MODIFIED="1499528139497"/>
-<node TEXT="only cross sector regulator" ID="ID_644729683" CREATED="1499528141603" MODIFIED="1499528147065"/>
+<node TEXT="to make markets work according to consumer demands" ID="ID_1751991455" CREATED="1523534594207" MODIFIED="1523534606012"/>
+<node TEXT="only cross sector regulator" ID="ID_644729683" CREATED="1499528141603" MODIFIED="1532667997873">
+<font BOLD="true"/>
+</node>
 <node TEXT="in news" FOLDED="true" ID="ID_948462409" CREATED="1499528149607" MODIFIED="1499528151610">
 <node TEXT="flexibility in time w.r.t merger and Acquisition (M&amp;A)" ID="ID_1644468751" CREATED="1499528151801" MODIFIED="1499528190193"/>
+<node ID="ID_1267867626" CREATED="1532667999553" MODIFIED="1532668027647">
+<icon BUILTIN="flag-green"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      needs to build strong <b>multi disciplinary team </b>for <b><u>technical </u></b>and legal advice
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="CDSCO" FOLDED="true" ID="ID_365968054" CREATED="1497942438579" MODIFIED="1497942442626">
@@ -4287,8 +4307,30 @@
 <node TEXT="for INCOMPLETE minor and major irrigation projects&#xa;[ NOT micro irrigation ]" ID="ID_456336906" CREATED="1497223019249" MODIFIED="1497223043002"/>
 </node>
 <node TEXT="PMKSY" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1002551808" CREATED="1488752244536" MODIFIED="1489558952598">
+<node TEXT="Evaluation of PMKSY" FOLDED="true" ID="ID_829665849" CREATED="1532669300704" MODIFIED="1532669306186">
+<icon BUILTIN="flag-green"/>
+<font BOLD="true"/>
+<node TEXT="issues" FOLDED="true" ID="ID_1373724492" CREATED="1532669398869" MODIFIED="1532669400200">
+<node ID="ID_549085276" CREATED="1532669323086" MODIFIED="1532669411176"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Parliamentary Standing Committee </b>says only <b>10% </b>projects are complete
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="physical structures built but governance structures (local govt. capacity augment + coordination) missing" ID="ID_1084826423" CREATED="1532669370634" MODIFIED="1532669395195"/>
+</node>
+<node TEXT="78% of beneficiaries saw rise in water table&#xa;&#xa;Thus, PMKSY useful but implementation!?" ID="ID_1660221747" CREATED="1532669338863" MODIFIED="1532669369369"/>
+</node>
 <node TEXT="Protective irrigation" ID="ID_1897696321" CREATED="1488752270372" MODIFIED="1488752275143"/>
-<node TEXT="convergence of investments in irrigation schemes" ID="ID_1907021722" CREATED="1489313599367" MODIFIED="1489313615488"/>
 <node TEXT="" ID="ID_1935049623" CREATED="1489558817514" MODIFIED="1489558817516">
 <hook NAME="FirstGroupNode"/>
 </node>
@@ -4390,6 +4432,7 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="convergence of investments in irrigation schemes" ID="ID_1313941531" CREATED="1532669317382" MODIFIED="1532669317992"/>
 </node>
 </node>
 <node TEXT="way forward" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_521762582" CREATED="1488268962214" MODIFIED="1488545169583">
@@ -7238,7 +7281,23 @@
 <node TEXT="WIFEX, stubble burning, ppt over oceans," FOLDED="true" ID="ID_1973021048" CREATED="1504929548943" MODIFIED="1531407707914">
 <icon BUILTIN="flag-green"/>
 <node TEXT="stubble burning cure" FOLDED="true" ID="ID_1537183337" CREATED="1531407708916" MODIFIED="1531407719524">
-<node TEXT="Happy Seeder for paddy" ID="ID_939541594" CREATED="1531407720709" MODIFIED="1531407729319"/>
+<node TEXT="Happy Seeder for paddy" FOLDED="true" ID="ID_939541594" CREATED="1531407720709" MODIFIED="1531407729319">
+<node ID="ID_1555725070" CREATED="1532682971803" MODIFIED="1532682979150"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      by NGO named <b>The Nature Conservatory</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 <node TEXT="S-SMS for combined harvesting and spreading over the field evenly" ID="ID_96248248" CREATED="1531407729459" MODIFIED="1531407746377"/>
 <node TEXT="subsidised purchasing if purchased in groups" ID="ID_638998441" CREATED="1531407757539" MODIFIED="1531407776212"/>
 </node>
@@ -7670,7 +7729,8 @@
 <node TEXT="LDC used by develped nations as dumpyards" ID="ID_1356772125" CREATED="1499142178850" MODIFIED="1499142189148"/>
 </node>
 <node TEXT="regulatory setup" FOLDED="true" ID="ID_428908850" CREATED="1499142276380" MODIFIED="1499142280788">
-<node TEXT="solid waste" FOLDED="true" ID="ID_800807020" CREATED="1504934476092" MODIFIED="1504934477990">
+<node TEXT="solid waste" FOLDED="true" ID="ID_800807020" CREATED="1504934476092" MODIFIED="1532669501123">
+<icon BUILTIN="flag-green"/>
 <node TEXT="Solid Waste Management rules, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442722751" CREATED="1489403812403" MODIFIED="1489403821983">
 <node TEXT="2124 - 18" ID="ID_1247284594" CREATED="1489403828699" MODIFIED="1495434071939" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf" MAX_WIDTH="59.77443503154386 pt" MIN_WIDTH="59.77443503154386 pt"/>
 <node TEXT="applicable to urban town, industrial towns, Areas under control of Railways + airports, etc. (villages?)" ID="ID_1045371849" CREATED="1495744475569" MODIFIED="1495744504426"/>
@@ -7728,10 +7788,18 @@
 <node TEXT="using bio remediation and selling the waste produced" ID="ID_886925896" CREATED="1530380353466" MODIFIED="1530380361892"/>
 </node>
 <node TEXT="sewage = safai karamchari andolan" LOCALIZED_STYLE_REF="default" ID="ID_1898449817" CREATED="1504931617631" MODIFIED="1504931625307"/>
-<node TEXT="plastics" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_12049116" CREATED="1504934485554" MODIFIED="1504934487009">
+<node TEXT="plastics" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_12049116" CREATED="1504934485554" MODIFIED="1532669479650">
+<icon BUILTIN="flag-green"/>
 <node TEXT="micro plastics - marine effects , from fishing, domestic products" ID="ID_1343079604" CREATED="1504934487223" MODIFIED="1504934511182"/>
-<node TEXT="food chain enter" ID="ID_826493266" CREATED="1504934518801" MODIFIED="1504934522027"/>
-<node TEXT="choking and toxicity" ID="ID_1977061829" CREATED="1504934527547" MODIFIED="1504934531276"/>
+<node TEXT="food chain enter&#xa;choking and toxicity" ID="ID_826493266" CREATED="1504934518801" MODIFIED="1532669465140"/>
+<node TEXT="Plastic on road" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1623543460" CREATED="1530382360501" MODIFIED="1532669489957" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="Bengaluru - plastic road&#xa;&#xa;use as a material in PMGSY" ID="ID_625389476" CREATED="1530382363871" MODIFIED="1530382386860"/>
+<node TEXT="make water resistant blocks using plastic lining -&#xa;TN lining canals" ID="ID_453454362" CREATED="1530382390145" MODIFIED="1530382424000"/>
+</node>
+<node TEXT="awareness - Bengaluru&#xa;&#xa;650 m Bag Cloth for Guinness Book of World Records" LOCALIZED_STYLE_REF="default" ID="ID_531245549" CREATED="1532669507007" MODIFIED="1532669526952" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
 </node>
 <node TEXT="MSW municipal solid waste" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1669462280" CREATED="1504934560036" MODIFIED="1504934565015">
 <node TEXT="construction, sanitation, domestic, street sweeping" ID="ID_1737024558" CREATED="1504934565222" MODIFIED="1504934586553"/>
@@ -7853,10 +7921,6 @@
   </body>
 </html>
 </richcontent>
-</node>
-<node TEXT="Plastic on road" FOLDED="true" ID="ID_1623543460" CREATED="1530382360501" MODIFIED="1530382363746">
-<node TEXT="Bengaluru - plastic road&#xa;&#xa;use as a material in PMGSY" ID="ID_625389476" CREATED="1530382363871" MODIFIED="1530382386860"/>
-<node TEXT="make water resistant blocks using plastic lining -&#xa;TN lining canals" ID="ID_453454362" CREATED="1530382390145" MODIFIED="1530382424000"/>
 </node>
 </node>
 <node TEXT="Coastal Regulation Zone" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1597591888" CREATED="1489381652353" MODIFIED="1526979392468">
@@ -9341,6 +9405,13 @@
 </richcontent>
 </node>
 <node TEXT="e.g. road quality in flooded areas" ID="ID_288085722" CREATED="1531283388408" MODIFIED="1531283396551"/>
+</node>
+<node TEXT="disaster - resilience" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1557038304" CREATED="1532686418857" MODIFIED="1532686437461" BACKGROUND_COLOR="#feffd6">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+<node TEXT="SEEDs helping poor build homes&#xa;&#xa;&#xa;stakeholder participation to" FOLDED="true" ID="ID_98993574" CREATED="1532686439401" MODIFIED="1532686505354">
+<node TEXT="define needs&#xa;, easy-to-build building materials&#xa;," ID="ID_1166826251" CREATED="1532686507152" MODIFIED="1532686528842"/>
+</node>
 </node>
 </node>
 <node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
