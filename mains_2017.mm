@@ -1,7 +1,7 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.847">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -534,8 +534,18 @@
 </node>
 <node TEXT="z" ID="ID_1262306275" CREATED="1532533178790" MODIFIED="1532616276495"/>
 </node>
+<node TEXT="newspaper" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_646265916" CREATED="1533958571382" MODIFIED="1533958574289">
+<node TEXT="Lata upadhyay, truck art&#xa;&#xa;effects of migrants on culture&#xa;, funded by Arts Council UK&#xa;," ID="ID_1398729220" CREATED="1533958580273" MODIFIED="1533958622739" LINK="https://www.thehindu.com/entertainment/art/assam-born-artist-takes-truck-art-to-the-uk/article24659250.ece"/>
+<node TEXT="Shwedagon Pagoda, Myanmar" FOLDED="true" ID="ID_1821876946" CREATED="1533958762189" MODIFIED="1533958806634" LINK="https://www.thehindu.com/news/international/modi-visits-shwedagon-pagoda-in-myanmar/article19634772.ece">
+<node TEXT=" Bodhi tree sapling at the pagoda complex, signifying common cultural heritage." ID="ID_1175584921" CREATED="1533958760120" MODIFIED="1533958761685"/>
+<node TEXT=" strands of Buddha&#x2019;s hair" ID="ID_80553780" CREATED="1533958786243" MODIFIED="1533958786549"/>
 </node>
-<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
+<node TEXT="Cross cultural comparison" FOLDED="true" ID="ID_1570186882" CREATED="1533958952214" MODIFIED="1533958957862">
+<node TEXT="Bori Johnson, Britain foreign Secretary&#xa;&#xa;Maori headbutt greeting like &apos;a pub in Glasgow&apos;" ID="ID_1536820768" CREATED="1533958958303" MODIFIED="1533959025993"/>
+</node>
+</node>
+</node>
+<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
 <node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="unsorted" FOLDED="true" ID="ID_63813839" CREATED="1531068284878" MODIFIED="1531068292326">
 <font BOLD="true"/>
@@ -1140,7 +1150,7 @@
 <node TEXT="SC - taxpayer&apos;s money cannot be used on religious structure repair" ID="ID_1617547619" CREATED="1532687873598" MODIFIED="1532687890159"/>
 </node>
 <node TEXT="Social Justice" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
-<node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
+<node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
 <node TEXT="raise expenditure to 2.5% of GDP (time bound)" FOLDED="true" ID="ID_1718659908" CREATED="1491307171311" MODIFIED="1498840471946">
@@ -1321,7 +1331,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="SEBI guidelines, 2012" LOCALIZED_STYLE_REF="default" ID="ID_553328049" CREATED="1502369893893" MODIFIED="1502369900898">
+<node TEXT="SEBI guidelines, 2012" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_553328049" CREATED="1502369893893" MODIFIED="1502369900898">
 <font NAME="Calibri"/>
 <node TEXT="Business responsibility Report annual  :&#xa;&#xa;, list of sexual complaints&#xa;, environment&#xa;, social reponsibility&#xa;&#xa;in cases of public interest" ID="ID_986465941" CREATED="1502369903582" MODIFIED="1533889015054"/>
 </node>
@@ -1340,17 +1350,17 @@
 <node TEXT="e.g. Ladakah - women cooperative (reduced migration and women empowerment through participation in development)" ID="ID_1593906925" CREATED="1516449197993" MODIFIED="1527771699937"/>
 <node TEXT="involve youth in managerial works via community leaders and peer learning" ID="ID_554630267" CREATED="1516449236061" MODIFIED="1516449260800"/>
 </node>
-<node TEXT="Gender parity index = education, UNESCO" ID="ID_227376054" CREATED="1520859948523" MODIFIED="1520859958302">
+<node TEXT="Gender parity index = education, UNESCO" FOLDED="true" ID="ID_227376054" CREATED="1520859948523" MODIFIED="1520859958302">
 <node TEXT="ratio of female to male in education" ID="ID_711903944" CREATED="1520859960050" MODIFIED="1520859978603"/>
 </node>
 <node TEXT="UPSC mains :&#xa;partiarchy&apos;s effect on middle class working women = don&apos;t control their spending" ID="ID_1250987877" CREATED="1520860827182" MODIFIED="1520860862878">
 <icon BUILTIN="flag-green"/>
 </node>
 <node TEXT="Anti Trafficing legislation, 2018" FOLDED="true" ID="ID_1826630629" CREATED="1533887711251" MODIFIED="1533887948267" LINK="https://www.thehindu.com/todays-paper/tp-opinion/does-the-anti-trafficking-bill-address-trafficking/article24648772.ece">
-<node TEXT="pro" ID="ID_1609613722" CREATED="1533887718987" MODIFIED="1533887719768">
+<node TEXT="pro" FOLDED="true" ID="ID_1609613722" CREATED="1533887718987" MODIFIED="1533887719768">
 <node TEXT="as organised crime&#xa;, witness protection&#xa;, rehab fund&#xa;, foreign agency collaborate&#xa;, victim capacity building&#xa;, attachment of property" ID="ID_1327861191" CREATED="1533887735989" MODIFIED="1533887797326"/>
 </node>
-<node TEXT="cons" ID="ID_232520597" CREATED="1533887719971" MODIFIED="1533887723190">
+<node TEXT="cons" FOLDED="true" ID="ID_232520597" CREATED="1533887719971" MODIFIED="1533887723190">
 <node ID="ID_744949134" CREATED="1533887817719" MODIFIED="1533887881291"><richcontent TYPE="NODE">
 
 <html>
@@ -1375,16 +1385,15 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
 </node>
-<node TEXT="    National commission on Women" ID="ID_1924372560" CREATED="1530252503926" MODIFIED="1531994895024">
+<node TEXT="    National commission on Women" FOLDED="true" ID="ID_1924372560" CREATED="1530252503926" MODIFIED="1531994895024">
 <node TEXT="Nagaland - legal aid to female inmates" ID="ID_126017272" CREATED="1530252509706" MODIFIED="1530252519809"/>
 <node TEXT="Khunti, JHK gangrape cognisance" ID="ID_963084878" CREATED="1530252526598" MODIFIED="1530252536012"/>
 </node>
-<node TEXT="eg of women empoerment" ID="ID_203860075" CREATED="1531994895891" MODIFIED="1531994902022">
+<node TEXT="eg of women empoerment" FOLDED="true" ID="ID_203860075" CREATED="1531994895891" MODIFIED="1531994902022">
 <node TEXT="kolkata police all women police on scooty to reach remotest places" ID="ID_1066193669" CREATED="1531994902601" MODIFIED="1531994918835"/>
 </node>
 </node>
@@ -1398,16 +1407,16 @@
 <node TEXT="social show off in marriage is harmful, why?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1570423987" CREATED="1517370936140" MODIFIED="1517370956009">
 <font NAME="Calibri"/>
 <node TEXT="child sex ratio skewed,&#xa;meta preference for son,&#xa;discrimnatory attitude towards girls" ID="ID_1822651582" CREATED="1517370957088" MODIFIED="1517370980230"/>
-<node TEXT="govt steps?" ID="ID_1183767979" CREATED="1517370980572" MODIFIED="1517370984120">
+<node TEXT="govt steps?" FOLDED="true" ID="ID_1183767979" CREATED="1517370980572" MODIFIED="1517370984120">
 <node TEXT="BBBP, Sukanya SAmridhi, Domestic Violence, PCPNDT, Maternity Benefit" ID="ID_1435339314" CREATED="1517370984307" MODIFIED="1517371002744"/>
 </node>
 </node>
 <node TEXT="youth" FOLDED="true" ID="ID_1772890823" CREATED="1530720314531" MODIFIED="1530720316125">
 <node TEXT="def&#xa;&#xa;Age related, acquire transition into adulthood" ID="ID_1437336555" CREATED="1530720316580" MODIFIED="1530720336622"/>
 </node>
-<node TEXT="Betterment of vulnerable sections" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1522382917507">
-<node TEXT="children" ID="ID_1782340994" CREATED="1507641586177" MODIFIED="1507641587865">
-<node TEXT="Child Labor" ID="ID_1027291556" CREATED="1497950728446" MODIFIED="1497950731068">
+<node TEXT="Betterment of vulnerable sections" FOLDED="true" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1522382917507">
+<node TEXT="children" FOLDED="true" ID="ID_1782340994" CREATED="1507641586177" MODIFIED="1507641587865">
+<node TEXT="Child Labor" FOLDED="true" ID="ID_1027291556" CREATED="1497950728446" MODIFIED="1497950731068">
 <node TEXT="family enterprise" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1572271001" CREATED="1512619575488" MODIFIED="1512619581696">
 <font NAME="Calibri"/>
 <node TEXT="traditional skill and artisian + culture preservation" ID="ID_326558784" CREATED="1512619716388" MODIFIED="1512619730377"/>
@@ -1540,6 +1549,13 @@
 </node>
 <node TEXT="national action plan for children, 2016" ID="ID_120354101" CREATED="1524387853503" MODIFIED="1524387885575"/>
 <node TEXT="survival health nutrition" ID="ID_1901808904" CREATED="1524387299660" MODIFIED="1524387306428"/>
+</node>
+<node TEXT="Beggars" FOLDED="true" ID="ID_631667822" CREATED="1533964367406" MODIFIED="1533964370469">
+<node TEXT="vision mains 365 social" ID="ID_831318518" CREATED="1533964750624" MODIFIED="1533964754546"/>
+<node TEXT="Delhi HC decriminalised begging" FOLDED="true" ID="ID_1101425740" CREATED="1533964370516" MODIFIED="1533964375723">
+<node TEXT="a move to criminalise them will make them invisible without addressing rootcause of problem" ID="ID_891499105" CREATED="1533964389952" MODIFIED="1533964407863"/>
+</node>
+<node TEXT="japanese saying&#xa;&#xa;it is a beggar&apos;s honor that he is not a thief" ID="ID_1472229313" CREATED="1533964664454" MODIFIED="1533964681004"/>
 </node>
 <node TEXT="Disabled" FOLDED="true" ID="ID_1941891589" CREATED="1498974131849" MODIFIED="1498974133817">
 <node TEXT="nothing about us without us" ID="ID_1022712832" CREATED="1498974137161" MODIFIED="1498974145067"/>
@@ -10537,6 +10553,13 @@
 </node>
 </node>
 <node TEXT="Economy" FOLDED="true" ID="ID_1068182109" CREATED="1497938542645" MODIFIED="1497938547956">
+<node TEXT="newspaper" FOLDED="true" ID="ID_920662063" CREATED="1533959148950" MODIFIED="1533959150637">
+<node TEXT="CBDT posts vacant" ID="ID_1679096604" CREATED="1533959152091" MODIFIED="1533959160628"/>
+<node TEXT="[remittance]&#xa;&#xa;max&#xa;, from UAE&#xa;, to KR&#xa;&#xa;[RBI survey of Inward remittances, 2016-17]" ID="ID_1432997633" CREATED="1533959202083" MODIFIED="1533959257326"/>
+</node>
+<node TEXT="[data]" FOLDED="true" ID="ID_1490286504" CREATED="1533959115649" MODIFIED="1533959119706">
+<node TEXT="IMF&#xa;&#xa;GDP Growth rate = 7.5% (19-20)" ID="ID_1572159291" CREATED="1533959120006" MODIFIED="1533959132129"/>
+</node>
 <node TEXT="Budgeting" ID="ID_1676726645" CREATED="1522383202239" MODIFIED="1522383206380"/>
 <node TEXT="Inclusive Growth" FOLDED="true" ID="ID_1972947341" CREATED="1522383197066" MODIFIED="1522383201942">
 <node TEXT="mental health" FOLDED="true" ID="ID_1363687504" CREATED="1526129049617" MODIFIED="1526129052226">
@@ -12270,6 +12293,7 @@
 </node>
 </node>
 <node TEXT="Policies /schemes" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1287603073" CREATED="1487759811580" MODIFIED="1525674741976">
+<node TEXT="Overview of the healthcare sector&#xa;&#xa;[see inforgraphics]&#xa;&#xa;OoPE&#xa;, INfra (bed needed)&#xa;&#xa;[by PwC-CII]" LOCALIZED_STYLE_REF="default" ID="ID_1672961224" CREATED="1533965183887" MODIFIED="1533965307474" LINK="https://www.financialexpress.com/opinion/a-premium-for-healthcare/1277188/"/>
 <node TEXT="Swacch Bharat Mission" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_653347620" CREATED="1488277453472" MODIFIED="1525496758250">
 <node TEXT="Swacch Bharat Abhiyaan" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1570453838" CREATED="1487759811580" MODIFIED="1488545169808">
 <node TEXT="evaluation of SBM" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1855222847" CREATED="1487759811580" MODIFIED="1530870338041" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-13.49999959766866 pt">
