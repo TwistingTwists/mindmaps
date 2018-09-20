@@ -135,9 +135,9 @@
 </hook>
 <font NAME="Calibri"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
-<node TEXT="Polity" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
+<node TEXT="Polity" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
 <font NAME="Calibri"/>
-<node TEXT="Legislations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
+<node TEXT="Legislations" LOCALIZED_STYLE_REF="default" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
 <font NAME="Calibri"/>
 <node TEXT="COPRA, 1986" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_212585028" CREATED="1488179043829" MODIFIED="1494887615890">
 <font NAME="Calibri"/>
@@ -580,18 +580,19 @@
 </node>
 </node>
 </node>
-<node TEXT="Right to person with disability, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_97013103" CREATED="1489579168945" MODIFIED="1498840588259">
+<node TEXT="Right to person with disability, 2016" LOCALIZED_STYLE_REF="default" ID="ID_97013103" CREATED="1489579168945" MODIFIED="1537420022845">
+<icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
 <node TEXT="reservation 3 -&gt; 4 %" ID="ID_96743125" CREATED="1489579173813" MODIFIED="1489579179855"/>
 <node TEXT="Grant of guardianship" FOLDED="true" ID="ID_1590814651" CREATED="1491236204350" MODIFIED="1491236212187">
 <node TEXT="under district court" ID="ID_133166769" CREATED="1491236212379" MODIFIED="1491236217042"/>
 </node>
 <node TEXT="special courts" ID="ID_368681496" CREATED="1489579295573" MODIFIED="1489579297665"/>
-<node TEXT="constitution mentions" FOLDED="true" ID="ID_389711878" CREATED="1496285542577" MODIFIED="1496285580556">
+<node TEXT="constitution mentions" ID="ID_389711878" CREATED="1496285542577" MODIFIED="1496285580556">
 <node TEXT="art. 41" ID="ID_1159172765" CREATED="1489725183788" MODIFIED="1494998866903"/>
 <node TEXT="7th schedule, state list = relief of the disabled and unemployable" ID="ID_1322884231" CREATED="1496285547250" MODIFIED="1496285574782"/>
 </node>
-<node TEXT="International" FOLDED="true" ID="ID_1853377552" CREATED="1491236272794" MODIFIED="1491236274721">
+<node TEXT="International" ID="ID_1853377552" CREATED="1491236272794" MODIFIED="1491236274721">
 <node TEXT="UNCPRD" ID="ID_1825177006" CREATED="1491236245114" MODIFIED="1491236246859"/>
 <node TEXT="Incheon Strategy" FOLDED="true" ID="ID_1307501342" CREATED="1491236265412" MODIFIED="1491236270710">
 <node ID="ID_841570747" CREATED="1491236287188" MODIFIED="1491236355493"><richcontent TYPE="NODE">
@@ -630,7 +631,7 @@
 </richcontent>
 <font NAME="Calibri"/>
 </node>
-<node TEXT="Disabilities" FOLDED="true" ID="ID_1293433789" CREATED="1489725151750" MODIFIED="1489725164356">
+<node TEXT="Disabilities" ID="ID_1293433789" CREATED="1489725151750" MODIFIED="1489725164356">
 <node TEXT="three blood disorders" FOLDED="true" ID="ID_1668102089" CREATED="1489579223923" MODIFIED="1489579225129">
 <node TEXT="Sickle cell" ID="ID_1255865174" CREATED="1489579225800" MODIFIED="1489579228426"/>
 <node TEXT="haemophilia" ID="ID_1343242683" CREATED="1489579228656" MODIFIED="1495508263509"/>
@@ -640,6 +641,9 @@
 </node>
 </node>
 <node TEXT="dwarf + acid attack victom + Speech disability + Learning disablitiy" ID="ID_729683489" CREATED="1489579298681" MODIFIED="1491236086497"/>
+</node>
+<node TEXT="issues with bill" ID="ID_1371345804" CREATED="1537420014970" MODIFIED="1537420016848">
+<node TEXT="national, state commission?&#xa;&#xa;, state subject - central law&#xa;&#xa;, exception clause - discriminate in certain jobs" ID="ID_1688273619" CREATED="1537420025332" MODIFIED="1537420061712"/>
 </node>
 </node>
 <node TEXT="Inter-state Water dispute (amendment) bill, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1248161278" CREATED="1492151516540" MODIFIED="1494889798585">
@@ -2517,7 +2521,7 @@
 <node TEXT="Urban Local Govt." ID="ID_352153868" CREATED="1527747677610" MODIFIED="1527747684074"/>
 </node>
 </node>
-<node TEXT="Constitution" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1340862862" CREATED="1488234371502" MODIFIED="1494887616050">
+<node TEXT="Constitution" LOCALIZED_STYLE_REF="default" ID="ID_1340862862" CREATED="1488234371502" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
 <node TEXT="19" OBJECT="java.lang.Long|19" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1007446490" CREATED="1490936266018" MODIFIED="1490936266680">
 <node TEXT="19(1)a" ID="ID_1161127740" CREATED="1490936129850" MODIFIED="1490936136018"/>
@@ -2675,6 +2679,117 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
+<node TEXT="22(3) = preventive detention&#xa;PD" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1535787462879">
+<node TEXT="preventive detention is statutory in nature" FOLDED="true" ID="ID_1008594485" CREATED="1499333772906" MODIFIED="1499334254728">
+<node TEXT="not as discretionary power of executive" ID="ID_591013130" CREATED="1503413488605" MODIFIED="1507780181922">
+<font BOLD="true"/>
+<node TEXT="its exercise has to be within limitation of statue!" ID="ID_914941349" CREATED="1499334255080" MODIFIED="1499334273106"/>
+</node>
+<node TEXT="respect liberty of citizen" ID="ID_651891413" CREATED="1503413503047" MODIFIED="1507780180881">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="four grounds" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
+<node ID="ID_513890276" CREATED="1497969610998" MODIFIED="1509101847761"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      security of state
+    </p>
+    <p>
+      <b>maintain essential services</b>
+    </p>
+    <p>
+      foreign affairs
+    </p>
+    <p>
+      maintain public order
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="exceptions" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
+<node ID="ID_1180436773" CREATED="1497969671950" MODIFIED="1497969763660" MAX_WIDTH="161.66212004813764 pt" MIN_WIDTH="161.66212004813764 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1. &lt;30 days. <i>Parliament can extend</i>
+    </p>
+    <p>
+      2. know grounds of detention. <i>might be hidden for public order </i>
+    </p>
+    <p>
+      3. earliest opportunites for representation against detention. <i>not to enemy aliens</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Issues surrounding" ID="ID_673715087" CREATED="1535787420874" MODIFIED="1535787425640">
+<node ID="ID_183071173" CREATED="1535787425671" MODIFIED="1535787456676"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      SC quashed PD order in <b><i>V.Shanta vs State of Telangana, 2017</i></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="anti torture legislation" ID="ID_1608045179" CREATED="1535787464817" MODIFIED="1535787773301" LINK="#ID_124885435"/>
+<node TEXT="NCRWC, 2000&#xa;- remove PD" ID="ID_615285603" CREATED="1535787471803" MODIFIED="1535787479913"/>
+</node>
+</node>
+<node TEXT="Anti torture legislation" FOLDED="true" ID="ID_124885435" CREATED="1535787642108" MODIFIED="1535787649953">
+<node TEXT="need?" ID="ID_847670107" CREATED="1535787650031" MODIFIED="1535787651328">
+<node TEXT="NHRC - custodial death report but not the injuries" ID="ID_1034955088" CREATED="1535787652609" MODIFIED="1535787665986"/>
+<node TEXT="secure international extradition" ID="ID_1318252740" CREATED="1535787727151" MODIFIED="1535787732105"/>
+<node TEXT="fulfill obligation to UN convention on troture" ID="ID_290370026" CREATED="1535787732605" MODIFIED="1535787742481"/>
+<node TEXT="21" OBJECT="java.lang.Long|21" ID="ID_130126742" CREATED="1535787743340" MODIFIED="1535787749591"/>
+</node>
+<node TEXT="Prevention of torture legislation, 2017&#xa;&#xa;[law commission suggested]" ID="ID_1482513250" CREATED="1535787668596" MODIFIED="1535787759705">
+<node TEXT="IPC amend for compensation to victim" ID="ID_78340847" CREATED="1535787675862" MODIFIED="1535787684129"/>
+<node TEXT="wide def torture - physical and emotional" ID="ID_1646051741" CREATED="1535787684348" MODIFIED="1535787698037"/>
+<node TEXT="presumption of guilt - injury =&gt; policy guilty" ID="ID_1286793355" CREATED="1535787699006" MODIFIED="1535787725979"/>
+</node>
+<node TEXT="already done?" ID="ID_1836112893" CREATED="1535787888442" MODIFIED="1535787891067">
+<node TEXT="22&#xa;, IPC 330 = punishment for injury caused for confession extortion&#xa;, Prevention of torture bull, 2010" ID="ID_1541204554" CREATED="1535787891176" MODIFIED="1535787950685"/>
+</node>
+</node>
+<node TEXT="20 (2) = punished for same offence more than once" ID="ID_171045191" CREATED="1503413605396" MODIFIED="1503413620392">
+<node ID="ID_687809479" CREATED="1503413622159" MODIFIED="1503413635669"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      but separate trials for each offence <b><i>yes</i></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="253 : Make laws on basis of intl. treaty" ID="ID_649004263" CREATED="1537419916090" MODIFIED="1537419925085">
+<node TEXT="example&#xa;&#xa;Right to person with disabilities act, 2016" ID="ID_1089052951" CREATED="1537419925188" MODIFIED="1537419966038" LINK="#ID_97013103"/>
+</node>
 </node>
 <node TEXT="Judiciary" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1418327934" CREATED="1488425985398" MODIFIED="1533014687364">
 <icon BUILTIN="flag-green"/>
@@ -2742,8 +2857,15 @@
 <node TEXT="court on technical matters?" ID="ID_509923208" CREATED="1498974068505" MODIFIED="1498974080599"/>
 <node TEXT="excessive results in judicial overreach&#xa;hampering legislative and executive functioning" ID="ID_548005980" CREATED="1498974087567" MODIFIED="1515646987113"/>
 </node>
+<node TEXT="examples" ID="ID_1236697001" CREATED="1535785298280" MODIFIED="1535785300421">
 <node TEXT="SC on Taj Mahal" ID="ID_1209019105" CREATED="1531994942787" MODIFIED="1531994950413"/>
-<node TEXT="s pollution" FOLDED="true" ID="ID_1717205967" CREATED="1531994950725" MODIFIED="1531994953186">
+<node TEXT="BCCI" ID="ID_662491084" CREATED="1535785300561" MODIFIED="1535785302343"/>
+<node TEXT="Order GoI to set up panel for bad loans" ID="ID_1717254323" CREATED="1535785323791" MODIFIED="1535785332104"/>
+<node TEXT="Policy for drought" ID="ID_422618733" CREATED="1535785337214" MODIFIED="1535785342059"/>
+<node TEXT="Sabrimala, 377" ID="ID_1623153671" CREATED="1535785359108" MODIFIED="1535785364843"/>
+<node TEXT="Reservation in promotion" ID="ID_1853207304" CREATED="1535785369532" MODIFIED="1535785372704"/>
+</node>
+<node TEXT="s pollution" ID="ID_1717205967" CREATED="1531994950725" MODIFIED="1531994953186">
 <node TEXT="state considering BioFules for cleanre air" ID="ID_1216395492" CREATED="1531994956580" MODIFIED="1531994965664"/>
 </node>
 </node>
@@ -7485,7 +7607,7 @@
 <node TEXT="env quality at a given location" ID="ID_971619446" CREATED="1497079308180" MODIFIED="1497079316961"/>
 </node>
 </node>
-<node TEXT="Energy" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1211678522" CREATED="1488611872283" MODIFIED="1533554940649">
+<node TEXT="Energy" LOCALIZED_STYLE_REF="default" ID="ID_1211678522" CREATED="1488611872283" MODIFIED="1533554940649">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri" BOLD="true"/>
 <node TEXT="[data]" FOLDED="true" ID="ID_1902109352" CREATED="1533555890907" MODIFIED="1533555893345">
@@ -12571,7 +12693,7 @@
 </node>
 </node>
 </node>
-<node TEXT="part 2" FOLDED="true" ID="ID_1385836864" CREATED="1494919003820" MODIFIED="1495405327696">
+<node TEXT="part 2" ID="ID_1385836864" CREATED="1494919003820" MODIFIED="1495405327696">
 <node TEXT="Grand Challenge India" FOLDED="true" ID="ID_442663926" CREATED="1490416290621" MODIFIED="1490416294072">
 <node TEXT="Bill and melinda gates + DBT" ID="ID_1856371066" CREATED="1490416294213" MODIFIED="1490416300040"/>
 </node>
@@ -13149,7 +13271,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Need attention Trivia" FOLDED="true" ID="ID_1044880168" CREATED="1494811273532" MODIFIED="1496055203525" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="32.072726994664215 pt">
+<node TEXT="Need attention Trivia" ID="ID_1044880168" CREATED="1494811273532" MODIFIED="1496055203525" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="32.072726994664215 pt">
 <font NAME="Calibri"/>
 <node TEXT="part 0" FOLDED="true" ID="ID_918391584" CREATED="1495962618170" MODIFIED="1496055203525">
 <font NAME="Calibri"/>
@@ -16542,7 +16664,7 @@
 <node TEXT="Living planet report" ID="ID_1524282101" CREATED="1496396333797" MODIFIED="1496396337597"/>
 </node>
 </node>
-<node TEXT="GROUPS/ Summits" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_60885076" CREATED="1488260115997" MODIFIED="1494887616074">
+<node TEXT="GROUPS/ Summits" LOCALIZED_STYLE_REF="default" ID="ID_60885076" CREATED="1488260115997" MODIFIED="1494887616074">
 <font NAME="Calibri" SIZE="10"/>
 <node TEXT="ASEAN (10)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1540755101" CREATED="1488260119667" MODIFIED="1495153324621" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
 <font NAME="Calibri"/>
@@ -16653,9 +16775,9 @@
 <node TEXT="AIFTA" LOCALIZED_STYLE_REF="default" ID="ID_1340323271" CREATED="1488260553996" MODIFIED="1495153324621" LINK="#ID_582114642">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="BRICS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_587552704" CREATED="1488262566538" MODIFIED="1495153324621">
+<node TEXT="BRICS" LOCALIZED_STYLE_REF="default" ID="ID_587552704" CREATED="1488262566538" MODIFIED="1495153324621">
 <font NAME="Calibri"/>
-<node TEXT="NDB (aka BRICS bank)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_409260621" CREATED="1488262568661" MODIFIED="1497236772322">
+<node TEXT="NDB (aka BRICS bank)" LOCALIZED_STYLE_REF="default" ID="ID_409260621" CREATED="1488262568661" MODIFIED="1497236772322">
 <icon BUILTIN="full-1"/>
 <node TEXT="shanghai" ID="ID_169171414" CREATED="1490370909715" MODIFIED="1490370911238"/>
 <node TEXT="equal voting" ID="ID_572697201" CREATED="1491533118187" MODIFIED="1491533120953"/>
@@ -16779,7 +16901,7 @@
 <node TEXT="advise assistance to any country willing to join" ID="ID_948733976" CREATED="1495153355150" MODIFIED="1495153363529"/>
 </node>
 </node>
-<node TEXT="SCO&#xa;shanghai cooperation organisation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_836887123" CREATED="1489479402056" MODIFIED="1497000585223">
+<node TEXT="SCO&#xa;shanghai cooperation organisation" LOCALIZED_STYLE_REF="default" ID="ID_836887123" CREATED="1489479402056" MODIFIED="1497000585223">
 <font NAME="Calibri"/>
 <node TEXT="members = TRUCKK" FOLDED="true" ID="ID_1981707310" CREATED="1495599219966" MODIFIED="1495692642869">
 <node TEXT="Tajikistan, Russia, Uzbekistan, China, Kazakhstan, Krygyzstan" ID="ID_447874093" CREATED="1495599233164" MODIFIED="1495599276357"/>
@@ -16792,7 +16914,7 @@
 <node TEXT="Mongolia, Afghan, belarus, Iran" ID="ID_1125272812" CREATED="1495599332491" MODIFIED="1499182225260"/>
 <node TEXT="observer" ID="ID_1836179109" CREATED="1495599393212" MODIFIED="1495599394772"/>
 </node>
-<node TEXT="mainly counter terror (not cultural ! )" FOLDED="true" ID="ID_1230470906" CREATED="1499308684227" MODIFIED="1499308694928">
+<node TEXT="mainly counter terror (not cultural ! )" ID="ID_1230470906" CREATED="1499308684227" MODIFIED="1499308694928">
 <node TEXT="counter to NATO&#xa;for multi polar world" ID="ID_1001481712" CREATED="1492151862144" MODIFIED="1503365672267"/>
 <node TEXT="regional anti terrorist structure (RATS)" ID="ID_703170124" CREATED="1499183164467" MODIFIED="1508038502357">
 <font BOLD="true"/>
@@ -16802,7 +16924,7 @@
 </node>
 <node TEXT="resolve afghan issue" ID="ID_793940289" CREATED="1499309046988" MODIFIED="1499309066073"/>
 </node>
-<node TEXT="deepen ties with central Asia" FOLDED="true" ID="ID_587830735" CREATED="1499308994101" MODIFIED="1499309000990">
+<node TEXT="deepen ties with central Asia" ID="ID_587830735" CREATED="1499308994101" MODIFIED="1499309000990">
 <node TEXT="Energy security&#xa;if Iran joins SCO" ID="ID_601315572" CREATED="1499309067620" MODIFIED="1503365743053"/>
 <node ID="ID_1683626353" CREATED="1508038511395" MODIFIED="1508038540689"><richcontent TYPE="NODE">
 
@@ -17226,6 +17348,9 @@
 </node>
 </node>
 <node ID="ID_1262653973" TREE_ID="ID_729683489"/>
+</node>
+<node ID="ID_153055158" TREE_ID="ID_1371345804">
+<node ID="ID_887058767" TREE_ID="ID_1688273619"/>
 </node>
 </node>
 <node TEXT="Marrakesh Treaty, 2013" LOCALIZED_STYLE_REF="default" ID="ID_260312986" CREATED="1496790368471" MODIFIED="1496790375987"/>
@@ -17651,7 +17776,7 @@
 </node>
 </node>
 </node>
-<node TEXT="History" FOLDED="true" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
+<node TEXT="History" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
 <font NAME="Calibri"/>
 <node TEXT="Modern History" FOLDED="true" ID="ID_1728381134" CREATED="1492167601191" MODIFIED="1492167605578">
 <node TEXT="Peasant movements" FOLDED="true" ID="ID_659844323" CREATED="1492167605844" MODIFIED="1526810416286">
