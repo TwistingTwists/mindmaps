@@ -1,7 +1,7 @@
-<map version="freeplane 1.5.9">
+<map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1489498611522" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -337,7 +337,7 @@
 <node TEXT="before 13th century, more or less unfirom. After that bifurcation" ID="ID_1210388337" CREATED="1489207457367" MODIFIED="1489207481745"/>
 </node>
 </node>
-<node TEXT=" GS 2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1521280885867">
+<node TEXT=" GS 2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1521280885867">
 <node TEXT="Funda" FOLDED="true" ID="ID_1172058679" CREATED="1497873875002" MODIFIED="1497873876237">
 <node TEXT="Know the articles related to each issue" ID="ID_1615131595" CREATED="1490334026799" MODIFIED="1490334035501"/>
 <node TEXT="Social Justice" ID="ID_761817598" CREATED="1490334039845" MODIFIED="1490334041730"/>
@@ -1558,7 +1558,7 @@
 </node>
 <node TEXT="Trafficking victims - Beti Zindabad Bakery, Jashpur" ID="ID_838525164" CREATED="1526125503025" MODIFIED="1526125518525"/>
 </node>
-<node TEXT="Prelims" POSITION="right" ID="ID_702299847" CREATED="1518297380366" MODIFIED="1520524888496">
+<node TEXT="Prelims" FOLDED="true" POSITION="right" ID="ID_702299847" CREATED="1518297380366" MODIFIED="1520524888496">
 <node TEXT="Agriculture" FOLDED="true" ID="ID_587017194" CREATED="1518297421234" MODIFIED="1518297424471">
 <node TEXT="Credit" FOLDED="true" ID="ID_1503542635" CREATED="1518554635689" MODIFIED="1518554641082">
 <node TEXT="Loan per hectare" ID="ID_1147660779" CREATED="1518554642230" MODIFIED="1518554666656"/>
@@ -2921,7 +2921,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1490334060785">
 <node TEXT="funda" FOLDED="true" ID="ID_62157491" CREATED="1497938540781" MODIFIED="1497938541789">
 <node TEXT="insight secure" ID="ID_319550013" CREATED="1490334067522" MODIFIED="1490334069222"/>
 <node TEXT="Security" ID="ID_490644501" CREATED="1490334103218" MODIFIED="1490334105249">

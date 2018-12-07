@@ -1,7 +1,7 @@
-<map version="freeplane 1.5.9">
+<map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.2">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -388,7 +388,7 @@
 <node TEXT="Hindustani vs carnatic music" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1043058058" CREATED="1489207452336" MODIFIED="1489207457120">
 <node TEXT="before 13th century, more or less unfirom. After that bifurcation" ID="ID_1210388337" CREATED="1489207457367" MODIFIED="1489207481745"/>
 </node>
-<node TEXT="geography" LOCALIZED_STYLE_REF="default" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
+<node TEXT="geography" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
 <node TEXT="Oceanic salinity&#xa;factors and effects" FOLDED="true" ID="ID_498653593" CREATED="1515567008134" MODIFIED="1515567048848">
 <node TEXT="defence budget = More on corrosive salinity in equitorial regions" ID="ID_1170195369" CREATED="1515567049205" MODIFIED="1515567090427"/>
 <node TEXT="food, fish" ID="ID_1129153962" CREATED="1515567112456" MODIFIED="1515567119018"/>
@@ -560,7 +560,7 @@
 </node>
 <node TEXT="z" ID="ID_1262306275" CREATED="1532533178790" MODIFIED="1532616276495"/>
 </node>
-<node TEXT="newspaper" LOCALIZED_STYLE_REF="default" ID="ID_646265916" CREATED="1533958571382" MODIFIED="1533958574289">
+<node TEXT="newspaper" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_646265916" CREATED="1533958571382" MODIFIED="1533958574289">
 <node TEXT="Lata upadhyay, truck art&#xa;&#xa;effects of migrants on culture&#xa;, funded by Arts Council UK&#xa;," ID="ID_1398729220" CREATED="1533958580273" MODIFIED="1533958622739" LINK="https://www.thehindu.com/entertainment/art/assam-born-artist-takes-truck-art-to-the-uk/article24659250.ece"/>
 <node TEXT="Shwedagon Pagoda, Myanmar" FOLDED="true" ID="ID_1821876946" CREATED="1533958762189" MODIFIED="1533958806634" LINK="https://www.thehindu.com/news/international/modi-visits-shwedagon-pagoda-in-myanmar/article19634772.ece">
 <node TEXT=" Bodhi tree sapling at the pagoda complex, signifying common cultural heritage." ID="ID_1175584921" CREATED="1533958760120" MODIFIED="1533958761685"/>
@@ -1065,7 +1065,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Evaluate MNREGA" ID="ID_419508648" CREATED="1532925980074" MODIFIED="1537415760680">
+<node TEXT="Evaluate MNREGA" FOLDED="true" ID="ID_419508648" CREATED="1532925980074" MODIFIED="1537415760680">
 <icon BUILTIN="flag-green"/>
 <node TEXT="rate of disburising income is falling owing to fuzzy implementation of DBT and aadhar linkage" ID="ID_1511166046" CREATED="1532925987699" MODIFIED="1532926013991"/>
 <node TEXT="[graph]&#xa;% of households completing 100 days!&#xa;&#xa;10.7 -&gt; 7.7 -&gt; 5.7&#xa;15 -&gt; 16-&gt; 17&#xa;&#xa;going down!" ID="ID_1927446112" CREATED="1532926014181" MODIFIED="1532926078701"/>
@@ -1074,7 +1074,7 @@
 <node TEXT="evaluate NFSA" FOLDED="true" ID="ID_715468892" CREATED="1533223829000" MODIFIED="1537415765767">
 <node TEXT="Not in times of war, when food is most needed.&#xa;&#xa;mostly rice and wheat =&gt; Nutrition?" ID="ID_1585524078" CREATED="1533223835688" MODIFIED="1533223880193"/>
 </node>
-<node TEXT="Civil services reforms" ID="ID_1142933608" CREATED="1535799641039" MODIFIED="1535799645946">
+<node TEXT="Civil services reforms" FOLDED="true" ID="ID_1142933608" CREATED="1535799641039" MODIFIED="1535799645946">
 <node TEXT="baswan committee report" ID="ID_268537075" CREATED="1535799646102" MODIFIED="1535799649525">
 <node TEXT="modfication of examniation procedure" ID="ID_1577897970" CREATED="1535799698250" MODIFIED="1535799705939"/>
 </node>
@@ -1083,6 +1083,62 @@
 <node TEXT="compulsory retirement" ID="ID_882344024" CREATED="1535799662417" MODIFIED="1535799664949"/>
 <node TEXT="360 degree appraisal" ID="ID_360514561" CREATED="1535799665183" MODIFIED="1535799669246"/>
 <node TEXT="Lokpal and lokayukt,&#xa;TI = corrupt bureaucracy" ID="ID_1588508754" CREATED="1535799720192" MODIFIED="1535799732053"/>
+</node>
+<node TEXT="Evaluate Smart cities mission" ID="ID_838438887" CREATED="1544017357253" MODIFIED="1544017362649">
+<node TEXT="smart city" FOLDED="true" ID="ID_585747993" CREATED="1499531114473" MODIFIED="1499531116179">
+<node TEXT="water, electricity divide city into further zones == not coterminus" FOLDED="true" ID="ID_1951825797" CREATED="1499531176758" MODIFIED="1499531203778">
+<node TEXT="multiplicity of boundaries =&gt; deterrent to good governance" ID="ID_1301325701" CREATED="1499531116493" MODIFIED="1499531130625"/>
+</node>
+<node TEXT="smart city vs climate change" FOLDED="true" ID="ID_328616631" CREATED="1499755534703" MODIFIED="1499755539969">
+<node TEXT="climate change = flood (assam), heat wave, cyclone, drought" ID="ID_562494960" CREATED="1499755820052" MODIFIED="1499755851444"/>
+<node TEXT="effect on infra?" FOLDED="true" ID="ID_704708312" CREATED="1499755854882" MODIFIED="1499755858523">
+<node TEXT="heat =&gt; rail tracks break&#xa;cool buildings&#xa;drainage exit&#xa;water management" ID="ID_1626439321" CREATED="1499755858882" MODIFIED="1499755946204"/>
+<node TEXT="Economy and trade affected too" ID="ID_1132931550" CREATED="1499755946767" MODIFIED="1499755951973"/>
+</node>
+<node TEXT="measures?" FOLDED="true" ID="ID_1921078689" CREATED="1499755852101" MODIFIED="1499755853866">
+<node TEXT="regular risk assessment" ID="ID_1216690639" CREATED="1499756154667" MODIFIED="1499756157933"/>
+<node TEXT="flood = early warning + drainage desilt +" ID="ID_272321009" CREATED="1499755979133" MODIFIED="1499756006526">
+<node TEXT="pre disaster preparation" ID="ID_1986978290" CREATED="1499756079143" MODIFIED="1499756086253"/>
+</node>
+<node TEXT="heat wave = polymer materials" ID="ID_251134326" CREATED="1499756007324" MODIFIED="1499756076112"/>
+<node TEXT="INTERCONNECTED infra =&gt; ICT dependence on electricity etc" ID="ID_1195821071" CREATED="1544017442734" MODIFIED="1544017444220"/>
+<node ID="ID_1250139090" CREATED="1499755965849" MODIFIED="1499756180412"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>financial </b>instrument = Muni Bonds
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="community participation only ensured with ICT + services depend on ICT" ID="ID_1067828257" CREATED="1499756108396" MODIFIED="1499756142525"/>
+</node>
+</node>
+<node TEXT="urbanisation = by 2050 50% urban India,&#xa;how to control urbanisation? = RURBAN" ID="ID_404303208" CREATED="1520843575271" MODIFIED="1520843665915"/>
+<node ID="ID_424833641" CREATED="1520843554852" MODIFIED="1520843574877"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ES 2018 - resource constraint in development = use <b><i>Municipal Bonds</i></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="informed citizens also a part" ID="ID_610129164" CREATED="1499929855389" MODIFIED="1499929859236"/>
+</node>
+<node TEXT="assessment" ID="ID_1852132092" CREATED="1544017461878" MODIFIED="1544017464690">
+<node TEXT="only 2% used funds until 2015" ID="ID_1073146396" CREATED="1544017464851" MODIFIED="1544017473908"/>
+</node>
 </node>
 </node>
 <node TEXT="constitution + polity" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1593403955" CREATED="1530941423899" MODIFIED="1530941432245">
@@ -3088,70 +3144,6 @@
 <node TEXT="by Min MSME&#xa;promoting easy reg. for MSME" ID="ID_881518216" CREATED="1520830639178" MODIFIED="1520830658215"/>
 </node>
 <node TEXT="REIT (real estate investment trust), WTO&apos;s TFA, GST" ID="ID_1208452895" CREATED="1520831066410" MODIFIED="1520831094272"/>
-</node>
-<node TEXT="smart city" FOLDED="true" ID="ID_585747993" CREATED="1499531114473" MODIFIED="1499531116179">
-<node TEXT="water, electricity divide city into further zones == not coterminus" FOLDED="true" ID="ID_1951825797" CREATED="1499531176758" MODIFIED="1499531203778">
-<node TEXT="multiplicity of boundaries =&gt; deterrent to good governance" ID="ID_1301325701" CREATED="1499531116493" MODIFIED="1499531130625"/>
-</node>
-<node TEXT="smart city vs climate change" FOLDED="true" ID="ID_328616631" CREATED="1499755534703" MODIFIED="1499755539969">
-<node TEXT="climate change = flood (assam), heat wave, cyclone, drought" ID="ID_562494960" CREATED="1499755820052" MODIFIED="1499755851444"/>
-<node TEXT="effect on infra?" FOLDED="true" ID="ID_704708312" CREATED="1499755854882" MODIFIED="1499755858523">
-<node TEXT="heat =&gt; rail tracks break&#xa;cool buildings&#xa;drainage exit&#xa;water management" ID="ID_1626439321" CREATED="1499755858882" MODIFIED="1499755946204"/>
-<node TEXT="Economy and trade affected too" ID="ID_1132931550" CREATED="1499755946767" MODIFIED="1499755951973"/>
-</node>
-<node TEXT="measures?" FOLDED="true" ID="ID_1921078689" CREATED="1499755852101" MODIFIED="1499755853866">
-<node TEXT="regular risk assessment" ID="ID_1216690639" CREATED="1499756154667" MODIFIED="1499756157933"/>
-<node TEXT="flood = early warning + drainage desilt +" FOLDED="true" ID="ID_272321009" CREATED="1499755979133" MODIFIED="1499756006526">
-<node TEXT="pre disaster preparation" ID="ID_1986978290" CREATED="1499756079143" MODIFIED="1499756086253"/>
-</node>
-<node TEXT="heat wave = polymer materials" ID="ID_251134326" CREATED="1499756007324" MODIFIED="1499756076112"/>
-<node ID="ID_1056830375" CREATED="1499755953348" MODIFIED="1499756183192"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>INTERCONNECTED </b>infra =&gt; ICT dependence on electricity etc
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_1250139090" CREATED="1499755965849" MODIFIED="1499756180412"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>financial </b>instrument = Muni Bonds
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="community participation only ensured with ICT + services depend on ICT" ID="ID_1067828257" CREATED="1499756108396" MODIFIED="1499756142525"/>
-</node>
-</node>
-<node TEXT="urbanisation = by 2050 50% urban India,&#xa;how to control urbanisation? = RURBAN" ID="ID_404303208" CREATED="1520843575271" MODIFIED="1520843665915"/>
-<node ID="ID_424833641" CREATED="1520843554852" MODIFIED="1520843574877"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ES 2018 - resource constraint in development = use <b><i>Municipal Bonds</i></b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="informed citizens also a part" ID="ID_610129164" CREATED="1499929855389" MODIFIED="1499929859236"/>
 </node>
 <node TEXT="state development loans" FOLDED="true" ID="ID_1196617618" CREATED="1499536089078" MODIFIED="1499536095806">
 <node TEXT="dated securities to meet budgetary requirements of state govt." ID="ID_1313166352" CREATED="1499536096143" MODIFIED="1499536122958"/>
@@ -12923,7 +12915,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node TEXT="1.        Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment." ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1540965781406" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="2.         Inclusive growth and issues arising from it." ID="ID_1763437746" CREATED="1540965626219" MODIFIED="1540965781433" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="3.        Government Budgeting." ID="ID_1671366301" CREATED="1540965626235" MODIFIED="1540965781452" BACKGROUND_COLOR="#fdfdd0"/>
@@ -13240,6 +13232,66 @@
 <node TEXT="process re-engineering of traffic dept. at bangalore" ID="ID_1241037363" CREATED="1526129981060" MODIFIED="1526129995892"/>
 </node>
 <node TEXT="[example]&#xa;1. poor govt. oversight&#xa;2. Lack of dedication to service&#xa;&#xa;&#xa;Sterlite Plant TN closed" ID="ID_1693209883" CREATED="1533224286417" MODIFIED="1533224341598"/>
+</node>
+<node TEXT="GS4" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
+<node TEXT="Ethics and Human Interface:&#xa;&#xa;Essence,&#xa;&#xa;determinants and&#xa;&#xa;consequences of Ethics&#xa;&#xa;in human actions;" ID="ID_471317236" CREATED="1544104497189" MODIFIED="1544104577475"/>
+<node TEXT="dimensions of ethics; ethics in private and public relationships." ID="ID_1160387195" CREATED="1544104497189" MODIFIED="1544104525494"/>
+<node TEXT="Human Values &#x2013; lessons from the lives and teachings of great leaders, reformers and administrators&#xa;&#xa;; role of family, society and&#xa;educational institutions in inculcating values." ID="ID_177285877" CREATED="1544104497201" MODIFIED="1544104591422"/>
+<node TEXT="&#x2022; Attitude: content, structure, function&#xa;&#xa;; its influence and relation with thought and behaviour;" ID="ID_535502553" CREATED="1544104497213" MODIFIED="1544104694845"/>
+<node TEXT="moral and political attitudes&#xa;&#xa;; social influence and persuasion." ID="ID_649383295" CREATED="1544104695598" MODIFIED="1544104704468"/>
+<node TEXT="&#x2022; Aptitude and foundational values for Civil Service&#xa;&#xa;OSAHILO&#xa;&#xa;CTEDedication to service" ID="ID_1269603457" CREATED="1544104497220" MODIFIED="1544104747075"/>
+<node TEXT="&#x2022; Emotional intelligence-concepts, and their utilities and application in administration and governance." ID="ID_1425759856" CREATED="1544104497227" MODIFIED="1544104497227"/>
+<node TEXT="&#x2022; Contributions of moral thinkers and philosophers from India and world." ID="ID_1704534941" CREATED="1544104497231" MODIFIED="1544104497231"/>
+<node ID="ID_1083939776" CREATED="1544104497234" MODIFIED="1544104890252"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ethics in Public administration:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Status and problems
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ; ethical <i><b>concerns</b></i>&#160;and <i><b>dilemmas</b></i>&#160;in government and
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#0000ff">private</font>&#160;institutions
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ; laws, rules, regulations and <b><font color="#ff3333">conscience </font></b>as regulator
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT=" accountability and ethical governance&#xa;&#xa; ; strengthening of ethical and moral values in governance;" ID="ID_325750126" CREATED="1544104497242" MODIFIED="1544104958427"/>
+<node TEXT="ethical issues in international relations and funding" ID="ID_774779905" CREATED="1544104497245" MODIFIED="1544104971862">
+<node TEXT="can use Integrity Pacts by transparency International in Funding&#xa;&#xa;; Extradition treaty" ID="ID_1196261808" CREATED="1544105002047" MODIFIED="1544105050045">
+<font ITALIC="true"/>
+</node>
+</node>
+<node TEXT="; corporate governance." ID="ID_876865725" CREATED="1544104972181" MODIFIED="1544104973601"/>
+<node TEXT="&#x2022; Probity in Governance: Concept of public service; Philosophical basis of governance and probity;" ID="ID_1097894372" CREATED="1544104497248" MODIFIED="1544104497248"/>
+<node TEXT="Information sharing and transparency in government, Right to Information, Codes of Ethics, Codes of" ID="ID_1849220324" CREATED="1544104497251" MODIFIED="1544104497251"/>
+<node TEXT="Conduct, Citizen&#x2019;s Charters, Work culture, Quality of service delivery, Utilization of public funds," ID="ID_402543920" CREATED="1544104497255" MODIFIED="1544104497255"/>
+<node TEXT="challenges of corruption." ID="ID_202299460" CREATED="1544104497257" MODIFIED="1544104497257"/>
 </node>
 <node TEXT="Essay with analysis" FOLDED="true" POSITION="left" ID="ID_1414268302" CREATED="1530944840020" MODIFIED="1530944844345">
 <node TEXT="Labor" FOLDED="true" ID="ID_1922438829" CREATED="1530944844537" MODIFIED="1530944846560">
