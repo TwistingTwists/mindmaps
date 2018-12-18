@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -11003,7 +11003,7 @@
 <node TEXT="not only stars but also Small and Large magnellic clouds" ID="ID_618139249" CREATED="1496394455411" MODIFIED="1496394468266"/>
 </node>
 </node>
-<node TEXT="Art n Culture" FOLDED="true" ID="ID_1316639544" CREATED="1494811025589" MODIFIED="1496055203523">
+<node TEXT="Art n Culture" ID="ID_1316639544" CREATED="1494811025589" MODIFIED="1496055203523">
 <font NAME="Calibri"/>
 <node TEXT="Rock Art" FOLDED="true" ID="ID_1196304558" CREATED="1495932793964" MODIFIED="1495932796043">
 <node TEXT="Dharaki Chattan" FOLDED="true" ID="ID_991009798" CREATED="1494909824194" MODIFIED="1494909826903">
@@ -11526,8 +11526,8 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Brihadeshwara temple" FOLDED="true" ID="ID_1139248038" CREATED="1496137687105" MODIFIED="1496137691540">
-<node ID="ID_1454570380" CREATED="1496137694353" MODIFIED="1527398018842"><richcontent TYPE="NODE">
+<node TEXT="Brihadeshwara temple" ID="ID_1139248038" CREATED="1496137687105" MODIFIED="1496137691540">
+<node ID="ID_1454570380" CREATED="1496137694353" MODIFIED="1544288154814"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11538,7 +11538,13 @@
       <b><i>aka RajaRajeswara Temple</i></b>
     </p>
     <p>
-      &#160;&#160;&#160;&#160;TN
+      &#160;&#160;&#160;&#160;thanjavur , TN
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      UNESCO world heritage site
     </p>
   </body>
 </html>
@@ -11547,13 +11553,14 @@
 <node TEXT=" by Rajraja I   =&gt;   1010 CE" ID="ID_717388370" CREATED="1496137710951" MODIFIED="1496137725325"/>
 <node TEXT="big monolithic Nandi ( second largest )" ID="ID_833490364" CREATED="1496137772165" MODIFIED="1496139146221"/>
 <node TEXT="wall painting = yes" ID="ID_1586485018" CREATED="1496727425806" MODIFIED="1496727429585"/>
-<node TEXT="UNESCO world heritage site" ID="ID_1799071587" CREATED="1496137739170" MODIFIED="1496137751317"/>
+<node TEXT="built on east-west aaxis&#xa;&#xa;unlike deula style - which is west-east axis" ID="ID_762218609" CREATED="1544288366733" MODIFIED="1544288384674"/>
 <node TEXT="dravidian archi + Chola" ID="ID_915859126" CREATED="1496137751832" MODIFIED="1496137760883"/>
 </node>
 <node TEXT="gangai konda chola puram" FOLDED="true" ID="ID_557339518" CREATED="1496139259926" MODIFIED="1496139264936">
-<node TEXT="by rajendra (chola) 1025 AD" ID="ID_803231966" CREATED="1496139265124" MODIFIED="1496139274482"/>
+<node TEXT="by rajendra (chola) 1025 AD&#xa;&#xa;UNESCO world heritage site" ID="ID_803231966" CREATED="1496139265124" MODIFIED="1544288194278"/>
+<node TEXT="has brihadeshwara temple" ID="ID_806416098" CREATED="1544288101108" MODIFIED="1544288114100"/>
 </node>
-<node TEXT="Airavatesvara Temple," FOLDED="true" ID="ID_1092947253" CREATED="1496137833183" MODIFIED="1496137838872">
+<node TEXT="Airavatesvara Temple," ID="ID_1092947253" CREATED="1496137833183" MODIFIED="1496137838872">
 <node TEXT="UNESCO world heritage!" ID="ID_1835182320" CREATED="1496139323173" MODIFIED="1496139328636"/>
 <node TEXT="by rajraja II, 12th century" ID="ID_45431453" CREATED="1496139343779" MODIFIED="1527398090778"/>
 </node>
@@ -11738,6 +11745,9 @@
 <node TEXT="sajda, pabos" FOLDED="true" ID="ID_999889484" CREATED="1497500027843" MODIFIED="1497500033562">
 <node TEXT="by Balban to show that nobles were not his equals" ID="ID_868048778" CREATED="1497500033781" MODIFIED="1497500044348"/>
 </node>
+</node>
+<node TEXT="Kitab Al Hind by Al Biruni" ID="ID_278802288" CREATED="1544951919083" MODIFIED="1544951926599">
+<node TEXT="Indians are self absorbed into themselves, not open to ideas of outside, not ready to learn" ID="ID_19211491" CREATED="1544951926649" MODIFIED="1544951971498"/>
 </node>
 </node>
 <node TEXT="Committees" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_46370831" CREATED="1491534168713" MODIFIED="1496055203523" BACKGROUND_COLOR="#a4ffaa">

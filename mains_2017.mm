@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.2">
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
     <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
@@ -571,6 +571,23 @@
 </node>
 </node>
 </node>
+<node TEXT="gs1" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
+<node TEXT="Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times." ID="ID_1207566527" CREATED="1545140505177" MODIFIED="1545140505177"/>
+<node TEXT="Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues" ID="ID_1873907600" CREATED="1545140505177" MODIFIED="1545140560656" BACKGROUND_COLOR="#ffffcc"/>
+<node TEXT="The Freedom Struggle - its various stages and important contributors /contributions from different parts of the country." ID="ID_943195052" CREATED="1545140505199" MODIFIED="1545140560673" BACKGROUND_COLOR="#ffffcc"/>
+<node TEXT="Post-independence consolidation and reorganization within the country." ID="ID_656655335" CREATED="1545140505202" MODIFIED="1545140560688" BACKGROUND_COLOR="#ffffcc"/>
+<node TEXT="History of the world will include events from 18th century such as industrial revolution," ID="ID_372582142" CREATED="1545140505205" MODIFIED="1545140551027" BACKGROUND_COLOR="#ffcccc"/>
+<node TEXT="world wars," ID="ID_807195162" CREATED="1545140505210" MODIFIED="1545140551043" BACKGROUND_COLOR="#ffcccc"/>
+<node TEXT="redrawing of national boundaries, colonization, decolonization," ID="ID_71225699" CREATED="1545140505214" MODIFIED="1545140551055" BACKGROUND_COLOR="#ffcccc"/>
+<node TEXT="political philosophies like communism, capitalism, socialism etc.- their forms and effect on the society." ID="ID_1189384215" CREATED="1545140505215" MODIFIED="1545140551067" BACKGROUND_COLOR="#ffcccc"/>
+<node TEXT="Salient features of Indian Society, Diversity of India." ID="ID_477335395" CREATED="1545140505217" MODIFIED="1545140533941" BACKGROUND_COLOR="#ccccff"/>
+<node TEXT="Role of women and women&apos;s organization, population and associated issues, poverty and developmental issues, urbanization, their problems and their remedies." ID="ID_933353059" CREATED="1545140505220" MODIFIED="1545140533956" BACKGROUND_COLOR="#ccccff"/>
+<node TEXT="Effects of globalization on Indian society" ID="ID_1720639550" CREATED="1545140505223" MODIFIED="1545140533970" BACKGROUND_COLOR="#ccccff"/>
+<node TEXT=";;" ID="ID_1179250810" CREATED="1545140505226" MODIFIED="1545156676928" BACKGROUND_COLOR="#ccccff"/>
+<node TEXT="Salient features of world&apos;s physical geography." ID="ID_1667913573" CREATED="1545140505229" MODIFIED="1545140575699" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="Distribution of key natural resources across the world (including South Asia and the Indian sub-continent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1601226024" CREATED="1545140505232" MODIFIED="1545140575703" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
+</node>
 <node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
 <node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="unsorted" FOLDED="true" ID="ID_63813839" CREATED="1531068284878" MODIFIED="1531068292326">
@@ -720,7 +737,7 @@
 <node TEXT="depriving someone of personal liberty has to withstand 21, 19,14" ID="ID_1190822497" CREATED="1530862695589" MODIFIED="1530862720940"/>
 </node>
 </node>
-<node TEXT="Defamation a criminal offence" ID="ID_823988307" CREATED="1531406466257" MODIFIED="1531406471401">
+<node TEXT="Defamation a criminal offence" FOLDED="true" ID="ID_823988307" CREATED="1531406466257" MODIFIED="1531406471401">
 <node TEXT="499, 500 IPC&#xa;&#xa;Constitutional fraternity (though vague)" ID="ID_1232521607" CREATED="1531406472957" MODIFIED="1531406494657"/>
 <node TEXT="right to life 21 - right to repute" ID="ID_182172661" CREATED="1531406507335" MODIFIED="1531406517914"/>
 <node TEXT="why not criminal ?" ID="ID_1153928789" CREATED="1531406550812" MODIFIED="1531406554568">
@@ -828,7 +845,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Governance" LOCALIZED_STYLE_REF="default" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1530941434103">
+<node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1530941434103">
 <font NAME="Calibri" BOLD="true"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
 <node TEXT="Grievance Redressal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_452332544" CREATED="1488281410670" MODIFIED="1488545169868">
@@ -2719,7 +2736,7 @@
 <node TEXT="vision mains 365 IR pg. 110" ID="ID_890099780" CREATED="1535810308794" MODIFIED="1535810317764"/>
 </node>
 </node>
-<node TEXT="Miscellaneous" FOLDED="true" ID="ID_205696417" CREATED="1530941553471" MODIFIED="1530941561003" HGAP_QUANTITY="13.345454551129302 pt" VSHIFT_QUANTITY="18.98181801725025 pt">
+<node TEXT="Miscellaneous" ID="ID_205696417" CREATED="1530941553471" MODIFIED="1530941561003" HGAP_QUANTITY="13.345454551129302 pt" VSHIFT_QUANTITY="18.98181801725025 pt">
 <node TEXT="role of civil services in democracy" ID="ID_184495580" CREATED="1522382988409" MODIFIED="1530941551689" VSHIFT_QUANTITY="17.018181670638157 pt"/>
 <node TEXT="Public Policy Failure" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_787442471" CREATED="1488600390442" MODIFIED="1488600395026">
 <node TEXT="Kerala, food crisis" FOLDED="true" ID="ID_199302706" CREATED="1488600395204" MODIFIED="1488600399938">
@@ -2774,7 +2791,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="Water Crisis and management" ID="ID_207470523" CREATED="1535871422194" MODIFIED="1535871429711">
+<node TEXT="Water Crisis and management" FOLDED="true" ID="ID_207470523" CREATED="1535871422194" MODIFIED="1535871429711">
 <node TEXT="the picture of crisis" FOLDED="true" ID="ID_1550474528" CREATED="1535873078469" MODIFIED="1535873082344">
 <node TEXT="80% freshwater in agri" ID="ID_1443207871" CREATED="1535873082547" MODIFIED="1535873086767"/>
 <node TEXT="rice + sugarcane = 25% of GCA but 60% of agri water used!&#xa;&#xa;GCA = gross cropped area" ID="ID_552289099" CREATED="1535873086939" MODIFIED="1535873103785"/>
@@ -2835,7 +2852,370 @@
 <node TEXT="but also needs senitive price policy to sugarcane!" ID="ID_1669081415" CREATED="1535873164422" MODIFIED="1535873182582"/>
 </node>
 </node>
+<node TEXT="AADHAR" FOLDED="true" ID="ID_1933481344" CREATED="1494492098197" MODIFIED="1498113264462">
+<font NAME="Calibri"/>
+<node TEXT="2126 - 13" ID="ID_581208661" CREATED="1489403954810" MODIFIED="1499843224999" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf" MAX_WIDTH="58.035943506589895 pt" MIN_WIDTH="58.035943506589895 pt"/>
+<node TEXT="economy" FOLDED="true" ID="ID_1958971085" CREATED="1494494345237" MODIFIED="1494494351369">
+<node TEXT="cashless, digital, aadhar pay" ID="ID_1961465567" CREATED="1494494351644" MODIFIED="1494494356161"/>
 </node>
+<node TEXT="social" FOLDED="true" ID="ID_558177746" CREATED="1494494360430" MODIFIED="1494494362232">
+<node TEXT="women + vulnerable groups" ID="ID_938170796" CREATED="1494492101123" MODIFIED="1494492117648"/>
+</node>
+<node TEXT="governance" FOLDED="true" ID="ID_1788905902" CREATED="1494494436086" MODIFIED="1494494437579">
+<node TEXT="Service delivery" FOLDED="true" ID="ID_1452590178" CREATED="1494494431040" MODIFIED="1494494434055">
+<node TEXT="reduce the cost of service delivery == questionable!" ID="ID_1468241614" CREATED="1499703431424" MODIFIED="1499703444799"/>
+<node TEXT="CAG report," ID="ID_749264974" CREATED="1499843058077" MODIFIED="1499843067681"/>
+<node TEXT="potential savings 56000 cr." ID="ID_925190624" CREATED="1499843035770" MODIFIED="1499843044344"/>
+<node TEXT="World Bank Digital dividend report = could save money" ID="ID_543683008" CREATED="1499843228771" MODIFIED="1499843254476"/>
+</node>
+<node TEXT="Land records" FOLDED="true" ID="ID_1635488379" CREATED="1494494226886" MODIFIED="1494494234800">
+<node TEXT="as a means to push forward security of property" ID="ID_653135694" CREATED="1494494236693" MODIFIED="1494494331829"/>
+<node TEXT="digitisation" ID="ID_579940081" CREATED="1494494332264" MODIFIED="1494494339841"/>
+</node>
+<node TEXT="Skill India" ID="ID_1427413826" CREATED="1494494404013" MODIFIED="1494494406812"/>
+<node TEXT="Education goals" FOLDED="true" ID="ID_1400760983" CREATED="1494494409318" MODIFIED="1494494415698">
+<node TEXT="Shala Asmita" ID="ID_186024060" CREATED="1494494415804" MODIFIED="1494494423224"/>
+</node>
+</node>
+<node TEXT="issues" FOLDED="true" ID="ID_17171408" CREATED="1494494394020" MODIFIED="1494494394571">
+<node TEXT="Technological + Law-wise secured data" ID="ID_461704986" CREATED="1490777721361" MODIFIED="1490777737700"/>
+<node TEXT="does not prevent quantity fraud" FOLDED="true" ID="ID_1314585017" CREATED="1498113110365" MODIFIED="1498113116727">
+<node TEXT="i.e. underselling by PDS is independent of thumbprint, sign, or any other such means" ID="ID_1721663012" CREATED="1498113116901" MODIFIED="1498113143524"/>
+</node>
+<node TEXT="no consent baked in technology" FOLDED="true" ID="ID_1517938556" CREATED="1490930623695" MODIFIED="1490930630198">
+<node TEXT="instead use smart card with pins =&gt; consent baked in tech" ID="ID_340759541" CREATED="1490930633417" MODIFIED="1490930647529"/>
+<node TEXT="ONLY aadhar number is needed." FOLDED="true" ID="ID_994505511" CREATED="1490930857467" MODIFIED="1490930863673">
+<node TEXT="i.e. if leaked, i can imposter you." ID="ID_761536587" CREATED="1490930870158" MODIFIED="1490930878192"/>
+</node>
+</node>
+<node TEXT="mass surveillance" FOLDED="true" ID="ID_841249630" CREATED="1491125535571" MODIFIED="1491125545928">
+<node TEXT="Targeted surveillance" FOLDED="true" ID="ID_376249238" CREATED="1491125507933" MODIFIED="1491125511927">
+<node TEXT="after receiving inputs =&gt; then surveillance" ID="ID_1690540501" CREATED="1491125512718" MODIFIED="1491125531785"/>
+</node>
+<node TEXT="breach of privacy" ID="ID_945413317" CREATED="1491125554140" MODIFIED="1491125559435"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1348036145" CREATED="1504242847759" MODIFIED="1504242867990"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      aadhar is <i>phenomenal technology.</i>&#160;comment
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="universal number for gov services , financial services (cashless, digital, aadharpay" ID="ID_1389772418" CREATED="1504243016203" MODIFIED="1504243042240"/>
+<node ID="ID_1595966670" CREATED="1504242915426" MODIFIED="1504242971369"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>leakage </b>prevent =&gt; mistargeting no (ghost + duplicate accounts) + increase cost to <b>corruption </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_999617627" CREATED="1504242888433" MODIFIED="1504243294247"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      integration of gov <b><u>services </u></b>+ <b><u>schemes</u><i>&#160;</i></b>=&gt; good governance
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="reduce service delivery  cost =&gt; WB digital dividend report, CAG" ID="ID_168026993" CREATED="1504242971979" MODIFIED="1504243007865"/>
+<node TEXT="education monitoring and feedback - shala asmita" ID="ID_738651359" CREATED="1504242871824" MODIFIED="1504242886012"/>
+<node ID="ID_1832482999" CREATED="1504243051967" MODIFIED="1504243127057"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      <b>empowerment of</b>&#160;women by allowing banks to asses creditworthiness based on history =&gt; easy access to credit
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Aadhar verdict SC" ID="ID_607191352" CREATED="1544198538586" MODIFIED="1544198546327">
+<node TEXT="struck down 57 : private entities mandating" ID="ID_1838821144" CREATED="1544198546393" MODIFIED="1544198561585"/>
+</node>
+<node TEXT="way forward" FOLDED="true" ID="ID_671337057" CREATED="1490930800840" MODIFIED="1490930802585">
+<node TEXT="aadhar act" FOLDED="true" ID="ID_1812308840" CREATED="1490930802726" MODIFIED="1490930805382">
+<node TEXT="restricts data sharing" ID="ID_843364699" CREATED="1490930805742" MODIFIED="1490930811149"/>
+<node TEXT="what about companies making databases public containing aadhar numbers?" ID="ID_327222876" CREATED="1490930884506" MODIFIED="1490930897707"/>
+</node>
+<node TEXT="no information to any company without consent of individual" ID="ID_1836190377" CREATED="1490930842716" MODIFIED="1490930853826"/>
+<node TEXT="South easy asia identity card" FOLDED="true" ID="ID_108559818" CREATED="1494494200064" MODIFIED="1504243167509">
+<font BOLD="true" ITALIC="true"/>
+<node TEXT="integarting economics and bringing comprehensive service delivery" ID="ID_160619735" CREATED="1494494207190" MODIFIED="1494494217650"/>
+</node>
+<node TEXT="CeRT IN to monitor attacks" ID="ID_1968519646" CREATED="1504243183764" MODIFIED="1504243213612"/>
+<node ID="ID_128168575" CREATED="1504243216677" MODIFIED="1504243242744"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      engaging private sector for <b>interoperable security standards</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="gs2" FOLDED="true" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
+<node TEXT="Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure." ID="ID_1794554400" CREATED="1544200456978" MODIFIED="1544200577047" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein." ID="ID_1222219820" CREATED="1544200456978" MODIFIED="1544200577059" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Separation of powers between various organs dispute redressal mechanisms and institutions." ID="ID_443019747" CREATED="1544200456980" MODIFIED="1544200577068" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Comparison of the Indian constitutional scheme with that of other countries" ID="ID_1844385126" CREATED="1544200456982" MODIFIED="1544200577076" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Parliament and State Legislatures &#x2013; structure, functioning, conduct of business, powers &amp; privileges and issues arising out of these." ID="ID_111510816" CREATED="1544200456983" MODIFIED="1544200577085" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Structure, organization and functioning of the Executive and the Judiciary Ministries and Departments of the Government; pressure groups and formal/informal associations and their role in the Polity." ID="ID_298742353" CREATED="1544200456984" MODIFIED="1544200577097" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Salient features of the Representation of People&#x2019;s Act." ID="ID_1960118948" CREATED="1544200456985" MODIFIED="1544200577105" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Appointment to various Constitutional posts, powers, functions and responsibilities of various Constitutional Bodies." ID="ID_1653435991" CREATED="1544200456987" MODIFIED="1544200577112" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Statutory, regulatory and various quasi-judicial bodies" ID="ID_1992748409" CREATED="1544200456988" MODIFIED="1544200577120" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Government policies and interventions for development in various sectors and issues arising out of their design and implementation." ID="ID_927602710" CREATED="1544200456989" MODIFIED="1544200456989"/>
+<node TEXT="&#x2022; Development processes and the development industry- the role of NGOs, SHGs, various groups and associations, donors, charities, institutional and other stakeholders" FOLDED="true" ID="ID_559943090" CREATED="1544200456990" MODIFIED="1544200550013" BACKGROUND_COLOR="#ccccff">
+<node TEXT="FCRA bans 150 NGO funding :&#xa;&#xa;FCRA 2015 allows min fin to seek details of bank accounts of NGO from banks within 48 hours.&#xa;&#xa;Those NGO without an account in &apos;designated banks&apos; are stopped from foregin funds" ID="ID_1011631485" CREATED="1544499506824" MODIFIED="1544499558399"/>
+</node>
+<node TEXT="&#x2022; Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections." ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1544200550025" BACKGROUND_COLOR="#ccccff"/>
+<node TEXT="&#x2022; Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources." ID="ID_125618532" CREATED="1544200456993" MODIFIED="1544200550035" BACKGROUND_COLOR="#ccccff"/>
+<node TEXT="&#x2022; Issues relating to poverty and hunger." FOLDED="true" ID="ID_1069550365" CREATED="1544200456994" MODIFIED="1544200550041" BACKGROUND_COLOR="#ccccff">
+<node TEXT="nutrition" ID="ID_590871261" CREATED="1509014088155" MODIFIED="1528989664643">
+<icon BUILTIN="flag-green"/>
+<font BOLD="true"/>
+<node TEXT="status" ID="ID_888180897" CREATED="1537592631454" MODIFIED="1537592633056">
+<node TEXT="DPSP , 47" ID="ID_75721813" CREATED="1544200676565" MODIFIED="1544200679855"/>
+<node TEXT="disease burden due to malnutrition = 14.6%,&#xa;major factor for child mortality" ID="ID_1652049163" CREATED="1520941317485" MODIFIED="1520941334996"/>
+<node ID="ID_495324268" CREATED="1537592678972" MODIFIED="1537592882111"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      wasting = 1/5
+    </p>
+    <p>
+      stunting = 1/3
+    </p>
+    <p>
+      malnourished = 5/2
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      15% of population - <i><u>State of Food Security and Nutrition in the World 2017 report,</u></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Min Finance, 2016" FOLDED="true" ID="ID_1941396089" CREATED="1528993054739" MODIFIED="1528993059239">
+<node TEXT="highest economic returns to public investment in human capital are in maternal, early life health and nutrition" ID="ID_1678080578" CREATED="1528993059428" MODIFIED="1528993116272"/>
+</node>
+<node TEXT="global Nutrition report, 2018" ID="ID_1832927064" CREATED="1544201395607" MODIFIED="1544201401223">
+<node TEXT="stunting = India has 1/3 child stunting cases&#xa;&#xa;wasting = 15% of all world cases in india&#xa;&#xa;acc to global nutrition report" ID="ID_1090720852" CREATED="1520940703240" MODIFIED="1520940734221"/>
+<node TEXT="north and central india has highest" ID="ID_600190433" CREATED="1544201439003" MODIFIED="1544201445283"/>
+<node TEXT="Z Score (-ve =&gt; child stunted)&#xa;- stunting improved&#xa;- wasted declined" ID="ID_1653889080" CREATED="1544201452119" MODIFIED="1544201492994"/>
+<node TEXT="India done good ONLY on under 5 stunting" ID="ID_879199695" CREATED="1544201500495" MODIFIED="1544201543767"/>
+<node TEXT="violence, conflict worsen nutrition" ID="ID_952820483" CREATED="1544201865203" MODIFIED="1544201872208"/>
+<node TEXT="more data on&#xa;&#xa;MICRO nutrient deficiencies&#xa;, adolescent nutrition" ID="ID_214514793" CREATED="1544201875627" MODIFIED="1544201911965"/>
+<node TEXT="way forward" ID="ID_848304697" CREATED="1544201564295" MODIFIED="1544201566131">
+<node TEXT="5 prongs&#xa;1. integrated programme&#xa;2. database&#xa;3. financing&#xa;4. healthy diet&#xa;5. improve targets" ID="ID_1306196299" CREATED="1544201698431" MODIFIED="1544201754476"/>
+</node>
+</node>
+</node>
+<node TEXT="Global Hunger Index, SDG goal," FOLDED="true" ID="ID_634427393" CREATED="1509014169321" MODIFIED="1509014178474">
+<node TEXT="The Inequalities of Hunger&#xa;, Global Hunger Index, 2017 = India = 100/119" ID="ID_225091855" CREATED="1520940970133" MODIFIED="1537592651855">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node TEXT="dimensions" FOLDED="true" ID="ID_1623799198" CREATED="1520941469586" MODIFIED="1520941623283">
+<icon BUILTIN="flag-green"/>
+<node TEXT="lack of food" FOLDED="true" ID="ID_441368278" CREATED="1520941473959" MODIFIED="1520941476217">
+<node TEXT="PDS, Agri distress, poverty" ID="ID_1707493005" CREATED="1520941493629" MODIFIED="1520941517835"/>
+<node TEXT="NFSM, food wasting policy measures" ID="ID_1967133091" CREATED="1520941486053" MODIFIED="1520941530880"/>
+</node>
+<node TEXT="lack of nutrition" FOLDED="true" ID="ID_224367795" CREATED="1520941476340" MODIFIED="1520941479676">
+<node TEXT="Nat. Nutrition Mission" ID="ID_520141522" CREATED="1520941601834" MODIFIED="1520941629128">
+<font BOLD="true"/>
+</node>
+<node TEXT="price rise of nutritios food, awareness, availability&#xa;food adulteration" ID="ID_1495109532" CREATED="1520941531965" MODIFIED="1520941620234"/>
+</node>
+<node TEXT="lack of absorption in the body" FOLDED="true" ID="ID_1698112117" CREATED="1520941479822" MODIFIED="1520941484846">
+<node TEXT="worm, WASH (sanitation, hygiene)," ID="ID_8986246" CREATED="1520941575683" MODIFIED="1520941592784"/>
+<node TEXT="WASH scheme, SBM" ID="ID_1291852952" CREATED="1520941593474" MODIFIED="1520941599785"/>
+</node>
+</node>
+<node TEXT="GoI done so far" FOLDED="true" ID="ID_903252206" CREATED="1537592744487" MODIFIED="1537592749213">
+<node TEXT="Mid day meal&#xa;, NNM&#xa;, NNS" ID="ID_990761504" CREATED="1537592776502" MODIFIED="1537592928515" LINK="#ID_947497043"/>
+<node TEXT=", Zero Hunger prog 2017" FOLDED="true" ID="ID_829797359" CREATED="1537592805555" MODIFIED="1537592805949">
+<node TEXT="farming for nutrition" ID="ID_751346271" CREATED="1537592806135" MODIFIED="1537592817516"/>
+</node>
+<node TEXT="constitution - 47 - public health + nutrition" ID="ID_166005697" CREATED="1537592752863" MODIFIED="1537592762934"/>
+<node TEXT="POSHAN" FOLDED="true" ID="ID_1313868585" CREATED="1528989870780" MODIFIED="1528989871885">
+<node TEXT="components" ID="ID_1702132336" CREATED="1528989873157" MODIFIED="1528989957086">
+<node ID="ID_89681321" CREATED="1528989958119" MODIFIED="1528989963144"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      training,
+    </p>
+    <p>
+      Jan Andolan (Behavioral change),
+    </p>
+    <p>
+      ICDS ,
+    </p>
+    <p>
+      Grievance redressal
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_366544280" CREATED="1528989953180" MODIFIED="1528989969838"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>convergence action plan </b>
+    </p>
+    <p>
+      (becoz inter-state and intra state variability of nutrition level is very high as NFHS-4 says)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="1. FSSAI - eat right campaign&#xa;(eat healthy + eat safe)&#xa;&#xa;2. Food fortification logo" ID="ID_810554875" CREATED="1531283302591" MODIFIED="1537592978207"/>
+</node>
+<node FOLDED="true" ID="ID_771949289" CREATED="1509014091378" MODIFIED="1514030080306"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      dual problem = <b><i>over</i></b>&#160;+ <i><b>under </b></i>nutrition
+    </p>
+  </body>
+</html>
+</richcontent>
+<node FOLDED="true" ID="ID_226821942" CREATED="1509014096199" MODIFIED="1514030085432"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>over </b>= sugar tax (kerala) -&gt; use to supplement fresh food
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="India is 3rd most obese" ID="ID_109563310" CREATED="1516868877378" MODIFIED="1516868887430"/>
+<node TEXT="FSSAI - awareness about Trans Fats" ID="ID_234718610" CREATED="1544200722054" MODIFIED="1544200729473"/>
+</node>
+<node ID="ID_1572467990" CREATED="1509014109460" MODIFIED="1514030088180"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>under</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="malnutrition =&gt;  NHP 2017" ID="ID_49138199" CREATED="1509014112188" MODIFIED="1514030025087"/>
+<node TEXT="mid day meal, ICDS, PDS for nutritous food" ID="ID_866479098" CREATED="1509014126278" MODIFIED="1509014139705"/>
+<node TEXT="Food fortification" ID="ID_1318780914" CREATED="1499066028208" MODIFIED="1499066032649">
+<node TEXT="nutrient security without changing eating habits" ID="ID_299906094" CREATED="1499066066976" MODIFIED="1514030035650">
+<font BOLD="true"/>
+</node>
+<node TEXT="well functioning PDS" ID="ID_193101574" CREATED="1499066102599" MODIFIED="1499066111014"/>
+<node TEXT="FSSAI&#xa;logo for food fortification!" LOCALIZED_STYLE_REF="default" ID="ID_439081715" CREATED="1490354645769" MODIFIED="1531283289135" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node ID="ID_947497043" CREATED="1516868893588" MODIFIED="1516868902277"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>National Nutrition Mission</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="beneficiary -&#xa;for &lt;6 yrs, PnL mothers" ID="ID_1503580373" CREATED="1516868903136" MODIFIED="1527150669830">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="aim -&#xa;reduce  prevalence of stunting from the current level of 38.4%&#xa;(NFHS 4) to 25% by 2022." ID="ID_1439202658" CREATED="1527150638906" MODIFIED="1527150680790">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="WB $220mn loan" ID="ID_1910358578" CREATED="1527150609664" MODIFIED="1527150615784"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="&#x2022; Important aspects of governance, transparency and accountability, e-governance- applications, models, successes, limitations, and potential; citizens charters, transparency &amp; accountability and institutional and other measures." ID="ID_1613730591" CREATED="1544200456996" MODIFIED="1544200591937" BACKGROUND_COLOR="#ffcccc">
+<node TEXT="Electoral bonds" ID="ID_1272365703" CREATED="1544285399041" MODIFIED="1544285407180"/>
+</node>
+<node TEXT="&#x2022; Role of civil services in a democracy." ID="ID_376827069" CREATED="1544200456997" MODIFIED="1544200591942" BACKGROUND_COLOR="#ffcccc"/>
+<node TEXT="&#x2022; India and its neighborhood- relations." ID="ID_1390168507" CREATED="1544200456998" MODIFIED="1544200601577" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Bilateral, regional and global groupings and agreements involving India and/or affecting India&#x2019;s interests" ID="ID_330109657" CREATED="1544200456999" MODIFIED="1544200601581" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Effect of policies and politics of developed and developing countries on India&#x2019;s interests, Indian Diaspora." ID="ID_1003690106" CREATED="1544200457000" MODIFIED="1544200457000"/>
+<node TEXT="&#x2022; Important International institutions, agencies and fora- their structure, mandate." ID="ID_425335137" CREATED="1544200457002" MODIFIED="1544200457002"/>
 </node>
 <node TEXT="Answer Writing" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1088331819" CREATED="1488236737899" MODIFIED="1495599585156" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
@@ -3965,138 +4345,6 @@
 </node>
 <node TEXT="Veg non veg classfication" FOLDED="true" ID="ID_222464881" CREATED="1498106125582" MODIFIED="1498106137853">
 <node TEXT="NO :&#xa;not by choice but as a health measure&#xa;price = 4X for cellulose (gelatin) =&gt; hurt PMJAY" ID="ID_1596405918" CREATED="1498106139280" MODIFIED="1498106212034"/>
-</node>
-</node>
-<node TEXT="AADHAR" FOLDED="true" ID="ID_1933481344" CREATED="1494492098197" MODIFIED="1498113264462">
-<font NAME="Calibri"/>
-<node TEXT="2126 - 13" ID="ID_581208661" CREATED="1489403954810" MODIFIED="1499843224999" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf" MAX_WIDTH="58.035943506589895 pt" MIN_WIDTH="58.035943506589895 pt"/>
-<node TEXT="economy" FOLDED="true" ID="ID_1958971085" CREATED="1494494345237" MODIFIED="1494494351369">
-<node TEXT="cashless, digital, aadhar pay" ID="ID_1961465567" CREATED="1494494351644" MODIFIED="1494494356161"/>
-</node>
-<node TEXT="social" FOLDED="true" ID="ID_558177746" CREATED="1494494360430" MODIFIED="1494494362232">
-<node TEXT="women + vulnerable groups" ID="ID_938170796" CREATED="1494492101123" MODIFIED="1494492117648"/>
-</node>
-<node TEXT="governance" FOLDED="true" ID="ID_1788905902" CREATED="1494494436086" MODIFIED="1494494437579">
-<node TEXT="Service delivery" FOLDED="true" ID="ID_1452590178" CREATED="1494494431040" MODIFIED="1494494434055">
-<node TEXT="reduce the cost of service delivery == questionable!" ID="ID_1468241614" CREATED="1499703431424" MODIFIED="1499703444799"/>
-<node TEXT="CAG report," ID="ID_749264974" CREATED="1499843058077" MODIFIED="1499843067681"/>
-<node TEXT="potential savings 56000 cr." ID="ID_925190624" CREATED="1499843035770" MODIFIED="1499843044344"/>
-<node TEXT="World Bank Digital dividend report = could save money" ID="ID_543683008" CREATED="1499843228771" MODIFIED="1499843254476"/>
-</node>
-<node TEXT="Land records" FOLDED="true" ID="ID_1635488379" CREATED="1494494226886" MODIFIED="1494494234800">
-<node TEXT="as a means to push forward security of property" ID="ID_653135694" CREATED="1494494236693" MODIFIED="1494494331829"/>
-<node TEXT="digitisation" ID="ID_579940081" CREATED="1494494332264" MODIFIED="1494494339841"/>
-</node>
-<node TEXT="Skill India" ID="ID_1427413826" CREATED="1494494404013" MODIFIED="1494494406812"/>
-<node TEXT="Education goals" FOLDED="true" ID="ID_1400760983" CREATED="1494494409318" MODIFIED="1494494415698">
-<node TEXT="Shala Asmita" ID="ID_186024060" CREATED="1494494415804" MODIFIED="1494494423224"/>
-</node>
-</node>
-<node TEXT="issues" FOLDED="true" ID="ID_17171408" CREATED="1494494394020" MODIFIED="1494494394571">
-<node TEXT="Technological + Law-wise secured data" ID="ID_461704986" CREATED="1490777721361" MODIFIED="1490777737700"/>
-<node TEXT="does not prevent quantity fraud" FOLDED="true" ID="ID_1314585017" CREATED="1498113110365" MODIFIED="1498113116727">
-<node TEXT="i.e. underselling by PDS is independent of thumbprint, sign, or any other such means" ID="ID_1721663012" CREATED="1498113116901" MODIFIED="1498113143524"/>
-</node>
-<node TEXT="no consent baked in technology" FOLDED="true" ID="ID_1517938556" CREATED="1490930623695" MODIFIED="1490930630198">
-<node TEXT="instead use smart card with pins =&gt; consent baked in tech" ID="ID_340759541" CREATED="1490930633417" MODIFIED="1490930647529"/>
-<node TEXT="ONLY aadhar number is needed." FOLDED="true" ID="ID_994505511" CREATED="1490930857467" MODIFIED="1490930863673">
-<node TEXT="i.e. if leaked, i can imposter you." ID="ID_761536587" CREATED="1490930870158" MODIFIED="1490930878192"/>
-</node>
-</node>
-<node TEXT="mass surveillance" FOLDED="true" ID="ID_841249630" CREATED="1491125535571" MODIFIED="1491125545928">
-<node TEXT="Targeted surveillance" FOLDED="true" ID="ID_376249238" CREATED="1491125507933" MODIFIED="1491125511927">
-<node TEXT="after receiving inputs =&gt; then surveillance" ID="ID_1690540501" CREATED="1491125512718" MODIFIED="1491125531785"/>
-</node>
-<node TEXT="breach of privacy" ID="ID_945413317" CREATED="1491125554140" MODIFIED="1491125559435"/>
-</node>
-</node>
-<node FOLDED="true" ID="ID_1348036145" CREATED="1504242847759" MODIFIED="1504242867990"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      aadhar is <i>phenomenal technology.</i>&#160;comment
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="universal number for gov services , financial services (cashless, digital, aadharpay" ID="ID_1389772418" CREATED="1504243016203" MODIFIED="1504243042240"/>
-<node ID="ID_1595966670" CREATED="1504242915426" MODIFIED="1504242971369"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>leakage </b>prevent =&gt; mistargeting no (ghost + duplicate accounts) + increase cost to <b>corruption </b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_999617627" CREATED="1504242888433" MODIFIED="1504243294247"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      integration of gov <b><u>services </u></b>+ <b><u>schemes</u><i>&#160;</i></b>=&gt; good governance
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="reduce service delivery  cost =&gt; WB digital dividend report, CAG" ID="ID_168026993" CREATED="1504242971979" MODIFIED="1504243007865"/>
-<node TEXT="education monitoring and feedback - shala asmita" ID="ID_738651359" CREATED="1504242871824" MODIFIED="1504242886012"/>
-<node ID="ID_1832482999" CREATED="1504243051967" MODIFIED="1504243127057"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      
-    </p>
-    <p>
-      <b>empowerment of</b>&#160;women by allowing banks to asses creditworthiness based on history =&gt; easy access to credit
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="way forward" FOLDED="true" ID="ID_671337057" CREATED="1490930800840" MODIFIED="1490930802585">
-<node TEXT="aadhar act" FOLDED="true" ID="ID_1812308840" CREATED="1490930802726" MODIFIED="1490930805382">
-<node TEXT="restricts data sharing" ID="ID_843364699" CREATED="1490930805742" MODIFIED="1490930811149"/>
-<node TEXT="what about companies making databases public containing aadhar numbers?" ID="ID_327222876" CREATED="1490930884506" MODIFIED="1490930897707"/>
-</node>
-<node TEXT="no information to any company without consent of individual" ID="ID_1836190377" CREATED="1490930842716" MODIFIED="1490930853826"/>
-<node TEXT="South easy asia identity card" FOLDED="true" ID="ID_108559818" CREATED="1494494200064" MODIFIED="1504243167509">
-<font BOLD="true" ITALIC="true"/>
-<node TEXT="integarting economics and bringing comprehensive service delivery" ID="ID_160619735" CREATED="1494494207190" MODIFIED="1494494217650"/>
-</node>
-<node TEXT="CeRT IN to monitor attacks" ID="ID_1968519646" CREATED="1504243183764" MODIFIED="1504243213612"/>
-<node ID="ID_128168575" CREATED="1504243216677" MODIFIED="1504243242744"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      engaging private sector for <b>interoperable security standards</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
 </node>
 </node>
 <node TEXT="2nd ARC - personnel reforms" FOLDED="true" ID="ID_232173546" CREATED="1498147375284" MODIFIED="1498147382932">
@@ -11639,198 +11887,6 @@
 </node>
 </node>
 </node>
-<node TEXT="nutrition" FOLDED="true" ID="ID_590871261" CREATED="1509014088155" MODIFIED="1528989664643">
-<icon BUILTIN="flag-green"/>
-<font BOLD="true"/>
-<node TEXT="status" FOLDED="true" ID="ID_888180897" CREATED="1537592631454" MODIFIED="1537592633056">
-<node TEXT="disease burden due to malnutrition = 14.6%,&#xa;major factor for child mortality" ID="ID_1652049163" CREATED="1520941317485" MODIFIED="1520941334996"/>
-<node ID="ID_495324268" CREATED="1537592678972" MODIFIED="1537592882111"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      wasting = 1/5
-    </p>
-    <p>
-      stunting = 1/3
-    </p>
-    <p>
-      malnourished = 5/2
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      15% of population - <i><u>State of Food Security and Nutrition in the World 2017 report,</u></i>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Min Finance, 2016" ID="ID_1941396089" CREATED="1528993054739" MODIFIED="1528993059239">
-<node TEXT="highest economic returns to public investment in human capital are in maternal, early life health and nutrition" ID="ID_1678080578" CREATED="1528993059428" MODIFIED="1528993116272"/>
-</node>
-<node TEXT="stunting = India has 1/3 child stunting cases&#xa;&#xa;wasting = 15% of all world cases in india&#xa;&#xa;acc to global nutrition report" ID="ID_1090720852" CREATED="1520940703240" MODIFIED="1520940734221"/>
-</node>
-<node TEXT="Global Hunger Index, SDG goal," FOLDED="true" ID="ID_634427393" CREATED="1509014169321" MODIFIED="1509014178474">
-<node TEXT="The Inequalities of Hunger&#xa;, Global Hunger Index, 2017 = India = 100/119" ID="ID_225091855" CREATED="1520940970133" MODIFIED="1537592651855">
-<icon BUILTIN="idea"/>
-</node>
-</node>
-<node TEXT="dimensions" ID="ID_1623799198" CREATED="1520941469586" MODIFIED="1520941623283">
-<icon BUILTIN="flag-green"/>
-<node TEXT="lack of food" ID="ID_441368278" CREATED="1520941473959" MODIFIED="1520941476217">
-<node TEXT="PDS, Agri distress, poverty" ID="ID_1707493005" CREATED="1520941493629" MODIFIED="1520941517835"/>
-<node TEXT="NFSM, food wasting policy measures" ID="ID_1967133091" CREATED="1520941486053" MODIFIED="1520941530880"/>
-</node>
-<node TEXT="lack of nutrition" ID="ID_224367795" CREATED="1520941476340" MODIFIED="1520941479676">
-<node TEXT="Nat. Nutrition Mission" ID="ID_520141522" CREATED="1520941601834" MODIFIED="1520941629128">
-<font BOLD="true"/>
-</node>
-<node TEXT="price rise of nutritios food, awareness, availability&#xa;food adulteration" ID="ID_1495109532" CREATED="1520941531965" MODIFIED="1520941620234"/>
-</node>
-<node TEXT="lack of absorption in the body" ID="ID_1698112117" CREATED="1520941479822" MODIFIED="1520941484846">
-<node TEXT="worm, WASH (sanitation, hygiene)," ID="ID_8986246" CREATED="1520941575683" MODIFIED="1520941592784"/>
-<node TEXT="WASH scheme, SBM" ID="ID_1291852952" CREATED="1520941593474" MODIFIED="1520941599785"/>
-</node>
-</node>
-<node TEXT="GoI done so far" FOLDED="true" ID="ID_903252206" CREATED="1537592744487" MODIFIED="1537592749213">
-<node TEXT="Mid day meal&#xa;, NNM&#xa;, NNS" ID="ID_990761504" CREATED="1537592776502" MODIFIED="1537592928515" LINK="#ID_947497043"/>
-<node TEXT=", Zero Hunger prog 2017" FOLDED="true" ID="ID_829797359" CREATED="1537592805555" MODIFIED="1537592805949">
-<node TEXT="farming for nutrition" ID="ID_751346271" CREATED="1537592806135" MODIFIED="1537592817516"/>
-</node>
-<node TEXT="constitution - 47 - public health + nutrition" ID="ID_166005697" CREATED="1537592752863" MODIFIED="1537592762934"/>
-<node TEXT="POSHAN" FOLDED="true" ID="ID_1313868585" CREATED="1528989870780" MODIFIED="1528989871885">
-<node TEXT="components" ID="ID_1702132336" CREATED="1528989873157" MODIFIED="1528989957086">
-<node ID="ID_89681321" CREATED="1528989958119" MODIFIED="1528989963144"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      training,
-    </p>
-    <p>
-      Jan Andolan (Behavioral change),
-    </p>
-    <p>
-      ICDS ,
-    </p>
-    <p>
-      Grievance redressal
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_366544280" CREATED="1528989953180" MODIFIED="1528989969838"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>convergence action plan </b>
-    </p>
-    <p>
-      (becoz inter-state and intra state variability of nutrition level is very high as NFHS-4 says)
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="1. FSSAI - eat right campaign&#xa;(eat healthy + eat safe)&#xa;&#xa;2. Food fortification logo" ID="ID_810554875" CREATED="1531283302591" MODIFIED="1537592978207"/>
-</node>
-<node FOLDED="true" ID="ID_771949289" CREATED="1509014091378" MODIFIED="1514030080306"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      dual problem = <b><i>over</i></b>&#160;+ <i><b>under </b></i>nutrition
-    </p>
-  </body>
-</html>
-</richcontent>
-<node FOLDED="true" ID="ID_226821942" CREATED="1509014096199" MODIFIED="1514030085432"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>over </b>= sugar tax (kerala) -&gt; use to supplement fresh food
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="India is 3rd most obese" ID="ID_109563310" CREATED="1516868877378" MODIFIED="1516868887430"/>
-</node>
-<node FOLDED="true" ID="ID_1572467990" CREATED="1509014109460" MODIFIED="1514030088180"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>under</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="malnutrition =&gt;  NHP 2017" ID="ID_49138199" CREATED="1509014112188" MODIFIED="1514030025087"/>
-<node TEXT="mid day meal, ICDS, PDS for nutritous food" ID="ID_866479098" CREATED="1509014126278" MODIFIED="1509014139705"/>
-<node TEXT="Food fortification" ID="ID_1318780914" CREATED="1499066028208" MODIFIED="1499066032649">
-<node TEXT="nutrient security without changing eating habits" ID="ID_299906094" CREATED="1499066066976" MODIFIED="1514030035650">
-<font BOLD="true"/>
-</node>
-<node TEXT="well functioning PDS" ID="ID_193101574" CREATED="1499066102599" MODIFIED="1499066111014"/>
-<node TEXT="FSSAI&#xa;logo for food fortification!" LOCALIZED_STYLE_REF="default" ID="ID_439081715" CREATED="1490354645769" MODIFIED="1531283289135" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node ID="ID_947497043" CREATED="1516868893588" MODIFIED="1516868902277"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>National Nutrition Mission</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="beneficiary -&#xa;for &lt;6 yrs, PnL mothers" ID="ID_1503580373" CREATED="1516868903136" MODIFIED="1527150669830">
-<icon BUILTIN="attach"/>
-</node>
-<node TEXT="aim -&#xa;reduce  prevalence of stunting from the current level of 38.4%&#xa;(NFHS 4) to 25% by 2022." ID="ID_1439202658" CREATED="1527150638906" MODIFIED="1527150680790">
-<icon BUILTIN="attach"/>
-</node>
-<node TEXT="WB $220mn loan" ID="ID_1910358578" CREATED="1527150609664" MODIFIED="1527150615784"/>
-</node>
-</node>
-</node>
-<node TEXT="way forward" ID="ID_416920889" CREATED="1537592824358" MODIFIED="1537592826414">
-<node TEXT="food fortification" ID="ID_1446694723" CREATED="1537592819017" MODIFIED="1537592932587" LINK="#ID_1318780914"/>
-</node>
-</node>
 <node TEXT="Food Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1525330834" CREATED="1489466556896" MODIFIED="1528989667346">
 <icon BUILTIN="flag-green"/>
 <font BOLD="true"/>
@@ -13233,7 +13289,7 @@
 </node>
 <node TEXT="[example]&#xa;1. poor govt. oversight&#xa;2. Lack of dedication to service&#xa;&#xa;&#xa;Sterlite Plant TN closed" ID="ID_1693209883" CREATED="1533224286417" MODIFIED="1533224341598"/>
 </node>
-<node TEXT="GS4" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
+<node TEXT="GS4" FOLDED="true" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
 <node TEXT="Ethics and Human Interface:&#xa;&#xa;Essence,&#xa;&#xa;determinants and&#xa;&#xa;consequences of Ethics&#xa;&#xa;in human actions;" ID="ID_471317236" CREATED="1544104497189" MODIFIED="1544104577475"/>
 <node TEXT="dimensions of ethics; ethics in private and public relationships." ID="ID_1160387195" CREATED="1544104497189" MODIFIED="1544104525494"/>
 <node TEXT="Human Values &#x2013; lessons from the lives and teachings of great leaders, reformers and administrators&#xa;&#xa;; role of family, society and&#xa;educational institutions in inculcating values." ID="ID_177285877" CREATED="1544104497201" MODIFIED="1544104591422"/>
@@ -13278,7 +13334,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT=" accountability and ethical governance&#xa;&#xa; ; strengthening of ethical and moral values in governance;" ID="ID_325750126" CREATED="1544104497242" MODIFIED="1544104958427"/>
