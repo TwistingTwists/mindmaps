@@ -571,7 +571,7 @@
 </node>
 </node>
 </node>
-<node TEXT="gs1" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
+<node TEXT="gs1" FOLDED="true" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
 <node TEXT="Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times." ID="ID_1207566527" CREATED="1545140505177" MODIFIED="1545140505177"/>
 <node TEXT="Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues" ID="ID_1873907600" CREATED="1545140505177" MODIFIED="1545140560656" BACKGROUND_COLOR="#ffffcc"/>
 <node TEXT="The Freedom Struggle - its various stages and important contributors /contributions from different parts of the country." ID="ID_943195052" CREATED="1545140505199" MODIFIED="1545140560673" BACKGROUND_COLOR="#ffffcc"/>
@@ -580,16 +580,29 @@
 <node TEXT="world wars," ID="ID_807195162" CREATED="1545140505210" MODIFIED="1545140551043" BACKGROUND_COLOR="#ffcccc"/>
 <node TEXT="redrawing of national boundaries, colonization, decolonization," ID="ID_71225699" CREATED="1545140505214" MODIFIED="1545140551055" BACKGROUND_COLOR="#ffcccc"/>
 <node TEXT="political philosophies like communism, capitalism, socialism etc.- their forms and effect on the society." ID="ID_1189384215" CREATED="1545140505215" MODIFIED="1545140551067" BACKGROUND_COLOR="#ffcccc"/>
-<node TEXT="Salient features of Indian Society, Diversity of India." ID="ID_477335395" CREATED="1545140505217" MODIFIED="1545140533941" BACKGROUND_COLOR="#ccccff"/>
+<node TEXT="Salient features of Indian Society, Diversity of India." FOLDED="true" ID="ID_477335395" CREATED="1545140505217" MODIFIED="1545140533941" BACKGROUND_COLOR="#ccccff">
+<node TEXT="Caste system new association [2018]" ID="ID_1138407475" CREATED="1545188368709" MODIFIED="1545188381247">
+<node TEXT="social" ID="ID_1515762866" CREATED="1545188897339" MODIFIED="1545188898515">
+<node TEXT="mandal commision = horizontal caste, instead of earlier vertial withs tigma attached to lwoer caste." ID="ID_121619169" CREATED="1545188907186" MODIFIED="1545188924429"/>
+<node TEXT="caste not only linked to religion" ID="ID_1626426202" CREATED="1545188927005" MODIFIED="1545188933539"/>
+</node>
+<node TEXT="[policitcal" ID="ID_193024722" CREATED="1545188898661" MODIFIED="1545188900615">
+<node TEXT="caste based politisc" ID="ID_1839142952" CREATED="1545188935922" MODIFIED="1545188939346"/>
+</node>
+<node TEXT="economic" ID="ID_336837239" CREATED="1545188903380" MODIFIED="1545188906304">
+<node TEXT="DICCI for dalit capitalism" ID="ID_1444736415" CREATED="1545188940887" MODIFIED="1545188946244"/>
+<node TEXT="State sponsoring SC/ST entrepreneurs leads to enforcement of caste identity for lower strata as this is their only hope to end poverty." ID="ID_618696618" CREATED="1545188949789" MODIFIED="1545188983475"/>
+</node>
+</node>
+</node>
 <node TEXT="Role of women and women&apos;s organization, population and associated issues, poverty and developmental issues, urbanization, their problems and their remedies." ID="ID_933353059" CREATED="1545140505220" MODIFIED="1545140533956" BACKGROUND_COLOR="#ccccff"/>
 <node TEXT="Effects of globalization on Indian society" ID="ID_1720639550" CREATED="1545140505223" MODIFIED="1545140533970" BACKGROUND_COLOR="#ccccff"/>
-<node TEXT=";;" ID="ID_1179250810" CREATED="1545140505226" MODIFIED="1545156676928" BACKGROUND_COLOR="#ccccff"/>
 <node TEXT="Salient features of world&apos;s physical geography." ID="ID_1667913573" CREATED="1545140505229" MODIFIED="1545140575699" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Distribution of key natural resources across the world (including South Asia and the Indian sub-continent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1601226024" CREATED="1545140505232" MODIFIED="1545140575703" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
-<node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
+<node TEXT="Governance, constitution polity" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="unsorted" FOLDED="true" ID="ID_63813839" CREATED="1531068284878" MODIFIED="1531068292326">
 <font BOLD="true"/>
 <node TEXT="Voting Behaviour" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_29133261" CREATED="1489125865057" MODIFIED="1489125867404">
@@ -698,7 +711,7 @@
 <node TEXT="J =&#xa;bound by precedents" ID="ID_1683976440" CREATED="1499235100310" MODIFIED="1499235143270" MAX_WIDTH="132.3650010139095 pt" MIN_WIDTH="132.3650010139095 pt"/>
 </node>
 <node TEXT="Whistleblowing act, 2014" ID="ID_628279591" CREATED="1499316698710" MODIFIED="1503053967437"/>
-<node TEXT="UAPA&#xa;unlawful activities prevention act" FOLDED="true" ID="ID_1654085839" CREATED="1530861856243" MODIFIED="1530861866799">
+<node TEXT="UAPA&#xa;unlawful activities prevention act" ID="ID_1654085839" CREATED="1530861856243" MODIFIED="1530861866799">
 <node ID="ID_733129422" CREATED="1530861867087" MODIFIED="1530861925238"><richcontent TYPE="NODE">
 
 <html>
@@ -832,16 +845,6 @@
 <node TEXT="way forward" FOLDED="true" ID="ID_1964402381" CREATED="1531996826946" MODIFIED="1531996836392">
 <node TEXT="Bhopal central jail - training in paramedics of criminals" ID="ID_252370498" CREATED="1531996837619" MODIFIED="1531996847101"/>
 <node TEXT="improving prison systems - Odisha video conferencing + other amenities overhaul" ID="ID_854630872" CREATED="1531996895343" MODIFIED="1531996910602"/>
-</node>
-</node>
-<node TEXT="social audit" FOLDED="true" ID="ID_305656" CREATED="1526128820977" MODIFIED="1526128822717">
-<node TEXT="def - proactively sharing info with beneficiaries to assess the efficacy, efficiency, effectiveness of programme implementation" ID="ID_1526258578" CREATED="1526128838433" MODIFIED="1526128875972"/>
-<node TEXT="MNREGA" ID="ID_1886329993" CREATED="1526128943345" MODIFIED="1526128945784"/>
-<node TEXT="institutionalise social audit" FOLDED="true" ID="ID_572441761" CREATED="1526128991291" MODIFIED="1526129008900">
-<node TEXT="CAG developed guidelines for social audit with MoRD&#xa;&#xa;for viable, credible process of social audit" LOCALIZED_STYLE_REF="default" ID="ID_261415799" CREATED="1526128877084" MODIFIED="1526128921988" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Meghalaya social audit law" ID="ID_177148123" CREATED="1526128950096" MODIFIED="1526128955097"/>
 </node>
 </node>
 </node>
@@ -2487,7 +2490,7 @@
 <node TEXT="high tech + capital goods" ID="ID_1034666572" CREATED="1501201669010" MODIFIED="1501201674388"/>
 <node TEXT="india  imposed tariff + tariff restrictions - steel, engineering products" ID="ID_1444702157" CREATED="1501201676390" MODIFIED="1501201720352"/>
 </node>
-<node TEXT="fodder" FOLDED="true" ID="ID_1118068492" CREATED="1503151783567" MODIFIED="1503151786919">
+<node TEXT="fodder" ID="ID_1118068492" CREATED="1503151783567" MODIFIED="1503151786919">
 <node TEXT="economic capacity + national resources meet political will" ID="ID_52544716" CREATED="1503151787195" MODIFIED="1503151800501"/>
 </node>
 <node TEXT="UN peace keeping mission" FOLDED="true" ID="ID_1258502823" CREATED="1514840772703" MODIFIED="1514840775792">
@@ -2495,19 +2498,17 @@
 <node TEXT="china = 7.9%&#xa;india = 0.7 %&#xa;contribution to UN budget =&gt; say in UN&#xa;--&#xa;contrarywise, india = largest peacekeeping force, but no say in UN" ID="ID_821674372" CREATED="1514840802890" MODIFIED="1514840847523"/>
 </node>
 </node>
-<node TEXT="india EU" FOLDED="true" ID="ID_1228239151" CREATED="1500105942595" MODIFIED="1500105944083">
-<node TEXT="invest india" FOLDED="true" ID="ID_1676227728" CREATED="1496141193697" MODIFIED="1496141258389">
+<node TEXT="india EU" ID="ID_1228239151" CREATED="1500105942595" MODIFIED="1500105944083">
+<node TEXT="invest india" ID="ID_1676227728" CREATED="1496141193697" MODIFIED="1496141258389">
 <node TEXT="DIPP, FICCI, State govt" ID="ID_623658514" CREATED="1496141179113" MODIFIED="1496141192447"/>
 <node TEXT="not for profit   Investment Promotion Agency" ID="ID_228938995" CREATED="1496141237940" MODIFIED="1496141245082"/>
 </node>
 <node TEXT="IFM&#xa;investment facilitation mechanism" ID="ID_1197743646" CREATED="1500105946940" MODIFIED="1500105961952"/>
 </node>
 <node TEXT="india israel" ID="ID_542912436" CREATED="1499081888408" MODIFIED="1499081892327">
-<node TEXT="water management" FOLDED="true" ID="ID_1872925940" CREATED="1499081892499" MODIFIED="1499081898712">
+<node TEXT="water management" ID="ID_1872925940" CREATED="1499081892499" MODIFIED="1499081898712">
 <node TEXT="israel has tech becoz water scarce country" ID="ID_1657514314" CREATED="1499081898772" MODIFIED="1499081921765"/>
-<node TEXT="drip irrigation + desalination" FOLDED="true" ID="ID_1895684286" CREATED="1499081922401" MODIFIED="1499081929301">
-<node TEXT="desalination useful to coastal areas!" ID="ID_1492178824" CREATED="1499081974035" MODIFIED="1499081982254"/>
-</node>
+<node TEXT="drip irrigation + desalination" ID="ID_1895684286" CREATED="1499081922401" MODIFIED="1499081929301"/>
 <node ID="ID_114976620" CREATED="1499081951004" MODIFIED="1504272849212"><richcontent TYPE="NODE">
 
 <html>
@@ -2719,7 +2720,7 @@
 </node>
 </node>
 <node TEXT="indian ocean" ID="ID_1981285466" CREATED="1509255421071" MODIFIED="1509255422580"/>
-<node TEXT="Defence prearedness" FOLDED="true" ID="ID_1561360125" CREATED="1517363111828" MODIFIED="1517363115438">
+<node TEXT="Defence prearedness" ID="ID_1561360125" CREATED="1517363111828" MODIFIED="1517363115438">
 <node TEXT="Procurement from outside =&gt; not reliable during wartime" ID="ID_570397606" CREATED="1517363115813" MODIFIED="1517363129751"/>
 <node TEXT="acquisition process too tardy" ID="ID_1346307724" CREATED="1517363146243" MODIFIED="1517363152749"/>
 </node>
@@ -2736,7 +2737,7 @@
 <node TEXT="vision mains 365 IR pg. 110" ID="ID_890099780" CREATED="1535810308794" MODIFIED="1535810317764"/>
 </node>
 </node>
-<node TEXT="Miscellaneous" ID="ID_205696417" CREATED="1530941553471" MODIFIED="1530941561003" HGAP_QUANTITY="13.345454551129302 pt" VSHIFT_QUANTITY="18.98181801725025 pt">
+<node TEXT="Miscellaneous" FOLDED="true" ID="ID_205696417" CREATED="1530941553471" MODIFIED="1530941561003" HGAP_QUANTITY="13.345454551129302 pt" VSHIFT_QUANTITY="18.98181801725025 pt">
 <node TEXT="role of civil services in democracy" ID="ID_184495580" CREATED="1522382988409" MODIFIED="1530941551689" VSHIFT_QUANTITY="17.018181670638157 pt"/>
 <node TEXT="Public Policy Failure" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_787442471" CREATED="1488600390442" MODIFIED="1488600395026">
 <node TEXT="Kerala, food crisis" FOLDED="true" ID="ID_199302706" CREATED="1488600395204" MODIFIED="1488600399938">
@@ -3210,6 +3211,43 @@
 </node>
 <node TEXT="&#x2022; Important aspects of governance, transparency and accountability, e-governance- applications, models, successes, limitations, and potential; citizens charters, transparency &amp; accountability and institutional and other measures." ID="ID_1613730591" CREATED="1544200456996" MODIFIED="1544200591937" BACKGROUND_COLOR="#ffcccc">
 <node TEXT="Electoral bonds" ID="ID_1272365703" CREATED="1544285399041" MODIFIED="1544285407180"/>
+<node TEXT="social audit" ID="ID_305656" CREATED="1526128820977" MODIFIED="1526128822717">
+<node TEXT="def - proactively sharing info with beneficiaries to assess the efficacy, efficiency, effectiveness of programme implementation" ID="ID_1526258578" CREATED="1526128838433" MODIFIED="1526128875972"/>
+<node TEXT="importance" FOLDED="true" ID="ID_1769207080" CREATED="1545224343400" MODIFIED="1545224350068">
+<node ID="ID_812695859" CREATED="1545224353610" MODIFIED="1545236711991"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1. transparency, corruption, accountability
+    </p>
+    <p>
+      2. Citizen engagement
+    </p>
+    <p>
+      3. <b>Compliment role of&#160;&#160;oversight institutions</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="MNREGA" ID="ID_1886329993" CREATED="1526128943345" MODIFIED="1526128945784"/>
+<node TEXT="institutionalise social audit" FOLDED="true" ID="ID_572441761" CREATED="1526128991291" MODIFIED="1526129008900">
+<node TEXT="CAG developed guidelines for social audit with MoRD&#xa;&#xa;for viable, credible process of social audit" LOCALIZED_STYLE_REF="default" ID="ID_261415799" CREATED="1526128877084" MODIFIED="1526128921988" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Meghalaya social audit law" ID="ID_177148123" CREATED="1526128950096" MODIFIED="1526128955097"/>
+<node TEXT="Ombudsman to train for Social Audit" ID="ID_1032164559" CREATED="1545224389762" MODIFIED="1545224397700"/>
+</node>
+<node TEXT="Transparency International&#xa;&#xa;- Social Audit 20 Step&#xa;- IMPACT programme for Anti Corruption" ID="ID_52498436" CREATED="1545224257398" MODIFIED="1545237065369">
+<font BOLD="true"/>
+<node TEXT="process&#xa;&#xa;1. goal decide&#xa;2. training + volunteers&#xa;3. Auditing&#xa;4. follow up" ID="ID_1240273314" CREATED="1545285745278" MODIFIED="1545285797466" TEXT_ALIGN="LEFT"/>
+</node>
+</node>
 </node>
 <node TEXT="&#x2022; Role of civil services in a democracy." ID="ID_376827069" CREATED="1544200456997" MODIFIED="1544200591942" BACKGROUND_COLOR="#ffcccc"/>
 <node TEXT="&#x2022; India and its neighborhood- relations." ID="ID_1390168507" CREATED="1544200456998" MODIFIED="1544200601577" BACKGROUND_COLOR="#ccffcc"/>
@@ -12903,25 +12941,25 @@
 <node TEXT="e-Mitra kiosks in RJ,&#xa;&#xa;reduce footfall on Govt. office + service delivery timely" ID="ID_538160463" CREATED="1532175475593" MODIFIED="1532175498637"/>
 <node TEXT="Innovation" FOLDED="true" ID="ID_738436580" CREATED="1508070147140" MODIFIED="1531408034695">
 <icon BUILTIN="flag-green"/>
-<node TEXT="status" FOLDED="true" ID="ID_70070886" CREATED="1525528520025" MODIFIED="1525528521151">
-<node TEXT="Global Innovation index" FOLDED="true" ID="ID_1692388180" CREATED="1490421850276" MODIFIED="1531407500257">
+<node TEXT="status" ID="ID_70070886" CREATED="1525528520025" MODIFIED="1525528521151">
+<node TEXT="Global Innovation index" ID="ID_1692388180" CREATED="1490421850276" MODIFIED="1531407500257">
 <node TEXT="India rank = 51 from 81 (prev)" ID="ID_1704490521" CREATED="1531407489992" MODIFIED="1531407498608">
 <font BOLD="true"/>
 </node>
-<node TEXT="India Innovation index" FOLDED="true" ID="ID_397686060" CREATED="1490421853884" MODIFIED="1495146040960">
+<node TEXT="India Innovation index" ID="ID_397686060" CREATED="1490421853884" MODIFIED="1495146040960">
 <node TEXT="NITI aayog + CII + DIPP" ID="ID_705612766" CREATED="1490421902600" MODIFIED="1490421907062"/>
 <node TEXT="moving india towads innovation driven economy" ID="ID_1151194111" CREATED="1495498621547" MODIFIED="1495498632486"/>
 </node>
-<node TEXT="by WIPO + INSEAD (cornell)" FOLDED="true" ID="ID_836178276" CREATED="1490421873625" MODIFIED="1490421886416">
+<node TEXT="by WIPO + INSEAD (cornell)" ID="ID_836178276" CREATED="1490421873625" MODIFIED="1490421886416">
 <node TEXT="CII = knowledge partner" ID="ID_241184500" CREATED="1490421871762" MODIFIED="1494837864841"/>
 </node>
 </node>
 <node TEXT="def - creating an idea and transferring utility to society" ID="ID_1960872527" CREATED="1532178109635" MODIFIED="1532178120382"/>
 </node>
-<node TEXT="dimensions" FOLDED="true" ID="ID_1591255539" CREATED="1532178141850" MODIFIED="1532178144942">
+<node TEXT="dimensions" ID="ID_1591255539" CREATED="1532178141850" MODIFIED="1532178144942">
 <node TEXT="Human capital,&#xa;&#xa;Quality education&#xa;Rnd,&#xa;&#xa;collaboration,&#xa;&#xa;Funding,&#xa;&#xa;Legal" ID="ID_370248604" CREATED="1532178147147" MODIFIED="1532178176503"/>
 </node>
-<node TEXT="govt steps" FOLDED="true" ID="ID_684326817" CREATED="1525528524925" MODIFIED="1525528533973">
+<node TEXT="govt steps" ID="ID_684326817" CREATED="1525528524925" MODIFIED="1525528533973">
 <node TEXT="DIPP = Patent, publish, Prosper" ID="ID_300674485" CREATED="1523240688889" MODIFIED="1523240704000"/>
 <node TEXT="Zero effect zero defect scheme" ID="ID_163750883" CREATED="1508070166451" MODIFIED="1508070173437"/>
 <node TEXT="IPrism" FOLDED="true" ID="ID_255230389" CREATED="1525528439907" MODIFIED="1525528442163">
@@ -12972,7 +13010,30 @@
 </node>
 </node>
 <node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
-<node TEXT="1.        Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment." ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1540965781406" BACKGROUND_COLOR="#fdfdd0"/>
+<node TEXT="1.        Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment." ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1540965781406" BACKGROUND_COLOR="#fdfdd0">
+<node TEXT="start up" ID="ID_166453420" CREATED="1545237631092" MODIFIED="1545237633468">
+<node TEXT="SEBI - Innovators Growth Platform" ID="ID_298590427" CREATED="1545237579849" MODIFIED="1545237588597"/>
+<node TEXT="Funds of funds for startups" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_52560753" CREATED="1497501806447" MODIFIED="1497501811843" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node ID="ID_1475462515" CREATED="1497501811999" MODIFIED="1497501825515"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>indirect </b>lending to startups!
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="SIDBI established" ID="ID_1647828630" CREATED="1497501828531" MODIFIED="1497501831922"/>
+<node TEXT="DIPP promote" ID="ID_1192424975" CREATED="1497501837626" MODIFIED="1497501840220"/>
+</node>
+</node>
+</node>
 <node TEXT="2.         Inclusive growth and issues arising from it." ID="ID_1763437746" CREATED="1540965626219" MODIFIED="1540965781433" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="3.        Government Budgeting." ID="ID_1671366301" CREATED="1540965626235" MODIFIED="1540965781452" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="4.        Major crops cropping patterns in various parts of the country, different types of irrigation and irrigation systems storage, transport and marketing of agricultural produce and issues and related constraints; e-technology in the aid of farmers" ID="ID_272853218" CREATED="1540965626238" MODIFIED="1540965781466" BACKGROUND_COLOR="#fdfdd0"/>
