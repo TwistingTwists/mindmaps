@@ -366,28 +366,6 @@
 </node>
 </node>
 <node TEXT="GS1" FOLDED="true" POSITION="left" ID="ID_660311744" CREATED="1490333930862" MODIFIED="1490333932165">
-<node TEXT="Funda" FOLDED="true" ID="ID_1950705657" CREATED="1497873881444" MODIFIED="1497873882638">
-<node TEXT="history" FOLDED="true" ID="ID_886973533" CREATED="1490333932326" MODIFIED="1490333934679">
-<node TEXT="Analytical skills" ID="ID_1648795758" CREATED="1490333966160" MODIFIED="1490333970343"/>
-</node>
-<node TEXT="geography" FOLDED="true" ID="ID_57109360" CREATED="1490333934826" MODIFIED="1490333936099">
-<node TEXT="DIAGRAMS" ID="ID_1870736575" CREATED="1490333950218" MODIFIED="1490333952502"/>
-</node>
-<node TEXT="social issues" ID="ID_246419391" CREATED="1490333936468" MODIFIED="1490333938398"/>
-</node>
-<node TEXT="Syllabus" FOLDED="true" ID="ID_1097411388" CREATED="1497937925938" MODIFIED="1497937927733">
-<node TEXT="Art n Culture" FOLDED="true" ID="ID_156279057" CREATED="1497937960039" MODIFIED="1497937965587">
-<node TEXT="art forms, literature, architecture - Indian" ID="ID_234257152" CREATED="1497937976653" MODIFIED="1497937994978"/>
-</node>
-<node TEXT="World history" FOLDED="true" ID="ID_727514651" CREATED="1497937965759" MODIFIED="1497937969060">
-<node TEXT="Indian history - 1757 - 1947 + Freedom Struggle" ID="ID_923119135" CREATED="1497938018622" MODIFIED="1497938038165"/>
-<node TEXT="post independence consolidation" ID="ID_52827901" CREATED="1497938042863" MODIFIED="1497938051656"/>
-</node>
-<node TEXT="World geography" ID="ID_634934732" CREATED="1497937969216" MODIFIED="1497937971185"/>
-</node>
-<node TEXT="Hindustani vs carnatic music" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1043058058" CREATED="1489207452336" MODIFIED="1489207457120">
-<node TEXT="before 13th century, more or less unfirom. After that bifurcation" ID="ID_1210388337" CREATED="1489207457367" MODIFIED="1489207481745"/>
-</node>
 <node TEXT="geography" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
 <node TEXT="Oceanic salinity&#xa;factors and effects" FOLDED="true" ID="ID_498653593" CREATED="1515567008134" MODIFIED="1515567048848">
 <node TEXT="defence budget = More on corrosive salinity in equitorial regions" ID="ID_1170195369" CREATED="1515567049205" MODIFIED="1515567090427"/>
@@ -401,75 +379,26 @@
 <node TEXT="tadoba andhari tiger reserve" ID="ID_1187577704" CREATED="1527841106180" MODIFIED="1527841111782"/>
 </node>
 <node TEXT="MoEFCC&#xa;&#xa;death by tiger + elephant &gt;= 1000 since 2014-17" ID="ID_503110728" CREATED="1537583261353" MODIFIED="1537583279638"/>
-<node TEXT="examples" FOLDED="true" ID="ID_1168988739" CREATED="1537583308772" MODIFIED="1537583311509">
-<node TEXT="Human tiger in Tadoba&#xa;, Human Dog&#xa;, HUman elephant&#xa;, human frog = andaman bull frog invasive species&#xa; ," ID="ID_616389070" CREATED="1537583314736" MODIFIED="1537583359034"/>
-</node>
 <node TEXT="GoI Done so far" ID="ID_1145877690" CREATED="1537583364778" MODIFIED="1537583370333">
 <node TEXT="National wildlife action plan&#xa;&#xa;NWAP, 2017-31&#xa;&#xa;, local knowledge to reduce conflict&#xa;, survey collect data&#xa;, train workforce&#xa;," ID="ID_374917489" CREATED="1537583399268" MODIFIED="1537583453820"/>
 </node>
 </node>
 </node>
-<node TEXT="creativity vs popular sentiment" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1706435975" CREATED="1515647274595" MODIFIED="1515647281238">
-<node TEXT="[creativity]&#xa;* cinema = Padmavati, India&apos;s daughter&#xa;* LIterature - Mathorubhagan, Aseem trivedi political cartoons,&#xa;* Political  = Nagaland Women reservation&#xa;* economy = 1991 reforms" ID="ID_1610430554" CREATED="1515647281505" MODIFIED="1532925744826" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt"/>
-<node TEXT="artilce 19 (2) restriction due to public order, morality, decency" ID="ID_569131969" CREATED="1515648725085" MODIFIED="1515648742656" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt"/>
-<node TEXT="how to handle?" FOLDED="true" ID="ID_1512586242" CREATED="1515647751336" MODIFIED="1515647759149" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt">
-<node TEXT="tolerance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_276599592" CREATED="1515647760113" MODIFIED="1532925729455" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="flag-green"/>
-<font NAME="Calibri"/>
-<node TEXT="ancient to today, examples" FOLDED="true" ID="ID_1273829858" CREATED="1515647763931" MODIFIED="1515647768471">
-<node TEXT="Kanishka = multi religious incorporated&#xa;Ashoka = Dhamma" ID="ID_36014283" CREATED="1515647768882" MODIFIED="1515647817416"/>
-<node TEXT="various gods in hindu religion" ID="ID_382841875" CREATED="1515647823563" MODIFIED="1515647837608"/>
-<node TEXT="samudragupta = vaishanvite + patron of buddhist scholar Vasubandu" ID="ID_1871747638" CREATED="1515648183864" MODIFIED="1515648219665"/>
-<node ID="ID_787188181" CREATED="1515648651458" MODIFIED="1515648864158"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Fa Hien = Gangetic valley as '
-    </p>
-    <p>
-      <b>Land of Brahminism</b>' during chandragupta II
-    </p>
-    <p>
-      reign + BUddhism flourishing + <b>Hosting Jain Council</b>
-    </p>
-  </body>
-</html>
-</richcontent>
+<node TEXT="newspaper" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_646265916" CREATED="1533958571382" MODIFIED="1533958574289">
+<node TEXT="Lata upadhyay, truck art&#xa;&#xa;effects of migrants on culture&#xa;, funded by Arts Council UK&#xa;," ID="ID_1398729220" CREATED="1533958580273" MODIFIED="1533958622739" LINK="https://www.thehindu.com/entertainment/art/assam-born-artist-takes-truck-art-to-the-uk/article24659250.ece"/>
+<node TEXT="Shwedagon Pagoda, Myanmar" ID="ID_1821876946" CREATED="1533958762189" MODIFIED="1533958806634" LINK="https://www.thehindu.com/news/international/modi-visits-shwedagon-pagoda-in-myanmar/article19634772.ece">
+<node TEXT=" Bodhi tree sapling at the pagoda complex, signifying common cultural heritage." ID="ID_1175584921" CREATED="1533958760120" MODIFIED="1533958761685"/>
+<node TEXT=" strands of Buddha&#x2019;s hair" ID="ID_80553780" CREATED="1533958786243" MODIFIED="1533958786549"/>
 </node>
-<node ID="ID_1513678444" CREATED="1515648957375" MODIFIED="1515649083329"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Harshvardhana = Allahabad Conference = distributing wealth to members of <b>all </b>religions
-    </p>
-  </body>
-</html>
-</richcontent>
+<node TEXT="Cross cultural comparison" ID="ID_1570186882" CREATED="1533958952214" MODIFIED="1533958957862">
+<node TEXT="Bori Johnson, Britain foreign Secretary&#xa;&#xa;Maori headbutt greeting like &apos;a pub in Glasgow&apos;" ID="ID_1536820768" CREATED="1533958958303" MODIFIED="1533959025993"/>
 </node>
 </node>
-<node TEXT="Karnataka Church that is also a temple" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1995201277" CREATED="1532925675257" MODIFIED="1532925727003" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="@Deshanur&#xa;&#xa;assimilation of culture accepted by people" ID="ID_1472794832" CREATED="1532925689694" MODIFIED="1532925709686"/>
 </node>
-</node>
-<node TEXT="CBFC = shyam benegal recommendation" ID="ID_547759666" CREATED="1515649275279" MODIFIED="1515649284167"/>
-</node>
-</node>
-<node TEXT="modern history" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_296760081" CREATED="1524113512757" MODIFIED="1524113515226">
-<node TEXT="why did congress oppose factories act (FA), 1881, 1891?" FOLDED="true" ID="ID_188550724" CREATED="1524113515320" MODIFIED="1524113543947">
-<node TEXT="ch 17 , pg 198, Bipin chandra" ID="ID_146754548" CREATED="1524113567015" MODIFIED="1524113588105"/>
-</node>
-<node TEXT="compare and contrast revolutionary activities in Punjab, mah, bengal." FOLDED="true" ID="ID_311997681" CREATED="1524114828628" MODIFIED="1524114844482">
-<node TEXT="spectrum" ID="ID_1207104311" CREATED="1524114845882" MODIFIED="1524114849043"/>
-</node>
+<node TEXT="gs1" FOLDED="true" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
+<node TEXT="Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times." ID="ID_1207566527" CREATED="1545140505177" MODIFIED="1545140505177"/>
+<node TEXT="Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues" ID="ID_1873907600" CREATED="1545140505177" MODIFIED="1545140560656" BACKGROUND_COLOR="#ffffcc"/>
+<node TEXT="The Freedom Struggle - its various stages and important contributors /contributions from different parts of the country." ID="ID_943195052" CREATED="1545140505199" MODIFIED="1545140560673" BACKGROUND_COLOR="#ffffcc">
 <node TEXT="nehru vs patel" FOLDED="true" ID="ID_1894933001" CREATED="1532532903502" MODIFIED="1532532907713">
 <node TEXT="1. integration of Kashmir&#xa;2. Nov 1946 - nehru joined interim govt. and resigned from INC presidentship - patel supported&#xa;3. values in Indian constitution supported by both" ID="ID_147786214" CREATED="1532532908166" MODIFIED="1532533166275"/>
 <node ID="ID_1266936617" CREATED="1532532910155" MODIFIED="1532533091507"><richcontent TYPE="NODE">
@@ -558,23 +487,13 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="z" ID="ID_1262306275" CREATED="1532533178790" MODIFIED="1532616276495"/>
+<node TEXT="why did congress oppose factories act (FA), 1881, 1891?" FOLDED="true" ID="ID_188550724" CREATED="1524113515320" MODIFIED="1524113543947">
+<node TEXT="ch 17 , pg 198, Bipin chandra" ID="ID_146754548" CREATED="1524113567015" MODIFIED="1524113588105"/>
 </node>
-<node TEXT="newspaper" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_646265916" CREATED="1533958571382" MODIFIED="1533958574289">
-<node TEXT="Lata upadhyay, truck art&#xa;&#xa;effects of migrants on culture&#xa;, funded by Arts Council UK&#xa;," ID="ID_1398729220" CREATED="1533958580273" MODIFIED="1533958622739" LINK="https://www.thehindu.com/entertainment/art/assam-born-artist-takes-truck-art-to-the-uk/article24659250.ece"/>
-<node TEXT="Shwedagon Pagoda, Myanmar" FOLDED="true" ID="ID_1821876946" CREATED="1533958762189" MODIFIED="1533958806634" LINK="https://www.thehindu.com/news/international/modi-visits-shwedagon-pagoda-in-myanmar/article19634772.ece">
-<node TEXT=" Bodhi tree sapling at the pagoda complex, signifying common cultural heritage." ID="ID_1175584921" CREATED="1533958760120" MODIFIED="1533958761685"/>
-<node TEXT=" strands of Buddha&#x2019;s hair" ID="ID_80553780" CREATED="1533958786243" MODIFIED="1533958786549"/>
-</node>
-<node TEXT="Cross cultural comparison" FOLDED="true" ID="ID_1570186882" CREATED="1533958952214" MODIFIED="1533958957862">
-<node TEXT="Bori Johnson, Britain foreign Secretary&#xa;&#xa;Maori headbutt greeting like &apos;a pub in Glasgow&apos;" ID="ID_1536820768" CREATED="1533958958303" MODIFIED="1533959025993"/>
+<node TEXT="compare and contrast revolutionary activities in Punjab, mah, bengal." FOLDED="true" ID="ID_311997681" CREATED="1524114828628" MODIFIED="1524114844482">
+<node TEXT="spectrum" ID="ID_1207104311" CREATED="1524114845882" MODIFIED="1524114849043"/>
 </node>
 </node>
-</node>
-<node TEXT="gs1" FOLDED="true" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
-<node TEXT="Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times." ID="ID_1207566527" CREATED="1545140505177" MODIFIED="1545140505177"/>
-<node TEXT="Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues" ID="ID_1873907600" CREATED="1545140505177" MODIFIED="1545140560656" BACKGROUND_COLOR="#ffffcc"/>
-<node TEXT="The Freedom Struggle - its various stages and important contributors /contributions from different parts of the country." ID="ID_943195052" CREATED="1545140505199" MODIFIED="1545140560673" BACKGROUND_COLOR="#ffffcc"/>
 <node TEXT="Post-independence consolidation and reorganization within the country." ID="ID_656655335" CREATED="1545140505202" MODIFIED="1545140560688" BACKGROUND_COLOR="#ffffcc"/>
 <node TEXT="History of the world will include events from 18th century such as industrial revolution," ID="ID_372582142" CREATED="1545140505205" MODIFIED="1545140551027" BACKGROUND_COLOR="#ffcccc"/>
 <node TEXT="world wars," ID="ID_807195162" CREATED="1545140505210" MODIFIED="1545140551043" BACKGROUND_COLOR="#ffcccc"/>
@@ -594,6 +513,63 @@
 <node TEXT="State sponsoring SC/ST entrepreneurs leads to enforcement of caste identity for lower strata as this is their only hope to end poverty." ID="ID_618696618" CREATED="1545188949789" MODIFIED="1545188983475"/>
 </node>
 </node>
+<node TEXT="Hindustani vs carnatic music" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1043058058" CREATED="1489207452336" MODIFIED="1489207457120">
+<node TEXT="before 13th century, more or less unfirom. After that bifurcation" ID="ID_1210388337" CREATED="1489207457367" MODIFIED="1489207481745"/>
+</node>
+<node TEXT="creativity vs popular sentiment" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1706435975" CREATED="1515647274595" MODIFIED="1515647281238">
+<node TEXT="[creativity]&#xa;* cinema = Padmavati, India&apos;s daughter&#xa;* LIterature - Mathorubhagan, Aseem trivedi political cartoons,&#xa;* Political  = Nagaland Women reservation&#xa;* economy = 1991 reforms" ID="ID_1610430554" CREATED="1515647281505" MODIFIED="1532925744826" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt"/>
+<node TEXT="artilce 19 (2) restriction due to public order, morality, decency" ID="ID_569131969" CREATED="1515648725085" MODIFIED="1515648742656" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt"/>
+<node TEXT="how to handle?" FOLDED="true" ID="ID_1512586242" CREATED="1515647751336" MODIFIED="1515647759149" MAX_WIDTH="225.42902216073315 pt" MIN_WIDTH="225.42902216073315 pt">
+<node TEXT="tolerance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_276599592" CREATED="1515647760113" MODIFIED="1532925729455" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+<node TEXT="ancient to today, examples" FOLDED="true" ID="ID_1273829858" CREATED="1515647763931" MODIFIED="1515647768471">
+<node TEXT="Kanishka = multi religious incorporated&#xa;Ashoka = Dhamma" ID="ID_36014283" CREATED="1515647768882" MODIFIED="1515647817416"/>
+<node TEXT="various gods in hindu religion" ID="ID_382841875" CREATED="1515647823563" MODIFIED="1515647837608"/>
+<node TEXT="samudragupta = vaishanvite + patron of buddhist scholar Vasubandu" ID="ID_1871747638" CREATED="1515648183864" MODIFIED="1515648219665"/>
+<node ID="ID_787188181" CREATED="1515648651458" MODIFIED="1515648864158"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fa Hien = Gangetic valley as '
+    </p>
+    <p>
+      <b>Land of Brahminism</b>' during chandragupta II
+    </p>
+    <p>
+      reign + BUddhism flourishing + <b>Hosting Jain Council</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1513678444" CREATED="1515648957375" MODIFIED="1515649083329"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Harshvardhana = Allahabad Conference = distributing wealth to members of <b>all </b>religions
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Karnataka Church that is also a temple" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1995201277" CREATED="1532925675257" MODIFIED="1532925727003" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node TEXT="@Deshanur&#xa;&#xa;assimilation of culture accepted by people" ID="ID_1472794832" CREATED="1532925689694" MODIFIED="1532925709686"/>
+</node>
+</node>
+<node TEXT="CBFC = shyam benegal recommendation" ID="ID_547759666" CREATED="1515649275279" MODIFIED="1515649284167"/>
+</node>
+</node>
 </node>
 <node TEXT="Role of women and women&apos;s organization, population and associated issues, poverty and developmental issues, urbanization, their problems and their remedies." ID="ID_933353059" CREATED="1545140505220" MODIFIED="1545140533956" BACKGROUND_COLOR="#ccccff"/>
 <node TEXT="Effects of globalization on Indian society" ID="ID_1720639550" CREATED="1545140505223" MODIFIED="1545140533970" BACKGROUND_COLOR="#ccccff"/>
@@ -601,7 +577,7 @@
 <node TEXT="Distribution of key natural resources across the world (including South Asia and the Indian sub-continent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1601226024" CREATED="1545140505232" MODIFIED="1545140575703" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
 </node>
-<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
+<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
 <node TEXT="Governance, constitution polity" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="unsorted" FOLDED="true" ID="ID_63813839" CREATED="1531068284878" MODIFIED="1531068292326">
 <font BOLD="true"/>
@@ -3209,7 +3185,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x2022; Important aspects of governance, transparency and accountability, e-governance- applications, models, successes, limitations, and potential; citizens charters, transparency &amp; accountability and institutional and other measures." ID="ID_1613730591" CREATED="1544200456996" MODIFIED="1544200591937" BACKGROUND_COLOR="#ffcccc">
+<node TEXT="&#x2022; Important aspects of governance, transparency and accountability, e-governance- applications, models, successes, limitations, and potential; citizens charters, transparency &amp; accountability and institutional and other measures." FOLDED="true" ID="ID_1613730591" CREATED="1544200456996" MODIFIED="1544200591937" BACKGROUND_COLOR="#ffcccc">
 <node TEXT="Electoral bonds" ID="ID_1272365703" CREATED="1544285399041" MODIFIED="1544285407180"/>
 <node TEXT="social audit" ID="ID_305656" CREATED="1526128820977" MODIFIED="1526128822717">
 <node TEXT="def - proactively sharing info with beneficiaries to assess the efficacy, efficiency, effectiveness of programme implementation" ID="ID_1526258578" CREATED="1526128838433" MODIFIED="1526128875972"/>
@@ -7453,7 +7429,7 @@
 <font BOLD="true"/>
 </node>
 </node>
-<node TEXT="culture" FOLDED="true" ID="ID_1174035393" CREATED="1524238727502" MODIFIED="1524238731294">
+<node TEXT="culture" ID="ID_1174035393" CREATED="1524238727502" MODIFIED="1524238731294">
 <font BOLD="true"/>
 <node TEXT="ghantashala" FOLDED="true" ID="ID_442452205" CREATED="1523642331907" MODIFIED="1523642334548">
 <node TEXT="buddhism, mahaparinirvana" ID="ID_1870764489" CREATED="1523642334626" MODIFIED="1523642342227"/>
@@ -7736,6 +7712,9 @@
 <node TEXT="archaelogical sites" FOLDED="true" ID="ID_364948847" CREATED="1526493261077" MODIFIED="1526493264416">
 <node TEXT="kolDihwa - UP" ID="ID_123235235" CREATED="1526493267785" MODIFIED="1527862807250"/>
 <node TEXT="mehargah - Pak, bolan pass&#xa;&#xa;paiyampalli - TN" ID="ID_361344103" CREATED="1526493288137" MODIFIED="1526493305498"/>
+</node>
+<node TEXT="makravilakku" ID="ID_272607601" CREATED="1546588994823" MODIFIED="1546588998359">
+<node TEXT="sabrimala festival aka makar sankranti" ID="ID_567313055" CREATED="1546588998747" MODIFIED="1546589011460"/>
 </node>
 </node>
 <node TEXT="economy" FOLDED="true" ID="ID_1841231292" CREATED="1524238708456" MODIFIED="1525195562601">
@@ -8393,7 +8372,7 @@
 <node TEXT="for ASHA workers" ID="ID_129276628" CREATED="1527312323416" MODIFIED="1527312349618"/>
 </node>
 </node>
-<node TEXT="schemes" ID="ID_1793300457" CREATED="1523033053850" MODIFIED="1523033055098">
+<node TEXT="schemes" FOLDED="true" ID="ID_1793300457" CREATED="1523033053850" MODIFIED="1523033055098">
 <font BOLD="true"/>
 <node TEXT="swadhar greh" FOLDED="true" ID="ID_1359431071" CREATED="1522214491945" MODIFIED="1522214495814">
 <node TEXT="institutional support  for women rehab" ID="ID_1947719931" CREATED="1522214495968" MODIFIED="1522214511768"/>
@@ -9387,7 +9366,7 @@
 <node TEXT="by EESL" ID="ID_1609393911" CREATED="1526994546917" MODIFIED="1526994548902"/>
 </node>
 </node>
-<node TEXT="Tests" ID="ID_1588808463" CREATED="1527401817447" MODIFIED="1527401819201">
+<node TEXT="Tests" FOLDED="true" ID="ID_1588808463" CREATED="1527401817447" MODIFIED="1527401819201">
 <node TEXT="insights revision test" FOLDED="true" ID="ID_1372477098" CREATED="1526491779391" MODIFIED="1526491785892">
 <font BOLD="true"/>
 <node TEXT="National employment enhancement mission NEEM = AICTE" ID="ID_280812012" CREATED="1526491887282" MODIFIED="1526491902638"/>
@@ -9526,7 +9505,7 @@
 <node TEXT="NITI aayog = normal districts&#xa;&#xa;LWE districts by MHA" ID="ID_1321147921" CREATED="1527495096382" MODIFIED="1527495110670"/>
 </node>
 </node>
-<node TEXT="vision open test 4" ID="ID_972665355" CREATED="1526651032379" MODIFIED="1526651036364">
+<node TEXT="vision open test 4" FOLDED="true" ID="ID_972665355" CREATED="1526651032379" MODIFIED="1526651036364">
 <font BOLD="true"/>
 <node TEXT="lalit kala academy" FOLDED="true" ID="ID_744940137" CREATED="1526651288123" MODIFIED="1526651456340">
 <font BOLD="false"/>
@@ -10719,8 +10698,9 @@
 <node TEXT="jatropha" FOLDED="true" ID="ID_648671697" CREATED="1527765509480" MODIFIED="1527765511690">
 <node TEXT="native to central america" ID="ID_785318258" CREATED="1527765511800" MODIFIED="1527765514597"/>
 </node>
-<node TEXT="shola" FOLDED="true" ID="ID_906167889" CREATED="1527765547085" MODIFIED="1527765547634">
-<node TEXT="nilgiri hills" ID="ID_66158839" CREATED="1527765547744" MODIFIED="1527765551079"/>
+<node TEXT="shola" ID="ID_906167889" CREATED="1527765547085" MODIFIED="1527765547634">
+<node TEXT="tropical @ high altitude Western ghat&#xa;nilgiri hills" ID="ID_753838509" CREATED="1546589381097" MODIFIED="1546589399173"/>
+<node TEXT="exotic species (eucalyptus, pine) = caused destruction of shola grasslands" ID="ID_222579746" CREATED="1546589400098" MODIFIED="1546589454005"/>
 </node>
 <node TEXT="shankar booklet" ID="ID_621610456" CREATED="1527769865525" MODIFIED="1527769868949"/>
 <node TEXT="start-up sangam" FOLDED="true" ID="ID_418928595" CREATED="1527772070241" MODIFIED="1527772076366">
@@ -13036,7 +13016,10 @@
 </node>
 <node TEXT="2.         Inclusive growth and issues arising from it." ID="ID_1763437746" CREATED="1540965626219" MODIFIED="1540965781433" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="3.        Government Budgeting." ID="ID_1671366301" CREATED="1540965626235" MODIFIED="1540965781452" BACKGROUND_COLOR="#fdfdd0"/>
-<node TEXT="4.        Major crops cropping patterns in various parts of the country, different types of irrigation and irrigation systems storage, transport and marketing of agricultural produce and issues and related constraints; e-technology in the aid of farmers" ID="ID_272853218" CREATED="1540965626238" MODIFIED="1540965781466" BACKGROUND_COLOR="#fdfdd0"/>
+<node TEXT="4.        Major crops cropping patterns in various parts of the country, different types of irrigation and irrigation systems storage," ID="ID_272853218" CREATED="1540965626238" MODIFIED="1545547665259" BACKGROUND_COLOR="#fdfdd0"/>
+<node TEXT="transport and marketing of agricultural produce and issues and related constraints; e-technology in the aid of farmers" ID="ID_1294520376" CREATED="1545547665841" MODIFIED="1545547666274">
+<node TEXT="Agri export policy" ID="ID_1435499037" CREATED="1545547670347" MODIFIED="1545547677434"/>
+</node>
 <node TEXT="5.        Issues related to direct and indirect farm subsidies and minimum support prices; Public Distribution System- objectives, functioning, limitations, revamping; issues of buffer stocks and food security; Technology missions; economics of animal-rearing." ID="ID_488344249" CREATED="1540965626241" MODIFIED="1540965781481" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="6.        Food processing and related industries in India- scope and significance, location, upstream and downstream requirements, supply chain management." ID="ID_614818165" CREATED="1540965626245" MODIFIED="1540965781493" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="7.        Land reforms in India." ID="ID_642541775" CREATED="1540965626249" MODIFIED="1540965781505" BACKGROUND_COLOR="#fdfdd0"/>
@@ -13103,7 +13086,11 @@
 </node>
 </node>
 </node>
-<node TEXT="19.        Security challenges and their management in border areas;&#xa; linkages of organized crime with terrorism" ID="ID_1051362704" CREATED="1540965626276" MODIFIED="1540965966551" BACKGROUND_COLOR="#e8fefb"/>
+<node TEXT="19.        Security challenges and their management in border areas;&#xa; linkages of organized crime with terrorism" ID="ID_1051362704" CREATED="1540965626276" MODIFIED="1540965966551" BACKGROUND_COLOR="#e8fefb">
+<node TEXT="organised crime" ID="ID_76487249" CREATED="1545375802873" MODIFIED="1545375806839">
+<node TEXT="WCCB getting UNEP award for transboundary environmental crime" ID="ID_1706909558" CREATED="1545375807143" MODIFIED="1545375836018"/>
+</node>
+</node>
 <node TEXT="20.        &#x2022; Various Security forces and agencies and their mandate." ID="ID_1517019822" CREATED="1540965626278" MODIFIED="1540965805647" BACKGROUND_COLOR="#e8fefb"/>
 </node>
 <node TEXT="GS4" FOLDED="true" POSITION="left" ID="ID_381119914" CREATED="1490334134419" MODIFIED="1490334135116">
@@ -13432,7 +13419,7 @@
 <node TEXT="tolerance is strength" ID="ID_1152274504" CREATED="1533224226064" MODIFIED="1533224246129"/>
 </node>
 </node>
-<node TEXT="down to earth" FOLDED="true" POSITION="left" ID="ID_198841592" CREATED="1535819507820" MODIFIED="1535819510051">
+<node TEXT="down to earth" POSITION="left" ID="ID_198841592" CREATED="1535819507820" MODIFIED="1535819510051">
 <node TEXT="NGT = 50% env cases filed are blackmailers" ID="ID_1440852975" CREATED="1535819510235" MODIFIED="1535819526342"/>
 <node TEXT="e Green watch" ID="ID_1850470453" CREATED="1526734685405" MODIFIED="1526734687796">
 <node TEXT="online monitoring of various afforestation works being carried out using CAMPA funds." ID="ID_823768376" CREATED="1526734683651" MODIFIED="1526734684511"/>

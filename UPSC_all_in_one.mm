@@ -2832,9 +2832,9 @@
 </node>
 </node>
 </node>
-<node TEXT="Judicial Overreach" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1904359200" CREATED="1488426000403" MODIFIED="1488545169532">
+<node TEXT="Judicial Overreach" LOCALIZED_STYLE_REF="default" ID="ID_1904359200" CREATED="1488426000403" MODIFIED="1488545169532">
 <node TEXT="142" OBJECT="java.lang.Long|142" FOLDED="true" ID="ID_1099701609" CREATED="1511999481113" MODIFIED="1511999483528">
-<node TEXT="banning liquor near highways" FOLDED="true" ID="ID_1048865890" CREATED="1491447964832" MODIFIED="1491447975100">
+<node TEXT="banning liquor near highways" ID="ID_1048865890" CREATED="1491447964832" MODIFIED="1491447975100">
 <node TEXT="142" OBJECT="java.lang.Long|142" ID="ID_132379828" CREATED="1495144111411" MODIFIED="1495144115995" LINK="#ID_60960600"/>
 <node TEXT="powers of SC under 32,136,141,142 = Basic structure of constitution" ID="ID_28307937" CREATED="1492492319839" MODIFIED="1492492341096"/>
 <node TEXT="judiciary vs executive" FOLDED="true" ID="ID_1690191124" CREATED="1491448025923" MODIFIED="1491448039004">
@@ -2845,19 +2845,56 @@
 <node TEXT="compulsory seat belt wearing" ID="ID_177068142" CREATED="1508755873521" MODIFIED="1508755878300"/>
 </node>
 <node TEXT="21" OBJECT="java.lang.Long|21" ID="ID_615421127" CREATED="1511999485971" MODIFIED="1511999488610"/>
+<node TEXT="issues related" ID="ID_139803679" CREATED="1545717732216" MODIFIED="1545717737930">
+<node ID="ID_1964162955" CREATED="1545717738142" MODIFIED="1545717816208"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1. separation of power violated
+    </p>
+    <p>
+      2. undermines trust in parliament
+    </p>
+    <p>
+      3. no expertise (e.g. liquor ban highway)
+    </p>
+    <p>
+      4. CoInterest
+    </p>
+    <p>
+      5. Wastage of judicial time
+    </p>
+    <p>
+      6. Translates to rule by <b>unelected minority</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true"/>
+</node>
+</node>
 <node TEXT="Saying no to INterfering in Padmavati shows judiciary restrains unless necessary" ID="ID_1342266969" CREATED="1515647014620" MODIFIED="1515647044845"/>
+<node TEXT="way forward" ID="ID_1210763371" CREATED="1545717560916" MODIFIED="1545717562852">
+<node TEXT="1. NJAC = MoP&#xa;2. feedback on Judicial pronouncements by legislature" ID="ID_1894008140" CREATED="1545717563083" MODIFIED="1545717589436"/>
+</node>
 </node>
 <node TEXT="judicial activism" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1513587566" CREATED="1498974027114" MODIFIED="1498974030879">
 <node TEXT="why needed?" FOLDED="true" ID="ID_210228659" CREATED="1498974030910" MODIFIED="1498974033053">
+<node TEXT="use judge wisdom when law fails = triple talaq" ID="ID_975582281" CREATED="1545717432931" MODIFIED="1545717446852"/>
+<node TEXT="for filling legal vacuum = sexual harassment" ID="ID_1192992616" CREATED="1545717447140" MODIFIED="1545717466444"/>
+<node TEXT="check and balances = Governor rule (objective application) = SR Bommai case" ID="ID_1938441308" CREATED="1545717475246" MODIFIED="1545717489883"/>
+<node TEXT="Complete justice = 142" ID="ID_712587330" CREATED="1545717493151" MODIFIED="1545717498962"/>
 <node TEXT="136, 226, 227&#xa;art. 32 = guardian of FR of people" ID="ID_934416775" CREATED="1515646793150" MODIFIED="1515646828128"/>
-<node TEXT="constiution followed" ID="ID_1271039870" CREATED="1498974033270" MODIFIED="1498974041707"/>
-<node TEXT="confidence of people in judiciary" ID="ID_1581921821" CREATED="1498974042989" MODIFIED="1498974049707"/>
 </node>
 <node TEXT="why not?" FOLDED="true" ID="ID_1983482866" CREATED="1498974066333" MODIFIED="1498974068270">
 <node TEXT="court on technical matters?" ID="ID_509923208" CREATED="1498974068505" MODIFIED="1498974080599"/>
 <node TEXT="excessive results in judicial overreach&#xa;hampering legislative and executive functioning" ID="ID_548005980" CREATED="1498974087567" MODIFIED="1515646987113"/>
 </node>
-<node TEXT="examples" ID="ID_1236697001" CREATED="1535785298280" MODIFIED="1535785300421">
+<node TEXT="examples" FOLDED="true" ID="ID_1236697001" CREATED="1535785298280" MODIFIED="1535785300421">
 <node TEXT="SC on Taj Mahal" ID="ID_1209019105" CREATED="1531994942787" MODIFIED="1531994950413"/>
 <node TEXT="BCCI" ID="ID_662491084" CREATED="1535785300561" MODIFIED="1535785302343"/>
 <node TEXT="Order GoI to set up panel for bad loans" ID="ID_1717254323" CREATED="1535785323791" MODIFIED="1535785332104"/>
@@ -2865,7 +2902,7 @@
 <node TEXT="Sabrimala, 377" ID="ID_1623153671" CREATED="1535785359108" MODIFIED="1535785364843"/>
 <node TEXT="Reservation in promotion" ID="ID_1853207304" CREATED="1535785369532" MODIFIED="1535785372704"/>
 </node>
-<node TEXT="s pollution" ID="ID_1717205967" CREATED="1531994950725" MODIFIED="1531994953186">
+<node TEXT="s pollution" FOLDED="true" ID="ID_1717205967" CREATED="1531994950725" MODIFIED="1531994953186">
 <node TEXT="state considering BioFules for cleanre air" ID="ID_1216395492" CREATED="1531994956580" MODIFIED="1531994965664"/>
 </node>
 </node>
@@ -3839,28 +3876,27 @@
 <node TEXT="Economy" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
 <font NAME="Calibri"/>
 <node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
-<node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
+<node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
 <node TEXT="Intro" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_635115520" CREATED="1488427334339" MODIFIED="1488545169567">
-<node TEXT="demographic data/trends" FOLDED="true" ID="ID_306319748" CREATED="1495142919356" MODIFIED="1495142935258">
-<node TEXT="water use trend" FOLDED="true" ID="ID_1402918979" CREATED="1489497861158" MODIFIED="1489497863494">
+<node TEXT="demographic data/trends" ID="ID_306319748" CREATED="1495142919356" MODIFIED="1495142935258">
+<node TEXT="water use trend" ID="ID_1402918979" CREATED="1489497861158" MODIFIED="1489497863494">
 <node TEXT="agri (80%) &gt; Household &gt; industry" ID="ID_1992957655" CREATED="1489497863619" MODIFIED="1489497878355"/>
 </node>
-<node TEXT="Horticulture production &gt; food-crop produce" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_971825298" CREATED="1489479715073" MODIFIED="1489729359207" BACKGROUND_COLOR="#a4ffaa">
+<node TEXT="Horticulture production &gt; food-crop produce" LOCALIZED_STYLE_REF="default" ID="ID_971825298" CREATED="1489479715073" MODIFIED="1489729359207" BACKGROUND_COLOR="#a4ffaa">
 <icon BUILTIN="idea"/>
 <node TEXT="2nd largest" ID="ID_1471907360" CREATED="1489479758221" MODIFIED="1489479763397"/>
 </node>
 <node TEXT="N:P:K = 4:2:1" LOCALIZED_STYLE_REF="default" ID="ID_1736131784" CREATED="1489499366496" MODIFIED="1489499373818"/>
+<node TEXT="small/marginal = 70%&#xa;landholding&#xa;&#xa;avg landholding = 1.1 Ha&#xa;80% &lt;2Ha" ID="ID_1878278791" CREATED="1503038233683" MODIFIED="1546848928609"/>
 </node>
 <node TEXT="TYPES OF AGRICULTURE" FOLDED="true" ID="ID_366614473" CREATED="1495142710365" MODIFIED="1495142715912">
 <node TEXT="CD, 8 types of farming systems" ID="ID_1938854639" CREATED="1495142718188" MODIFIED="1495142742127"/>
 </node>
-<node TEXT="Unremunerative profession" LOCALIZED_STYLE_REF="default" ID="ID_557308355" CREATED="1488427335682" MODIFIED="1488545169573"/>
 <node TEXT="Diversion of agri land for other purposes" LOCALIZED_STYLE_REF="default" ID="ID_39190427" CREATED="1488427353644" MODIFIED="1488545169575"/>
 <node TEXT="2nd green revolution @NE" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1892704281" CREATED="1488427367156" MODIFIED="1488545169578">
 <node TEXT="for all crops" ID="ID_895008745" CREATED="1489479628080" MODIFIED="1489479633910"/>
 <node TEXT="bihar, JHK, Chattis, WB, Orissa, Assam, UP east" ID="ID_1130338525" CREATED="1489479635414" MODIFIED="1489479658442"/>
 </node>
-<node TEXT="small/marginal = 70%&#xa;landholding" ID="ID_1878278791" CREATED="1503038233683" MODIFIED="1503038249727"/>
 </node>
 <node TEXT="GM Crops" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1959227926" CREATED="1488732900085" MODIFIED="1496394697122">
 <icon BUILTIN="full-1"/>
@@ -3936,290 +3972,7 @@
 </node>
 </node>
 </node>
-<node TEXT="agricultural policy" FOLDED="true" ID="ID_178570009" CREATED="1504938980557" MODIFIED="1531407416323">
-<font BOLD="true"/>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1050968256" CREATED="1528988927367" MODIFIED="1528988957027">
-<icon BUILTIN="flag-green"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Agriculture policy and programs <b><i>income-oriented</i></b>&#160;rather than outcome oriented
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Model Land Leasing&#xa;(Law?)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_625643111" CREATED="1488536619543" MODIFIED="1494402094036">
-<icon BUILTIN="flag-green"/>
-<node TEXT="NITI Aayog" ID="ID_1179997462" CREATED="1494401987895" MODIFIED="1494891280091">
-<font BOLD="true" ITALIC="true"/>
-</node>
-<node TEXT="under T Haque" LOCALIZED_STYLE_REF="default" ID="ID_1393526955" CREATED="1488536623756" MODIFIED="1488545169603"/>
-<node TEXT="to permit and faciliate leasing of agri land" LOCALIZED_STYLE_REF="default" ID="ID_1533451308" CREATED="1488536634592" MODIFIED="1488545169608"/>
-<node TEXT="Ownership angle" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_990611711" CREATED="1494891237673" MODIFIED="1494891244583">
-<node TEXT="Remove adverse possession clause" LOCALIZED_STYLE_REF="default" ID="ID_975470135" CREATED="1488536833308" MODIFIED="1489314121765" BACKGROUND_COLOR="#e3f7e4"/>
-<node TEXT="tenancy legal =&gt; no fear of loosing land" LOCALIZED_STYLE_REF="default" ID="ID_154300035" CREATED="1488537233024" MODIFIED="1488545169618"/>
-</node>
-<node TEXT="Economic angle" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1750362262" CREATED="1494891233570" MODIFIED="1494891236585">
-<node TEXT="problem : agri on &apos;land on lease&apos; =&gt; access to credit NO" LOCALIZED_STYLE_REF="default" ID="ID_1796086637" CREATED="1488536718042" MODIFIED="1488545169603"/>
-<node TEXT="[tenant] access to formal credit" LOCALIZED_STYLE_REF="default" ID="ID_866956807" CREATED="1488537248579" MODIFIED="1488545169618"/>
-</node>
-<node TEXT="e.g. kerala == land leasing stopped + small landowners abolished =&gt; No agri" LOCALIZED_STYLE_REF="default" ID="ID_512613834" CREATED="1488602195236" MODIFIED="1488602235322" BACKGROUND_COLOR="#ebe8ff"/>
-</node>
-<node TEXT="Farm Friendly reforms index" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1730226867" CREATED="1488269096425" MODIFIED="1494890920139" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
-<icon BUILTIN="idea"/>
-<node TEXT="NITI aayog" LOCALIZED_STYLE_REF="default" ID="ID_719938680" CREATED="1488269102102" MODIFIED="1488545169587"/>
-<node TEXT="Mah = 1&#xa;Guj = 2" LOCALIZED_STYLE_REF="default" ID="ID_754771525" CREATED="1488269169045" MODIFIED="1488545169593"/>
-<node TEXT="3 key reform areas" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_607325677" CREATED="1488269226768" MODIFIED="1488545169593">
-<node TEXT="land lease" LOCALIZED_STYLE_REF="default" ID="ID_812251910" CREATED="1488269229447" MODIFIED="1488545169593"/>
-<node TEXT="forestry on private land = felling and transit of trees" LOCALIZED_STYLE_REF="default" ID="ID_123693100" CREATED="1488269265427" MODIFIED="1519615632615">
-<icon BUILTIN="flag-green"/>
-</node>
-<node TEXT="agri Market reform" LOCALIZED_STYLE_REF="default" ID="ID_872762107" CREATED="1488269245315" MODIFIED="1488545169598"/>
-</node>
-<node TEXT="for _, _, _ in agri markets" FOLDED="true" ID="ID_1003909816" CREATED="1497087215133" MODIFIED="1497087230433">
-<node TEXT="competitiveness among states" LOCALIZED_STYLE_REF="default" ID="ID_1036427195" CREATED="1488269118456" MODIFIED="1489589483646" HGAP_QUANTITY="15.499999955296518 pt" VSHIFT_QUANTITY="20.24999939650299 pt"/>
-<node TEXT="efficiency" LOCALIZED_STYLE_REF="default" ID="ID_1132487314" CREATED="1488269124505" MODIFIED="1488545169598"/>
-<node TEXT="transparency" LOCALIZED_STYLE_REF="default" ID="ID_1408294106" CREATED="1488269126900" MODIFIED="1497087230433" HGAP_QUANTITY="16.618181795482794 pt" VSHIFT_QUANTITY="-26.83636340369863 pt"/>
-</node>
-</node>
-<node TEXT="Gramin Bhandaran Yojna" FOLDED="true" ID="ID_1418810389" CREATED="1489481568391" MODIFIED="1489729389278">
-<icon BUILTIN="idea"/>
-<node TEXT="2126 - 14" ID="ID_1332146293" CREATED="1489481582428" MODIFIED="1489481589451" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
-</node>
-<node TEXT="market intervention scheme" FOLDED="true" ID="ID_1106049585" CREATED="1489499563711" MODIFIED="1489729391471">
-<icon BUILTIN="idea"/>
-<node TEXT="2124 - 56" ID="ID_3566557" CREATED="1489499568593" MODIFIED="1489561618149" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
-<node TEXT="ad hoc for procuring perishable and horticulture commodities" FOLDED="true" ID="ID_1207313351" CREATED="1496289768498" MODIFIED="1496289784802">
-<node TEXT="=&gt; farmer gets remunerative prices" ID="ID_792466032" CREATED="1496289791688" MODIFIED="1496289805740"/>
-</node>
-</node>
-<node TEXT="Nat. horticulture mission" ID="ID_828821310" CREATED="1489499598224" MODIFIED="1489499602670"/>
-<node TEXT="GIAHS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1078968735" CREATED="1489410354742" MODIFIED="1525066283650">
-<node TEXT=" Globally Important&#xa;Agricultural Heritage Systems" ID="ID_1946317024" CREATED="1489410356399" MODIFIED="1495495214618"/>
-<node TEXT="by FAO, 2002" LOCALIZED_STYLE_REF="default" ID="ID_186952164" CREATED="1489410362009" MODIFIED="1497334457796" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="India" FOLDED="true" ID="ID_83985558" CREATED="1489410365838" MODIFIED="1497334470260">
-<node TEXT="Kashmir valley, parampore for saffron" LOCALIZED_STYLE_REF="default" ID="ID_308405044" CREATED="1489410373058" MODIFIED="1497087285419" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="koraput, orissa&#xa;rich biodiversity - many types of paddy, millet pulses etc" LOCALIZED_STYLE_REF="default" ID="ID_1127998361" CREATED="1489410383325" MODIFIED="1497087285387" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="Kuttanad in kerala = below sea level farming" ID="ID_1974389962" CREATED="1497334479284" MODIFIED="1497334489919"/>
-</node>
-<node TEXT="rythu bandhu" FOLDED="true" ID="ID_1248372066" CREATED="1526654889771" MODIFIED="1531407423081">
-<font BOLD="true"/>
-<node TEXT="agriculture invetment support scheme" ID="ID_1962072282" CREATED="1526654903896" MODIFIED="1531407431107"/>
-<node TEXT="4000 to everyone per hectare land" FOLDED="true" ID="ID_1412033607" CREATED="1531407431919" MODIFIED="1531407672699">
-<node TEXT="but for landless?&#xa;and big farmers =&gt; more cash. Unfair!" ID="ID_167825029" CREATED="1531407443815" MODIFIED="1531407456951"/>
-</node>
-<node TEXT="farm incomes would be de linked from production!&#xa;&#xa;=&gt; can take more risk and NOT grow sugarcane !" ID="ID_562929897" CREATED="1531407632274" MODIFIED="1531407655265"/>
-<node TEXT="issue of land titling" ID="ID_137019032" CREATED="1531408077611" MODIFIED="1531408082522"/>
-</node>
-<node TEXT="APMC + livestock marketing act, 2017&#xa;&#xa;APLM Act, 2017" FOLDED="true" ID="ID_787044143" CREATED="1525201293058" MODIFIED="1532924617486">
-<node TEXT="allow private players to set up yards, under license" ID="ID_1068961399" CREATED="1525201309399" MODIFIED="1525201320709"/>
-<node TEXT="transact in all markets within state by paying single fee" ID="ID_517873007" CREATED="1525201335494" MODIFIED="1525201344789"/>
-</node>
-</node>
-<node TEXT="Agri Research" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1128963783" CREATED="1489560598051" MODIFIED="1489560600728">
-<node TEXT="Funding" ID="ID_1223191273" CREATED="1489560600993" MODIFIED="1489560603371"/>
-<node TEXT="Private partnership" FOLDED="true" ID="ID_725338011" CREATED="1489560603543" MODIFIED="1489560614902">
-<node TEXT="for enhanced research-productivity" ID="ID_1235438796" CREATED="1489560615043" MODIFIED="1489560625817"/>
-<node TEXT="Funding" ID="ID_300483215" CREATED="1489560629199" MODIFIED="1489560631483"/>
-<node TEXT="low cost innovative tech" ID="ID_1520057511" CREATED="1489560671552" MODIFIED="1489560676269"/>
-</node>
-<node TEXT="lesser students in agri insti" ID="ID_269568066" CREATED="1489560633609" MODIFIED="1489560646125"/>
-<node TEXT="govt. initiatives?" FOLDED="true" ID="ID_1878519743" CREATED="1523333691819" MODIFIED="1523333696337">
-<icon BUILTIN="flag-green"/>
-<node TEXT="aug 2017, vision" ID="ID_1254515243" CREATED="1523333762043" MODIFIED="1523333764880"/>
-<node TEXT="national agri higher education project, by ICAR + WB" ID="ID_800782631" CREATED="1523333704993" MODIFIED="1523333745285"/>
-<node TEXT="ARYA = retaining youth in agri" ID="ID_1440606240" CREATED="1523333747616" MODIFIED="1523333754166"/>
-</node>
-</node>
-<node TEXT="MSP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_682774013" CREATED="1489498824103" MODIFIED="1526128111110" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="flag-green"/>
-<font NAME="Calibri"/>
-<node TEXT="Problems with MSP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1091932575" CREATED="1489559887850" MODIFIED="1489559892103">
-<node TEXT="Determination of MSP" FOLDED="true" ID="ID_581541410" CREATED="1489560285418" MODIFIED="1489560289067">
-<node TEXT="ONLY private returns&#xa;no social returns" FOLDED="true" ID="ID_1770057797" CREATED="1489560078016" MODIFIED="1489560319093">
-<node TEXT="e.g. pulses = social returns (+)" FOLDED="true" ID="ID_962219859" CREATED="1489560086600" MODIFIED="1489560101045">
-<node TEXT="N fix" ID="ID_163891505" CREATED="1489560101451" MODIFIED="1489560108540"/>
-<node TEXT="deep root system =&gt;keep soil aerated" LOCALIZED_STYLE_REF="default" ID="ID_266877698" CREATED="1489560131077" MODIFIED="1489560157809" BACKGROUND_COLOR="#e3f7e4"/>
-<node TEXT="less fertiliser" LOCALIZED_STYLE_REF="default" ID="ID_90314262" CREATED="1489560121327" MODIFIED="1489560158817" BACKGROUND_COLOR="#e3f7e4"/>
-<node TEXT="less water, more nutrients" ID="ID_200675854" CREATED="1489560108947" MODIFIED="1489560117983"/>
-</node>
-<node TEXT="Wheat sugarcane paddy = social returns (-)" FOLDED="true" ID="ID_351178848" CREATED="1489560162794" MODIFIED="1489560319093" HGAP_QUANTITY="13.999999999999998 pt" VSHIFT_QUANTITY="8.249999754130847 pt">
-<node TEXT="fertiliser =&gt; soil depletion" ID="ID_1796812165" CREATED="1489560178327" MODIFIED="1489560213921"/>
-<node TEXT="burning crop =&gt; health" ID="ID_1761925798" CREATED="1489560215865" MODIFIED="1489560220798"/>
-<node TEXT="water =&gt; falling water table" ID="ID_611884650" CREATED="1489560224147" MODIFIED="1489560230386"/>
-</node>
-</node>
-</node>
-<node TEXT="Disbursing MSP" FOLDED="true" ID="ID_314984222" CREATED="1489560289342" MODIFIED="1489560386693">
-<node TEXT="" ID="ID_1389573533" CREATED="1489560371992" MODIFIED="1489560372008">
-<hook NAME="FirstGroupNode"/>
-</node>
-<node TEXT="Public procurement at MSP has&#xa;focused on wheat, rice ,&#xa;sugarcane" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1125662962" CREATED="1489559935648" MODIFIED="1489559993876" BACKGROUND_COLOR="#a4ffaa" MAX_WIDTH="118.60067776210408 pt" MIN_WIDTH="118.60067776210408 pt">
-<node TEXT="even at the expense of&#xa;other crops such as pulses and oilseed" ID="ID_1185308624" CREATED="1489559971782" MODIFIED="1489559972923"/>
-</node>
-<node ID="ID_1794051534" CREATED="1489559901288" MODIFIED="1489559912753"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      not <i>de facto </i>in all crops
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="" ID="ID_58667115" CREATED="1489560371992" MODIFIED="1489560371992">
-<hook NAME="SummaryNode"/>
-<hook NAME="AlwaysUnfoldedNode"/>
-<node TEXT="CROP targetting BAD" ID="ID_782775990" CREATED="1489560372008" MODIFIED="1489560379235"/>
-</node>
-<node TEXT="Very few aware" ID="ID_227000361" CREATED="1489559896407" MODIFIED="1489560386677" VSHIFT_QUANTITY="4.499999865889553 pt"/>
-</node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1604141984" CREATED="1499528846924" MODIFIED="1499528880554" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      hence<b>, crop and regional biases </b>in crop patterns are not adequately addressed
-    </p>
-  </body>
-</html>
-</richcontent>
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="Pulses" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_922929650" CREATED="1489498817447" MODIFIED="1499529183600">
-<node TEXT="procured by NAFED" FOLDED="true" ID="ID_629169794" CREATED="1489498821229" MODIFIED="1497081102419">
-<node TEXT="National Agricultural Cooperative Marketing Federation of India" ID="ID_1286174000" CREATED="1489498927981" MODIFIED="1489498929503"/>
-<node TEXT="Min Agri" ID="ID_172731174" CREATED="1489498938099" MODIFIED="1489498940673"/>
-</node>
-<node TEXT="Price stabilisation fund" FOLDED="true" ID="ID_7950738" CREATED="1489498950905" MODIFIED="1489498954656">
-<node TEXT="RISPC" FOLDED="true" ID="ID_1640074648" CREATED="1491735107561" MODIFIED="1491735109764">
-<node TEXT="revenue insurance scheme for plantation crops" ID="ID_1935401089" CREATED="1491735113628" MODIFIED="1491735119470"/>
-<node TEXT="tea, coffee, rubber, tobacoo, cardamom" ID="ID_922154554" CREATED="1494839769431" MODIFIED="1497673828453"/>
-<node TEXT="only small farmers &lt;10 ha." ID="ID_132999461" CREATED="1497673856311" MODIFIED="1497673863451"/>
-<node TEXT="protection?" FOLDED="true" ID="ID_1482812799" CREATED="1491735134928" MODIFIED="1491735137632">
-<node TEXT="pest attack" ID="ID_425471168" CREATED="1491735137726" MODIFIED="1491735139429"/>
-<node TEXT="fall in international prices" ID="ID_939387257" CREATED="1491735140226" MODIFIED="1491735144141"/>
-<node TEXT="adverse weather" ID="ID_774894481" CREATED="1491735150938" MODIFIED="1491735165357"/>
-</node>
-</node>
-<node TEXT="Min Consumer" LOCALIZED_STYLE_REF="default" ID="ID_243763314" CREATED="1497635191274" MODIFIED="1525240722325" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="also for onion and potato" ID="ID_175905215" CREATED="1497635210039" MODIFIED="1497635216028"/>
-<node FOLDED="true" ID="ID_1532184577" CREATED="1490801796493" MODIFIED="1525240836438">
-<icon BUILTIN="flag-green"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <i>regulate </i>price of <b>perishable agri-horticultural </b>commodity via ___
-    </p>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_1329445130" CREATED="1525240804549" MODIFIED="1525241009698"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u>procurement</u>,
-    </p>
-    <p>
-      <u>maintenance </u>of buffer stock,
-    </p>
-    <p>
-      <u>regulated release</u>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="for advancing interest free loans to state govt. + central agencies" ID="ID_734639960" CREATED="1490801847323" MODIFIED="1494452805086"/>
-</node>
-<node TEXT="Help achieve SDG, 3, 10 ,13" FOLDED="true" ID="ID_291909637" CREATED="1499597812949" MODIFIED="1499597821308">
-<node TEXT="Env + health + inequality among farmer" ID="ID_798732324" CREATED="1499597822920" MODIFIED="1499597839492"/>
-</node>
-<node TEXT="buffer stock 1.5 m ton -&gt; 20 million ton" ID="ID_743572017" CREATED="1520853117107" MODIFIED="1520853132508">
-<icon BUILTIN="flag-green"/>
-</node>
-<node TEXT="essential for nutritional security" ID="ID_298708202" CREATED="1499597806597" MODIFIED="1499597812755"/>
-<node TEXT="supply less" FOLDED="true" ID="ID_1056193298" CREATED="1499597847418" MODIFIED="1499597850774">
-<node TEXT="El Nino, import down, no HYV, not finest land used" ID="ID_259829824" CREATED="1499597851244" MODIFIED="1499597888556"/>
-</node>
-<node TEXT="Arvind subramanium committee" FOLDED="true" ID="ID_499936985" CREATED="1489498982961" MODIFIED="1532924584624">
-<icon BUILTIN="flag-green"/>
-<font BOLD="true"/>
-<node TEXT="remove export limit (easy export)" LOCALIZED_STYLE_REF="default" ID="ID_551028040" CREATED="1489499008348" MODIFIED="1489499054359" BACKGROUND_COLOR="#ffe8e8"/>
-<node TEXT="cultivation" FOLDED="true" ID="ID_1637808526" CREATED="1499597791077" MODIFIED="1499597792102">
-<node TEXT="MSP determination ; Pulses = +ve externality" ID="ID_255897481" CREATED="1489499024371" MODIFIED="1499597763400"/>
-<node TEXT="finest land use =&gt; DBT for pulse cultivation" ID="ID_1970411005" CREATED="1499597891749" MODIFIED="1499597906601"/>
-</node>
-<node TEXT="procurement" FOLDED="true" ID="ID_1609373506" CREATED="1499597774023" MODIFIED="1499597777043">
-<node TEXT="PPP in procurement, MSP" ID="ID_558245742" CREATED="1499598009737" MODIFIED="1499598025533"/>
-</node>
-<node TEXT="sale" FOLDED="true" ID="ID_161453239" CREATED="1499597777440" MODIFIED="1499597778020">
-<node TEXT="Essential Commodities ACt" FOLDED="true" ID="ID_949766156" CREATED="1489499127304" MODIFIED="1489499132880">
-<node TEXT="to avoid blackmarketing" ID="ID_597587801" CREATED="1499597766669" MODIFIED="1499597772172"/>
-</node>
-<node TEXT="APMC reforms" ID="ID_197004913" CREATED="1499597996947" MODIFIED="1499598000106"/>
-</node>
-</node>
-</node>
-<node TEXT="CCEA decides finally on CACP reco" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_236544351" CREATED="1489498851668" MODIFIED="1489498858450">
-<node TEXT="CACP = commission on agricultural costs and prices" ID="ID_75184959" CREATED="1499528819193" MODIFIED="1499528830862"/>
-</node>
-<node TEXT="MS Swaminathan committee" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1675637569" CREATED="1489498996771" MODIFIED="1489499001793">
-<node TEXT="PA 16" FOLDED="true" ID="ID_1959187618" CREATED="1489499137539" MODIFIED="1489499139861">
-<node TEXT="Pusa Arhar 16 - new seed for pulse" FOLDED="true" ID="ID_154030843" CREATED="1489499143375" MODIFIED="1497080957546">
-<icon BUILTIN="full-1"/>
-<node TEXT="dwarf" ID="ID_1921563449" CREATED="1494904399775" MODIFIED="1494904418843"/>
-<node TEXT="120 day maturity period (against normal 200)" ID="ID_805045703" CREATED="1494904419410" MODIFIED="1494904423960"/>
-<node TEXT="Synchronous maturity" ID="ID_1304259129" CREATED="1494904479720" MODIFIED="1494904484135"/>
-<node TEXT="suitable for both intensive (punjab) as well as rainfed areas of Central India" ID="ID_1772389661" CREATED="1494904431004" MODIFIED="1508689644256">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1772389661" STARTINCLINATION="40;0;" ENDINCLINATION="40;45;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-</node>
-</node>
-</node>
-<node TEXT="ALL MSP up by 50%" ID="ID_177782576" CREATED="1489499166772" MODIFIED="1489499173440"/>
-<node TEXT="Farmer earning = Civil servant earning" ID="ID_373871755" CREATED="1489499177270" MODIFIED="1494904386060"/>
-<node TEXT="organic farming" ID="ID_258850618" CREATED="1489499194701" MODIFIED="1489499198068"/>
-</node>
-<node TEXT="Replace MSP with PDP (Price deficiency payment)" LOCALIZED_STYLE_REF="default" ID="ID_1844312822" CREATED="1519711225998" MODIFIED="1519711245456"/>
-<node TEXT="FCI procures&#xa;Shanta Kumar Commitee Recommedation" LOCALIZED_STYLE_REF="default" ID="ID_282517017" CREATED="1489498866087" MODIFIED="1517631133163"/>
-<node TEXT="doesnot cover horticulture crops" LOCALIZED_STYLE_REF="default" ID="ID_187512771" CREATED="1489498870628" MODIFIED="1489560247063" BACKGROUND_COLOR="#e3f7e4"/>
-</node>
-<node TEXT="FLRP&#xa;food legume research platform" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1112832405" CREATED="1504938835489" MODIFIED="1532924636495">
-<node TEXT="poverty, nutrition, food security, sustainable agriculture" ID="ID_644366440" CREATED="1504938842786" MODIFIED="1504938871563"/>
-</node>
+<node TEXT="Input based" ID="ID_58891636" CREATED="1546849178693" MODIFIED="1546849181090">
 <node TEXT="fertilisers" FOLDED="true" ID="ID_297293393" CREATED="1504938959343" MODIFIED="1504938961262">
 <node TEXT="Ammonia over agri farms" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_377665777" CREATED="1504938935012" MODIFIED="1504939124946">
 <font BOLD="true"/>
@@ -4229,304 +3982,8 @@
 <node TEXT="tropical area , need GM" ID="ID_903836627" CREATED="1504939068589" MODIFIED="1504939113018"/>
 </node>
 </node>
-<node TEXT="Issues with agricultural marketing" FOLDED="true" ID="ID_410819012" CREATED="1489560769061" MODIFIED="1532925615124">
-<icon BUILTIN="flag-green"/>
-<font BOLD="true"/>
-<node TEXT="[issues]&#xa;with APMC" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_694082286" CREATED="1532924718319" MODIFIED="1532924727528">
-<node TEXT="costly price discovery mechanism&#xa;, Fragmented market&#xa;, Assaying and grading of agri produce [slow]&#xa;, warehousing provisions" ID="ID_715276251" CREATED="1532924727790" MODIFIED="1532924780241"/>
-<node TEXT="Why market segmentation in agri? [4.42]" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_648914350" CREATED="1489560774442" MODIFIED="1532925587799" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/iOS%20App/ES%202016/ES%20Vol%201.pdf">
-<node TEXT="bad roads&#xa;, no private sector&#xa;, crop storing/ grading/ processing" ID="ID_972888179" CREATED="1532925549952" MODIFIED="1532925577312"/>
 </node>
-<node ID="ID_223246202" CREATED="1532925318567" MODIFIED="1532925340659"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      2011 Planning COmmision Report
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      only 7% is graded before selling =&gt; <b>poor price recovery</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="[effect]&#xa;of bad agri marketing" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1474483508" CREATED="1489560935992" MODIFIED="1532924794454">
-<node ID="ID_687097415" CREATED="1532924795388" MODIFIED="1532924795388"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      large diff in consumer and producer price
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Price wedge :&#xa;, farm and wholesale prices&#xa;, wholesale and retail prices" LOCALIZED_STYLE_REF="default" ID="ID_104294723" CREATED="1489561173714" MODIFIED="1532924813676"/>
-</node>
-<node TEXT="[way forward]" FOLDED="true" ID="ID_456517706" CREATED="1532924820404" MODIFIED="1532924826995">
-<node TEXT="price discovery better" FOLDED="true" ID="ID_270665961" CREATED="1532925248718" MODIFIED="1532925258149">
-<node TEXT="eNAM" ID="ID_252823697" CREATED="1532925172861" MODIFIED="1532925175024"/>
-<node TEXT="ReMS&#xa;&#xa;Rashtyiya E Market Services" FOLDED="true" ID="ID_739319239" CREATED="1532925406098" MODIFIED="1532925419925">
-<node TEXT="[example] by karnataka govt. on eNAM lines" ID="ID_1046060181" CREATED="1532925420017" MODIFIED="1532925434886"/>
-<node TEXT="one certificate for all state markets&#xa;&#xa;mandis linked" ID="ID_1447435715" CREATED="1532925441314" MODIFIED="1532925469155"/>
-</node>
-</node>
-<node TEXT="poor price recovery" FOLDED="true" ID="ID_276921974" CREATED="1532925350354" MODIFIED="1532925356291">
-<node TEXT="Grading -&#xa;&#xa;[example] FPO Ulavan Producer Company (Erode, TN)&#xa;&#xa;Uses Spectroscopy for turmeric grading" ID="ID_1818997233" CREATED="1532925356572" MODIFIED="1532925403260"/>
-</node>
-<node TEXT="Transportation problems" FOLDED="true" ID="ID_1170637449" CREATED="1532925268768" MODIFIED="1532925272764">
-<node TEXT="contract farming" ID="ID_810053171" CREATED="1532925263991" MODIFIED="1532925267644"/>
-<node TEXT="Supply chain optimisation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1855940595" CREATED="1489498657124" MODIFIED="1489498661998">
-<node TEXT="Agri export zones" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_80622227" CREATED="1489498652843" MODIFIED="1489498655339">
-<node TEXT="backward link strong" ID="ID_923238628" CREATED="1489498704823" MODIFIED="1489498709824"/>
-<node TEXT="value addition to basic agri produce" ID="ID_466889753" CREATED="1489498719641" MODIFIED="1532924834961">
-<font BOLD="true"/>
-</node>
-<node TEXT="trade related RnD" ID="ID_718991936" CREATED="1489498724032" MODIFIED="1532924835522">
-<font BOLD="true"/>
-</node>
-</node>
-</node>
-<node TEXT="agri future markets" FOLDED="true" ID="ID_764587693" CREATED="1504154282509" MODIFIED="1504154285399">
-<node TEXT="why useful?" FOLDED="true" ID="ID_1264883242" CREATED="1504154299458" MODIFIED="1504154302488">
-<node TEXT="1. serve as collateral for farmer loans" ID="ID_1675460385" CREATED="1504154330934" MODIFIED="1513612991842"/>
-<node ID="ID_1946888001" CREATED="1504154357717" MODIFIED="1513613007188"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      2. farmer price risk reduced &lt;= assured selling with '<b><i>future contracts'</i></b>&#160;&#160;based on market demands
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="3. private investment scope" ID="ID_19567486" CREATED="1506488212628" MODIFIED="1513613014049"/>
-<node TEXT="4. physical goods delivery, no speculation [china]" ID="ID_116069758" CREATED="1513613051289" MODIFIED="1513613067417"/>
-</node>
-<node TEXT="to evolve from agri commodity markets, SEBI can help" ID="ID_282584577" CREATED="1504154285661" MODIFIED="1504154298811"/>
-</node>
-</node>
-<node TEXT="gramin agriculture markets" FOLDED="true" ID="ID_234104993" CREATED="1526127763588" MODIFIED="1526127769978">
-<node TEXT="direct selling, e linking to APMC" ID="ID_1733278476" CREATED="1526127775484" MODIFIED="1526127791433"/>
-<node TEXT="2000 cr. funds in budget 2017-18" ID="ID_680559907" CREATED="1526127770422" MODIFIED="1526127800892"/>
-</node>
-<node TEXT="SFAC&#xa;small farmers agri-business consortium" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1862588209" CREATED="1490408958229" MODIFIED="1526200902712">
-<icon BUILTIN="flag-green"/>
-<icon BUILTIN="idea"/>
-<node FOLDED="true" ID="ID_1906672337" CREATED="1525243686401" MODIFIED="1525243746849"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &#8220;Equity Grant and Credit Guarantee Fund
-    </p>
-    <p>
-      Scheme for <b>Farmers Producer Companies (FPC)</b>&#8221;
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="FPC / FPO =&#xa;hybrid of cooperatives + private limited companies" ID="ID_1831996370" CREATED="1525243704659" MODIFIED="1532925502588">
-<icon BUILTIN="idea"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Food Processing" FOLDED="true" ID="ID_1617892606" CREATED="1489714831706" MODIFIED="1504939026742">
-<node TEXT="status, data" FOLDED="true" ID="ID_703018655" CREATED="1532172389028" MODIFIED="1532172393189">
-<node TEXT="contribute 1.6% to GDP" ID="ID_846802306" CREATED="1532172394631" MODIFIED="1532172410657">
-<icon BUILTIN="flag-green"/>
-<font BOLD="true"/>
-</node>
-<node TEXT="included under agri activity&#xa;  =&gt; can get PSL" ID="ID_726589538" CREATED="1489714834982" MODIFIED="1525240361949"/>
-<node TEXT="100% FDI automatic" ID="ID_1009029733" CREATED="1489714864045" MODIFIED="1489729378760">
-<icon BUILTIN="idea"/>
-</node>
-</node>
-<node TEXT="SAMPADA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1403564234" CREATED="1494399702876" MODIFIED="1525502057881">
-<icon BUILTIN="idea"/>
-<node TEXT="Scheme for Agro-Marine Processing and Agro-Processing Clusters" ID="ID_1850216916" CREATED="1494399731079" MODIFIED="1494399743329"/>
-<node ID="ID_1711167302" CREATED="1494399754329" MODIFIED="1525240289843"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      to<br/>modernize processing,<br/><b>decrease agri waste,</b>&#160;<br/>supplement agri
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Central Sector scheme" LOCALIZED_STYLE_REF="default" ID="ID_1653298473" CREATED="1494399707860" MODIFIED="1525502061299" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri" BOLD="true"/>
-</node>
-<node TEXT="administrative control of Min. Food Processing" ID="ID_1009064441" CREATED="1494399715967" MODIFIED="1494399851634"/>
-</node>
-<node TEXT="EXamples of support" FOLDED="true" ID="ID_1481127128" CREATED="1521268173135" MODIFIED="1532172507233">
-<node TEXT="Indian costal zone" FOLDED="true" ID="ID_1103509459" CREATED="1521268178522" MODIFIED="1521268181918">
-<node TEXT="marine exports = 20% of agricultural export" ID="ID_644996186" CREATED="1521268184067" MODIFIED="1521268216434"/>
-</node>
-<node TEXT="andhra" FOLDED="true" ID="ID_886938061" CREATED="1521268182057" MODIFIED="1521268183275">
-<node TEXT="food processing hub of india , govt. support" ID="ID_1391430332" CREATED="1521268193548" MODIFIED="1521268208166"/>
-</node>
-</node>
-<node TEXT="Food safety labs + FPO + remove from Essential Commodities Act (export)" ID="ID_1292100664" CREATED="1532172554431" MODIFIED="1532172604907"/>
-</node>
-<node TEXT="Double farmer Income&#xa;DFI" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1009013350" CREATED="1488870189409" MODIFIED="1526128109032" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="flag-green"/>
-<font NAME="Calibri"/>
-<node TEXT="Innovative practices" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1300205982" CREATED="1488279583214" MODIFIED="1488545169618">
-<node TEXT="Agar agar in soil =&gt; moisture retention up" LOCALIZED_STYLE_REF="default" ID="ID_876463676" CREATED="1488279587594" MODIFIED="1488545169618"/>
-<node TEXT="NMAET" FOLDED="true" ID="ID_898987894" CREATED="1488871705507" MODIFIED="1488871707219">
-<node TEXT="2124 - 65" ID="ID_1740258808" CREATED="1488871708425" MODIFIED="1488871730995" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
-</node>
-</node>
-<node TEXT="Ashok Dalwai Committee" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_90589440" CREATED="1525239802733" MODIFIED="1525239808092">
-<node TEXT=" Structural&#xa;Reforms and Governance Framework" ID="ID_1393585987" CREATED="1525239914050" MODIFIED="1525239915688">
-<font BOLD="true"/>
-</node>
-<node TEXT="define farmer = cultivator, lesse, sharecropper" ID="ID_1415970029" CREATED="1525239845608" MODIFIED="1525239862075"/>
-<node TEXT="track climate change" ID="ID_1927615272" CREATED="1525239894428" MODIFIED="1525239897157"/>
-<node TEXT="Agricultural Produce and Livestock&#xa;Marketing Act 2017" ID="ID_75839538" CREATED="1525239889002" MODIFIED="1526127907690">
-<icon BUILTIN="attach"/>
-</node>
-</node>
-<node TEXT="Seven Point strategy by Min Agri" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1079476957" CREATED="1525239988207" MODIFIED="1526127889604" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri" ITALIC="true"/>
-<node TEXT="effective use of input cost" FOLDED="true" ID="ID_850632551" CREATED="1525240081152" MODIFIED="1525240091306">
-<node TEXT="neem coated urea, fertiliser usage" ID="ID_1413343240" CREATED="1525240195228" MODIFIED="1525240202059"/>
-</node>
-<node TEXT="Productivity up" FOLDED="true" ID="ID_116328265" CREATED="1488870266898" MODIFIED="1496289663403">
-<icon BUILTIN="full-1"/>
-<node TEXT="PMKSY" ID="ID_412219399" CREATED="1525240059410" MODIFIED="1525240068196">
-<font ITALIC="true"/>
-</node>
-<node TEXT="Biotech Kisan" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_221020350" CREATED="1488274626727" MODIFIED="1488545169598">
-<node TEXT="Scientists working with farmers" LOCALIZED_STYLE_REF="default" ID="ID_1794615174" CREATED="1488870390340" MODIFIED="1488870402665"/>
-<node TEXT="Min Sci Tech" LOCALIZED_STYLE_REF="default" ID="ID_392501495" CREATED="1488274663618" MODIFIED="1496292526308" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="Unnat Bharat" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1666407820" CREATED="1490361396462" MODIFIED="1490361400349">
-<node TEXT="( IISER + IIT + NIT ) with villages" ID="ID_438473139" CREATED="1490361400439" MODIFIED="1494997422273"/>
-<node TEXT="two fold benefit" FOLDED="true" ID="ID_1520235453" CREATED="1494997433862" MODIFIED="1494997436996">
-<node TEXT="build institutional capacity" ID="ID_49057435" CREATED="1494997437466" MODIFIED="1494997446523"/>
-<node TEXT="professional resource support to rural india" ID="ID_127189912" CREATED="1494997446766" MODIFIED="1494997469771"/>
-</node>
-</node>
-<node TEXT="Unnat Krishi Shiksha" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1915856997" CREATED="1490409251010" MODIFIED="1490409257562">
-<node TEXT="Agri education with Krishi Vigran Kendra (KVK)" ID="ID_791161668" CREATED="1490409257796" MODIFIED="1490409272220"/>
-</node>
-</node>
-<node TEXT="value addition" FOLDED="true" ID="ID_582845725" CREATED="1525240091680" MODIFIED="1525240100750">
-<node TEXT="SAMAPADA" ID="ID_682856252" CREATED="1525240101497" MODIFIED="1525240104471"/>
-</node>
-<node TEXT="no post harvest loss" FOLDED="true" ID="ID_1726287473" CREATED="1525240154593" MODIFIED="1525240158197">
-<node TEXT="warehousing, cold storage" ID="ID_510876253" CREATED="1525240158479" MODIFIED="1525240163047"/>
-</node>
-<node TEXT="Risk Insurance" FOLDED="true" ID="ID_1783351640" CREATED="1525240027478" MODIFIED="1525240033197">
-<node TEXT="PMFBY" ID="ID_930258087" CREATED="1525240033599" MODIFIED="1525240036297"/>
-</node>
-<node TEXT="Agri Market reforms" ID="ID_252337118" CREATED="1525240106905" MODIFIED="1525240110173"/>
-<node TEXT="Allied activities" FOLDED="true" ID="ID_1140543585" CREATED="1525240010557" MODIFIED="1525240017228">
-<node TEXT="Livestock, Fish, seaweed" FOLDED="true" ID="ID_1569737820" CREATED="1488870204945" MODIFIED="1488870214370">
-<node TEXT="cattle Genomics" LOCALIZED_STYLE_REF="default" ID="ID_301697550" CREATED="1488274634834" MODIFIED="1488545169598"/>
-<node TEXT="NFDB&#xa;national fisheries development board" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_467480" CREATED="1490158728518" MODIFIED="1525201928872">
-<node TEXT="under MoAgri" ID="ID_1293642173" CREATED="1490158730049" MODIFIED="1490158738507"/>
-</node>
-<node TEXT="National Livestock Mission" FOLDED="true" ID="ID_1453572501" CREATED="1525201933637" MODIFIED="1525201937230">
-<node TEXT="pigger in NE" ID="ID_826424614" CREATED="1525201939659" MODIFIED="1525201941636"/>
-<node TEXT="quality feed fodder" ID="ID_1123970561" CREATED="1525201942619" MODIFIED="1525201947548"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Horticulture" FOLDED="true" ID="ID_1094590636" CREATED="1488870193840" MODIFIED="1488870204263">
-<node TEXT="30% of agricultural GDP" ID="ID_1550650878" CREATED="1523248848065" MODIFIED="1523248853628"/>
-<node TEXT="Nat. Mission on Horticulture" FOLDED="true" ID="ID_1541831840" CREATED="1488870215855" MODIFIED="1488870222080">
-<node TEXT="2124 - 57" ID="ID_1517090059" CREATED="1488870226687" MODIFIED="1488870250284" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
-</node>
-<node FOLDED="true" ID="ID_1831150815" CREATED="1523248842048" MODIFIED="1525240644055">
-<icon BUILTIN="idea"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      CHAMAN
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span class="fontstyle0">Coordinated Horticulture Assessment and<br/>Management using geo-informatics </span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_1798797270" CREATED="1523248885625" MODIFIED="1523248972059"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      GIS mapping of horticulture for
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      cropping pattern use
-    </p>
-    <p>
-      post harvest loss
-    </p>
-    <p>
-      DFI
-    </p>
-    <p>
-      <b><i>generate action plan</i></b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="useful for NE jhum lands" ID="ID_1736258794" CREATED="1523248859615" MODIFIED="1523248882701"/>
-<node TEXT="by  New Delhi based&#xa;Mahalanobis National Crop Forecast Centre&#xa;(MNCFC)" ID="ID_1088931119" CREATED="1525240696874" MODIFIED="1525240705408"/>
-</node>
-</node>
-</node>
+<node TEXT="During Agriculture" ID="ID_364867085" CREATED="1546849181363" MODIFIED="1546849184526">
 <node TEXT="irrigation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1336452701" CREATED="1488268905913" MODIFIED="1488545169579">
 <node TEXT="MS Swaminathan" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1025185847" CREATED="1489479697046" MODIFIED="1489479702485">
 <node TEXT="evergreen revolution" FOLDED="true" ID="ID_508832284" CREATED="1489479834120" MODIFIED="1489479839687">
@@ -4702,7 +4159,351 @@
 </node>
 </node>
 </node>
-<node TEXT="PMFBY" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_470315203" CREATED="1488859713582" MODIFIED="1488859715362">
+</node>
+<node TEXT=" post production:&#xa;&#xa;Agri produce and marketing" FOLDED="true" ID="ID_515376544" CREATED="1546849184696" MODIFIED="1546849211439">
+<node TEXT="MSP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_682774013" CREATED="1489498824103" MODIFIED="1526128111110" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+<node TEXT="Problems with MSP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1091932575" CREATED="1489559887850" MODIFIED="1489559892103">
+<node TEXT="Determination of MSP" FOLDED="true" ID="ID_581541410" CREATED="1489560285418" MODIFIED="1489560289067">
+<node TEXT="ONLY private returns&#xa;no social returns" FOLDED="true" ID="ID_1770057797" CREATED="1489560078016" MODIFIED="1489560319093">
+<node TEXT="e.g. pulses = social returns (+)" FOLDED="true" ID="ID_962219859" CREATED="1489560086600" MODIFIED="1489560101045">
+<node TEXT="N fix" ID="ID_163891505" CREATED="1489560101451" MODIFIED="1489560108540"/>
+<node TEXT="deep root system =&gt;keep soil aerated" LOCALIZED_STYLE_REF="default" ID="ID_266877698" CREATED="1489560131077" MODIFIED="1489560157809" BACKGROUND_COLOR="#e3f7e4"/>
+<node TEXT="less fertiliser" LOCALIZED_STYLE_REF="default" ID="ID_90314262" CREATED="1489560121327" MODIFIED="1489560158817" BACKGROUND_COLOR="#e3f7e4"/>
+<node TEXT="less water, more nutrients" ID="ID_200675854" CREATED="1489560108947" MODIFIED="1489560117983"/>
+</node>
+<node TEXT="Wheat sugarcane paddy = social returns (-)" FOLDED="true" ID="ID_351178848" CREATED="1489560162794" MODIFIED="1489560319093" HGAP_QUANTITY="13.999999999999998 pt" VSHIFT_QUANTITY="8.249999754130847 pt">
+<node TEXT="fertiliser =&gt; soil depletion" ID="ID_1796812165" CREATED="1489560178327" MODIFIED="1489560213921"/>
+<node TEXT="burning crop =&gt; health" ID="ID_1761925798" CREATED="1489560215865" MODIFIED="1489560220798"/>
+<node TEXT="water =&gt; falling water table" ID="ID_611884650" CREATED="1489560224147" MODIFIED="1489560230386"/>
+</node>
+</node>
+</node>
+<node TEXT="Disbursing MSP" FOLDED="true" ID="ID_314984222" CREATED="1489560289342" MODIFIED="1489560386693">
+<node TEXT="" ID="ID_1389573533" CREATED="1489560371992" MODIFIED="1489560372008">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="Public procurement at MSP has&#xa;focused on wheat, rice ,&#xa;sugarcane" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1125662962" CREATED="1489559935648" MODIFIED="1489559993876" BACKGROUND_COLOR="#a4ffaa" MAX_WIDTH="118.60067776210408 pt" MIN_WIDTH="118.60067776210408 pt">
+<node TEXT="even at the expense of&#xa;other crops such as pulses and oilseed" ID="ID_1185308624" CREATED="1489559971782" MODIFIED="1489559972923"/>
+</node>
+<node ID="ID_1794051534" CREATED="1489559901288" MODIFIED="1489559912753"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      not <i>de facto </i>in all crops
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="" ID="ID_58667115" CREATED="1489560371992" MODIFIED="1489560371992">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="CROP targetting BAD" ID="ID_782775990" CREATED="1489560372008" MODIFIED="1489560379235"/>
+</node>
+<node TEXT="Very few aware" ID="ID_227000361" CREATED="1489559896407" MODIFIED="1489560386677" VSHIFT_QUANTITY="4.499999865889553 pt"/>
+</node>
+<node LOCALIZED_STYLE_REF="default" ID="ID_1604141984" CREATED="1499528846924" MODIFIED="1499528880554" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      hence<b>, crop and regional biases </b>in crop patterns are not adequately addressed
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="Pulses" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_922929650" CREATED="1489498817447" MODIFIED="1499529183600">
+<node TEXT="procured by NAFED" FOLDED="true" ID="ID_629169794" CREATED="1489498821229" MODIFIED="1497081102419">
+<node TEXT="National Agricultural Cooperative Marketing Federation of India" ID="ID_1286174000" CREATED="1489498927981" MODIFIED="1489498929503"/>
+<node TEXT="Min Agri" ID="ID_172731174" CREATED="1489498938099" MODIFIED="1489498940673"/>
+</node>
+<node TEXT="Price stabilisation fund" FOLDED="true" ID="ID_7950738" CREATED="1489498950905" MODIFIED="1489498954656">
+<node TEXT="RISPC" FOLDED="true" ID="ID_1640074648" CREATED="1491735107561" MODIFIED="1491735109764">
+<node TEXT="revenue insurance scheme for plantation crops" ID="ID_1935401089" CREATED="1491735113628" MODIFIED="1491735119470"/>
+<node TEXT="tea, coffee, rubber, tobacoo, cardamom" ID="ID_922154554" CREATED="1494839769431" MODIFIED="1497673828453"/>
+<node TEXT="only small farmers &lt;10 ha." ID="ID_132999461" CREATED="1497673856311" MODIFIED="1497673863451"/>
+<node TEXT="protection?" FOLDED="true" ID="ID_1482812799" CREATED="1491735134928" MODIFIED="1491735137632">
+<node TEXT="pest attack" ID="ID_425471168" CREATED="1491735137726" MODIFIED="1491735139429"/>
+<node TEXT="fall in international prices" ID="ID_939387257" CREATED="1491735140226" MODIFIED="1491735144141"/>
+<node TEXT="adverse weather" ID="ID_774894481" CREATED="1491735150938" MODIFIED="1491735165357"/>
+</node>
+</node>
+<node TEXT="Min Consumer" LOCALIZED_STYLE_REF="default" ID="ID_243763314" CREATED="1497635191274" MODIFIED="1525240722325" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="also for onion and potato" ID="ID_175905215" CREATED="1497635210039" MODIFIED="1497635216028"/>
+<node FOLDED="true" ID="ID_1532184577" CREATED="1490801796493" MODIFIED="1525240836438">
+<icon BUILTIN="flag-green"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i>regulate </i>price of <b>perishable agri-horticultural </b>commodity via ___
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1329445130" CREATED="1525240804549" MODIFIED="1525241009698"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u>procurement</u>,
+    </p>
+    <p>
+      <u>maintenance </u>of buffer stock,
+    </p>
+    <p>
+      <u>regulated release</u>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="for advancing interest free loans to state govt. + central agencies" ID="ID_734639960" CREATED="1490801847323" MODIFIED="1494452805086"/>
+</node>
+<node TEXT="Help achieve SDG, 3, 10 ,13" FOLDED="true" ID="ID_291909637" CREATED="1499597812949" MODIFIED="1499597821308">
+<node TEXT="Env + health + inequality among farmer" ID="ID_798732324" CREATED="1499597822920" MODIFIED="1499597839492"/>
+</node>
+<node TEXT="buffer stock 1.5 m ton -&gt; 20 million ton" ID="ID_743572017" CREATED="1520853117107" MODIFIED="1520853132508">
+<icon BUILTIN="flag-green"/>
+</node>
+<node TEXT="essential for nutritional security" ID="ID_298708202" CREATED="1499597806597" MODIFIED="1499597812755"/>
+<node TEXT="supply less" FOLDED="true" ID="ID_1056193298" CREATED="1499597847418" MODIFIED="1499597850774">
+<node TEXT="El Nino, import down, no HYV, not finest land used" ID="ID_259829824" CREATED="1499597851244" MODIFIED="1499597888556"/>
+</node>
+<node TEXT="Arvind subramanium committee" FOLDED="true" ID="ID_499936985" CREATED="1489498982961" MODIFIED="1532924584624">
+<icon BUILTIN="flag-green"/>
+<font BOLD="true"/>
+<node TEXT="remove export limit (easy export)" LOCALIZED_STYLE_REF="default" ID="ID_551028040" CREATED="1489499008348" MODIFIED="1489499054359" BACKGROUND_COLOR="#ffe8e8"/>
+<node TEXT="cultivation" FOLDED="true" ID="ID_1637808526" CREATED="1499597791077" MODIFIED="1499597792102">
+<node TEXT="MSP determination ; Pulses = +ve externality" ID="ID_255897481" CREATED="1489499024371" MODIFIED="1499597763400"/>
+<node TEXT="finest land use =&gt; DBT for pulse cultivation" ID="ID_1970411005" CREATED="1499597891749" MODIFIED="1499597906601"/>
+</node>
+<node TEXT="procurement" FOLDED="true" ID="ID_1609373506" CREATED="1499597774023" MODIFIED="1499597777043">
+<node TEXT="PPP in procurement, MSP" ID="ID_558245742" CREATED="1499598009737" MODIFIED="1499598025533"/>
+</node>
+<node TEXT="sale" FOLDED="true" ID="ID_161453239" CREATED="1499597777440" MODIFIED="1499597778020">
+<node TEXT="Essential Commodities ACt" FOLDED="true" ID="ID_949766156" CREATED="1489499127304" MODIFIED="1489499132880">
+<node TEXT="to avoid blackmarketing" ID="ID_597587801" CREATED="1499597766669" MODIFIED="1499597772172"/>
+</node>
+<node TEXT="APMC reforms" ID="ID_197004913" CREATED="1499597996947" MODIFIED="1499598000106"/>
+</node>
+</node>
+</node>
+<node TEXT="CCEA decides finally on CACP reco" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_236544351" CREATED="1489498851668" MODIFIED="1489498858450">
+<node TEXT="CACP = commission on agricultural costs and prices" ID="ID_75184959" CREATED="1499528819193" MODIFIED="1499528830862"/>
+</node>
+<node TEXT="MS Swaminathan committee" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1675637569" CREATED="1489498996771" MODIFIED="1489499001793">
+<node TEXT="PA 16" FOLDED="true" ID="ID_1959187618" CREATED="1489499137539" MODIFIED="1489499139861">
+<node TEXT="Pusa Arhar 16 - new seed for pulse" FOLDED="true" ID="ID_154030843" CREATED="1489499143375" MODIFIED="1497080957546">
+<icon BUILTIN="full-1"/>
+<node TEXT="dwarf" ID="ID_1921563449" CREATED="1494904399775" MODIFIED="1494904418843"/>
+<node TEXT="120 day maturity period (against normal 200)" ID="ID_805045703" CREATED="1494904419410" MODIFIED="1494904423960"/>
+<node TEXT="Synchronous maturity" ID="ID_1304259129" CREATED="1494904479720" MODIFIED="1494904484135"/>
+<node TEXT="suitable for both intensive (punjab) as well as rainfed areas of Central India" ID="ID_1772389661" CREATED="1494904431004" MODIFIED="1508689644256">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1772389661" STARTINCLINATION="40;0;" ENDINCLINATION="40;45;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+</node>
+<node TEXT="ALL MSP up by 50%" ID="ID_177782576" CREATED="1489499166772" MODIFIED="1489499173440"/>
+<node TEXT="Farmer earning = Civil servant earning" ID="ID_373871755" CREATED="1489499177270" MODIFIED="1494904386060"/>
+<node TEXT="organic farming" ID="ID_258850618" CREATED="1489499194701" MODIFIED="1489499198068"/>
+</node>
+<node TEXT="Replace MSP with PDP (Price deficiency payment)" LOCALIZED_STYLE_REF="default" ID="ID_1844312822" CREATED="1519711225998" MODIFIED="1519711245456"/>
+<node TEXT="FCI procures&#xa;Shanta Kumar Commitee Recommedation" LOCALIZED_STYLE_REF="default" ID="ID_282517017" CREATED="1489498866087" MODIFIED="1517631133163"/>
+<node TEXT="doesnot cover horticulture crops" LOCALIZED_STYLE_REF="default" ID="ID_187512771" CREATED="1489498870628" MODIFIED="1489560247063" BACKGROUND_COLOR="#e3f7e4"/>
+</node>
+<node TEXT="Issues with agricultural marketing" FOLDED="true" ID="ID_410819012" CREATED="1489560769061" MODIFIED="1532925615124">
+<icon BUILTIN="flag-green"/>
+<font BOLD="true"/>
+<node TEXT="[issues]&#xa;with APMC" LOCALIZED_STYLE_REF="default" ID="ID_694082286" CREATED="1532924718319" MODIFIED="1532924727528">
+<node TEXT="costly price discovery mechanism&#xa;, Fragmented market&#xa;, Assaying and grading of agri produce [slow]&#xa;, warehousing provisions" ID="ID_715276251" CREATED="1532924727790" MODIFIED="1532924780241"/>
+<node TEXT="Why market segmentation in agri? [4.42]" LOCALIZED_STYLE_REF="default" ID="ID_648914350" CREATED="1489560774442" MODIFIED="1532925587799" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/iOS%20App/ES%202016/ES%20Vol%201.pdf">
+<node TEXT="bad roads&#xa;, no private sector&#xa;, crop storing/ grading/ processing" ID="ID_972888179" CREATED="1532925549952" MODIFIED="1532925577312"/>
+</node>
+<node ID="ID_223246202" CREATED="1532925318567" MODIFIED="1532925340659"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2011 Planning COmmision Report
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      only 7% is graded before selling =&gt; <b>poor price recovery</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="[effect]&#xa;of bad agri marketing" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1474483508" CREATED="1489560935992" MODIFIED="1532924794454">
+<node ID="ID_687097415" CREATED="1532924795388" MODIFIED="1532924795388"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      large diff in consumer and producer price
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Price wedge :&#xa;, farm and wholesale prices&#xa;, wholesale and retail prices" LOCALIZED_STYLE_REF="default" ID="ID_104294723" CREATED="1489561173714" MODIFIED="1532924813676"/>
+</node>
+<node TEXT="[way forward]" ID="ID_456517706" CREATED="1532924820404" MODIFIED="1532924826995">
+<node TEXT="price discovery better" ID="ID_270665961" CREATED="1532925248718" MODIFIED="1532925258149">
+<node TEXT="eNAM" ID="ID_252823697" CREATED="1532925172861" MODIFIED="1532925175024"/>
+<node TEXT="ReMS&#xa;&#xa;Rashtyiya E Market Services" ID="ID_739319239" CREATED="1532925406098" MODIFIED="1532925419925">
+<node TEXT="[example] by karnataka govt. on eNAM lines" ID="ID_1046060181" CREATED="1532925420017" MODIFIED="1532925434886"/>
+<node TEXT="one certificate for all state markets&#xa;&#xa;mandis linked" ID="ID_1447435715" CREATED="1532925441314" MODIFIED="1532925469155"/>
+</node>
+</node>
+<node TEXT="poor price recovery" ID="ID_276921974" CREATED="1532925350354" MODIFIED="1532925356291">
+<node TEXT="Grading -&#xa;&#xa;[example] FPO Ulavan Producer Company (Erode, TN)&#xa;&#xa;Uses Spectroscopy for turmeric grading" ID="ID_1818997233" CREATED="1532925356572" MODIFIED="1532925403260"/>
+</node>
+<node TEXT="Transportation problems" FOLDED="true" ID="ID_1170637449" CREATED="1532925268768" MODIFIED="1532925272764">
+<node TEXT="contract farming" FOLDED="true" ID="ID_810053171" CREATED="1532925263991" MODIFIED="1532925267644">
+<node TEXT="model land leasing law" ID="ID_534692376" CREATED="1546849355397" MODIFIED="1546849770102" MAX_WIDTH="121.65957212124334 pt" MIN_WIDTH="121.65957212124334 pt"/>
+<node TEXT="Contract farming law" ID="ID_1550225251" CREATED="1546849365271" MODIFIED="1546849365700"/>
+</node>
+<node TEXT="Supply chain optimisation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1855940595" CREATED="1489498657124" MODIFIED="1489498661998">
+<node TEXT="Agri export zones" LOCALIZED_STYLE_REF="default" ID="ID_80622227" CREATED="1489498652843" MODIFIED="1489498655339">
+<node TEXT="backward link strong" ID="ID_923238628" CREATED="1489498704823" MODIFIED="1489498709824"/>
+<node TEXT="value addition to basic agri produce" ID="ID_466889753" CREATED="1489498719641" MODIFIED="1532924834961">
+<font BOLD="true"/>
+</node>
+<node TEXT="trade related RnD" ID="ID_718991936" CREATED="1489498724032" MODIFIED="1532924835522">
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+<node TEXT="agri future markets" ID="ID_764587693" CREATED="1504154282509" MODIFIED="1504154285399">
+<node TEXT="why useful?" ID="ID_1264883242" CREATED="1504154299458" MODIFIED="1504154302488">
+<node TEXT="1. serve as collateral for farmer loans" ID="ID_1675460385" CREATED="1504154330934" MODIFIED="1513612991842"/>
+<node ID="ID_1946888001" CREATED="1504154357717" MODIFIED="1513613007188"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2. farmer price risk reduced &lt;= assured selling with '<b><i>future contracts'</i></b>&#160;&#160;based on market demands
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="3. private investment scope" ID="ID_19567486" CREATED="1506488212628" MODIFIED="1513613014049"/>
+<node TEXT="4. physical goods delivery, no speculation [china]" ID="ID_116069758" CREATED="1513613051289" MODIFIED="1513613067417"/>
+</node>
+<node TEXT="to evolve from agri commodity markets, SEBI can help" ID="ID_282584577" CREATED="1504154285661" MODIFIED="1504154298811"/>
+</node>
+</node>
+<node TEXT="gramin agriculture markets" ID="ID_234104993" CREATED="1526127763588" MODIFIED="1526127769978">
+<node TEXT="direct selling, e linking to APMC" ID="ID_1733278476" CREATED="1526127775484" MODIFIED="1526127791433"/>
+<node TEXT="2000 cr. funds in budget 2017-18" ID="ID_680559907" CREATED="1526127770422" MODIFIED="1526127800892"/>
+</node>
+<node TEXT="SFAC&#xa;small farmers agri-business consortium" LOCALIZED_STYLE_REF="default" ID="ID_1862588209" CREATED="1490408958229" MODIFIED="1526200902712">
+<icon BUILTIN="flag-green"/>
+<icon BUILTIN="idea"/>
+<node ID="ID_1906672337" CREATED="1525243686401" MODIFIED="1525243746849"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#8220;Equity Grant and Credit Guarantee Fund
+    </p>
+    <p>
+      Scheme for <b>Farmers Producer Companies (FPC)</b>&#8221;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="FPC / FPO =&#xa;hybrid of cooperatives + private limited companies" ID="ID_1831996370" CREATED="1525243704659" MODIFIED="1532925502588">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Food Processing" ID="ID_1617892606" CREATED="1489714831706" MODIFIED="1504939026742">
+<node TEXT="status, data" FOLDED="true" ID="ID_703018655" CREATED="1532172389028" MODIFIED="1532172393189">
+<node TEXT="contribute 1.6% to GDP" ID="ID_846802306" CREATED="1532172394631" MODIFIED="1532172410657">
+<icon BUILTIN="flag-green"/>
+<font BOLD="true"/>
+</node>
+<node TEXT="included under agri activity&#xa;  =&gt; can get PSL" ID="ID_726589538" CREATED="1489714834982" MODIFIED="1525240361949"/>
+<node TEXT="100% FDI automatic" ID="ID_1009029733" CREATED="1489714864045" MODIFIED="1489729378760">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node TEXT="SAMPADA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1403564234" CREATED="1494399702876" MODIFIED="1525502057881">
+<icon BUILTIN="idea"/>
+<node TEXT="Scheme for Agro-Marine Processing and Agro-Processing Clusters" ID="ID_1850216916" CREATED="1494399731079" MODIFIED="1494399743329"/>
+<node ID="ID_1711167302" CREATED="1494399754329" MODIFIED="1525240289843"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      to<br/>modernize processing,<br/><b>decrease agri waste,</b>&#160;<br/>supplement agri
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Central Sector scheme" LOCALIZED_STYLE_REF="default" ID="ID_1653298473" CREATED="1494399707860" MODIFIED="1525502061299" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri" BOLD="true"/>
+</node>
+<node TEXT="administrative control of Min. Food Processing" ID="ID_1009064441" CREATED="1494399715967" MODIFIED="1494399851634"/>
+</node>
+<node TEXT="EXamples of support" ID="ID_1481127128" CREATED="1521268173135" MODIFIED="1532172507233">
+<node TEXT="Indian costal zone" ID="ID_1103509459" CREATED="1521268178522" MODIFIED="1521268181918">
+<node TEXT="marine exports = 20% of agricultural export" ID="ID_644996186" CREATED="1521268184067" MODIFIED="1521268216434"/>
+</node>
+<node TEXT="andhra" ID="ID_886938061" CREATED="1521268182057" MODIFIED="1521268183275">
+<node TEXT="food processing hub of india , govt. support" ID="ID_1391430332" CREATED="1521268193548" MODIFIED="1521268208166"/>
+</node>
+</node>
+<node TEXT="Food safety labs + FPO + remove from Essential Commodities Act (export)" ID="ID_1292100664" CREATED="1532172554431" MODIFIED="1532172604907"/>
+</node>
+<node TEXT="PMFBY" LOCALIZED_STYLE_REF="default" ID="ID_470315203" CREATED="1488859713582" MODIFIED="1488859715362">
 <node TEXT="2124 - 1" ID="ID_576917179" CREATED="1488859715678" MODIFIED="1488859744314" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
 <node TEXT="pre, during, post losses covered&#xa;&#xa;ensures flow of credit to agri" ID="ID_1803135650" CREATED="1503834266305" MODIFIED="1523451787173"/>
 <node TEXT="rabi + Kharif + horticulture" ID="ID_1313525222" CREATED="1503834260253" MODIFIED="1503834265755"/>
@@ -4713,6 +4514,7 @@
 <node TEXT="loss assessment" ID="ID_1422632055" CREATED="1503834306284" MODIFIED="1503834308422"/>
 <node TEXT="awareness among farmeres" FOLDED="true" ID="ID_1464771620" CREATED="1503834314214" MODIFIED="1503834319902">
 <node TEXT="mouth to mouth publicitiy" ID="ID_1525443020" CREATED="1503834322612" MODIFIED="1503834329246"/>
+</node>
 </node>
 </node>
 </node>
@@ -4734,6 +4536,257 @@
 </html>
 </richcontent>
 </node>
+</node>
+<node TEXT="Double farmer Income&#xa;DFI" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1009013350" CREATED="1488870189409" MODIFIED="1526128109032" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+<node TEXT="Innovative practices" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1300205982" CREATED="1488279583214" MODIFIED="1488545169618">
+<node TEXT="Agar agar in soil =&gt; moisture retention up" LOCALIZED_STYLE_REF="default" ID="ID_876463676" CREATED="1488279587594" MODIFIED="1488545169618"/>
+<node TEXT="NMAET" FOLDED="true" ID="ID_898987894" CREATED="1488871705507" MODIFIED="1488871707219">
+<node TEXT="2124 - 65" ID="ID_1740258808" CREATED="1488871708425" MODIFIED="1488871730995" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
+</node>
+</node>
+<node TEXT="Ashok Dalwai Committee" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_90589440" CREATED="1525239802733" MODIFIED="1525239808092">
+<node TEXT=" Structural&#xa;Reforms and Governance Framework" ID="ID_1393585987" CREATED="1525239914050" MODIFIED="1525239915688">
+<font BOLD="true"/>
+</node>
+<node TEXT="define farmer = cultivator, lesse, sharecropper" ID="ID_1415970029" CREATED="1525239845608" MODIFIED="1525239862075"/>
+<node TEXT="track climate change" ID="ID_1927615272" CREATED="1525239894428" MODIFIED="1525239897157"/>
+<node TEXT="Agricultural Produce and Livestock&#xa;Marketing Act 2017" ID="ID_75839538" CREATED="1525239889002" MODIFIED="1526127907690">
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node TEXT="Seven Point strategy by Min Agri" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1079476957" CREATED="1525239988207" MODIFIED="1526127889604" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri" ITALIC="true"/>
+<node TEXT="effective use of input cost" FOLDED="true" ID="ID_850632551" CREATED="1525240081152" MODIFIED="1525240091306">
+<node TEXT="neem coated urea, fertiliser usage" ID="ID_1413343240" CREATED="1525240195228" MODIFIED="1525240202059"/>
+</node>
+<node TEXT="Productivity up" FOLDED="true" ID="ID_116328265" CREATED="1488870266898" MODIFIED="1496289663403">
+<icon BUILTIN="full-1"/>
+<node TEXT="PMKSY" ID="ID_412219399" CREATED="1525240059410" MODIFIED="1525240068196">
+<font ITALIC="true"/>
+</node>
+<node TEXT="Biotech Kisan" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_221020350" CREATED="1488274626727" MODIFIED="1488545169598">
+<node TEXT="Scientists working with farmers" LOCALIZED_STYLE_REF="default" ID="ID_1794615174" CREATED="1488870390340" MODIFIED="1488870402665"/>
+<node TEXT="Min Sci Tech" LOCALIZED_STYLE_REF="default" ID="ID_392501495" CREATED="1488274663618" MODIFIED="1496292526308" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="Unnat Bharat" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1666407820" CREATED="1490361396462" MODIFIED="1490361400349">
+<node TEXT="( IISER + IIT + NIT ) with villages" ID="ID_438473139" CREATED="1490361400439" MODIFIED="1494997422273"/>
+<node TEXT="two fold benefit" FOLDED="true" ID="ID_1520235453" CREATED="1494997433862" MODIFIED="1494997436996">
+<node TEXT="build institutional capacity" ID="ID_49057435" CREATED="1494997437466" MODIFIED="1494997446523"/>
+<node TEXT="professional resource support to rural india" ID="ID_127189912" CREATED="1494997446766" MODIFIED="1494997469771"/>
+</node>
+</node>
+<node TEXT="Unnat Krishi Shiksha" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1915856997" CREATED="1490409251010" MODIFIED="1490409257562">
+<node TEXT="Agri education with Krishi Vigran Kendra (KVK)" ID="ID_791161668" CREATED="1490409257796" MODIFIED="1490409272220"/>
+</node>
+</node>
+<node TEXT="value addition" FOLDED="true" ID="ID_582845725" CREATED="1525240091680" MODIFIED="1525240100750">
+<node TEXT="SAMAPADA" ID="ID_682856252" CREATED="1525240101497" MODIFIED="1525240104471"/>
+</node>
+<node TEXT="no post harvest loss" FOLDED="true" ID="ID_1726287473" CREATED="1525240154593" MODIFIED="1525240158197">
+<node TEXT="warehousing, cold storage" ID="ID_510876253" CREATED="1525240158479" MODIFIED="1525240163047"/>
+</node>
+<node TEXT="Risk Insurance" FOLDED="true" ID="ID_1783351640" CREATED="1525240027478" MODIFIED="1525240033197">
+<node TEXT="PMFBY" ID="ID_930258087" CREATED="1525240033599" MODIFIED="1525240036297"/>
+</node>
+<node TEXT="Agri Market reforms" ID="ID_252337118" CREATED="1525240106905" MODIFIED="1525240110173"/>
+<node TEXT="Allied activities" FOLDED="true" ID="ID_1140543585" CREATED="1525240010557" MODIFIED="1525240017228">
+<node TEXT="Livestock, Fish, seaweed" FOLDED="true" ID="ID_1569737820" CREATED="1488870204945" MODIFIED="1488870214370">
+<node TEXT="cattle Genomics" LOCALIZED_STYLE_REF="default" ID="ID_301697550" CREATED="1488274634834" MODIFIED="1488545169598"/>
+<node TEXT="NFDB&#xa;national fisheries development board" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_467480" CREATED="1490158728518" MODIFIED="1525201928872">
+<node TEXT="under MoAgri" ID="ID_1293642173" CREATED="1490158730049" MODIFIED="1490158738507"/>
+</node>
+<node TEXT="National Livestock Mission" FOLDED="true" ID="ID_1453572501" CREATED="1525201933637" MODIFIED="1525201937230">
+<node TEXT="pigger in NE" ID="ID_826424614" CREATED="1525201939659" MODIFIED="1525201941636"/>
+<node TEXT="quality feed fodder" ID="ID_1123970561" CREATED="1525201942619" MODIFIED="1525201947548"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Horticulture" FOLDED="true" ID="ID_1094590636" CREATED="1488870193840" MODIFIED="1488870204263">
+<node TEXT="30% of agricultural GDP" ID="ID_1550650878" CREATED="1523248848065" MODIFIED="1523248853628"/>
+<node TEXT="Nat. Mission on Horticulture" FOLDED="true" ID="ID_1541831840" CREATED="1488870215855" MODIFIED="1488870222080">
+<node TEXT="2124 - 57" ID="ID_1517090059" CREATED="1488870226687" MODIFIED="1488870250284" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
+</node>
+<node FOLDED="true" ID="ID_1831150815" CREATED="1523248842048" MODIFIED="1525240644055">
+<icon BUILTIN="idea"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      CHAMAN
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span class="fontstyle0">Coordinated Horticulture Assessment and<br/>Management using geo-informatics </span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1798797270" CREATED="1523248885625" MODIFIED="1523248972059"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      GIS mapping of horticulture for
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      cropping pattern use
+    </p>
+    <p>
+      post harvest loss
+    </p>
+    <p>
+      DFI
+    </p>
+    <p>
+      <b><i>generate action plan</i></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="useful for NE jhum lands" ID="ID_1736258794" CREATED="1523248859615" MODIFIED="1523248882701"/>
+<node TEXT="by  New Delhi based&#xa;Mahalanobis National Crop Forecast Centre&#xa;(MNCFC)" ID="ID_1088931119" CREATED="1525240696874" MODIFIED="1525240705408"/>
+</node>
+</node>
+</node>
+<node TEXT="agricultural policy" ID="ID_178570009" CREATED="1504938980557" MODIFIED="1531407416323">
+<font BOLD="true"/>
+<node LOCALIZED_STYLE_REF="default" ID="ID_1050968256" CREATED="1528988927367" MODIFIED="1528988957027">
+<icon BUILTIN="flag-green"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Agriculture policy and programs <b><i>income-oriented</i></b>&#160;rather than outcome oriented
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Model Land Leasing&#xa;(Law?)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_625643111" CREATED="1488536619543" MODIFIED="1494402094036">
+<icon BUILTIN="flag-green"/>
+<node TEXT="NITI Aayog&#xa;under T Haque" ID="ID_1179997462" CREATED="1494401987895" MODIFIED="1546848994098">
+<font BOLD="true" ITALIC="true"/>
+</node>
+<node TEXT="to permit and faciliate leasing of agri land" LOCALIZED_STYLE_REF="default" ID="ID_1533451308" CREATED="1488536634592" MODIFIED="1488545169608"/>
+<node TEXT="Ownership angle" LOCALIZED_STYLE_REF="default" ID="ID_990611711" CREATED="1494891237673" MODIFIED="1494891244583">
+<node TEXT="Remove adverse possession clause" LOCALIZED_STYLE_REF="default" ID="ID_975470135" CREATED="1488536833308" MODIFIED="1489314121765" BACKGROUND_COLOR="#e3f7e4"/>
+<node TEXT="tenancy legal =&gt; no fear of loosing land" LOCALIZED_STYLE_REF="default" ID="ID_154300035" CREATED="1488537233024" MODIFIED="1488545169618"/>
+</node>
+<node TEXT="Economic angle" LOCALIZED_STYLE_REF="default" ID="ID_1750362262" CREATED="1494891233570" MODIFIED="1494891236585">
+<node TEXT="problem : agri on &apos;land on lease&apos; =&gt; access to credit NO" LOCALIZED_STYLE_REF="default" ID="ID_1796086637" CREATED="1488536718042" MODIFIED="1488545169603"/>
+<node TEXT="[tenant] access to formal credit" LOCALIZED_STYLE_REF="default" ID="ID_866956807" CREATED="1488537248579" MODIFIED="1488545169618"/>
+</node>
+<node TEXT="e.g. kerala == land leasing stopped + small landowners abolished =&gt; No agri" LOCALIZED_STYLE_REF="default" ID="ID_512613834" CREATED="1488602195236" MODIFIED="1488602235322" BACKGROUND_COLOR="#ebe8ff"/>
+</node>
+<node TEXT="Farm Friendly reforms index" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1730226867" CREATED="1488269096425" MODIFIED="1494890920139" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
+<icon BUILTIN="idea"/>
+<node TEXT="NITI aayog" LOCALIZED_STYLE_REF="default" ID="ID_719938680" CREATED="1488269102102" MODIFIED="1488545169587"/>
+<node TEXT="Mah = 1&#xa;Guj = 2" LOCALIZED_STYLE_REF="default" ID="ID_754771525" CREATED="1488269169045" MODIFIED="1488545169593"/>
+<node TEXT="3 key reform areas" LOCALIZED_STYLE_REF="default" ID="ID_607325677" CREATED="1488269226768" MODIFIED="1488545169593">
+<node TEXT="land lease" LOCALIZED_STYLE_REF="default" ID="ID_812251910" CREATED="1488269229447" MODIFIED="1488545169593"/>
+<node TEXT="forestry on private land = felling and transit of trees" LOCALIZED_STYLE_REF="default" ID="ID_123693100" CREATED="1488269265427" MODIFIED="1519615632615">
+<icon BUILTIN="flag-green"/>
+</node>
+<node TEXT="agri Market reform" LOCALIZED_STYLE_REF="default" ID="ID_872762107" CREATED="1488269245315" MODIFIED="1488545169598"/>
+</node>
+<node TEXT="for _, _, _ in agri markets" FOLDED="true" ID="ID_1003909816" CREATED="1497087215133" MODIFIED="1497087230433">
+<node TEXT="competitiveness among states" LOCALIZED_STYLE_REF="default" ID="ID_1036427195" CREATED="1488269118456" MODIFIED="1489589483646" HGAP_QUANTITY="15.499999955296518 pt" VSHIFT_QUANTITY="20.24999939650299 pt"/>
+<node TEXT="efficiency" LOCALIZED_STYLE_REF="default" ID="ID_1132487314" CREATED="1488269124505" MODIFIED="1488545169598"/>
+<node TEXT="transparency" LOCALIZED_STYLE_REF="default" ID="ID_1408294106" CREATED="1488269126900" MODIFIED="1497087230433" HGAP_QUANTITY="16.618181795482794 pt" VSHIFT_QUANTITY="-26.83636340369863 pt"/>
+</node>
+</node>
+<node TEXT="Gramin Bhandaran Yojna" FOLDED="true" ID="ID_1418810389" CREATED="1489481568391" MODIFIED="1489729389278">
+<icon BUILTIN="idea"/>
+<node TEXT="2126 - 14" ID="ID_1332146293" CREATED="1489481582428" MODIFIED="1489481589451" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
+</node>
+<node TEXT="market intervention scheme" FOLDED="true" ID="ID_1106049585" CREATED="1489499563711" MODIFIED="1489729391471">
+<icon BUILTIN="idea"/>
+<node TEXT="2124 - 56" ID="ID_3566557" CREATED="1489499568593" MODIFIED="1489561618149" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
+<node TEXT="ad hoc for procuring perishable and horticulture commodities" ID="ID_1207313351" CREATED="1496289768498" MODIFIED="1496289784802">
+<node TEXT="=&gt; farmer gets remunerative prices" ID="ID_792466032" CREATED="1496289791688" MODIFIED="1496289805740"/>
+</node>
+</node>
+<node TEXT="Nat. horticulture mission" ID="ID_828821310" CREATED="1489499598224" MODIFIED="1489499602670"/>
+<node TEXT="GIAHS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1078968735" CREATED="1489410354742" MODIFIED="1525066283650">
+<node TEXT=" Globally Important&#xa;Agricultural Heritage Systems" ID="ID_1946317024" CREATED="1489410356399" MODIFIED="1495495214618"/>
+<node TEXT="by FAO, 2002" LOCALIZED_STYLE_REF="default" ID="ID_186952164" CREATED="1489410362009" MODIFIED="1497334457796" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="India" ID="ID_83985558" CREATED="1489410365838" MODIFIED="1497334470260">
+<node TEXT="Kashmir valley, parampore for saffron" LOCALIZED_STYLE_REF="default" ID="ID_308405044" CREATED="1489410373058" MODIFIED="1497087285419" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="koraput, orissa&#xa;rich biodiversity - many types of paddy, millet pulses etc" LOCALIZED_STYLE_REF="default" ID="ID_1127998361" CREATED="1489410383325" MODIFIED="1497087285387" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="Kuttanad in kerala = below sea level farming" ID="ID_1974389962" CREATED="1497334479284" MODIFIED="1497334489919"/>
+</node>
+<node TEXT="rythu bandhu" FOLDED="true" ID="ID_1248372066" CREATED="1526654889771" MODIFIED="1531407423081">
+<font BOLD="true"/>
+<node TEXT="agriculture invetment support scheme" ID="ID_1962072282" CREATED="1526654903896" MODIFIED="1546849129455">
+<icon BUILTIN="launch"/>
+</node>
+<node TEXT="4000 to everyone per hectare land" FOLDED="true" ID="ID_1412033607" CREATED="1531407431919" MODIFIED="1531407672699">
+<node TEXT="but for landless?&#xa;and big farmers =&gt; more cash. Unfair!" ID="ID_167825029" CREATED="1531407443815" MODIFIED="1531407456951"/>
+</node>
+<node TEXT="farm incomes would be de linked from production!&#xa;&#xa;=&gt; can take more risk and NOT grow sugarcane !" ID="ID_562929897" CREATED="1531407632274" MODIFIED="1531407655265"/>
+<node TEXT="issue of land titling" ID="ID_137019032" CREATED="1531408077611" MODIFIED="1531408082522"/>
+</node>
+<node TEXT="APMC + livestock marketing act, 2018&#xa;&#xa;And Contract Farming&#xa;APLM Act, 2018" FOLDED="true" ID="ID_787044143" CREATED="1525201293058" MODIFIED="1546850582113">
+<node TEXT="allow private players to set up yards, under license" ID="ID_1068961399" CREATED="1525201309399" MODIFIED="1525201320709"/>
+<node TEXT="transact in all markets within state by paying single fee" ID="ID_517873007" CREATED="1525201335494" MODIFIED="1525201344789"/>
+<node TEXT="concerns" ID="ID_668410633" CREATED="1546850625628" MODIFIED="1546850626951">
+<node TEXT="non-coercive land pooling?&#xa;&#xa;small farmers excluded" ID="ID_1323397627" CREATED="1546850627053" MODIFIED="1546850641905"/>
+<node TEXT="other input based interventions to ensure delivery under contract" ID="ID_1546020420" CREATED="1546850757154" MODIFIED="1546850783177"/>
+<node TEXT="tech transfer" ID="ID_1828247174" CREATED="1546850783816" MODIFIED="1546850787642"/>
+<node TEXT="risk sharing between contract parties not mentioned in laws" ID="ID_945324987" CREATED="1546850791144" MODIFIED="1546850808619"/>
+</node>
+</node>
+<node TEXT="FLRP&#xa;food legume research platform" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1112832405" CREATED="1504938835489" MODIFIED="1532924636495">
+<node TEXT="poverty, nutrition, food security, sustainable agriculture" ID="ID_644366440" CREATED="1504938842786" MODIFIED="1504938871563"/>
+</node>
+<node TEXT="Agri Research" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1128963783" CREATED="1489560598051" MODIFIED="1489560600728">
+<node TEXT="Funding" ID="ID_1223191273" CREATED="1489560600993" MODIFIED="1489560603371"/>
+<node TEXT="Private partnership" FOLDED="true" ID="ID_725338011" CREATED="1489560603543" MODIFIED="1489560614902">
+<node TEXT="for enhanced research-productivity" ID="ID_1235438796" CREATED="1489560615043" MODIFIED="1489560625817"/>
+<node TEXT="Funding" ID="ID_300483215" CREATED="1489560629199" MODIFIED="1489560631483"/>
+<node TEXT="low cost innovative tech" ID="ID_1520057511" CREATED="1489560671552" MODIFIED="1489560676269"/>
+</node>
+<node TEXT="lesser students in agri insti" ID="ID_269568066" CREATED="1489560633609" MODIFIED="1489560646125"/>
+<node TEXT="govt. initiatives?" FOLDED="true" ID="ID_1878519743" CREATED="1523333691819" MODIFIED="1523333696337">
+<icon BUILTIN="flag-green"/>
+<node TEXT="aug 2017, vision" ID="ID_1254515243" CREATED="1523333762043" MODIFIED="1523333764880"/>
+<node TEXT="national agri higher education project, by ICAR + WB" ID="ID_800782631" CREATED="1523333704993" MODIFIED="1523333745285"/>
+<node TEXT="ARYA = retaining youth in agri" ID="ID_1440606240" CREATED="1523333747616" MODIFIED="1523333754166"/>
+</node>
+</node>
+<node TEXT="agricultural export policy" ID="ID_78031216" CREATED="1546849912734" MODIFIED="1546849916511"/>
 </node>
 <node TEXT="Tech use" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_151356380" CREATED="1523249037405" MODIFIED="1523249088833">
 <icon BUILTIN="idea"/>
@@ -4911,7 +4964,7 @@
 <node TEXT="Cartelisation and collective bidding has to reduce govt. public spending." ID="ID_607465530" CREATED="1488545515607" MODIFIED="1488545538143"/>
 </node>
 </node>
-<node TEXT="MSME" LOCALIZED_STYLE_REF="default" ID="ID_471693202" CREATED="1487760065557" MODIFIED="1508950914912">
+<node TEXT="MSME" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_471693202" CREATED="1487760065557" MODIFIED="1508950914912">
 <icon BUILTIN="flag-green"/>
 <node TEXT="data, status" LOCALIZED_STYLE_REF="default" ID="ID_385746705" CREATED="1532166497852" MODIFIED="1532166501326"/>
 <node TEXT="classification" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_124429632" CREATED="1489482890095" MODIFIED="1489482894096">
@@ -6069,8 +6122,8 @@
 <node TEXT="research design standard organisation" ID="ID_1519724873" CREATED="1530723584929" MODIFIED="1530723595401"/>
 </node>
 </node>
-<node TEXT="dump" FOLDED="true" ID="ID_1396999868" CREATED="1523339196943" MODIFIED="1523339198099">
-<node TEXT="[3] Infrastructural development" FOLDED="true" ID="ID_1054732781" CREATED="1495142132544" MODIFIED="1495142153703">
+<node TEXT="dump" ID="ID_1396999868" CREATED="1523339196943" MODIFIED="1523339198099">
+<node TEXT="[3] Infrastructural development" ID="ID_1054732781" CREATED="1495142132544" MODIFIED="1495142153703">
 <node TEXT="Construction near protected monuments" FOLDED="true" ID="ID_878078022" CREATED="1495142213728" MODIFIED="1495142230431">
 <node TEXT="list?" FOLDED="true" ID="ID_1552929073" CREATED="1495142231605" MODIFIED="1495142233323">
 <node TEXT="CD, 18 May 2017" ID="ID_234185209" CREATED="1495142233671" MODIFIED="1495142256465"/>
@@ -9237,7 +9290,7 @@
 </node>
 </node>
 </node>
-<node TEXT="declarations" FOLDED="true" ID="ID_1218827202" CREATED="1519721436748" MODIFIED="1519721438664">
+<node TEXT="declarations" ID="ID_1218827202" CREATED="1519721436748" MODIFIED="1519721438664">
 <node TEXT="Sendai SFDRR" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1114793231" CREATED="1488548690146" MODIFIED="1500910230409">
 <font NAME="Calibri"/>
 <node TEXT="disaster risk management instead of disaster management" ID="ID_1923728034" CREATED="1504945058231" MODIFIED="1504945069721"/>
@@ -9247,7 +9300,7 @@
 <node TEXT="economic loss minimise" ID="ID_1327954802" CREATED="1498110798852" MODIFIED="1498110808235"/>
 <node TEXT="multi hazard early warning system - access and availability" ID="ID_339508162" CREATED="1498110823726" MODIFIED="1498111273125"/>
 </node>
-<node TEXT="constitutionally not in any list" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1958968073" CREATED="1489837301902" MODIFIED="1497713201355" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="constitutionally not in any list" LOCALIZED_STYLE_REF="default" ID="ID_1958968073" CREATED="1489837301902" MODIFIED="1497713201355" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 <node TEXT="put it under concurrent list" ID="ID_1157889259" CREATED="1519721458536" MODIFIED="1519721488209"/>
 </node>
@@ -9676,12 +9729,12 @@
 <font NAME="Calibri"/>
 <node TEXT="Uttarkashi floods , NE bamboo trees" ID="ID_1467116714" CREATED="1519720985711" MODIFIED="1519721004003"/>
 </node>
-<node TEXT="psychological relief" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1933260001" CREATED="1530892502573" MODIFIED="1532416461667">
+<node TEXT="psychological relief" LOCALIZED_STYLE_REF="default" ID="ID_1933260001" CREATED="1530892502573" MODIFIED="1532416461667">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
 <node TEXT="WHO look listen link approach" ID="ID_745523990" CREATED="1530892508055" MODIFIED="1530892515517"/>
 </node>
-<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_567825993" CREATED="1531283346784" MODIFIED="1531283350496"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="default" ID="ID_567825993" CREATED="1531283346784" MODIFIED="1531283350496"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9711,15 +9764,15 @@
 </node>
 <node TEXT="e.g. road quality in flooded areas" ID="ID_288085722" CREATED="1531283388408" MODIFIED="1531283396551"/>
 </node>
-<node TEXT="disaster - resilience" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1557038304" CREATED="1532686418857" MODIFIED="1532686437461" BACKGROUND_COLOR="#feffd6">
+<node TEXT="disaster - resilience" LOCALIZED_STYLE_REF="default" ID="ID_1557038304" CREATED="1532686418857" MODIFIED="1532686437461" BACKGROUND_COLOR="#feffd6">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
-<node TEXT="SEEDs helping poor build homes&#xa;&#xa;&#xa;stakeholder participation to" FOLDED="true" ID="ID_98993574" CREATED="1532686439401" MODIFIED="1532686505354">
+<node TEXT="SEEDs helping poor build homes&#xa;&#xa;&#xa;stakeholder participation to" ID="ID_98993574" CREATED="1532686439401" MODIFIED="1532686505354">
 <node TEXT="define needs&#xa;, easy-to-build building materials&#xa;," ID="ID_1166826251" CREATED="1532686507152" MODIFIED="1532686528842"/>
 </node>
 </node>
 </node>
-<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
+<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1495021538065">
 <icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
 <node TEXT="Geography" FOLDED="true" ID="ID_24166292" CREATED="1490945390147" MODIFIED="1496055203518">
@@ -10700,7 +10753,7 @@
 <node TEXT="information security" ID="ID_1226662684" CREATED="1527155967231" MODIFIED="1527155975086"/>
 </node>
 </node>
-<node TEXT="Env Eco" ID="ID_1752209541" CREATED="1490947951833" MODIFIED="1496055203521">
+<node TEXT="Env Eco" FOLDED="true" ID="ID_1752209541" CREATED="1490947951833" MODIFIED="1496055203521">
 <font NAME="Calibri"/>
 <node TEXT="Exotic species" ID="ID_642299618" CREATED="1490947953945" MODIFIED="1490947958858"/>
 <node TEXT="Majuli, Assam" FOLDED="true" ID="ID_1841669135" CREATED="1496733758882" MODIFIED="1496733762044">
@@ -13381,7 +13434,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Need attention Trivia" ID="ID_1044880168" CREATED="1494811273532" MODIFIED="1496055203525" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="32.072726994664215 pt">
+<node TEXT="Need attention Trivia" FOLDED="true" ID="ID_1044880168" CREATED="1494811273532" MODIFIED="1496055203525" HGAP_QUANTITY="14.654545448870698 pt" VSHIFT_QUANTITY="32.072726994664215 pt">
 <font NAME="Calibri"/>
 <node TEXT="part 0" FOLDED="true" ID="ID_918391584" CREATED="1495962618170" MODIFIED="1496055203525">
 <font NAME="Calibri"/>
@@ -15818,7 +15871,6 @@
 <node TEXT="International institutions enforcing with common consensus" LOCALIZED_STYLE_REF="default" ID="ID_855333452" CREATED="1488086376549" MODIFIED="1488545169703"/>
 <node TEXT="UN sending troops&#xa;= by cooperation of most members" LOCALIZED_STYLE_REF="default" ID="ID_23110040" CREATED="1488086327120" MODIFIED="1488545169708"/>
 </node>
-<node TEXT="" LOCALIZED_STYLE_REF="default" ID="ID_1346982340" CREATED="1524888665130" MODIFIED="1524888665193"/>
 <node TEXT="national security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_228925272" CREATED="1504153343379" MODIFIED="1504153346410">
 <node TEXT="types" FOLDED="true" ID="ID_712578497" CREATED="1504153817434" MODIFIED="1504153820176">
 <node TEXT="social" FOLDED="true" ID="ID_696659263" CREATED="1504153574981" MODIFIED="1504153576032">
@@ -15998,15 +16050,17 @@
 <node TEXT="South China Sea" LOCALIZED_STYLE_REF="default" ID="ID_316452416" CREATED="1488085959430" MODIFIED="1494887616063">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="Organisations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_555659560" CREATED="1488181337149" MODIFIED="1494887616063">
+<node TEXT="Organisations" LOCALIZED_STYLE_REF="default" ID="ID_555659560" CREATED="1488181337149" MODIFIED="1494887616063">
 <font NAME="Calibri"/>
-<node TEXT="ADB" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1629169116" CREATED="1494451195011" MODIFIED="1526125990806">
+<node TEXT="ADB" LOCALIZED_STYLE_REF="default" ID="ID_1629169116" CREATED="1494451195011" MODIFIED="1526125990806">
 <icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
 <node TEXT="USA + Japan ( 15.60% ) = Highest shareholding" LOCALIZED_STYLE_REF="default" ID="ID_1850652674" CREATED="1494451198413" MODIFIED="1497237560564" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 </node>
 <node TEXT="Asia and pacific free from poverty" ID="ID_1959172838" CREATED="1494451229711" MODIFIED="1494451239209"/>
+<node TEXT="TN assistance for climate resilient sewage [12/18]" ID="ID_1850986318" CREATED="1545373646836" MODIFIED="1545373668377"/>
+<node TEXT="Bihar - state Highways -&gt; all weather roads" ID="ID_725057104" CREATED="1545389595395" MODIFIED="1545389613751"/>
 <node TEXT="also assistance to private for development" LOCALIZED_STYLE_REF="default" ID="ID_975668517" CREATED="1526125963940" MODIFIED="1526125988589" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 </node>
@@ -16639,7 +16693,7 @@
 <node TEXT="Living planet report" ID="ID_1524282101" CREATED="1496396333797" MODIFIED="1496396337597"/>
 </node>
 </node>
-<node TEXT="GROUPS/ Summits" LOCALIZED_STYLE_REF="default" ID="ID_60885076" CREATED="1488260115997" MODIFIED="1494887616074">
+<node TEXT="GROUPS/ Summits" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_60885076" CREATED="1488260115997" MODIFIED="1494887616074">
 <font NAME="Calibri" SIZE="10"/>
 <node TEXT="ASEAN (10)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1540755101" CREATED="1488260119667" MODIFIED="1495153324621" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
 <font NAME="Calibri"/>
@@ -17120,13 +17174,15 @@
 </node>
 <node TEXT="political and cultural" ID="ID_125826615" CREATED="1507191270430" MODIFIED="1507191275215"/>
 </node>
-<node TEXT="AIFTA&#xa;ASEAN-India FTA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_582114642" CREATED="1488260588055" MODIFIED="1488545169787">
+<node TEXT="AIFTA&#xa;ASEAN-India FTA" LOCALIZED_STYLE_REF="default" ID="ID_582114642" CREATED="1488260588055" MODIFIED="1488545169787">
 <node TEXT="@Bali, effect from Jan 2010" LOCALIZED_STYLE_REF="default" ID="ID_239007258" CREATED="1488260695665" MODIFIED="1488545169788"/>
 <node TEXT="reduced tariff barriers b/w ASEAN and India" LOCALIZED_STYLE_REF="default" ID="ID_26845425" CREATED="1488260713846" MODIFIED="1488545169788"/>
 </node>
 <node TEXT="myanmar selling brahmos,&#xa;South China sea mein Tsunami warning systems" LOCALIZED_STYLE_REF="default" ID="ID_730891785" CREATED="1507191248732" MODIFIED="1507191262525">
 <icon BUILTIN="flag-green"/>
 </node>
+<node TEXT="SAGAR" ID="ID_48712732" CREATED="1545373702516" MODIFIED="1545373709027"/>
+<node TEXT="Role of Indonesia in Act East" ID="ID_121538766" CREATED="1545373711338" MODIFIED="1545373716866"/>
 </node>
 <node TEXT="Indian Diaspora" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_410916440" CREATED="1488685585281" MODIFIED="1494887616075">
 <font NAME="Calibri"/>
@@ -17751,7 +17807,7 @@
 </node>
 </node>
 </node>
-<node TEXT="History" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
+<node TEXT="History" FOLDED="true" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
 <font NAME="Calibri"/>
 <node TEXT="Modern History" FOLDED="true" ID="ID_1728381134" CREATED="1492167601191" MODIFIED="1492167605578">
 <node TEXT="Peasant movements" FOLDED="true" ID="ID_659844323" CREATED="1492167605844" MODIFIED="1526810416286">
