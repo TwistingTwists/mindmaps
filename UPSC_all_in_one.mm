@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -4758,7 +4758,7 @@
 <node TEXT="farm incomes would be de linked from production!&#xa;&#xa;=&gt; can take more risk and NOT grow sugarcane !" ID="ID_562929897" CREATED="1531407632274" MODIFIED="1531407655265"/>
 <node TEXT="issue of land titling" ID="ID_137019032" CREATED="1531408077611" MODIFIED="1531408082522"/>
 </node>
-<node TEXT="APMC + livestock marketing act, 2018&#xa;&#xa;And Contract Farming&#xa;APLM Act, 2018" FOLDED="true" ID="ID_787044143" CREATED="1525201293058" MODIFIED="1546850582113">
+<node TEXT="APMC + livestock marketing act, 2018&#xa;&#xa;And Contract Farming&#xa;APLM Act, 2018" ID="ID_787044143" CREATED="1525201293058" MODIFIED="1546850582113">
 <node TEXT="allow private players to set up yards, under license" ID="ID_1068961399" CREATED="1525201309399" MODIFIED="1525201320709"/>
 <node TEXT="transact in all markets within state by paying single fee" ID="ID_517873007" CREATED="1525201335494" MODIFIED="1525201344789"/>
 <node TEXT="concerns" ID="ID_668410633" CREATED="1546850625628" MODIFIED="1546850626951">
@@ -10943,13 +10943,13 @@
 <node TEXT="halfway b/w north pole and norway" ID="ID_693088898" CREATED="1494677159579" MODIFIED="1494677297774"/>
 <node TEXT="HImadri @Svalbard, Norway" ID="ID_823238464" CREATED="1494677138298" MODIFIED="1494677145505"/>
 </node>
-<node TEXT="Trappist - I" FOLDED="true" ID="ID_430945309" CREATED="1494834848353" MODIFIED="1495360218942">
+<node TEXT="Trappist - I" ID="ID_430945309" CREATED="1494834848353" MODIFIED="1495360218942">
 <icon BUILTIN="launch"/>
 <node TEXT="NASA kepler mission" ID="ID_825957440" CREATED="1496477234306" MODIFIED="1496477238604"/>
 <node TEXT="earth-size exoplanet by NASA&#xa;exoplanet = does not revolve around sun but some other star&apos;" ID="ID_1348493349" CREATED="1494834855374" MODIFIED="1496738853537"/>
 <node TEXT="Earth like conditions =&gt; may be habitable" ID="ID_1272549741" CREATED="1495360221123" MODIFIED="1495360228843"/>
 </node>
-<node TEXT="Nemo" FOLDED="true" ID="ID_611667426" CREATED="1494894371316" MODIFIED="1496032069110">
+<node TEXT="Nemo" ID="ID_611667426" CREATED="1494894371316" MODIFIED="1496032069110">
 <icon BUILTIN="full-1"/>
 <node TEXT="&quot;oceanic pole of inaccessibility&quot;" ID="ID_1444726850" CREATED="1494894385562" MODIFIED="1494894389520"/>
 <node ID="ID_917860652" CREATED="1494894373351" MODIFIED="1494894373351"><richcontent TYPE="NODE">
@@ -11015,7 +11015,7 @@
 <icon BUILTIN="full-1"/>
 <node TEXT="NASA + Italian + ESA" ID="ID_887088551" CREATED="1490353218636" MODIFIED="1490353225073"/>
 </node>
-<node TEXT="Omega-c-zero" FOLDED="true" ID="ID_643547672" CREATED="1491534979050" MODIFIED="1493960618200">
+<node TEXT="Omega-c-zero" ID="ID_643547672" CREATED="1491534979050" MODIFIED="1493960618200">
 <icon BUILTIN="launch"/>
 <node TEXT="new fundamental particle" ID="ID_274845744" CREATED="1491534980554" MODIFIED="1491534985149"/>
 <node TEXT="CERN" ID="ID_72003931" CREATED="1491534986508" MODIFIED="1491534987328"/>
@@ -11044,7 +11044,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Tri Netra" FOLDED="true" ID="ID_623997591" CREATED="1494905809022" MODIFIED="1496750091623">
+<node TEXT="Tri Netra" ID="ID_623997591" CREATED="1494905809022" MODIFIED="1496750091623">
 <icon BUILTIN="full-1"/>
 <node TEXT="Indian railways" ID="ID_33550450" CREATED="1494905811394" MODIFIED="1494905814424"/>
 <node TEXT="locomotive visibility" ID="ID_382228810" CREATED="1494905816011" MODIFIED="1494905821222"/>
@@ -11092,7 +11092,7 @@
 <node TEXT="garden shipbuilders, kolkata" ID="ID_504410688" CREATED="1495423480272" MODIFIED="1495423498724"/>
 </node>
 </node>
-<node TEXT="national atlas thematic mapping organisation&#xa;NATMO" FOLDED="true" ID="ID_1674479006" CREATED="1496021133628" MODIFIED="1496032330627">
+<node TEXT="national atlas thematic mapping organisation&#xa;NATMO" ID="ID_1674479006" CREATED="1496021133628" MODIFIED="1496032330627">
 <node TEXT="under Min Sci Tech (DST)" ID="ID_960771394" CREATED="1496021144628" MODIFIED="1496021149311"/>
 <node TEXT="braille atlas for visually impaired" ID="ID_172093230" CREATED="1496021156284" MODIFIED="1496021160910"/>
 </node>
@@ -15909,7 +15909,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Countries / Treaties" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1769221224" CREATED="1488085354289" MODIFIED="1494887616062">
+<node TEXT="Countries / Treaties" LOCALIZED_STYLE_REF="default" ID="ID_1769221224" CREATED="1488085354289" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
 <node TEXT="India - Bangladesh" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1185339932" CREATED="1488235602170" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
@@ -16046,11 +16046,17 @@
 <node TEXT="capacity building for navy" ID="ID_1768089908" CREATED="1495427361474" MODIFIED="1495427366141"/>
 <node TEXT="strategic cooperation under act east policy" ID="ID_649371898" CREATED="1495427369346" MODIFIED="1495427376799"/>
 </node>
+<node TEXT="india central asia" ID="ID_541738280" CREATED="1547527890599" MODIFIED="1547527894273">
+<font NAME="Calibri"/>
+<node TEXT="opportunity :&#xa;&#xa;, energy security- nat gas, U-238, oil&#xa;, INSTC - trade&#xa;, market for educatoin and IT services&#xa;, new miliatry base in tajikistan" ID="ID_1388222322" CREATED="1547527897920" MODIFIED="1547528418213"/>
+<node TEXT="challenges :&#xa;&#xa;OBOR&#xa;, TAPI&#xa;, no connectivity&#xa;, poor defence relations" ID="ID_392324765" CREATED="1547527965968" MODIFIED="1547527993342"/>
+<node TEXT="ashgabat agreement" ID="ID_796900421" CREATED="1547528023138" MODIFIED="1547528032232"/>
+</node>
 </node>
 <node TEXT="South China Sea" LOCALIZED_STYLE_REF="default" ID="ID_316452416" CREATED="1488085959430" MODIFIED="1494887616063">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="Organisations" LOCALIZED_STYLE_REF="default" ID="ID_555659560" CREATED="1488181337149" MODIFIED="1494887616063">
+<node TEXT="Organisations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_555659560" CREATED="1488181337149" MODIFIED="1494887616063">
 <font NAME="Calibri"/>
 <node TEXT="ADB" LOCALIZED_STYLE_REF="default" ID="ID_1629169116" CREATED="1494451195011" MODIFIED="1526125990806">
 <icon BUILTIN="idea"/>

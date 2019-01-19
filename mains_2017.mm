@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -6586,7 +6586,7 @@
 </node>
 </node>
 </node>
-<node TEXT="prelims 2018" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
+<node TEXT="prelims 2018" FOLDED="true" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
 <node TEXT="map type" FOLDED="true" ID="ID_1857282730" CREATED="1523033044582" MODIFIED="1523033050475">
 <font BOLD="true"/>
 <node TEXT="&#x2018;Rafah Crossing Point" FOLDED="true" ID="ID_488008338" CREATED="1523033036842" MODIFIED="1523033037356">
@@ -12994,7 +12994,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node TEXT="1.        Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment." ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1540965781406" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="start up" ID="ID_166453420" CREATED="1545237631092" MODIFIED="1545237633468">
 <node TEXT="SEBI - Innovators Growth Platform" ID="ID_298590427" CREATED="1545237579849" MODIFIED="1545237588597"/>
@@ -13089,6 +13089,46 @@
 </html>
 </richcontent>
 </node>
+</node>
+<node TEXT="Cyber Security" ID="ID_594219063" CREATED="1547697929207" MODIFIED="1547697933623">
+<node TEXT="CyberSpace : Interconnected internet ecosystem" ID="ID_1363905878" CREATED="1547697945519" MODIFIED="1547697958228"/>
+<node TEXT="India status :" FOLDED="true" ID="ID_504378746" CREATED="1547698063027" MODIFIED="1547698108180">
+<node TEXT="3rd highest users in world" ID="ID_1825376154" CREATED="1547698140707" MODIFIED="1547698146868"/>
+<node TEXT="730mn new users on internet&#xa;, 75% from rural areas" ID="ID_1066477178" CREATED="1547698109238" MODIFIED="1547698110057"/>
+<node TEXT="top 5 in sending spam + affected by cyber crime" ID="ID_1613606411" CREATED="1547698110407" MODIFIED="1547698131781"/>
+</node>
+<node TEXT="aspects of cyber governance :" FOLDED="true" ID="ID_402067709" CREATED="1547698193819" MODIFIED="1547698202155">
+<node ID="ID_1462622420" CREATED="1547698202289" MODIFIED="1547698247049"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Identification :</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      anonymity
+    </p>
+    <p>
+      , minimum disclosure
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Data Security :&#xa;&#xa;secure communication&#xa;, data localisation&#xa;, interoperability" ID="ID_1666458251" CREATED="1547698253245" MODIFIED="1547698277109"/>
+<node TEXT="Threat mgmt :&#xa;&#xa;[show in circle]&#xa;predict the threat&#xa;, prevent&#xa;, protect&#xa;, respond" ID="ID_862481592" CREATED="1547698279776" MODIFIED="1547698401768"/>
+</node>
+<node TEXT="Threats :&#xa;&#xa;hacking&#xa;, espionaage&#xa;, cyber wars&#xa;," ID="ID_1139663032" CREATED="1547697958394" MODIFIED="1547697984760"/>
+<node TEXT="vulnerabilities:&#xa;&#xa;People&#xa;, Process&#xa;, technology" ID="ID_955020565" CREATED="1547697984979" MODIFIED="1547698002954"/>
+<node TEXT="values at risk :&#xa;&#xa;asset&#xa;, reputation" ID="ID_1142361534" CREATED="1547698004439" MODIFIED="1547698016594"/>
+<node TEXT="todo :&#xa;&#xa;protecting hardware&#xa; ," ID="ID_1067842615" CREATED="1547698016952" MODIFIED="1547698182239"/>
 </node>
 </node>
 <node TEXT="19.        Security challenges and their management in border areas;&#xa; linkages of organized crime with terrorism" ID="ID_1051362704" CREATED="1540965626276" MODIFIED="1540965966551" BACKGROUND_COLOR="#e8fefb">
@@ -13346,10 +13386,17 @@
 <node TEXT="Ethics and Human Interface:&#xa;&#xa;Essence,&#xa;&#xa;determinants and&#xa;&#xa;consequences of Ethics&#xa;&#xa;in human actions;" ID="ID_471317236" CREATED="1544104497189" MODIFIED="1544104577475"/>
 <node TEXT="dimensions of ethics; ethics in private and public relationships." ID="ID_1160387195" CREATED="1544104497189" MODIFIED="1544104525494"/>
 <node TEXT="Human Values &#x2013; lessons from the lives and teachings of great leaders, reformers and administrators&#xa;&#xa;; role of family, society and&#xa;educational institutions in inculcating values." ID="ID_177285877" CREATED="1544104497201" MODIFIED="1544104591422"/>
-<node TEXT="&#x2022; Attitude: content, structure, function&#xa;&#xa;; its influence and relation with thought and behaviour;" ID="ID_535502553" CREATED="1544104497213" MODIFIED="1544104694845"/>
+<node TEXT="&#x2022; Attitude: content, structure, function&#xa;&#xa;; its influence and relation with thought and behaviour;" FOLDED="true" ID="ID_535502553" CREATED="1544104497213" MODIFIED="1544104694845">
+<node TEXT="tax evasion,&#xa;SBM" ID="ID_1140948096" CREATED="1547462830096" MODIFIED="1547462834421"/>
+</node>
 <node TEXT="moral and political attitudes&#xa;&#xa;; social influence and persuasion." ID="ID_649383295" CREATED="1544104695598" MODIFIED="1544104704468"/>
 <node TEXT="&#x2022; Aptitude and foundational values for Civil Service&#xa;&#xa;OSAHILO&#xa;&#xa;CTEDedication to service" ID="ID_1269603457" CREATED="1544104497220" MODIFIED="1544104747075"/>
-<node TEXT="&#x2022; Emotional intelligence-concepts, and their utilities and application in administration and governance." ID="ID_1425759856" CREATED="1544104497227" MODIFIED="1544104497227"/>
+<node TEXT="&#x2022; Emotional intelligence-concepts, and their utilities and application in administration and governance." ID="ID_1425759856" CREATED="1544104497227" MODIFIED="1544104497227">
+<node TEXT="EI ROLE IN work ethics" ID="ID_606168224" CREATED="1547465387480" MODIFIED="1547465401112">
+<node TEXT="self regulation&#xa;, motivation&#xa;, efficiency&#xa;, colleague bonding - bonding" ID="ID_1770797593" CREATED="1547465467304" MODIFIED="1547465523743"/>
+<node TEXT="Unethical activities evoke strong response &apos;cleansing culture" ID="ID_894185815" CREATED="1547465531152" MODIFIED="1547465563045"/>
+</node>
+</node>
 <node TEXT="&#x2022; Contributions of moral thinkers and philosophers from India and world." ID="ID_1704534941" CREATED="1544104497231" MODIFIED="1544104497231"/>
 <node ID="ID_1083939776" CREATED="1544104497234" MODIFIED="1544104890252"><richcontent TYPE="NODE">
 
@@ -13390,7 +13437,7 @@
 </richcontent>
 </node>
 <node TEXT=" accountability and ethical governance&#xa;&#xa; ; strengthening of ethical and moral values in governance;" ID="ID_325750126" CREATED="1544104497242" MODIFIED="1544104958427"/>
-<node TEXT="ethical issues in international relations and funding" ID="ID_774779905" CREATED="1544104497245" MODIFIED="1544104971862">
+<node TEXT="ethical issues in international relations and funding" FOLDED="true" ID="ID_774779905" CREATED="1544104497245" MODIFIED="1544104971862">
 <node TEXT="can use Integrity Pacts by transparency International in Funding&#xa;&#xa;; Extradition treaty" ID="ID_1196261808" CREATED="1544105002047" MODIFIED="1544105050045">
 <font ITALIC="true"/>
 </node>
@@ -13400,6 +13447,18 @@
 <node TEXT="Information sharing and transparency in government, Right to Information, Codes of Ethics, Codes of" ID="ID_1849220324" CREATED="1544104497251" MODIFIED="1544104497251"/>
 <node TEXT="Conduct, Citizen&#x2019;s Charters, Work culture, Quality of service delivery, Utilization of public funds," ID="ID_402543920" CREATED="1544104497255" MODIFIED="1544104497255"/>
 <node TEXT="challenges of corruption." ID="ID_202299460" CREATED="1544104497257" MODIFIED="1544104497257"/>
+<node TEXT="miscellaneous" ID="ID_1372392963" CREATED="1547463411352" MODIFIED="1547463414274">
+<node TEXT="ethics and eligion" FOLDED="true" ID="ID_1869612810" CREATED="1547463414454" MODIFIED="1547463418557">
+<node TEXT="theistic beleifs for atheists" ID="ID_1675906641" CREATED="1547463431468" MODIFIED="1547463436704"/>
+</node>
+<node TEXT="ethics an dlaw" ID="ID_1038764147" CREATED="1547463418706" MODIFIED="1547463420140"/>
+<node TEXT="ethical dilemma" FOLDED="true" ID="ID_1240136935" CREATED="1547467001245" MODIFIED="1547467007031">
+<node TEXT="decision making leads to compromise of at least one moral principle" ID="ID_463342013" CREATED="1547467007332" MODIFIED="1547467025338"/>
+</node>
+<node TEXT="politics vs ethics" ID="ID_154526580" CREATED="1547468045295" MODIFIED="1547468049837">
+<node TEXT="Lal bahadur shastri&#xa;gandhi" ID="ID_183754125" CREATED="1547468052313" MODIFIED="1547468059966"/>
+</node>
+</node>
 </node>
 <node TEXT="Essay with analysis" FOLDED="true" POSITION="left" ID="ID_1414268302" CREATED="1530944840020" MODIFIED="1530944844345">
 <node TEXT="Labor" FOLDED="true" ID="ID_1922438829" CREATED="1530944844537" MODIFIED="1530944846560">
@@ -13423,8 +13482,15 @@
 <node TEXT="Indian Nationalism is based on constitutional partiotism" FOLDED="true" ID="ID_895022183" CREATED="1533224215203" MODIFIED="1533224224782">
 <node TEXT="tolerance is strength" ID="ID_1152274504" CREATED="1533224226064" MODIFIED="1533224246129"/>
 </node>
+<node TEXT="power corrupts but absolute power corrupts absolutely" FOLDED="true" ID="ID_5152300" CREATED="1547465974980" MODIFIED="1547465997392">
+<node TEXT="power with responsibility" FOLDED="true" ID="ID_1781794967" CREATED="1547466551479" MODIFIED="1547466561679">
+<node TEXT="renunciation has been culture - Ashoka,&#xa;Buddhism beginning," ID="ID_1237979517" CREATED="1547466561973" MODIFIED="1547466589843"/>
+<node TEXT="Siddhartha absolute monarch -" ID="ID_543932694" CREATED="1547466590213" MODIFIED="1547466610115"/>
 </node>
-<node TEXT="down to earth" POSITION="left" ID="ID_198841592" CREATED="1535819507820" MODIFIED="1535819510051">
+<node TEXT="no checks&#xa;, shift in ethical framework&#xa;, invincibility&#xa;, accountability" ID="ID_389508365" CREATED="1547466612703" MODIFIED="1547466639131"/>
+</node>
+</node>
+<node TEXT="down to earth" FOLDED="true" POSITION="left" ID="ID_198841592" CREATED="1535819507820" MODIFIED="1535819510051">
 <node TEXT="NGT = 50% env cases filed are blackmailers" ID="ID_1440852975" CREATED="1535819510235" MODIFIED="1535819526342"/>
 <node TEXT="e Green watch" ID="ID_1850470453" CREATED="1526734685405" MODIFIED="1526734687796">
 <node TEXT="online monitoring of various afforestation works being carried out using CAMPA funds." ID="ID_823768376" CREATED="1526734683651" MODIFIED="1526734684511"/>
