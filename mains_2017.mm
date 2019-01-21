@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -365,37 +365,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS1" FOLDED="true" POSITION="left" ID="ID_660311744" CREATED="1490333930862" MODIFIED="1490333932165">
-<node TEXT="geography" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
-<node TEXT="Oceanic salinity&#xa;factors and effects" FOLDED="true" ID="ID_498653593" CREATED="1515567008134" MODIFIED="1515567048848">
-<node TEXT="defence budget = More on corrosive salinity in equitorial regions" ID="ID_1170195369" CREATED="1515567049205" MODIFIED="1515567090427"/>
-<node TEXT="food, fish" ID="ID_1129153962" CREATED="1515567112456" MODIFIED="1515567119018"/>
-</node>
-<node TEXT="Human Animal Conflict&#xa;&#xa;Tadoba and Pilibhit are e.g. [tiger]" ID="ID_602408552" CREATED="1530380751636" MODIFIED="1530380781587">
-<node TEXT="eco bridge" FOLDED="true" ID="ID_148469099" CREATED="1523814777256" MODIFIED="1523814779846">
-<node TEXT="why needed?" ID="ID_975169758" CREATED="1523814779939" MODIFIED="1523814781804">
-<node TEXT="prevent inbreeding&#xa;, Reduce human animal conflict&#xa;, need for migration of animals addressed" ID="ID_92241395" CREATED="1523814781917" MODIFIED="1537583227101"/>
-</node>
-<node TEXT="tadoba andhari tiger reserve" ID="ID_1187577704" CREATED="1527841106180" MODIFIED="1527841111782"/>
-</node>
-<node TEXT="MoEFCC&#xa;&#xa;death by tiger + elephant &gt;= 1000 since 2014-17" ID="ID_503110728" CREATED="1537583261353" MODIFIED="1537583279638"/>
-<node TEXT="GoI Done so far" ID="ID_1145877690" CREATED="1537583364778" MODIFIED="1537583370333">
-<node TEXT="National wildlife action plan&#xa;&#xa;NWAP, 2017-31&#xa;&#xa;, local knowledge to reduce conflict&#xa;, survey collect data&#xa;, train workforce&#xa;," ID="ID_374917489" CREATED="1537583399268" MODIFIED="1537583453820"/>
-</node>
-</node>
-</node>
-<node TEXT="newspaper" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_646265916" CREATED="1533958571382" MODIFIED="1533958574289">
-<node TEXT="Lata upadhyay, truck art&#xa;&#xa;effects of migrants on culture&#xa;, funded by Arts Council UK&#xa;," ID="ID_1398729220" CREATED="1533958580273" MODIFIED="1533958622739" LINK="https://www.thehindu.com/entertainment/art/assam-born-artist-takes-truck-art-to-the-uk/article24659250.ece"/>
-<node TEXT="Shwedagon Pagoda, Myanmar" ID="ID_1821876946" CREATED="1533958762189" MODIFIED="1533958806634" LINK="https://www.thehindu.com/news/international/modi-visits-shwedagon-pagoda-in-myanmar/article19634772.ece">
-<node TEXT=" Bodhi tree sapling at the pagoda complex, signifying common cultural heritage." ID="ID_1175584921" CREATED="1533958760120" MODIFIED="1533958761685"/>
-<node TEXT=" strands of Buddha&#x2019;s hair" ID="ID_80553780" CREATED="1533958786243" MODIFIED="1533958786549"/>
-</node>
-<node TEXT="Cross cultural comparison" ID="ID_1570186882" CREATED="1533958952214" MODIFIED="1533958957862">
-<node TEXT="Bori Johnson, Britain foreign Secretary&#xa;&#xa;Maori headbutt greeting like &apos;a pub in Glasgow&apos;" ID="ID_1536820768" CREATED="1533958958303" MODIFIED="1533959025993"/>
-</node>
-</node>
-</node>
-<node TEXT="gs1" FOLDED="true" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
+<node TEXT="gs1" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
 <node TEXT="Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times." ID="ID_1207566527" CREATED="1545140505177" MODIFIED="1545140505177"/>
 <node TEXT="Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues" ID="ID_1873907600" CREATED="1545140505177" MODIFIED="1545140560656" BACKGROUND_COLOR="#ffffcc"/>
 <node TEXT="The Freedom Struggle - its various stages and important contributors /contributions from different parts of the country." ID="ID_943195052" CREATED="1545140505199" MODIFIED="1545140560673" BACKGROUND_COLOR="#ffffcc">
@@ -499,13 +469,13 @@
 <node TEXT="world wars," ID="ID_807195162" CREATED="1545140505210" MODIFIED="1545140551043" BACKGROUND_COLOR="#ffcccc"/>
 <node TEXT="redrawing of national boundaries, colonization, decolonization," ID="ID_71225699" CREATED="1545140505214" MODIFIED="1545140551055" BACKGROUND_COLOR="#ffcccc"/>
 <node TEXT="political philosophies like communism, capitalism, socialism etc.- their forms and effect on the society." ID="ID_1189384215" CREATED="1545140505215" MODIFIED="1545140551067" BACKGROUND_COLOR="#ffcccc"/>
-<node TEXT="Salient features of Indian Society, Diversity of India." FOLDED="true" ID="ID_477335395" CREATED="1545140505217" MODIFIED="1545140533941" BACKGROUND_COLOR="#ccccff">
-<node TEXT="Caste system new association [2018]" ID="ID_1138407475" CREATED="1545188368709" MODIFIED="1545188381247">
+<node TEXT="Salient features of Indian Society, Diversity of India." ID="ID_477335395" CREATED="1545140505217" MODIFIED="1545140533941" BACKGROUND_COLOR="#ccccff">
+<node TEXT="Caste system new association [2018]" FOLDED="true" ID="ID_1138407475" CREATED="1545188368709" MODIFIED="1545188381247">
 <node TEXT="social" ID="ID_1515762866" CREATED="1545188897339" MODIFIED="1545188898515">
 <node TEXT="mandal commision = horizontal caste, instead of earlier vertial withs tigma attached to lwoer caste." ID="ID_121619169" CREATED="1545188907186" MODIFIED="1545188924429"/>
 <node TEXT="caste not only linked to religion" ID="ID_1626426202" CREATED="1545188927005" MODIFIED="1545188933539"/>
 </node>
-<node TEXT="[policitcal" ID="ID_193024722" CREATED="1545188898661" MODIFIED="1545188900615">
+<node TEXT="[policitcal" FOLDED="true" ID="ID_193024722" CREATED="1545188898661" MODIFIED="1545188900615">
 <node TEXT="caste based politisc" ID="ID_1839142952" CREATED="1545188935922" MODIFIED="1545188939346"/>
 </node>
 <node TEXT="economic" ID="ID_336837239" CREATED="1545188903380" MODIFIED="1545188906304">
@@ -568,6 +538,14 @@
 </node>
 </node>
 <node TEXT="CBFC = shyam benegal recommendation" ID="ID_547759666" CREATED="1515649275279" MODIFIED="1515649284167"/>
+</node>
+</node>
+<node TEXT="Dance bars - Mumbai" ID="ID_340714580" CREATED="1548049685314" MODIFIED="1548049921777">
+<node TEXT="women movement led by lower caste women but no benefit to them" ID="ID_1861287139" CREATED="1548051139530" MODIFIED="1548051150056"/>
+<node TEXT="earlier, traditional dancing communities for dance bars&#xa;&#xa;-&gt; urban spaces dancing opportunity owing to globalisation" ID="ID_749832846" CREATED="1548049702958" MODIFIED="1548049793089" LINK="#ID_1720639550"/>
+<node TEXT="urban dance bars =&#xa;1. freedom for low caste women traditionally in dancing&#xa;&#xa;2. middle class girls entering dance bars" ID="ID_956625987" CREATED="1548049926834" MODIFIED="1548049968374"/>
+<node TEXT="banning ONLY dance in bars =&gt; pushing lower caste women to prostitution (closely related substitute)" ID="ID_896691633" CREATED="1548051092956" MODIFIED="1548051495741" LINK="#ID_838410348">
+<node TEXT="inspired by patriarchial mentality" ID="ID_883311872" CREATED="1548051122663" MODIFIED="1548051132640"/>
 </node>
 </node>
 </node>
@@ -1071,6 +1049,11 @@
 <node TEXT="evaluate NFSA" FOLDED="true" ID="ID_715468892" CREATED="1533223829000" MODIFIED="1537415765767">
 <node TEXT="Not in times of war, when food is most needed.&#xa;&#xa;mostly rice and wheat =&gt; Nutrition?" ID="ID_1585524078" CREATED="1533223835688" MODIFIED="1533223880193"/>
 </node>
+<node TEXT="Evaluate PMFBY" ID="ID_1255746709" CREATED="1548042458494" MODIFIED="1548042462936">
+<node TEXT="PMFBY" ID="ID_1400978962" CREATED="1548046861549" MODIFIED="1548046867995" LINK="UPSC_all_in_one.mm#ID_470315203"/>
+<node TEXT="1. Agri insurance company in loss while private insurers made 3k cr. profit (2018)&#xa;&#xa;2. Insurance paid by centre + state equally&#xa;&#xa;3. Also, final crop loss assessment by state =&gt; delayed =&gt; Insurance company delaying claims" ID="ID_440872931" CREATED="1548042463081" MODIFIED="1548042566819" LINK="https://indianexpress.com/article/opinion/editorials/pmfby-farm-loans-india-agri-distress-5547560/"/>
+<node TEXT="way fwd:&#xa;&#xa;Centre full subsidy and state focus in crop loss assessment&#xa;&#xa;ISRO remote sensing role" ID="ID_1600988107" CREATED="1548042540233" MODIFIED="1548042563928"/>
+</node>
 <node TEXT="Civil services reforms" FOLDED="true" ID="ID_1142933608" CREATED="1535799641039" MODIFIED="1535799645946">
 <node TEXT="baswan committee report" ID="ID_268537075" CREATED="1535799646102" MODIFIED="1535799649525">
 <node TEXT="modfication of examniation procedure" ID="ID_1577897970" CREATED="1535799698250" MODIFIED="1535799705939"/>
@@ -1081,7 +1064,7 @@
 <node TEXT="360 degree appraisal" ID="ID_360514561" CREATED="1535799665183" MODIFIED="1535799669246"/>
 <node TEXT="Lokpal and lokayukt,&#xa;TI = corrupt bureaucracy" ID="ID_1588508754" CREATED="1535799720192" MODIFIED="1535799732053"/>
 </node>
-<node TEXT="Evaluate Smart cities mission" ID="ID_838438887" CREATED="1544017357253" MODIFIED="1544017362649">
+<node TEXT="Evaluate Smart cities mission" FOLDED="true" ID="ID_838438887" CREATED="1544017357253" MODIFIED="1544017362649">
 <node TEXT="smart city" FOLDED="true" ID="ID_585747993" CREATED="1499531114473" MODIFIED="1499531116179">
 <node TEXT="water, electricity divide city into further zones == not coterminus" FOLDED="true" ID="ID_1951825797" CREATED="1499531176758" MODIFIED="1499531203778">
 <node TEXT="multiplicity of boundaries =&gt; deterrent to good governance" ID="ID_1301325701" CREATED="1499531116493" MODIFIED="1499531130625"/>
@@ -12994,7 +12977,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node TEXT="1.        Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment." ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1540965781406" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="start up" ID="ID_166453420" CREATED="1545237631092" MODIFIED="1545237633468">
 <node TEXT="SEBI - Innovators Growth Platform" ID="ID_298590427" CREATED="1545237579849" MODIFIED="1545237588597"/>
@@ -13119,7 +13102,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Data Security :&#xa;&#xa;secure communication&#xa;, data localisation&#xa;, interoperability" ID="ID_1666458251" CREATED="1547698253245" MODIFIED="1547698277109"/>
@@ -13192,7 +13174,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2nd ARC - Ethics in governance" FOLDED="true" ID="ID_331516792" CREATED="1498199101289" MODIFIED="1498199107125">
+<node TEXT="2nd ARC - Ethics in governance" ID="ID_331516792" CREATED="1498199101289" MODIFIED="1498199107125">
 <font NAME="Calibri"/>
 <node TEXT="Douglas Committee US" ID="ID_536150501" CREATED="1498199107901" MODIFIED="1499267329201">
 <font NAME="Calibri"/>
@@ -13382,11 +13364,15 @@
 </node>
 <node TEXT="[example]&#xa;1. poor govt. oversight&#xa;2. Lack of dedication to service&#xa;&#xa;&#xa;Sterlite Plant TN closed" ID="ID_1693209883" CREATED="1533224286417" MODIFIED="1533224341598"/>
 </node>
-<node TEXT="GS4" FOLDED="true" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
+<node TEXT="GS4" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
 <node TEXT="Ethics and Human Interface:&#xa;&#xa;Essence,&#xa;&#xa;determinants and&#xa;&#xa;consequences of Ethics&#xa;&#xa;in human actions;" ID="ID_471317236" CREATED="1544104497189" MODIFIED="1544104577475"/>
-<node TEXT="dimensions of ethics; ethics in private and public relationships." ID="ID_1160387195" CREATED="1544104497189" MODIFIED="1544104525494"/>
+<node TEXT="dimensions of ethics; ethics in private and public relationships." ID="ID_1160387195" CREATED="1544104497189" MODIFIED="1544104525494">
+<node TEXT="ethics vs law" ID="ID_1486554784" CREATED="1548051467810" MODIFIED="1548051469824">
+<node TEXT="dance bars mumbai" ID="ID_838410348" CREATED="1548051489897" MODIFIED="1548051506093" LINK="#ID_896691633"/>
+</node>
+</node>
 <node TEXT="Human Values &#x2013; lessons from the lives and teachings of great leaders, reformers and administrators&#xa;&#xa;; role of family, society and&#xa;educational institutions in inculcating values." ID="ID_177285877" CREATED="1544104497201" MODIFIED="1544104591422"/>
-<node TEXT="&#x2022; Attitude: content, structure, function&#xa;&#xa;; its influence and relation with thought and behaviour;" FOLDED="true" ID="ID_535502553" CREATED="1544104497213" MODIFIED="1544104694845">
+<node TEXT="&#x2022; Attitude: content, structure, function&#xa;&#xa;; its influence and relation with thought and behaviour;" ID="ID_535502553" CREATED="1544104497213" MODIFIED="1544104694845">
 <node TEXT="tax evasion,&#xa;SBM" ID="ID_1140948096" CREATED="1547462830096" MODIFIED="1547462834421"/>
 </node>
 <node TEXT="moral and political attitudes&#xa;&#xa;; social influence and persuasion." ID="ID_649383295" CREATED="1544104695598" MODIFIED="1544104704468"/>
@@ -13490,10 +13476,42 @@
 <node TEXT="no checks&#xa;, shift in ethical framework&#xa;, invincibility&#xa;, accountability" ID="ID_389508365" CREATED="1547466612703" MODIFIED="1547466639131"/>
 </node>
 </node>
-<node TEXT="down to earth" FOLDED="true" POSITION="left" ID="ID_198841592" CREATED="1535819507820" MODIFIED="1535819510051">
+<node TEXT="archived" FOLDED="true" POSITION="left" ID="ID_1339872449" CREATED="1548049642395" MODIFIED="1548049645212">
+<node TEXT="GS1" FOLDED="true" ID="ID_660311744" CREATED="1490333930862" MODIFIED="1490333932165">
+<node TEXT="geography" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1165018607" CREATED="1515567005446" MODIFIED="1515567007912">
+<node TEXT="Oceanic salinity&#xa;factors and effects" ID="ID_498653593" CREATED="1515567008134" MODIFIED="1515567048848">
+<node TEXT="defence budget = More on corrosive salinity in equitorial regions" ID="ID_1170195369" CREATED="1515567049205" MODIFIED="1515567090427"/>
+<node TEXT="food, fish" ID="ID_1129153962" CREATED="1515567112456" MODIFIED="1515567119018"/>
+</node>
+<node TEXT="Human Animal Conflict&#xa;&#xa;Tadoba and Pilibhit are e.g. [tiger]" FOLDED="true" ID="ID_602408552" CREATED="1530380751636" MODIFIED="1530380781587">
+<node TEXT="eco bridge" FOLDED="true" ID="ID_148469099" CREATED="1523814777256" MODIFIED="1523814779846">
+<node TEXT="why needed?" ID="ID_975169758" CREATED="1523814779939" MODIFIED="1523814781804">
+<node TEXT="prevent inbreeding&#xa;, Reduce human animal conflict&#xa;, need for migration of animals addressed" ID="ID_92241395" CREATED="1523814781917" MODIFIED="1537583227101"/>
+</node>
+<node TEXT="tadoba andhari tiger reserve" ID="ID_1187577704" CREATED="1527841106180" MODIFIED="1527841111782"/>
+</node>
+<node TEXT="MoEFCC&#xa;&#xa;death by tiger + elephant &gt;= 1000 since 2014-17" ID="ID_503110728" CREATED="1537583261353" MODIFIED="1537583279638"/>
+<node TEXT="GoI Done so far" ID="ID_1145877690" CREATED="1537583364778" MODIFIED="1537583370333">
+<node TEXT="National wildlife action plan&#xa;&#xa;NWAP, 2017-31&#xa;&#xa;, local knowledge to reduce conflict&#xa;, survey collect data&#xa;, train workforce&#xa;," ID="ID_374917489" CREATED="1537583399268" MODIFIED="1537583453820"/>
+</node>
+</node>
+</node>
+<node TEXT="newspaper" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_646265916" CREATED="1533958571382" MODIFIED="1533958574289">
+<node TEXT="Lata upadhyay, truck art&#xa;&#xa;effects of migrants on culture&#xa;, funded by Arts Council UK&#xa;," ID="ID_1398729220" CREATED="1533958580273" MODIFIED="1533958622739" LINK="https://www.thehindu.com/entertainment/art/assam-born-artist-takes-truck-art-to-the-uk/article24659250.ece"/>
+<node TEXT="Shwedagon Pagoda, Myanmar" FOLDED="true" ID="ID_1821876946" CREATED="1533958762189" MODIFIED="1533958806634" LINK="https://www.thehindu.com/news/international/modi-visits-shwedagon-pagoda-in-myanmar/article19634772.ece">
+<node TEXT=" Bodhi tree sapling at the pagoda complex, signifying common cultural heritage." ID="ID_1175584921" CREATED="1533958760120" MODIFIED="1533958761685"/>
+<node TEXT=" strands of Buddha&#x2019;s hair" ID="ID_80553780" CREATED="1533958786243" MODIFIED="1533958786549"/>
+</node>
+<node TEXT="Cross cultural comparison" FOLDED="true" ID="ID_1570186882" CREATED="1533958952214" MODIFIED="1533958957862">
+<node TEXT="Bori Johnson, Britain foreign Secretary&#xa;&#xa;Maori headbutt greeting like &apos;a pub in Glasgow&apos;" ID="ID_1536820768" CREATED="1533958958303" MODIFIED="1533959025993"/>
+</node>
+</node>
+</node>
+<node TEXT="down to earth" FOLDED="true" ID="ID_198841592" CREATED="1535819507820" MODIFIED="1535819510051">
 <node TEXT="NGT = 50% env cases filed are blackmailers" ID="ID_1440852975" CREATED="1535819510235" MODIFIED="1535819526342"/>
 <node TEXT="e Green watch" ID="ID_1850470453" CREATED="1526734685405" MODIFIED="1526734687796">
 <node TEXT="online monitoring of various afforestation works being carried out using CAMPA funds." ID="ID_823768376" CREATED="1526734683651" MODIFIED="1526734684511"/>
+</node>
 </node>
 </node>
 </node>
