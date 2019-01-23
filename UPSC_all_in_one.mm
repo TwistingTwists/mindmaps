@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -3873,7 +3873,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Economy" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
+<node TEXT="Economy" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1528478178" CREATED="1487759702747" MODIFIED="1495411253405">
 <font NAME="Calibri"/>
 <node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
 <node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
@@ -3997,7 +3997,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="farm loan waiver" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_994103194" CREATED="1498234432788" MODIFIED="1548048525167" LINK="#ID_1407806888" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
@@ -17253,7 +17252,7 @@
 <node TEXT="Quadrilateral cooperation n coordination mechanism&#xa;with Afghan + Pak + china + Tajikistan&#xa;on counterterror" LOCALIZED_STYLE_REF="default" ID="ID_1771990541" CREATED="1488534768587" MODIFIED="1488545169723"/>
 </node>
 </node>
-<node TEXT="Social" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1304810247" CREATED="1488174989799" MODIFIED="1494887616077">
+<node TEXT="Social" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1304810247" CREATED="1488174989799" MODIFIED="1494887616077">
 <font NAME="Calibri"/>
 <node TEXT="Women" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1572707793" CREATED="1488270931570" MODIFIED="1488545169853">
 <node TEXT="[oldies]" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_712046819" CREATED="1533888691572" MODIFIED="1533888696682">
@@ -17590,7 +17589,7 @@
 <node TEXT="linguistic defined at state level ONLY" ID="ID_1729232549" CREATED="1491448791586" MODIFIED="1491448800160"/>
 </node>
 </node>
-<node TEXT="Education" LOCALIZED_STYLE_REF="default" ID="ID_97534679" CREATED="1488613883329" MODIFIED="1488613885911">
+<node TEXT="Education" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_97534679" CREATED="1488613883329" MODIFIED="1488613885911">
 <node TEXT="6% of GDP in education" FOLDED="true" ID="ID_369084048" CREATED="1489479450842" MODIFIED="1489479464193">
 <node TEXT="Dhaka Declaration" ID="ID_103901550" CREATED="1489479464283" MODIFIED="1489479467716"/>
 </node>
@@ -17604,7 +17603,7 @@
 </node>
 </node>
 <node TEXT="vocational" ID="ID_1170109800" CREATED="1488613913794" MODIFIED="1488613916688"/>
-<node TEXT="Higher" ID="ID_292871053" CREATED="1488729820806" MODIFIED="1497234778157">
+<node TEXT="Higher" FOLDED="true" ID="ID_292871053" CREATED="1488729820806" MODIFIED="1497234778157">
 <icon BUILTIN="full-1"/>
 <node TEXT="HEFA" FOLDED="true" ID="ID_1520944034" CREATED="1488729823119" MODIFIED="1488729837318" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Sept&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20SEPTEMBER%202016.pdf">
 <node TEXT="not autonomous" ID="ID_1264029902" CREATED="1489498434358" MODIFIED="1489498437074"/>

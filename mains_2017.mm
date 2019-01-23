@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -365,7 +365,7 @@
 </node>
 </node>
 </node>
-<node TEXT="gs1" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
+<node TEXT="gs1" FOLDED="true" POSITION="left" ID="ID_1695530772" CREATED="1545130228412" MODIFIED="1545130233190">
 <node TEXT="Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times." ID="ID_1207566527" CREATED="1545140505177" MODIFIED="1545140505177"/>
 <node TEXT="Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues" ID="ID_1873907600" CREATED="1545140505177" MODIFIED="1545140560656" BACKGROUND_COLOR="#ffffcc"/>
 <node TEXT="The Freedom Struggle - its various stages and important contributors /contributions from different parts of the country." ID="ID_943195052" CREATED="1545140505199" MODIFIED="1545140560673" BACKGROUND_COLOR="#ffffcc">
@@ -469,7 +469,7 @@
 <node TEXT="world wars," ID="ID_807195162" CREATED="1545140505210" MODIFIED="1545140551043" BACKGROUND_COLOR="#ffcccc"/>
 <node TEXT="redrawing of national boundaries, colonization, decolonization," ID="ID_71225699" CREATED="1545140505214" MODIFIED="1545140551055" BACKGROUND_COLOR="#ffcccc"/>
 <node TEXT="political philosophies like communism, capitalism, socialism etc.- their forms and effect on the society." ID="ID_1189384215" CREATED="1545140505215" MODIFIED="1545140551067" BACKGROUND_COLOR="#ffcccc"/>
-<node TEXT="Salient features of Indian Society, Diversity of India." ID="ID_477335395" CREATED="1545140505217" MODIFIED="1545140533941" BACKGROUND_COLOR="#ccccff">
+<node TEXT="Salient features of Indian Society, Diversity of India." FOLDED="true" ID="ID_477335395" CREATED="1545140505217" MODIFIED="1545140533941" BACKGROUND_COLOR="#ccccff">
 <node TEXT="Caste system new association [2018]" FOLDED="true" ID="ID_1138407475" CREATED="1545188368709" MODIFIED="1545188381247">
 <node TEXT="social" ID="ID_1515762866" CREATED="1545188897339" MODIFIED="1545188898515">
 <node TEXT="mandal commision = horizontal caste, instead of earlier vertial withs tigma attached to lwoer caste." ID="ID_121619169" CREATED="1545188907186" MODIFIED="1545188924429"/>
@@ -555,8 +555,8 @@
 <node TEXT="Distribution of key natural resources across the world (including South Asia and the Indian sub-continent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1601226024" CREATED="1545140505232" MODIFIED="1545140575703" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
-<node TEXT="Governance, constitution polity" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
+<node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="unsorted" FOLDED="true" ID="ID_63813839" CREATED="1531068284878" MODIFIED="1531068292326">
 <font BOLD="true"/>
 <node TEXT="Voting Behaviour" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_29133261" CREATED="1489125865057" MODIFIED="1489125867404">
@@ -1223,7 +1223,7 @@
 </node>
 <node TEXT="SC - taxpayer&apos;s money cannot be used on religious structure repair" ID="ID_1617547619" CREATED="1532687873598" MODIFIED="1532687890159"/>
 </node>
-<node TEXT="Social Justice" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
+<node TEXT="Social Justice" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
@@ -1238,7 +1238,7 @@
 <node TEXT="NCD = 60% death in india" ID="ID_216836134" CREATED="1498839943685" MODIFIED="1498839948431"/>
 <node TEXT="NCD increasing = NFHS 4, 2015-16" ID="ID_245916358" CREATED="1498925064440" MODIFIED="1498925096520"/>
 </node>
-<node TEXT="Strategic private partnership" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_264488044" CREATED="1494669848616" MODIFIED="1498925889224" BACKGROUND_COLOR="#feffd6">
+<node TEXT="Strategic private partnership" LOCALIZED_STYLE_REF="default" ID="ID_264488044" CREATED="1494669848616" MODIFIED="1498925889224" BACKGROUND_COLOR="#feffd6">
 <font NAME="Century Schoolbook L" BOLD="true"/>
 <node TEXT="national health care standards org" ID="ID_1778299172" CREATED="1498839966320" MODIFIED="1498840001195"/>
 <node TEXT="inter sectoral approach = Coordination ministries" ID="ID_6213679" CREATED="1498840005960" MODIFIED="1498925746849"/>
@@ -1269,14 +1269,17 @@
 <node TEXT="affordable, equitable access" ID="ID_961317411" CREATED="1498925716372" MODIFIED="1498925723123"/>
 </node>
 </node>
-<node TEXT="Targets" FOLDED="true" ID="ID_1761240940" CREATED="1491307313148" MODIFIED="1491307314334">
+<node TEXT="Targets" ID="ID_1761240940" CREATED="1491307313148" MODIFIED="1491307314334">
 <node TEXT="life expectancy from 67.5 to 70" LOCALIZED_STYLE_REF="default" ID="ID_1139101418" CREATED="1491237012468" MODIFIED="1491307309373" BACKGROUND_COLOR="#feffd6">
 <font NAME="Century Schoolbook L"/>
 </node>
+<node TEXT="reduce mortality due to NCD by 25% upto2025" ID="ID_738956828" CREATED="1548224543799" MODIFIED="1548224560687"/>
+<node TEXT="MMR, NMR, &lt;5 MR, TFR" ID="ID_773811420" CREATED="1548224581876" MODIFIED="1548224600971"/>
 <node TEXT="vision apr 7.1 box" ID="ID_37541174" CREATED="1498840338272" MODIFIED="1498840345274"/>
+<node TEXT="AIDS, TB, leprosy, blindness, premature mortality due to NCD" ID="ID_468427131" CREATED="1548224974211" MODIFIED="1548225036589" LINK="http://pib.nic.in/newsite/PrintRelease.aspx?relid=177208"/>
 </node>
 <node TEXT="Criticism of policy" FOLDED="true" ID="ID_461455077" CREATED="1494411301868" MODIFIED="1494411305246">
-<node FOLDED="true" ID="ID_471557139" CREATED="1494411365894" MODIFIED="1494411391067"><richcontent TYPE="NODE">
+<node ID="ID_471557139" CREATED="1494411365894" MODIFIED="1494411391067"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1311,13 +1314,13 @@
 <node TEXT="no talk of public health education" ID="ID_1875283463" CREATED="1498840410875" MODIFIED="1498840426290"/>
 </node>
 <node TEXT="way forward" FOLDED="true" ID="ID_337665339" CREATED="1494411481320" MODIFIED="1494411482945">
-<node TEXT="can&apos;t be completely publicly funded" FOLDED="true" ID="ID_13206847" CREATED="1494411483148" MODIFIED="1494411489728">
+<node TEXT="can&apos;t be completely publicly funded" ID="ID_13206847" CREATED="1494411483148" MODIFIED="1494411489728">
 <node TEXT="low tax-base already!" ID="ID_508045604" CREATED="1494411489853" MODIFIED="1494411495773"/>
 </node>
 <node TEXT="private players in tertiary sector ; govt. in PHC" ID="ID_860883376" CREATED="1494411509071" MODIFIED="1494411522854"/>
 <node TEXT="patient monitoring! = integrate private and public practicioners under same ambit" ID="ID_982955924" CREATED="1520916628695" MODIFIED="1520916648752"/>
 </node>
-<node TEXT="health fodder" FOLDED="true" ID="ID_1605139476" CREATED="1498840378227" MODIFIED="1498926104870">
+<node TEXT="health fodder" ID="ID_1605139476" CREATED="1498840378227" MODIFIED="1498926104870">
 <node TEXT="help achieve SDG on health" LOCALIZED_STYLE_REF="default" ID="ID_828727916" CREATED="1498840369627" MODIFIED="1498926088492" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 </node>
@@ -1329,6 +1332,41 @@
 <node TEXT="micronutrient focus" ID="ID_1510075095" CREATED="1494669900592" MODIFIED="1494669903374"/>
 </node>
 <node TEXT="[example]&#xa;&#xa;TELANGANA  has its own Arogyashri backed by IT infra!" ID="ID_1872912981" CREATED="1533225945076" MODIFIED="1533225965008"/>
+</node>
+<node TEXT="NCD&#xa;&#xa;non communicable diseases" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_834419643" CREATED="1548220570534" MODIFIED="1548222414522">
+<font NAME="Calibri"/>
+<node TEXT="intro" FOLDED="true" ID="ID_1718722757" CREATED="1548221245851" MODIFIED="1548221247570">
+<node TEXT="depend upon&#xa;&#xa;person background&#xa;lifestyle&#xa;environment" ID="ID_1071266856" CREATED="1548220586746" MODIFIED="1548220603749"/>
+<node TEXT="diseases&#xa;&#xa;major (80%) = cardiovascular, respiratory, cancer, diabetes" ID="ID_1467736366" CREATED="1548220606436" MODIFIED="1548220676259"/>
+<node TEXT="Diabetes" LOCALIZED_STYLE_REF="default" ID="ID_849752864" CREATED="1487759906014" MODIFIED="1488545169823">
+<node TEXT="india = diabetic capital of world by 2030" ID="ID_135422579" CREATED="1525674817357" MODIFIED="1525674818992"/>
+<node TEXT="AYUSH-82&#xa;BGR-34" LOCALIZED_STYLE_REF="default" ID="ID_1373810560" CREATED="1487759910364" MODIFIED="1548224070983"/>
+</node>
+</node>
+<node TEXT="India : Health status report, 2018" ID="ID_805575781" CREATED="1548220574604" MODIFIED="1548220583140">
+<node TEXT="NCD = 61% in 2016" ID="ID_1365496922" CREATED="1548225116938" MODIFIED="1548225125319"/>
+</node>
+<node TEXT="issues" ID="ID_1639574043" CREATED="1548221263643" MODIFIED="1548221265487">
+<node TEXT="NCDs are not only a health problem but a development challenge as well." LOCALIZED_STYLE_REF="default" ID="ID_29818885" CREATED="1548224723551" MODIFIED="1548224855677" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="NCD inhibit sus dev goals, 2030&#xa;&#xa;poverty reduction hampered" ID="ID_1288133942" CREATED="1548221265614" MODIFIED="1548221283298"/>
+</node>
+<node TEXT="international efforts" FOLDED="true" ID="ID_529506366" CREATED="1548221212524" MODIFIED="1548221217838">
+<node TEXT="Moscow Declaration on NCD" ID="ID_99960211" CREATED="1548221204302" MODIFIED="1548221210500"/>
+<node TEXT="WHO Global action plan on NCD," ID="ID_1262188680" CREATED="1548221218679" MODIFIED="1548221234814">
+<font ITALIC="true"/>
+<node TEXT="focusses on reducing shared risk behaviour&#xa;&#xa;unhealthy diet&#xa;harmful use of alcohol&#xa;tobacco&#xa;physical inactivity" ID="ID_501656284" CREATED="1548221458225" MODIFIED="1548221503555"/>
+<node TEXT="to all Govs&#xa;&#xa;target make&#xa;reduce risk&#xa;measure outcomes" ID="ID_428564728" CREATED="1548221326432" MODIFIED="1548221343307"/>
+<node TEXT="international coordination&#xa;&#xa;reduce tobacco via WHO FCTC" ID="ID_1515230291" CREATED="1548222313096" MODIFIED="1548222329510"/>
+</node>
+</node>
+</node>
+<node TEXT="ayushman Bharat" LOCALIZED_STYLE_REF="default" ID="ID_1980252939" CREATED="1548220531284" MODIFIED="1548220535539">
+<font NAME="Calibri"/>
+<node TEXT="evalutate Ayushman Bharat&#xa;&#xa;aka&#xa;&#xa;NHPM" ID="ID_1884591173" CREATED="1548225077789" MODIFIED="1548225093040">
+<node TEXT="major spending on NCD&#xa;&#xa;tertiary care" ID="ID_945355312" CREATED="1548225094125" MODIFIED="1548225103235"/>
+</node>
 </node>
 <node TEXT="HIV BILL, 2014" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1700601274" CREATED="1488271491180" MODIFIED="1498841242146">
 <font NAME="Calibri"/>
@@ -1369,7 +1407,7 @@
 </node>
 </node>
 </node>
-<node TEXT="women" LOCALIZED_STYLE_REF="default" ID="ID_132650656" CREATED="1502369843633" MODIFIED="1502369844595">
+<node TEXT="women" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_132650656" CREATED="1502369843633" MODIFIED="1502369844595">
 <font NAME="Calibri"/>
 <node TEXT="sexual harassment" FOLDED="true" ID="ID_865243950" CREATED="1502369847295" MODIFIED="1502369854764">
 <node TEXT="any attack on personhood, physical or mental integrity," LOCALIZED_STYLE_REF="default" ID="ID_951234901" CREATED="1504152163936" MODIFIED="1504152180765">
@@ -1491,7 +1529,7 @@
 <node TEXT="youth" FOLDED="true" ID="ID_1772890823" CREATED="1530720314531" MODIFIED="1530720316125">
 <node TEXT="def&#xa;&#xa;Age related, acquire transition into adulthood" ID="ID_1437336555" CREATED="1530720316580" MODIFIED="1530720336622"/>
 </node>
-<node TEXT="Betterment of vulnerable sections" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1522382917507">
+<node TEXT="Betterment of vulnerable sections" FOLDED="true" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1522382917507">
 <node TEXT="children" ID="ID_1782340994" CREATED="1507641586177" MODIFIED="1507641587865">
 <node TEXT="Child Labor" FOLDED="true" ID="ID_1027291556" CREATED="1497950728446" MODIFIED="1497950731068">
 <node TEXT="family enterprise" LOCALIZED_STYLE_REF="default" ID="ID_1572271001" CREATED="1512619575488" MODIFIED="1512619581696">
@@ -10866,7 +10904,7 @@
 <node TEXT="http://upscpractice.blogspot.com/search/label/General%20Studies%20Paper%20I" ID="ID_1745392535" CREATED="1524239787385" MODIFIED="1524239787385" LINK="http://upscpractice.blogspot.com/search/label/General%20Studies%20Paper%20I"/>
 <node TEXT="http://upscpractice.blogspot.com/2017/09/radical-humanism-mn-roy.html" ID="ID_1283649668" CREATED="1524239791453" MODIFIED="1524239791453" LINK="http://upscpractice.blogspot.com/2017/09/radical-humanism-mn-roy.html"/>
 </node>
-<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1531407028667" LINK="http://mrunal.org/2017/11/dl-upsc-mains-gs3-2017.html#49">
+<node TEXT="GS3" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1531407028667" LINK="http://mrunal.org/2017/11/dl-upsc-mains-gs3-2017.html#49">
 <node TEXT="2017 mains" FOLDED="true" ID="ID_180616381" CREATED="1519604337394" MODIFIED="1519604339879">
 <node FOLDED="true" ID="ID_123910175" CREATED="1519604340521" MODIFIED="1519604371521"><richcontent TYPE="NODE">
 
@@ -12009,35 +12047,7 @@
 </node>
 </node>
 <node TEXT="Diseases" LOCALIZED_STYLE_REF="default" ID="ID_1132178798" CREATED="1487759811580" MODIFIED="1488545169823">
-<node TEXT="LifeStyle Diseases&#xa;Non communicable Diseases (NCD)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1708901493" CREATED="1487759811580" MODIFIED="1507641480301">
-<icon BUILTIN="flag-green"/>
-<node LOCALIZED_STYLE_REF="default" ID="ID_735458241" CREATED="1507641370112" MODIFIED="1525672300153"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><i><u>cardiovascular + diabetes</u></i></b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="WHO Global monitoring framework and action plan for NCD control&#xa;= india adopt" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1498089739" CREATED="1507641352890" MODIFIED="1507641397038">
-<node TEXT="NPCDCS" LOCALIZED_STYLE_REF="default" ID="ID_929674235" CREATED="1487759811580" MODIFIED="1488545169823"/>
-</node>
-<node TEXT="sugar tax kerala" LOCALIZED_STYLE_REF="default" ID="ID_1933425437" CREATED="1507641347202" MODIFIED="1507641504773">
-<font BOLD="true"/>
-</node>
-<node TEXT="Diabetes" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_849752864" CREATED="1487759906014" MODIFIED="1488545169823">
-<node TEXT="AYUSH-82" LOCALIZED_STYLE_REF="default" ID="ID_1373810560" CREATED="1487759910364" MODIFIED="1488545169823"/>
-<node TEXT="BGR-34" LOCALIZED_STYLE_REF="default" ID="ID_76707518" CREATED="1489475108051" MODIFIED="1489475130460"/>
-</node>
-<node TEXT="SDG mein included" LOCALIZED_STYLE_REF="default" ID="ID_1890274448" CREATED="1507641507664" MODIFIED="1507641512697"/>
-</node>
-<node TEXT="Hepatitis" LOCALIZED_STYLE_REF="default" ID="ID_1686619800" CREATED="1488541693227" MODIFIED="1488545169823">
+<node TEXT="Hepatitis" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1686619800" CREATED="1488541693227" MODIFIED="1488545169823">
 <node TEXT="Inflammation of liver" LOCALIZED_STYLE_REF="default" ID="ID_442712391" CREATED="1489737068943" MODIFIED="1489737073862"/>
 <node TEXT="virus" ID="ID_536962377" CREATED="1497261034053" MODIFIED="1497261035155"/>
 <node TEXT="end by 2030" ID="ID_1352668807" CREATED="1534309486348" MODIFIED="1534309494424">
@@ -12332,7 +12342,7 @@
 </node>
 </node>
 </node>
-<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1114169083" CREATED="1525672314499" MODIFIED="1525672556883">
+<node LOCALIZED_STYLE_REF="default" ID="ID_1114169083" CREATED="1525672314499" MODIFIED="1525672556883">
 <icon BUILTIN="idea"/>
 <richcontent TYPE="NODE">
 
@@ -12350,11 +12360,10 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Diseases  =&#xa;Infectious diseases reduced&#xa;, DALY rates higher than world&#xa;, water/sanitation = 5% of total burden" ID="ID_410828627" CREATED="1525672325903" MODIFIED="1525672592594" LINK="#ID_1708901493"/>
+<node TEXT="Diseases  =&#xa;Infectious diseases reduced&#xa;, DALY rates higher than world&#xa;, water/sanitation = 5% of total burden" ID="ID_410828627" CREATED="1525672325903" MODIFIED="1525672592594"/>
 <node TEXT="Injury =&#xa;due to road accident&#xa;," ID="ID_930862394" CREATED="1525672330554" MODIFIED="1525672416682"/>
 <node TEXT="Risk Factors =&#xa;Child and women malnutrition&#xa;, cardiovascular&#xa;, Pollution = outdoor (up) + indoor (down)" ID="ID_431625591" CREATED="1525672332388" MODIFIED="1525672465529"/>
 </node>
-<node TEXT="india = diabetic capital of world by 2030" ID="ID_135422579" CREATED="1525674817357" MODIFIED="1525674818992"/>
 <node TEXT="Indices" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1369962473" CREATED="1488178973825" MODIFIED="1495409096998">
 <node TEXT="" ID="ID_1403658149" CREATED="1495409080774" MODIFIED="1495409080776">
 <hook NAME="FirstGroupNode"/>
@@ -12420,7 +12429,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Policies /schemes" LOCALIZED_STYLE_REF="default" ID="ID_1287603073" CREATED="1487759811580" MODIFIED="1525674741976">
+<node TEXT="Policies /schemes" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1287603073" CREATED="1487759811580" MODIFIED="1525674741976">
 <node TEXT="Overview of the healthcare sector&#xa;&#xa;[see inforgraphics]&#xa;&#xa;OoPE&#xa;, INfra (bed needed)&#xa;&#xa;[by PwC-CII]" LOCALIZED_STYLE_REF="default" ID="ID_1672961224" CREATED="1533965183887" MODIFIED="1533965307474" LINK="https://www.financialexpress.com/opinion/a-premium-for-healthcare/1277188/"/>
 <node TEXT="Swacch Bharat Mission" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_653347620" CREATED="1488277453472" MODIFIED="1525496758250">
 <node TEXT="evaluate Swacch Bharat Mission" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1855222847" CREATED="1487759811580" MODIFIED="1537415643280" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-13.49999959766866 pt">
@@ -12977,7 +12986,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node TEXT="1.        Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment." ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1540965781406" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="start up" ID="ID_166453420" CREATED="1545237631092" MODIFIED="1545237633468">
 <node TEXT="SEBI - Innovators Growth Platform" ID="ID_298590427" CREATED="1545237579849" MODIFIED="1545237588597"/>
@@ -13364,7 +13373,7 @@
 </node>
 <node TEXT="[example]&#xa;1. poor govt. oversight&#xa;2. Lack of dedication to service&#xa;&#xa;&#xa;Sterlite Plant TN closed" ID="ID_1693209883" CREATED="1533224286417" MODIFIED="1533224341598"/>
 </node>
-<node TEXT="GS4" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
+<node TEXT="GS4" FOLDED="true" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
 <node TEXT="Ethics and Human Interface:&#xa;&#xa;Essence,&#xa;&#xa;determinants and&#xa;&#xa;consequences of Ethics&#xa;&#xa;in human actions;" ID="ID_471317236" CREATED="1544104497189" MODIFIED="1544104577475"/>
 <node TEXT="dimensions of ethics; ethics in private and public relationships." ID="ID_1160387195" CREATED="1544104497189" MODIFIED="1544104525494">
 <node TEXT="ethics vs law" ID="ID_1486554784" CREATED="1548051467810" MODIFIED="1548051469824">
