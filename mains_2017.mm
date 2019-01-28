@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -555,7 +555,7 @@
 <node TEXT="Distribution of key natural resources across the world (including South Asia and the Indian sub-continent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1601226024" CREATED="1545140505232" MODIFIED="1545140575703" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
 </node>
-<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
+<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
 <node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="unsorted" FOLDED="true" ID="ID_63813839" CREATED="1531068284878" MODIFIED="1531068292326">
 <font BOLD="true"/>
@@ -1223,7 +1223,7 @@
 </node>
 <node TEXT="SC - taxpayer&apos;s money cannot be used on religious structure repair" ID="ID_1617547619" CREATED="1532687873598" MODIFIED="1532687890159"/>
 </node>
-<node TEXT="Social Justice" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
+<node TEXT="Social Justice" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
@@ -2791,9 +2791,10 @@
 </node>
 </node>
 <node TEXT="Water Crisis and management" FOLDED="true" ID="ID_207470523" CREATED="1535871422194" MODIFIED="1535871429711">
-<node TEXT="the picture of crisis" FOLDED="true" ID="ID_1550474528" CREATED="1535873078469" MODIFIED="1535873082344">
+<node TEXT="the picture of crisis" ID="ID_1550474528" CREATED="1535873078469" MODIFIED="1535873082344">
 <node TEXT="80% freshwater in agri" ID="ID_1443207871" CREATED="1535873082547" MODIFIED="1535873086767"/>
 <node TEXT="rice + sugarcane = 25% of GCA but 60% of agri water used!&#xa;&#xa;GCA = gross cropped area" ID="ID_552289099" CREATED="1535873086939" MODIFIED="1535873103785"/>
+<node TEXT="CGWA, 2011&#xa;&#xa;out of 6k administrative units of water, only 4500 are usable.&#xa;&#xa;=&gt; need revival =&gt; Atal Bhujal" ID="ID_750843012" CREATED="1548353127234" MODIFIED="1548353188917" LINK="#ID_1131939472"/>
 <node TEXT="israel = 200 per cu m per yr&#xa;&#xa;india 1500" ID="ID_1027041039" CREATED="1535873107974" MODIFIED="1535873118851"/>
 </node>
 <node TEXT="israel role" ID="ID_1713688133" CREATED="1535871430055" MODIFIED="1535871446604" LINK="#ID_1872925940"/>
@@ -2804,6 +2805,9 @@
 <node TEXT="quantity of potable water,&#xa;reduce agri subsidy,&#xa;water for river flow maintain" ID="ID_1313315521" CREATED="1524583934991" MODIFIED="1524583952181"/>
 </node>
 <node TEXT="preservation methods + Schemes" FOLDED="true" ID="ID_913782012" CREATED="1535871600313" MODIFIED="1535871759867">
+<node TEXT="Bhungroo" FOLDED="true" ID="ID_299708839" CREATED="1548353085677" MODIFIED="1548353088923">
+<node TEXT="gujrat" ID="ID_1306179179" CREATED="1548353089443" MODIFIED="1548353090991"/>
+</node>
 <node TEXT="ameenpur lake" FOLDED="true" ID="ID_1415327862" CREATED="1523074844379" MODIFIED="1523074846114">
 <node ID="ID_1258357424" CREATED="1523074846973" MODIFIED="1526809603447"><richcontent TYPE="NODE">
 
@@ -2836,10 +2840,14 @@
 </node>
 <node TEXT="atal bhujal" FOLDED="true" ID="ID_1131939472" CREATED="1522214551864" MODIFIED="1522214554560">
 <node TEXT="demand side address" ID="ID_1426893736" CREATED="1525526007192" MODIFIED="1525526011709"/>
+<node TEXT="50% fund to gram panchayat + rest to state for strengthening institutional arrangement for water mgmt" ID="ID_716902053" CREATED="1548353044200" MODIFIED="1548353071703"/>
 <node TEXT="WB loan + central govt fund (Min water)" ID="ID_1328155786" CREATED="1525526012334" MODIFIED="1525526025680"/>
-<node TEXT="sustainable groundwater mgmt via community participation" ID="ID_1255670894" CREATED="1522214554978" MODIFIED="1522214569975"/>
+<node TEXT="sustainable groundwater mgmt via community participation" ID="ID_1255670894" CREATED="1522214554978" MODIFIED="1522214569975">
+<node TEXT="water budgeting,&#xa;gram panchayat based water security plans" ID="ID_574717537" CREATED="1548353198118" MODIFIED="1548353213690"/>
+<node TEXT="behavioral changes&#xa;convergence of schemes" ID="ID_1731844819" CREATED="1548353218972" MODIFIED="1548353231171"/>
 </node>
-<node TEXT="Jalmani" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_835044709" CREATED="1526093002726" MODIFIED="1527931121411" BACKGROUND_COLOR="#feffd6">
+</node>
+<node TEXT="Jalmani" LOCALIZED_STYLE_REF="default" ID="ID_835044709" CREATED="1526093002726" MODIFIED="1527931121411" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri" BOLD="true"/>
 <node TEXT="MoDW&amp;S" ID="ID_1726003050" CREATED="1526093037009" MODIFIED="1526093045024"/>
 <node TEXT="standalone water purifiers in school,&#xa;&#xa;owned by state auth" ID="ID_711602996" CREATED="1526093005303" MODIFIED="1526093036166"/>
@@ -2988,7 +2996,7 @@
 </node>
 </node>
 </node>
-<node TEXT="gs2" FOLDED="true" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
+<node TEXT="gs2" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
 <node TEXT="Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure." ID="ID_1794554400" CREATED="1544200456978" MODIFIED="1544200577047" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein." ID="ID_1222219820" CREATED="1544200456978" MODIFIED="1544200577059" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Separation of powers between various organs dispute redressal mechanisms and institutions." ID="ID_443019747" CREATED="1544200456980" MODIFIED="1544200577068" BACKGROUND_COLOR="#ccffcc"/>
@@ -2997,7 +3005,196 @@
 <node TEXT="&#x2022; Structure, organization and functioning of the Executive and the Judiciary Ministries and Departments of the Government; pressure groups and formal/informal associations and their role in the Polity." ID="ID_298742353" CREATED="1544200456984" MODIFIED="1544200577097" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Salient features of the Representation of People&#x2019;s Act." ID="ID_1960118948" CREATED="1544200456985" MODIFIED="1544200577105" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Appointment to various Constitutional posts, powers, functions and responsibilities of various Constitutional Bodies." ID="ID_1653435991" CREATED="1544200456987" MODIFIED="1544200577112" BACKGROUND_COLOR="#ccffcc"/>
-<node TEXT="&#x2022; Statutory, regulatory and various quasi-judicial bodies" ID="ID_1992748409" CREATED="1544200456988" MODIFIED="1544200577120" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Statutory, regulatory and various quasi-judicial bodies" ID="ID_1992748409" CREATED="1544200456988" MODIFIED="1544200577120" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="RTI vs Right to privacy" ID="ID_522916855" CREATED="1548411795930" MODIFIED="1548411800566">
+<node TEXT="single institutional model :" ID="ID_1131549120" CREATED="1548411820021" MODIFIED="1548411851954"/>
+<node TEXT="issues / controversy" FOLDED="true" ID="ID_1666120419" CREATED="1548411907414" MODIFIED="1548413067961" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="section 8(i) j" ID="ID_924475392" CREATED="1548411914006" MODIFIED="1548411919681">
+<node TEXT="not revealing info under RTI because PERSONAL INFORMATION&#xa;&#xa;privacy &gt; public interest" FOLDED="true" ID="ID_1827555546" CREATED="1548411920376" MODIFIED="1548412312435">
+<node ID="ID_1047412104" CREATED="1548411937356" MODIFIED="1548412072276"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Deshpande vs CIC, 2012 :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      salaries, tenures etc are personal info
+    </p>
+    <p>
+      <font color="#ff6666">asset, liabilities</font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="DoPT circular :&#xa;&#xa; complaints against officials and the action taken against them comes under the category of personal information&#xa;&#xa;=&gt; exempt from disclosure under the RTI act." ID="ID_903241599" CREATED="1548412085839" MODIFIED="1548412114686"/>
+<node TEXT="two provisions for with holding info:&#xa;&#xa;unwarranted invasion to privacy&#xa; , no relation to public interest" ID="ID_1372267977" CREATED="1548412125275" MODIFIED="1548412216534"/>
+<node TEXT="Data protection framework by Justice" ID="ID_1448828660" CREATED="1548411968876" MODIFIED="1548411980261">
+<node TEXT="information commissioner has a mandate to protect personal information" ID="ID_1256431000" CREATED="1548411980581" MODIFIED="1548412004537"/>
+</node>
+</node>
+<node ID="ID_1857416379" CREATED="1548412338786" MODIFIED="1548412811150"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rajgopal vs TN, 1994 :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      aka Auto Shankar Case.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i><font color="#ff3399">right to privacy against state</font></i>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_819727913" CREATED="1548412506651" MODIFIED="1548412634530"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      if autobiography published, would lead to violation of <font color="#3333ff">right to privacy </font>of public officials
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      =&gt; tussle b/w right to privacy vs freedom of expression
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="public officials have no right to privacy in case of public duty" ID="ID_1388171810" CREATED="1548412755531" MODIFIED="1548412777951">
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="RTI and Privacy in&#xa;&#xa;conflict" ID="ID_1673505468" CREATED="1548411852262" MODIFIED="1548411868407">
+<node TEXT="RTI = reveal info&#xa;Privacy  = hide" ID="ID_1610903602" CREATED="1548411884235" MODIFIED="1548411894392"/>
+</node>
+<node TEXT="RTI and privacy&#xa;&#xa;complement" ID="ID_1761284422" CREATED="1548411868596" MODIFIED="1548411882205">
+<node TEXT="RTI enforces privacy by revealing abuses" ID="ID_1732109101" CREATED="1548413775100" MODIFIED="1548413782089"/>
+<node TEXT="privacy law allows access to all personal information held by State" ID="ID_865153395" CREATED="1548413882116" MODIFIED="1548413893068"/>
+</node>
+<node TEXT="right to privacy = right of life" ID="ID_1503976213" CREATED="1499336009629" MODIFIED="1499336018270">
+<node TEXT="as a fundamental right" ID="ID_984709463" CREATED="1501193282139" MODIFIED="1501193284822">
+<node TEXT="SC = yes. FR! (reasonable restrictions)" FOLDED="true" ID="ID_1664196816" CREATED="1503985337007" MODIFIED="1503985353032">
+<node LOCALIZED_STYLE_REF="default" ID="ID_167431678" CREATED="1503985369288" MODIFIED="1503985445333" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      shows commitment to <i><b>human dignity</b></i>&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri"/>
+</node>
+<node TEXT="intrinsic recognition of heterogeneity against tide of conformity in solitude" LOCALIZED_STYLE_REF="default" ID="ID_697026972" CREATED="1503985386918" MODIFIED="1503985444752" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="vertical = against state&#xa;horizontal = against society" ID="ID_438216664" CREATED="1501193202965" MODIFIED="1501193215121"/>
+<node TEXT="inalienable right = UN Human Rights" LOCALIZED_STYLE_REF="default" ID="ID_1779879524" CREATED="1501193289262" MODIFIED="1503985449235" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="why privacy?" ID="ID_497631145" CREATED="1503985455952" MODIFIED="1503985460942">
+<node LOCALIZED_STYLE_REF="default" ID="ID_351315241" CREATED="1500710210111" MODIFIED="1503985452356" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>right to individual liberty </b>includes right to
+    </p>
+    <p>
+      develop personality,
+    </p>
+    <p>
+      thinking, actions, freedom of religion, conscience,
+    </p>
+    <p>
+      Hence, for liberty one needs privacy.
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="fodder" FOLDED="true" ID="ID_1505858764" CREATED="1503152114405" MODIFIED="1503152115887">
+<node TEXT="AP Shah Commitee Report" ID="ID_1787401276" CREATED="1506829021616" MODIFIED="1506829027120">
+<font BOLD="true" ITALIC="true"/>
+</node>
+<node TEXT="right to privacy for public official&#xa;answer questions for public welfare" ID="ID_74673770" CREATED="1499336146547" MODIFIED="1499336189541"/>
+<node ID="ID_783990781" CREATED="1501193537654" MODIFIED="1503152135424"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      data <b><u>protection </u></b>and <b><u>privacy </u></b>may have two different legislations
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="swaraj = self rule" ID="ID_1956643780" CREATED="1507082118773" MODIFIED="1507082128795">
+<node TEXT="Gandhi = self rule != only replacing british, but creating moral force to replace without violence" ID="ID_1240562808" CREATED="1507082128898" MODIFIED="1507082157649">
+<node TEXT="constitutional morality over majoritarian morality" ID="ID_18390976" CREATED="1507082286408" MODIFIED="1507082290940"/>
+</node>
+<node TEXT="privacy - rule over self. Gandhian idea of yet another freedom struggle" ID="ID_128495205" CREATED="1507082159695" MODIFIED="1507082182235">
+<node TEXT="not against external ruler, but enemy within" ID="ID_1531766063" CREATED="1507082239712" MODIFIED="1507082247411"/>
+</node>
+</node>
+<node TEXT="like freedom of press is not mentioned in 19. but deduced" ID="ID_1593642149" CREATED="1500710354527" MODIFIED="1500710371097">
+<node TEXT="same way, right to privacy not FR but deduced" ID="ID_989995852" CREATED="1500710371431" MODIFIED="1500710380331"/>
+</node>
+<node TEXT="junk" ID="ID_811113648" CREATED="1503985330833" MODIFIED="1503985331805">
+<node TEXT="yes/no&#xa;define contours&#xa;reasonable restrictions" FOLDED="true" ID="ID_1635389677" CREATED="1501193285340" MODIFIED="1501193315414">
+<node TEXT="no = Kharak singh, 1962&#xa;except in homes as &quot;our homes are our castle&quot;" ID="ID_1332460267" CREATED="1501193559936" MODIFIED="1501193588278"/>
+<node TEXT="SC judgement = not a FR. Hard to define + people consciously putting their info in public using tech" ID="ID_1244547989" CREATED="1500710153944" MODIFIED="1500710178337"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Privacy as in puttaswamy" ID="ID_923835460" CREATED="1548412914102" MODIFIED="1548412920195"/>
+</node>
+</node>
 <node TEXT="&#x2022; Government policies and interventions for development in various sectors and issues arising out of their design and implementation." ID="ID_927602710" CREATED="1544200456989" MODIFIED="1544200456989"/>
 <node TEXT="&#x2022; Development processes and the development industry- the role of NGOs, SHGs, various groups and associations, donors, charities, institutional and other stakeholders" FOLDED="true" ID="ID_559943090" CREATED="1544200456990" MODIFIED="1544200550013" BACKGROUND_COLOR="#ccccff">
 <node TEXT="FCRA bans 150 NGO funding :&#xa;&#xa;FCRA 2015 allows min fin to seek details of bank accounts of NGO from banks within 48 hours.&#xa;&#xa;Those NGO without an account in &apos;designated banks&apos; are stopped from foregin funds" ID="ID_1011631485" CREATED="1544499506824" MODIFIED="1544499558399"/>
@@ -4167,102 +4364,6 @@
 <node TEXT="easy interception and monitoring" ID="ID_599953232" CREATED="1499336042351" MODIFIED="1499336049919"/>
 <node TEXT="+ opaque functioning" ID="ID_1612276710" CREATED="1499336050483" MODIFIED="1499336061100"/>
 <node TEXT="e.g. AADHAR card for basic services" ID="ID_1483251368" CREATED="1499336061623" MODIFIED="1499336069677"/>
-</node>
-<node TEXT="right to privacy = right of life" FOLDED="true" ID="ID_1503976213" CREATED="1499336009629" MODIFIED="1499336018270">
-<node TEXT="as a fundamental right" FOLDED="true" ID="ID_984709463" CREATED="1501193282139" MODIFIED="1501193284822">
-<node TEXT="SC = yes. FR! (reasonable restrictions)" FOLDED="true" ID="ID_1664196816" CREATED="1503985337007" MODIFIED="1503985353032">
-<node LOCALIZED_STYLE_REF="default" ID="ID_167431678" CREATED="1503985369288" MODIFIED="1503985445333" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      shows commitment to <i><b>human dignity</b></i>&#160;
-    </p>
-  </body>
-</html>
-</richcontent>
-<font NAME="Calibri"/>
-</node>
-<node TEXT="intrinsic recognition of heterogeneity against tide of conformity in solitude" LOCALIZED_STYLE_REF="default" ID="ID_697026972" CREATED="1503985386918" MODIFIED="1503985444752" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="vertical = against state&#xa;horizontal = against society" ID="ID_438216664" CREATED="1501193202965" MODIFIED="1501193215121"/>
-<node TEXT="inalienable right = UN Human Rights" LOCALIZED_STYLE_REF="default" ID="ID_1779879524" CREATED="1501193289262" MODIFIED="1503985449235" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="why privacy?" FOLDED="true" ID="ID_497631145" CREATED="1503985455952" MODIFIED="1503985460942">
-<node LOCALIZED_STYLE_REF="default" ID="ID_351315241" CREATED="1500710210111" MODIFIED="1503985452356" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>right to individual liberty </b>includes right to
-    </p>
-    <p>
-      develop personality,
-    </p>
-    <p>
-      thinking, actions, freedom of religion, conscience,
-    </p>
-    <p>
-      Hence, for liberty one needs privacy.
-    </p>
-  </body>
-</html>
-</richcontent>
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="example" FOLDED="true" ID="ID_1303724015" CREATED="1501194385684" MODIFIED="1501194387653">
-<node TEXT="whatsapp by SC to delete user info after opted out" ID="ID_700356975" CREATED="1501194387841" MODIFIED="1501194399149"/>
-<node TEXT="DNA profiling of convicts" ID="ID_1547746162" CREATED="1501194399805" MODIFIED="1501194410131"/>
-<node TEXT="Aadhar bill" ID="ID_1659939813" CREATED="1501194410350" MODIFIED="1501194415224"/>
-</node>
-<node TEXT="fodder" FOLDED="true" ID="ID_1505858764" CREATED="1503152114405" MODIFIED="1503152115887">
-<node TEXT="AP Shah Commitee Report" ID="ID_1787401276" CREATED="1506829021616" MODIFIED="1506829027120">
-<font BOLD="true" ITALIC="true"/>
-</node>
-<node TEXT="right to privacy for public official&#xa;answer questions for public welfare" ID="ID_74673770" CREATED="1499336146547" MODIFIED="1499336189541"/>
-<node ID="ID_783990781" CREATED="1501193537654" MODIFIED="1503152135424"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      data <b><u>protection </u></b>and <b><u>privacy </u></b>may have two different legislations
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="swaraj = self rule" FOLDED="true" ID="ID_1956643780" CREATED="1507082118773" MODIFIED="1507082128795">
-<node TEXT="Gandhi = self rule != only replacing british, but creating moral force to replace without violence" FOLDED="true" ID="ID_1240562808" CREATED="1507082128898" MODIFIED="1507082157649">
-<node TEXT="constitutional morality over majoritarian morality" ID="ID_18390976" CREATED="1507082286408" MODIFIED="1507082290940"/>
-</node>
-<node TEXT="privacy - rule over self. Gandhian idea of yet another freedom struggle" FOLDED="true" ID="ID_128495205" CREATED="1507082159695" MODIFIED="1507082182235">
-<node TEXT="not against external ruler, but enemy within" ID="ID_1531766063" CREATED="1507082239712" MODIFIED="1507082247411"/>
-</node>
-</node>
-<node TEXT="like freedom of press is not mentioned in 19. but deduced" FOLDED="true" ID="ID_1593642149" CREATED="1500710354527" MODIFIED="1500710371097">
-<node TEXT="same way, right to privacy not FR but deduced" ID="ID_989995852" CREATED="1500710371431" MODIFIED="1500710380331"/>
-</node>
-<node TEXT="junk" FOLDED="true" ID="ID_811113648" CREATED="1503985330833" MODIFIED="1503985331805">
-<node TEXT="yes/no&#xa;define contours&#xa;reasonable restrictions" FOLDED="true" ID="ID_1635389677" CREATED="1501193285340" MODIFIED="1501193315414">
-<node TEXT="no = Kharak singh, 1962&#xa;except in homes as &quot;our homes are our castle&quot;" ID="ID_1332460267" CREATED="1501193559936" MODIFIED="1501193588278"/>
-<node TEXT="SC judgement = not a FR. Hard to define + people consciously putting their info in public using tech" ID="ID_1244547989" CREATED="1500710153944" MODIFIED="1500710178337"/>
-</node>
-</node>
-</node>
 </node>
 </node>
 <node TEXT="Transport internationaux Routiers (TIR)" FOLDED="true" ID="ID_1017099474" CREATED="1497964224368" MODIFIED="1497964243949">
@@ -10904,7 +11005,7 @@
 <node TEXT="http://upscpractice.blogspot.com/search/label/General%20Studies%20Paper%20I" ID="ID_1745392535" CREATED="1524239787385" MODIFIED="1524239787385" LINK="http://upscpractice.blogspot.com/search/label/General%20Studies%20Paper%20I"/>
 <node TEXT="http://upscpractice.blogspot.com/2017/09/radical-humanism-mn-roy.html" ID="ID_1283649668" CREATED="1524239791453" MODIFIED="1524239791453" LINK="http://upscpractice.blogspot.com/2017/09/radical-humanism-mn-roy.html"/>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1531407028667" LINK="http://mrunal.org/2017/11/dl-upsc-mains-gs3-2017.html#49">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1531407028667" LINK="http://mrunal.org/2017/11/dl-upsc-mains-gs3-2017.html#49">
 <node TEXT="2017 mains" FOLDED="true" ID="ID_180616381" CREATED="1519604337394" MODIFIED="1519604339879">
 <node FOLDED="true" ID="ID_123910175" CREATED="1519604340521" MODIFIED="1519604371521"><richcontent TYPE="NODE">
 
@@ -12986,7 +13087,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node TEXT="1.        Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment." ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1540965781406" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="start up" ID="ID_166453420" CREATED="1545237631092" MODIFIED="1545237633468">
 <node TEXT="SEBI - Innovators Growth Platform" ID="ID_298590427" CREATED="1545237579849" MODIFIED="1545237588597"/>

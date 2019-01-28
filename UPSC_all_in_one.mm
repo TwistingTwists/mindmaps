@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -254,7 +254,7 @@
 <font NAME="Calibri"/>
 <node TEXT="MoSJE" ID="ID_214887664" CREATED="1496294449804" MODIFIED="1496294451476"/>
 <node TEXT="Non-bailable, cognizable" LOCALIZED_STYLE_REF="default" ID="ID_32309946" CREATED="1488170738086" MODIFIED="1495363696279"/>
-<node TEXT="NCSK implementing agency" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_262201895" CREATED="1495363826145" MODIFIED="1495363855997">
+<node TEXT="NCSK implementing agency" LOCALIZED_STYLE_REF="default" ID="ID_262201895" CREATED="1495363826145" MODIFIED="1495363855997">
 <node TEXT="national commission for safai karamchari" FOLDED="true" ID="ID_1166059001" CREATED="1495363834532" MODIFIED="1495363849844">
 <node ID="ID_1259192379" CREATED="1496709485983" MODIFIED="1496709507893"><richcontent TYPE="NODE">
 
@@ -337,7 +337,7 @@
 </html>
 </richcontent>
 </node>
-<node ID="ID_1719827553" CREATED="1495363888080" MODIFIED="1496294418685"><richcontent TYPE="NODE">
+<node ID="ID_1719827553" CREATED="1495363888080" MODIFIED="1548473821477"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -345,11 +345,13 @@
   </head>
   <body>
     <p>
-      emptying human waste that has<br/><b><i>decomposed in a latrine pit </i></b>is<font color="#ff6600"><b>&#160; not</b></font>&#160;considered manual scavenging&#160;&#160;=&gt;&#160;&#160;not illegal.<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+      emptying human waste that has<br/><b><i>decomposed in a latrine pit (septic tanks)</i></b>is<font color="#ff6600"><b>&#160;&#160;not</b></font>&#160;considered manual scavenging&#160;&#160;=&gt;&#160;&#160;not illegal.<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
     </p>
   </body>
 </html>
+
 </richcontent>
+<node TEXT="hiring manual scavengers under SBM made toilets" ID="ID_657106408" CREATED="1548473822326" MODIFIED="1548473833534"/>
 </node>
 </node>
 <node TEXT="( PBPT ) Benami Transaction Act, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1188096601" CREATED="1488256883224" MODIFIED="1494887615973" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
@@ -3984,6 +3986,57 @@
 </node>
 <node TEXT="Agricultural Credit" ID="ID_154177971" CREATED="1548047330991" MODIFIED="1548047336439">
 <node TEXT="NABARD&#x2019;s Financial Inclusion Survey (NAFIS), between July 2015-June 2016, 43.5 per cent of all agri-households took loans." ID="ID_1439879051" CREATED="1548047339652" MODIFIED="1548047351571" LINK="https://indianexpress.com/article/opinion/columns/indian-farmers-suicides-agrarian-crisis-farmer-protest-5525912/"/>
+<node TEXT="regional disparity in agricultural credit" ID="ID_616603084" CREATED="1548481590350" MODIFIED="1548481605094">
+<node TEXT="southern (42%)&#xa;northern (22%)&#xa;NE (0.8%)&#xa;&#xa;of total agri credit" ID="ID_1243054100" CREATED="1548481606022" MODIFIED="1548481643008"/>
+<node ID="ID_19117068" CREATED="1548481649305" MODIFIED="1548481665413"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      enhance <font color="#3333ff">equity in agri credit?</font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_1107008827" CREATED="1548481668477" MODIFIED="1548481715879"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Promote FPO, Joint liabilities
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Digital tech
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      create rural infra as it leads to MORE absorption of rural credit
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Create special PSL for <font color="#ff6633">Small and marginal farmers</font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
 <node TEXT=" 30.3 per cent (69.7 per cent multiplied with 43.5 per cent) of Indian agri-households took loans from institutions." ID="ID_1034193017" CREATED="1548047447840" MODIFIED="1548047448187"/>
 <node ID="ID_1407806888" CREATED="1548048230423" MODIFIED="1548048251070"><richcontent TYPE="NODE">
 
@@ -7552,8 +7605,14 @@
 <node TEXT="ozone + PAN + formaldehyde + Acrolein + Nitric oxide" ID="ID_1321287270" CREATED="1495767249751" MODIFIED="1495767283353"/>
 </node>
 <node TEXT="Air pollution" FOLDED="true" ID="ID_1925951541" CREATED="1504929825030" MODIFIED="1504929827867">
+<node TEXT="perspective" ID="ID_548214218" CREATED="1548332791440" MODIFIED="1548332796474">
+<node TEXT="india lost $500 bn owing to air pollution : WB" ID="ID_591195573" CREATED="1548332796613" MODIFIED="1548332811790"/>
+<node TEXT="green gdp?" ID="ID_459048445" CREATED="1548332826603" MODIFIED="1548332831502">
+<node TEXT="done by GoI:&#xa;&#xa;1. MoSPI - Compendium on Env stats, 2013&#xa;2. 12th 5year plan on groundwater resource mapping&#xa;&#xa;&#xa;todo:&#xa;UN system of env mapping,&#xa;&#xa;empirical studies more related to potential env loss" ID="ID_750358887" CREATED="1548333005599" MODIFIED="1548333081809"/>
+</node>
+</node>
 <node TEXT="background air pollution monitoring = GAW + WMO + India yes" ID="ID_62319304" CREATED="1497679037210" MODIFIED="1497679049777"/>
-<node TEXT="BS norms" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1062427906" CREATED="1489409412054" MODIFIED="1525513718669">
+<node TEXT="BS norms" LOCALIZED_STYLE_REF="default" ID="ID_1062427906" CREATED="1489409412054" MODIFIED="1525513718669">
 <icon BUILTIN="idea"/>
 <node TEXT="2126 - 67" ID="ID_392460627" CREATED="1489409414696" MODIFIED="1489409422290" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf"/>
 <node TEXT="def - regulate air pollution from internal combustion of engines" LOCALIZED_STYLE_REF="default" ID="ID_641935263" CREATED="1525513660394" MODIFIED="1525513734996" BACKGROUND_COLOR="#feffd6">
@@ -7593,7 +7652,7 @@
 </node>
 </node>
 </node>
-<node TEXT="NAQI&#xa;national air quality index" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_546852500" CREATED="1489407356296" MODIFIED="1525513744132">
+<node TEXT="NAQI&#xa;national air quality index" LOCALIZED_STYLE_REF="default" ID="ID_546852500" CREATED="1489407356296" MODIFIED="1525513744132">
 <attribute_layout VALUE_WIDTH="93.75 pt"/>
 <node TEXT="2126 - 49" FOLDED="true" ID="ID_905215451" CREATED="1489407358803" MODIFIED="1489407362587" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf">
 <node TEXT="more than 3 times WHO limit" ID="ID_929547854" CREATED="1491720067948" MODIFIED="1491720075061"/>
@@ -7622,18 +7681,18 @@
 </node>
 </node>
 <node TEXT="lichens identify" ID="ID_1589393664" CREATED="1500908406655" MODIFIED="1500908410166"/>
-<node TEXT="clear the air for children - UNICEF" FOLDED="true" ID="ID_1483391489" CREATED="1500908493145" MODIFIED="1500908498635">
+<node TEXT="clear the air for children - UNICEF" ID="ID_1483391489" CREATED="1500908493145" MODIFIED="1500908498635">
 <node TEXT="trans boundary risks" ID="ID_1405050447" CREATED="1500908514190" MODIFIED="1500908519389"/>
 <node TEXT="global scale investment" ID="ID_602394579" CREATED="1500908526096" MODIFIED="1500908530922"/>
 </node>
-<node TEXT="fodder" FOLDED="true" ID="ID_45221754" CREATED="1504929880831" MODIFIED="1504929882085">
-<node TEXT="delhi = 10-15 times higher than safe levels" FOLDED="true" ID="ID_1086796138" CREATED="1500908839773" MODIFIED="1500908848683">
+<node TEXT="fodder" ID="ID_45221754" CREATED="1504929880831" MODIFIED="1504929882085">
+<node TEXT="delhi = 10-15 times higher than safe levels" ID="ID_1086796138" CREATED="1500908839773" MODIFIED="1500908848683">
 <node TEXT="delhi HC suo motu action on stubble burning" ID="ID_847213713" CREATED="1506489918683" MODIFIED="1506489925708"/>
 </node>
-<node TEXT="WIFEX, stubble burning, ppt over oceans," FOLDED="true" ID="ID_1973021048" CREATED="1504929548943" MODIFIED="1531407707914">
+<node TEXT="WIFEX, stubble burning, ppt over oceans," ID="ID_1973021048" CREATED="1504929548943" MODIFIED="1531407707914">
 <icon BUILTIN="flag-green"/>
-<node TEXT="stubble burning cure" FOLDED="true" ID="ID_1537183337" CREATED="1531407708916" MODIFIED="1531407719524">
-<node TEXT="Happy Seeder for paddy" FOLDED="true" ID="ID_939541594" CREATED="1531407720709" MODIFIED="1531407729319">
+<node TEXT="stubble burning cure" ID="ID_1537183337" CREATED="1531407708916" MODIFIED="1531407719524">
+<node TEXT="Happy Seeder for paddy" ID="ID_939541594" CREATED="1531407720709" MODIFIED="1531407729319">
 <node ID="ID_1555725070" CREATED="1532682971803" MODIFIED="1532682979150"><richcontent TYPE="NODE">
 
 <html>
