@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -3199,6 +3199,37 @@
 <node TEXT="&#x2022; Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections." ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1544200550025" BACKGROUND_COLOR="#ccccff"/>
 <node TEXT="&#x2022; Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources." ID="ID_125618532" CREATED="1544200456993" MODIFIED="1544200550035" BACKGROUND_COLOR="#ccccff"/>
 <node TEXT="&#x2022; Issues relating to poverty and hunger." FOLDED="true" ID="ID_1069550365" CREATED="1544200456994" MODIFIED="1544200550041" BACKGROUND_COLOR="#ccccff">
+<node TEXT="poverty" ID="ID_1917179760" CREATED="1549044328150" MODIFIED="1549044329961">
+<font BOLD="true"/>
+<node TEXT="Govt goal should&#xa;&#xa;not to eradicate poverty&#xa;&#xa;but to create prosperity ( high economic growth )" ID="ID_1502168690" CREATED="1549044347336" MODIFIED="1549044381113"/>
+<node TEXT="housing electricity bring down poverty fast&#xa;&#xa;toilets creations" ID="ID_239505671" CREATED="1549044401665" MODIFIED="1549044417432"/>
+<node TEXT="expenditure on agriculture" ID="ID_1321868014" CREATED="1549044417592" MODIFIED="1549044422310">
+<node ID="ID_1240513772" CREATED="1549044612536" MODIFIED="1549044644513"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      farm <font color="#3333ff">subsidies</font>&#160;are MORE than <font color="#0000ff">investment</font>&#160;in agriculture!
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="entitle based approach -&gt; empowerment based approach" ID="ID_198193991" CREATED="1549044513343" MODIFIED="1549044531343"/>
+<node TEXT="income and wealth inequality" FOLDED="true" ID="ID_142512359" CREATED="1549044535543" MODIFIED="1549044582434">
+<node TEXT="tax wealth as well as income" ID="ID_1603421504" CREATED="1549044589826" MODIFIED="1549044596345"/>
+</node>
+<node TEXT="todo to remove poverty" ID="ID_31369596" CREATED="1549045198082" MODIFIED="1549045203504">
+<node TEXT="social safety net for the people&#xa;&#xa;Income transfer for farmer" ID="ID_279602639" CREATED="1549045223683" MODIFIED="1549045246213"/>
+<node TEXT="public infra investment" ID="ID_1660425791" CREATED="1549045203687" MODIFIED="1549045212302"/>
+</node>
+</node>
+<node TEXT="hunger" FOLDED="true" ID="ID_1291657078" CREATED="1549044335087" MODIFIED="1549044337156">
 <node TEXT="nutrition" FOLDED="true" ID="ID_590871261" CREATED="1509014088155" MODIFIED="1528989664643">
 <icon BUILTIN="flag-green"/>
 <font BOLD="true"/>
@@ -3396,6 +3427,7 @@
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="WB $220mn loan" ID="ID_1910358578" CREATED="1527150609664" MODIFIED="1527150615784"/>
+</node>
 </node>
 </node>
 </node>
@@ -13085,7 +13117,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node TEXT="1.        Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment." FOLDED="true" ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1540965781406" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="start up" FOLDED="true" ID="ID_166453420" CREATED="1545237631092" MODIFIED="1545237633468">
 <node TEXT="SEBI - Innovators Growth Platform" ID="ID_298590427" CREATED="1545237579849" MODIFIED="1545237588597"/>
@@ -14318,7 +14350,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Pollution" LOCALIZED_STYLE_REF="default" ID="ID_16222996" CREATED="1488550724856" MODIFIED="1497043998638">
+<node TEXT="Pollution" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_16222996" CREATED="1488550724856" MODIFIED="1497043998638">
 <font NAME="Calibri"/>
 <node TEXT="India cost = 8.5% of GDP due to pollution" ID="ID_1706740518" CREATED="1488732796937" MODIFIED="1488732808668">
 <node TEXT="70% waste from non point sources (municipal, agri run offs, domestic) ; only 30% from point sources&#xa;&#xa;=&gt; limited capability to clean!" LOCALIZED_STYLE_REF="default" ID="ID_1334899228" CREATED="1495841791703" MODIFIED="1495841844054" BACKGROUND_COLOR="#feffd6">
@@ -16460,7 +16492,7 @@
 </node>
 <node TEXT="[example]&#xa;1. poor govt. oversight&#xa;2. Lack of dedication to service&#xa;&#xa;&#xa;Sterlite Plant TN closed" ID="ID_1693209883" CREATED="1533224286417" MODIFIED="1533224341598"/>
 </node>
-<node TEXT="GS4" FOLDED="true" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
+<node TEXT="GS4" POSITION="left" ID="ID_854618673" CREATED="1544104433640" MODIFIED="1544104435413">
 <node TEXT="Ethics and Human Interface:&#xa;&#xa;Essence,&#xa;&#xa;determinants and&#xa;&#xa;consequences of Ethics&#xa;&#xa;in human actions;" ID="ID_471317236" CREATED="1544104497189" MODIFIED="1544104577475"/>
 <node TEXT="dimensions of ethics; ethics in private and public relationships." FOLDED="true" ID="ID_1160387195" CREATED="1544104497189" MODIFIED="1544104525494">
 <node TEXT="ethics vs law" FOLDED="true" ID="ID_1486554784" CREATED="1548051467810" MODIFIED="1548051469824">
