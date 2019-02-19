@@ -748,7 +748,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Ram Singh vs Union of India" FOLDED="true" ID="ID_25653602" CREATED="1549457700109" MODIFIED="1549457706108">
+<node TEXT="Ram Singh vs Union of India" ID="ID_25653602" CREATED="1549457700109" MODIFIED="1549457706108">
 <node TEXT="define new dimensions of social backwardness&#xa;&#xa;e.g. reservation to Transgenders" ID="ID_746049568" CREATED="1549457714163" MODIFIED="1549457744719"/>
 </node>
 <node ID="ID_876820092" CREATED="1549457755161" MODIFIED="1549458002603"><richcontent TYPE="NODE">
@@ -973,7 +973,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1055,7 +1054,11 @@
 </node>
 </node>
 <node TEXT="Salient features of world&apos;s physical geography." ID="ID_1667913573" CREATED="1545140505229" MODIFIED="1545140575699" BACKGROUND_COLOR="#ccffcc"/>
-<node TEXT="Distribution of key natural resources across the world (including South Asia and the Indian sub-continent)" ID="ID_1601226024" CREATED="1545140505232" MODIFIED="1549617287018" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="Distribution of key natural resources across the world (including South Asia and the Indian sub-continent)" ID="ID_1601226024" CREATED="1545140505232" MODIFIED="1549617287018" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="geothermal energy sites" ID="ID_1873990855" CREATED="1550467282022" MODIFIED="1550467285424">
+<node TEXT="cambay&#xa;&#xa;SONATA&#xa;Puga valley - Kashmir&#xa;manikaran" ID="ID_1546439742" CREATED="1550467285533" MODIFIED="1550467297685"/>
+</node>
+</node>
 <node TEXT=" factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1617790756" CREATED="1549617287506" MODIFIED="1549617293252" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
 </node>
@@ -1625,112 +1628,6 @@
 </node>
 </node>
 </node>
-<node TEXT="constitution + polity" LOCALIZED_STYLE_REF="default" ID="ID_1593403955" CREATED="1530941423899" MODIFIED="1530941432245">
-<font NAME="Calibri" BOLD="true"/>
-<node TEXT="Role of governor" FOLDED="true" ID="ID_984505114" CREATED="1530941880505" MODIFIED="1530941888057">
-<node ID="ID_1339367514" CREATED="1530941888358" MODIFIED="1530942709170"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><i>dual</i></b>
-    </p>
-    <p>
-      , as centre agent
-    </p>
-    <p>
-      , constitutional head of state
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_1066179790" CREATED="1530942715889" MODIFIED="1530942942453"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      154 - executive power of state in governor
-    </p>
-    <p>
-      155 - gov by president
-    </p>
-    <p>
-      156 - at presi pleasure
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      158 - not hold <b><i>office of profit</i></b>, or member of LS/HS/ State Leg
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Sarkaria commission on&#xa;&#xa;, centre state relations&#xa;, balance of power between centre and state" FOLDED="true" ID="ID_146565589" CREATED="1530942009685" MODIFIED="1530942612662">
-<node ID="ID_1805918297" CREATED="1530942088787" MODIFIED="1530942125749"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      status quo in centre state relationship
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      legislative matters<br/>, <b>role of governor </b>
-    </p>
-    <p>
-      , 356 use
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="non-political governor&#xa;in consultation with&#xa;&#xa;CM + VP + Speaker (LS)" ID="ID_591648319" CREATED="1530942128759" MODIFIED="1530942151872"/>
-</node>
-<node TEXT="JnK special case" FOLDED="true" ID="ID_258618193" CREATED="1530941903200" MODIFIED="1530941908721">
-<node ID="ID_1333487907" CREATED="1530941908879" MODIFIED="1530942000018" LINK="https://youtu.be/shE9LfVLxqU?t=473"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>constitution JnK</b>
-    </p>
-    <p>
-      92 - Governor's rule,
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="simultaneous elections" FOLDED="true" ID="ID_1796293803" CREATED="1531996664586" MODIFIED="1531996669202">
-<node TEXT="need CoI amendment" FOLDED="true" ID="ID_1130751327" CREATED="1531996669343" MODIFIED="1531996675026">
-<node TEXT="83, 172 LS tenure cna&apos;t be &gt;5 years unless emergency" ID="ID_917710215" CREATED="1531996675877" MODIFIED="1531996745505"/>
-</node>
-</node>
-<node TEXT="SC - taxpayer&apos;s money cannot be used on religious structure repair" ID="ID_1617547619" CREATED="1532687873598" MODIFIED="1532687890159"/>
-<node TEXT="Fake news and Constitution" ID="ID_1756232228" CREATED="1549594948615" MODIFIED="1549594986202" LINK="https://www.livelaw.in/columns/does-the-constitution-protect-fake-news-142596?fbclid=IwAR0Y3nskuQ-NGhMZ2pc4fbmSKFqHlyusXarA-tCVqB3wa34T5CqBSQFFk2M">
-<node TEXT="&#x25cb; countering misinformation via public education, not punishment." ID="ID_309190404" CREATED="1549594957907" MODIFIED="1549708697299"/>
-<node TEXT="State is far from a politically neutral actor  - thus even if you make fake news law - it may be misused." ID="ID_1916805143" CREATED="1549594969998" MODIFIED="1549594970916"/>
-</node>
-</node>
 <node TEXT="Social Justice" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
@@ -1841,7 +1738,7 @@
 </node>
 <node TEXT="[example]&#xa;&#xa;TELANGANA  has its own Arogyashri backed by IT infra!" ID="ID_1872912981" CREATED="1533225945076" MODIFIED="1533225965008"/>
 </node>
-<node TEXT="NCD&#xa;&#xa;non communicable diseases" LOCALIZED_STYLE_REF="default" ID="ID_834419643" CREATED="1548220570534" MODIFIED="1549709181801">
+<node TEXT="NCD&#xa;&#xa;non communicable diseases" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_834419643" CREATED="1548220570534" MODIFIED="1549709181801">
 <font NAME="Calibri"/>
 <cloud COLOR="#f0f0f0" SHAPE="ARC"/>
 <node TEXT="intro" FOLDED="true" ID="ID_1718722757" CREATED="1548221245851" MODIFIED="1548221247570">
@@ -3586,15 +3483,880 @@
 </node>
 </node>
 </node>
-<node TEXT="gs2" FOLDED="true" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
+<node TEXT="gs2" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
 <node TEXT="Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure." ID="ID_1794554400" CREATED="1544200456978" MODIFIED="1544200577047" BACKGROUND_COLOR="#ccffcc"/>
-<node TEXT="&#x2022; Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein." ID="ID_1222219820" CREATED="1544200456978" MODIFIED="1544200577059" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein." ID="ID_1222219820" CREATED="1544200456978" MODIFIED="1544200577059" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="constitution + polity" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1593403955" CREATED="1530941423899" MODIFIED="1530941432245">
+<font NAME="Calibri" BOLD="true"/>
+<node TEXT="Role of governor" FOLDED="true" ID="ID_984505114" CREATED="1530941880505" MODIFIED="1530941888057">
+<node ID="ID_1339367514" CREATED="1530941888358" MODIFIED="1530942709170"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><i>dual</i></b>
+    </p>
+    <p>
+      , as centre agent
+    </p>
+    <p>
+      , constitutional head of state
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1066179790" CREATED="1530942715889" MODIFIED="1530942942453"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      154 - executive power of state in governor
+    </p>
+    <p>
+      155 - gov by president
+    </p>
+    <p>
+      156 - at presi pleasure
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      158 - not hold <b><i>office of profit</i></b>, or member of LS/HS/ State Leg
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Sarkaria commission on&#xa;&#xa;, centre state relations&#xa;, balance of power between centre and state" FOLDED="true" ID="ID_146565589" CREATED="1530942009685" MODIFIED="1530942612662">
+<node ID="ID_1805918297" CREATED="1530942088787" MODIFIED="1530942125749"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      status quo in centre state relationship
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      legislative matters<br/>, <b>role of governor </b>
+    </p>
+    <p>
+      , 356 use
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="non-political governor&#xa;in consultation with&#xa;&#xa;CM + VP + Speaker (LS)" ID="ID_591648319" CREATED="1530942128759" MODIFIED="1530942151872"/>
+</node>
+<node TEXT="JnK special case" FOLDED="true" ID="ID_258618193" CREATED="1530941903200" MODIFIED="1530941908721">
+<node ID="ID_1333487907" CREATED="1530941908879" MODIFIED="1530942000018" LINK="https://youtu.be/shE9LfVLxqU?t=473"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>constitution JnK</b>
+    </p>
+    <p>
+      92 - Governor's rule,
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="simultaneous elections" FOLDED="true" ID="ID_1796293803" CREATED="1531996664586" MODIFIED="1531996669202">
+<node TEXT="need CoI amendment" ID="ID_1130751327" CREATED="1531996669343" MODIFIED="1531996675026">
+<node TEXT="83, 172 LS tenure cna&apos;t be &gt;5 years unless emergency" ID="ID_917710215" CREATED="1531996675877" MODIFIED="1531996745505"/>
+</node>
+</node>
+<node TEXT="SC - taxpayer&apos;s money cannot be used on religious structure repair" ID="ID_1617547619" CREATED="1532687873598" MODIFIED="1532687890159"/>
+<node TEXT="Fake news and Constitution" FOLDED="true" ID="ID_1756232228" CREATED="1549594948615" MODIFIED="1549594986202" LINK="https://www.livelaw.in/columns/does-the-constitution-protect-fake-news-142596?fbclid=IwAR0Y3nskuQ-NGhMZ2pc4fbmSKFqHlyusXarA-tCVqB3wa34T5CqBSQFFk2M">
+<node TEXT="&#x25cb; countering misinformation via public education, not punishment." ID="ID_309190404" CREATED="1549594957907" MODIFIED="1549708697299"/>
+<node TEXT="State is far from a politically neutral actor  - thus even if you make fake news law - it may be misused." ID="ID_1916805143" CREATED="1549594969998" MODIFIED="1549594970916"/>
+</node>
+<node TEXT="Preamble" FOLDED="true" ID="ID_1106557253" CREATED="1550208765075" MODIFIED="1550208767280">
+<node FOLDED="true" ID="ID_1487183548" CREATED="1550169524108" MODIFIED="1550172190544"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Discuss nature of indian state as discussed in <font color="#ff0033">preamble.</font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      meaning of each terms
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      and how can it be defended today
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="sovereign" FOLDED="true" ID="ID_1810203867" CREATED="1550169560909" MODIFIED="1550169564760">
+<node TEXT="independent decision making in internal and external affairs" ID="ID_1165882640" CREATED="1550169575389" MODIFIED="1550169584599"/>
+<node ID="ID_1174242378" CREATED="1550171588411" MODIFIED="1550171870080"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      DOUBT:
+    </p>
+    <p>
+      WTO, globalisation,
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      DEFEND:
+    </p>
+    <p>
+      globalisation, in Indian case, has strengthened sovereignty. <font color="#ff0033">Economic</font>&#160; power up. India's acceptance to global norms are <font color="#ff0033">voluntary</font>.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="socialist" FOLDED="true" ID="ID_834159975" CREATED="1550169564891" MODIFIED="1550169566578">
+<node TEXT="Samtha vs Andhra Pradesh :&#xa;&#xa;SC describes Indian socialism aims at reducing socio economic inequalities and establish egalitarian society" ID="ID_1716473118" CREATED="1550169585973" MODIFIED="1550169704326"/>
+<node TEXT="Indian socialism = democratic socialism to be achieved gradually be peaceful constitutional methods" ID="ID_820950710" CREATED="1550171596447" MODIFIED="1550171623448"/>
+<node TEXT="" ID="ID_1914935798" CREATED="1550171895466" MODIFIED="1550171895468"/>
+<node ID="ID_307631888" CREATED="1550171898655" MODIFIED="1550171995544"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      DOUBT :
+    </p>
+    <p>
+      state dominated model -&gt; market controlled economy =&gt; socialism concept??
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      DEFEND:
+    </p>
+    <p>
+      Socialism aims at poor empowerment. Aim is same, methods changed.<br/>GoI = RTE, Right to Food, Right to Work, Progressive taxation,
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="secular" FOLDED="true" ID="ID_1486229319" CREATED="1550169566806" MODIFIED="1550169568025">
+<node TEXT="Indian secularism&#xa;&#xa;principled distance" ID="ID_1552157260" CREATED="1550171629978" MODIFIED="1550171638142"/>
+<node ID="ID_1088224332" CREATED="1550171638490" MODIFIED="1550171698910"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aruna Roy vs Union of India :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      SC - positive secularism = spirit of communal harmony
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      (<i>taken from toleration principle from Ashoka)</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="DOUBT :&#xa;global trend towards increasing use of religion in politics&#xa;&#xa;India not immune&#xa;&#xa;DEFEND : &#xa;however, because of SC, Civil Society, Tolerance based Indian tradition has ensured secular credentials" ID="ID_1930547076" CREATED="1550171999233" MODIFIED="1550172054951"/>
+</node>
+<node TEXT="democratic" FOLDED="true" ID="ID_869191025" CREATED="1550169568222" MODIFIED="1550169570084">
+<node TEXT="form of govt. is basic structure&#xa;&#xa;india has parliamentary democracy" ID="ID_32678610" CREATED="1550171703647" MODIFIED="1550171722463"/>
+<node TEXT="Direct democracy at gram sabha level" ID="ID_377504164" CREATED="1550171725386" MODIFIED="1550171730670"/>
+<node TEXT="DOUBT :&#xa;Majoritarianism. Drawbacks like role of caste, religion, money, muscle power&#xa;&#xa;DEFEND:&#xa;&#xa;yet we can proudly claim India as successful model of democracy in third world." ID="ID_1312584497" CREATED="1550172057694" MODIFIED="1550172120853"/>
+</node>
+<node TEXT="republic" ID="ID_1151046293" CREATED="1550169570418" MODIFIED="1550171885086" LINK="#ID_1377063288"/>
+<node ID="ID_1377063288" CREATED="1550171745241" MODIFIED="1550171880597"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      above ideals together aim to make indian <font color="#ff0033">republic</font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      a society based on justice = social political and economical
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Conclusion:" FOLDED="true" ID="ID_74908864" CREATED="1550172133144" MODIFIED="1550172138495">
+<node TEXT="india progressively moving towards achievement of goals in Preamble." ID="ID_1907045739" CREATED="1550172138843" MODIFIED="1550172151763"/>
+</node>
+</node>
+<node TEXT="Define Indian Secularism.&#xa;&#xa;evaluate nature of India as secular state." FOLDED="true" ID="ID_6840058" CREATED="1550172161590" MODIFIED="1550172175870">
+<node TEXT="secularism:&#xa;&#xa;separate of state from religion&#xa;&#xa;[europe secularism] religious neutrality = state indifference from religion of individual&#xa;&#xa;Religious freedom i.e. freedom of conscience" ID="ID_888343335" CREATED="1550172326537" MODIFIED="1550172480157">
+<node ID="ID_582221973" CREATED="1550172480587" MODIFIED="1550172761696"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      In<font color="#0000ff">&#160;Indian contex</font>t: <u>Multi layered concept has both western and eastern parts </u>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      [western secularism] separation : no identified religion of state
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      [equidistance] religious neutrality : 15 (no discrimination), 27 (no tax)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      religious freedom : 25, 26
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1206862635" CREATED="1550172773529" MODIFIED="1550173043956"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0033">Unique features of Indian Secularism:</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="principled distance :&#xa;&#xa; not necessarily equal treatment. Different principles for different religion." ID="ID_669425031" CREATED="1550172833715" MODIFIED="1550172905036">
+<node TEXT="State can interfere in Hindu religious institutions but left others." ID="ID_1590430004" CREATED="1550172858372" MODIFIED="1550172858786"/>
+<node ID="ID_679083825" CREATED="1550172851618" MODIFIED="1550172851618"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      formed personal laws for all communities except muslims
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Special rights to minority :&#xa;&#xa;29,30" ID="ID_1840162162" CREATED="1550172861116" MODIFIED="1550172882617"/>
+<node TEXT="positive secularism :&#xa;&#xa;promoting spirit Communal harmony" ID="ID_1542686773" CREATED="1550172570783" MODIFIED="1550172584748">
+<node ID="ID_763377277" CREATED="1550172586886" MODIFIED="1550173079042"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      not a complete separation and religious instructions can be provided in schools
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#0000cc">Aruna Roy vs Union of India case </font>: SC = Indian secularism is a bridge which ensures coexistence among followers of different religions in India
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="SR Bommai Case, 1994 : Secularim is basic structure of constitution" ID="ID_1581278708" CREATED="1550173015200" MODIFIED="1550173030372"/>
+</node>
+</node>
+</node>
+<node TEXT="arguments can be put against status of India as a secular state?" FOLDED="true" ID="ID_1959093638" CREATED="1550208247247" MODIFIED="1550208264731">
+<node TEXT="Indian secularism has been debatable concept.&#xa;&#xa;elusive concept" ID="ID_441003133" CREATED="1550208264797" MODIFIED="1550208296314"/>
+<node ID="ID_804159503" CREATED="1550208296854" MODIFIED="1550208681427"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      criticism in <font color="#ff0033">theory</font>&#160;&#160;of secularism :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Constitutional provisions :
+    </p>
+    <p>
+      , no UCC (personal laws)
+    </p>
+    <p>
+      , only Hindu religious institutions interfere
+    </p>
+    <p>
+      , special rights to minorities
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      thus India = pseduo secular
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1592241532" CREATED="1550208394516" MODIFIED="1550208672298"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      criticism in <font color="#ff0033">practice </font>of secularism :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      may not be practising ideals of constitutions in letter and spirit :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , Haz subsidy and Kailash mansarovar yatra
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , In practice, attitude of Law enforcement agencies has not been neutral w.r.t. minorities
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , misuse of preventive detention laws against muslims
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , social economic and educational backwardness of minorities in general
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      [ranganath mishra commission]
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , Muslims {sachar committee)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , Proposed Communal Violence bill (punish officials for dereliction of duties)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="thus status of India as a secular state is contested. however there is no question mark on constitutional principle.&#xa;&#xa;SR Bommai case, SC held secularism as basic structure.&#xa;&#xa;Certain anomalies in practice are natural in a diverse society like India in which religion plays prominent role in life of persons. Yet we can say that gradually we will be able to end such anomalies." ID="ID_1282044709" CREATED="1550208559118" MODIFIED="1550208646158"/>
+</node>
+<node TEXT="secularism is all about creating a wall of separation between state and religion , thus devaluing religion.&#xa;&#xa;Critically analyse statement in Indian context." FOLDED="true" ID="ID_1842608816" CREATED="1550208809611" MODIFIED="1550208842921">
+<node TEXT="secularism is a contested concept. (various definitions)" ID="ID_861948977" CREATED="1550208858648" MODIFIED="1550208881138"/>
+<node TEXT="wall between state nad religion:&#xa;&#xa;even in west, separate&#xa;&#xa;other meaning - equidistance, religious freedom,&#xa;&#xa;indian context - multi layered concept" ID="ID_749286000" CREATED="1550208881348" MODIFIED="1550208928323"/>
+</node>
+<node TEXT="Impact of&#xa;&#xa;SC verdict on Section 123(3) of RPA,1951&#xa;on&#xa;Indian politics. Examine significance on secularism" FOLDED="true" ID="ID_821212955" CREATED="1550208929619" MODIFIED="1550208981755">
+<node TEXT="[struct]&#xa;phenomenon of increasing use of caste and religion&#xa;&#xa;Unhealthy impact of such practices =  polarisation, communalism, populist policies,  question on secular nature&#xa;&#xa;&#xa;RPA - 123(3) explain&#xa;&#xa;SC interpretation on HIS&#xa;&#xa;Impact on Indian secularism&#xa;&#xa;conclude" FOLDED="true" ID="ID_712665285" CREATED="1550209245393" MODIFIED="1550209541654">
+<node TEXT="123(3) : religion , caste cannot appeal to voter&#xa;=&gt; corrupt practice" ID="ID_665373484" CREATED="1550208993744" MODIFIED="1550209113744"/>
+<node ID="ID_86327191" CREATED="1550209007088" MODIFIED="1550209094638"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000cc">HIS religion </font>interpretation
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      HIS = voter, candidate (or someone on his behalf),
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      appeal for vote cannot be done
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Strengthen secularism ? : NO" ID="ID_906594628" CREATED="1550209116790" MODIFIED="1550209235502">
+<node ID="ID_269232846" CREATED="1550209230972" MODIFIED="1550209575510"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Hindutva case - SC = Hinduism a way of life.
+    </p>
+    <p>
+      , =&gt; appeal in name of Hindu religion = not a corrupt practice.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      alleged = not significant impact unless SC reviews <font color="#0000cc">Prabhu vs Kunte case (aka Hindutva case)</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="seems purposive interpretation +  leading to discrimination against other religion" ID="ID_1323871728" CREATED="1550209236597" MODIFIED="1550209583677"/>
+</node>
+<node TEXT="caste representation is important for strengthening character of Indian society" ID="ID_1294186876" CREATED="1550209461513" MODIFIED="1550209490159"/>
+</node>
+</node>
+<node TEXT="Secularism in Indian context has been embedded in&#xa;&#xa;equality&#xa;, democracy&#xa;, human dignity." FOLDED="true" ID="ID_408265849" CREATED="1550215192225" MODIFIED="1550215205875">
+<node TEXT="democracy - systems aims to protect human dignity" ID="ID_1971205407" CREATED="1550214970913" MODIFIED="1550214980023"/>
+<node TEXT="secularism - special rights to minorities (29,30) in democracy" ID="ID_1083988538" CREATED="1550214981494" MODIFIED="1550215003560"/>
+<node ID="ID_1426468410" CREATED="1550214844285" MODIFIED="1550214930257"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000cc">dignity </font>= culture + individual rights forms a part of dignity
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      respected in indian <font color="#0000cc">democracy</font>&#160;as rights of minorities are recognised on the basis of <font color="#0000cc">equality</font>.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="[conclusion]&#xa;&#xa;though often called as pseudo secularism, it is based on idea of human dignity.&#xa;&#xa;indian model eerged out of historical context of partition where ensuring dignity to minorities was important.&#xa;&#xa;thus is it not tyranny of majority" ID="ID_1424054512" CREATED="1550215005596" MODIFIED="1550215077215"/>
+</node>
+</node>
+<node TEXT="Union and Territories" FOLDED="true" ID="ID_1668789501" CREATED="1550208751638" MODIFIED="1550208757924">
+<font BOLD="true"/>
+<node TEXT="1" OBJECT="java.lang.Long|1" FOLDED="true" ID="ID_331836493" CREATED="1550215687612" MODIFIED="1550215688625">
+<node TEXT="Bharat = no other word is found adequate describe culture of people living on subcontinent" ID="ID_216367798" CREATED="1550215522711" MODIFIED="1550215540744"/>
+<node ID="ID_1171996153" CREATED="1550215547049" MODIFIED="1550215632596"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Union of States = denotes India is a federation
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Ambedakar view:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ont the product of contract among the unit (as in USA)
+    </p>
+    <p>
+      , India is <font color="#0000cc">holding together</font>&#160;rather than <font color="#0000cc">coming together </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#0000cc">indestructible union of destructible states</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="2" OBJECT="java.lang.Long|2" FOLDED="true" ID="ID_990105015" CREATED="1550215690212" MODIFIED="1550215690747">
+<node TEXT="admitting territory in India  [Sikkim]&#xa;&#xa;establish new state&#xa;[UT -&gt; state]" ID="ID_813326546" CREATED="1550215724682" MODIFIED="1550215762947"/>
+</node>
+<node TEXT="3" OBJECT="java.lang.Long|3" FOLDED="true" ID="ID_80418081" CREATED="1550215749482" MODIFIED="1550215750320">
+<node TEXT="alteration of new state" ID="ID_873150800" CREATED="1550215750463" MODIFIED="1550215754820"/>
+<node TEXT="process of creation of state" FOLDED="true" ID="ID_1829395031" CREATED="1550215887496" MODIFIED="1550215894375">
+<node TEXT="2 conditions&#xa;&#xa;[5Laxmi_116]" ID="ID_1028790273" CREATED="1550216092299" MODIFIED="1550216118677"/>
+</node>
+</node>
+<node TEXT="4" OBJECT="java.lang.Long|4" FOLDED="true" ID="ID_1717361971" CREATED="1550215882876" MODIFIED="1550215883064">
+<node ID="ID_1594124859" CREATED="1550216231688" MODIFIED="1550496826285"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      new states = <font color="#ff0033">Constitutional amendment </font>via ordinary legislation
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      not 368
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Since india is indestructible of destructible states, it is apt to call India quasi federal." FOLDED="true" ID="ID_567353856" CREATED="1550496413362" MODIFIED="1550496883080">
+<node TEXT="quasi federal = centralising tendencies" ID="ID_896806179" CREATED="1550496740305" MODIFIED="1550497271237"/>
+<node TEXT="differs from US model (coming together model = centrifugal model)&#xa;&#xa;indian - centripetal (flow of power towards centre)" FOLDED="true" ID="ID_1962610964" CREATED="1550496747742" MODIFIED="1550496795639">
+<node TEXT="US - amendment to change state boundary&#xa;&#xa;India - ordinary legislation, simple majority, no mandate to consent of state" ID="ID_1896451223" CREATED="1550496828967" MODIFIED="1550496857511"/>
+</node>
+<node TEXT="w.r.t JnK cannot change the boundary without consent" ID="ID_433854656" CREATED="1550496860052" MODIFIED="1550496873097"/>
+<node TEXT="written constitution&#xa;division of power&#xa;&#xa;independent judiciary" ID="ID_313429394" CREATED="1550497234817" MODIFIED="1550497257655"/>
+<node TEXT="Ambedakar while defending nature of indian federation and use of &apos;Union&apos;&#xa;&#xa;Clarified&#xa;&#xa;unlike USA, India is &apos;holding together&apos; model" ID="ID_286949553" CREATED="1550497285248" MODIFIED="1550497329171"/>
+<node TEXT="centralised administration has been converted into federal system to meet regional aspirations n administrative convenience" ID="ID_735392279" CREATED="1550497329750" MODIFIED="1550497352042"/>
+<node TEXT="every model is sui generis" ID="ID_679879837" CREATED="1550497362885" MODIFIED="1550497366311"/>
+<node TEXT="SR Bommai = federalism is basic structure of constitution" ID="ID_343735300" CREATED="1550497366469" MODIFIED="1550497382103"/>
+</node>
+<node TEXT="discuss desirability of demands for smaller states" ID="ID_1554128991" CREATED="1550496439471" MODIFIED="1550496446339"/>
+<node TEXT="to what extent 370 , bearing marginal note (temporary provision) w.r.t JnK. Is temporary?&#xa;&#xa;discuss future prospects in context of indian polity" FOLDED="true" ID="ID_255365494" CREATED="1550496446970" MODIFIED="1550496505714">
+<node TEXT="relationship between union of India and Jnk has been troubled since independence.&#xa;&#xa;Present situation has become worse." ID="ID_1491450161" CREATED="1550502451992" MODIFIED="1550507892548"/>
+<node ID="ID_329994817" CREATED="1550502673720" MODIFIED="1550504349545" MAX_WIDTH="218.17020846082386 pt" MIN_WIDTH="218.17020846082386 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0033">annual report, MHA, 2016 :</font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;since 1990, militancy has become threatening. Present trend is there is a slight decline in loss of lives of cilvilians but significant increase in casualties of security forces. Until now, ~14k civilians + ~5k security forces lost lives.&#160;&#160;2016 jump of terrorist incidence by 54%.
+    </p>
+    <p>
+      fatality of security forces jumped by 110%.
+    </p>
+    <p>
+      decline of fatalities of civilians by 12%
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      =&gt; attachk on symbols of Indian states
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="why worsening situation?" FOLDED="true" ID="ID_371260058" CREATED="1550502690717" MODIFIED="1550503078345">
+<node ID="ID_1840703704" CREATED="1550502700286" MODIFIED="1550502918748"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      lack of <b>decisiveness </b>by Raja hari singh w.r.t Future Status of JnK.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      personal displeasement with Nehru (=good relations with Sheikh Abdullah)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="pakistan did not observe standstill agreement and went for covert operation." ID="ID_151914011" CREATED="1550502919075" MODIFIED="1550502935717"/>
+<node TEXT="26 Oct - Instrument of accession with GoI under independence of India act, 1947&#xa;&#xa;Pandit nehru took the matter blaming pakistan as aggressor&#xa;&#xa;pak argument = India has not maintained standstill agreement&#xa;&#xa;UN listed Kashmir as disputed territory." ID="ID_283179015" CREATED="1550502936273" MODIFIED="1550503078343"/>
+</node>
+<node TEXT="370" OBJECT="java.lang.Long|370" FOLDED="true" ID="ID_1106587116" CREATED="1550503148466" MODIFIED="1550503150248">
+<node TEXT="JnK will be able to exercise more autonomy in comparison to other states considering&#xa;&#xa;social composition&#xa;, circumstances of accession&#xa;," ID="ID_1731679278" CREATED="1550503176953" MODIFIED="1550503221457"/>
+<node TEXT="JnK is integral part of territory of India" ID="ID_1063966874" CREATED="1550503606008" MODIFIED="1550503619605"/>
+<node TEXT="Union List : Consult JnK (not binding)&#xa;&#xa;&#xa;Concurrent + state list : Only with concurrence of JnK" ID="ID_1146684636" CREATED="1550503711890" MODIFIED="1550503736140"/>
+</node>
+<node TEXT="35A" FOLDED="true" ID="ID_1409535444" CREATED="1550503737670" MODIFIED="1550503739525">
+<node TEXT="Presidential Order!" ID="ID_1732544443" CREATED="1550503747742" MODIFIED="1550504049841">
+<font BOLD="true"/>
+</node>
+<node TEXT="Like all states, JnK has complete power w.r.t. State list" ID="ID_538364771" CREATED="1550503774259" MODIFIED="1550503787977"/>
+<node TEXT="with subject on Union list and concurrent list parliament can make law applicable to Jnk only with&#xa;&#xa;, consultation of state govt.&#xa;, fall within scope of subjects on which accession took place (=communication, defence foreign affairs CDFA)" ID="ID_491034117" CREATED="1550503788117" MODIFIED="1550503955324"/>
+<node TEXT="concurrence of stae government is required in Union laws ,&#xa;w.r.t subjects other than CDFA" ID="ID_24256012" CREATED="1550503884083" MODIFIED="1550503915611"/>
+</node>
+<node TEXT="370(1) d" FOLDED="true" ID="ID_315280404" CREATED="1550504091021" MODIFIED="1550504096199">
+<node ID="ID_608556274" CREATED="1550504096421" MODIFIED="1550504336542" MAX_WIDTH="190.08510240422711 pt" MIN_WIDTH="190.08510240422711 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      constitutional provisions w.r.t JnK can be applied with those modifications which president thinks
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      i.e. <font color="#ff0033">extended by presidential order </font>other constitutional provisions can be extended with/without amendment w.r.t Jnk
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="356 - modified form&#xa;&#xa;National emergency - only on external grounds&#xa;&#xa;no financial emergency on JnK" ID="ID_1670850744" CREATED="1550504185453" MODIFIED="1550504248283"/>
+</node>
+</node>
+<node TEXT="multi pronged approach of GoI towards JnK ?" FOLDED="true" ID="ID_667183003" CREATED="1550507872354" MODIFIED="1550507901049">
+<node ID="ID_412207837" CREATED="1550507901747" MODIFIED="1550507988246"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      security :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      overall impression - too much focussed on security
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      e.g. AFSPA, Border security to prevent infiltration<br/><br/>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1665336438" CREATED="1550507905807" MODIFIED="1550508180777"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      CBM confidence Building measures:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , army movement from civilian spaces to border (army replaced by paramilitary forces)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , dialogues with civil society - Interlocutors appointed
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , All part delegation
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , Civil Society initiatives - laeding political leaders like yashwant sinha , Manishankar iyer<br/><br/>, re introduction of democractic process
+    </p>
+    <p>
+      , sustaining democractic process
+    </p>
+    <p>
+      , rehab militants
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , approach of PM (modi) = 15 Aug 2017 = PM declared <font color="#0000cc">'neither by butllet nor by abuses' </font>we can solve the problem of kashmir<br/><br/><font color="#0000cc">Home Min = 5C's = Compassion, Communication, Coexistence, CBM, Consistency</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="criticism of GoI approach" FOLDED="true" ID="ID_1303198478" CREATED="1550508187450" MODIFIED="1550508196102">
+<node TEXT="GoI =&#xa;, denial of reality&#xa;, earlier - greater use of force (Doval Doctrine)&#xa;, now compassionate approach&#xa;, not development focus&#xa;," ID="ID_275496308" CREATED="1550508196263" MODIFIED="1550508426463"/>
+<node TEXT="done:&#xa;&#xa;, UDAN&#xa;, HIMAYAT = market based skill dev&#xa;, PM&apos;s special development package for JnK = for road connectivity&#xa;, Bhartmala project&#xa;, Chenani Nashri tunnel&#xa;, renewable energy" ID="ID_1100287121" CREATED="1550508427196" MODIFIED="1550508554819"/>
+</node>
+<node TEXT="todo by GoI :&#xa;&#xa;transformational approach -&#xa;Attitudinal changes among locals&#xa;&#xa;TADP in JnK&#xa;&#xa;AFSPA repeal&#xa;&#xa;Starve insurgent funding&#xa;&#xa;Bold approach - Hurriyat Conference in political stream&#xa;&#xa;insaniyat Kashmiriyat Jhamuriyat" ID="ID_1540858936" CREATED="1550508600834" MODIFIED="1550508805813"/>
+</node>
+</node>
+<node TEXT="33% seats reserved in local bodies is perceived as a threat to their exceptional status. Discuss in light of 371A (special provision w.r.t nagaland. )." ID="ID_1232675154" CREATED="1550496623859" MODIFIED="1550508997281"/>
+<node TEXT="Prospects of peace in Nagaland after recent steps (2015 peace accords by GoI )" ID="ID_1386683509" CREATED="1550496524537" MODIFIED="1550508973968"/>
+<node TEXT="prospects for demand for creation of Gorkhaland" FOLDED="true" ID="ID_1684548176" CREATED="1550496624686" MODIFIED="1550496642194">
+<node TEXT="nature of movement" FOLDED="true" ID="ID_670469439" CREATED="1550557484788" MODIFIED="1550557487812">
+<node TEXT="not anti speeratist&#xa;&#xa;neither&#xa;anti nationalist&#xa;&#xa;just opt out the domination of WB" ID="ID_1316055488" CREATED="1550557487960" MODIFIED="1550557509268"/>
+<node TEXT="Why gorkhaland?&#xa;&#xa;&#xa;low economic development&#xa;, imposed Bengali culture&#xa;, aspiration of gorkha Identity" ID="ID_889551936" CREATED="1550557543733" MODIFIED="1550557571586"/>
+</node>
+<node TEXT="problems in creating separate state" FOLDED="true" ID="ID_1009033664" CREATED="1550557122835" MODIFIED="1550557151798">
+<node TEXT="darjeeling area is too small to be constructed as a state." ID="ID_549220465" CREATED="1550557129430" MODIFIED="1550557145712"/>
+<node ID="ID_404960323" CREATED="1550557160626" MODIFIED="1550557216010"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      various ethnic communities exist,<br/>Bengali = 15%<br/>Adivasi = 20%<br/>Gorkhas = 35% <font color="#cc0000">[not majority]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="security issue" ID="ID_677067014" CREATED="1550557668847" MODIFIED="1550557683846"/>
+</node>
+<node TEXT="Already done?" FOLDED="true" ID="ID_1232887983" CREATED="1550557689420" MODIFIED="1550557691509">
+<node TEXT="DGHC , 1986 : executive functions not legislative&#xa;&#xa;+ Dooars not included&#xa;&#xa;=&gt; not happy" ID="ID_1253276169" CREATED="1550557691627" MODIFIED="1550557721309"/>
+<node TEXT="GTA Gorkha territorial administration, 2012 :&#xa;&#xa;semi autonomous adminisrative body + no legislative&#xa;&#xa;Dooars excluded&#xa;&#xa;=&gt; Not happy" ID="ID_105407199" CREATED="1550557725128" MODIFIED="1550557766621"/>
+</node>
+<node TEXT="solution?&#xa;&#xa;Constiution offers any solution beyond GTA?" ID="ID_1416342179" CREATED="1550557219816" MODIFIED="1550557242132">
+<node TEXT=", reluctance in WB (third partition of WB)" ID="ID_1873331146" CREATED="1550557242664" MODIFIED="1550557268099"/>
+<node TEXT=", meet aspirations of Gorkhas without affecting Bengali sentiments&#xa;&#xa;, Part VI : 244 A = autonomous state for certain tribal areas in Assam with its own legislature and CoM&#xa;&#xa;, amend 244 A to include WB" ID="ID_469548060" CREATED="1550557268590" MODIFIED="1550557375230"/>
+</node>
+</node>
+</node>
+</node>
+<node LOCALIZED_STYLE_REF="default" ID="ID_246516213" CREATED="1550558227113" MODIFIED="1550558294178"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>many state govts. bifurcate Geographical areas (disctrict and talukas) for better governance. </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b>Justified to say = more #smaller states =&gt; effective governance at state level.</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri" BOLD="true"/>
+<node TEXT="Constitutional status of Delhi" ID="ID_923401190" CREATED="1550558296438" MODIFIED="1550558308119"/>
+</node>
+</node>
 <node TEXT="&#x2022; Separation of powers between various organs dispute redressal mechanisms and institutions." ID="ID_443019747" CREATED="1544200456980" MODIFIED="1544200577068" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Comparison of the Indian constitutional scheme with that of other countries" ID="ID_1844385126" CREATED="1544200456982" MODIFIED="1544200577076" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Parliament and State Legislatures &#x2013; structure, functioning, conduct of business, powers &amp; privileges and issues arising out of these." ID="ID_111510816" CREATED="1544200456983" MODIFIED="1544200577085" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Structure, organization and functioning of the Executive and the Judiciary Ministries and Departments of the Government; pressure groups and formal/informal associations and their role in the Polity." ID="ID_298742353" CREATED="1544200456984" MODIFIED="1544200577097" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Salient features of the Representation of People&#x2019;s Act." ID="ID_1960118948" CREATED="1544200456985" MODIFIED="1544200577105" BACKGROUND_COLOR="#ccffcc"/>
-<node TEXT="&#x2022; Appointment to various Constitutional posts, powers, functions and responsibilities of various Constitutional Bodies." ID="ID_1653435991" CREATED="1544200456987" MODIFIED="1544200577112" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="&#x2022; Appointment to various Constitutional posts, powers, functions and responsibilities of various Constitutional Bodies." ID="ID_1653435991" CREATED="1544200456987" MODIFIED="1544200577112" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="Raghuram rajan Committee on Special Category Status" ID="ID_1336281658" CREATED="1550464239972" MODIFIED="1550464254580">
+<node TEXT="allocate funds across states based on need." ID="ID_108549556" CREATED="1550464260775" MODIFIED="1550464272609"/>
+</node>
+</node>
 <node TEXT="&#x2022; Statutory, regulatory and various quasi-judicial bodies" FOLDED="true" ID="ID_1992748409" CREATED="1544200456988" MODIFIED="1544200577120" BACKGROUND_COLOR="#ccffcc">
 <node TEXT="RTI vs Right to privacy" FOLDED="true" ID="ID_522916855" CREATED="1548411795930" MODIFIED="1548411800566">
 <node TEXT="single institutional model :" ID="ID_1131549120" CREATED="1548411820021" MODIFIED="1548411851954"/>
@@ -3798,10 +4560,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="CoI&#xa;&#xa;aanganwadi workers for Health data&#xa;&#xa;Not clear picture - as malnutrition = 16 % by NFHS and 0.4% by ICDS" ID="ID_1318065296" CREATED="1549868524724" MODIFIED="1549868562341"/>
+<node TEXT="establish Independent fiscal council (NK Singh)" ID="ID_1292756900" CREATED="1550457840124" MODIFIED="1550457853564"/>
 </node>
 </node>
 <node TEXT="&#x2022; Development processes and the development industry- the role of NGOs, SHGs, various groups and associations, donors, charities, institutional and other stakeholders" FOLDED="true" ID="ID_559943090" CREATED="1544200456990" MODIFIED="1544200550013" BACKGROUND_COLOR="#ccccff">
@@ -3809,10 +4571,9 @@
 </node>
 <node TEXT="&#x2022; Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections." ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1544200550025" BACKGROUND_COLOR="#ccccff"/>
 <node TEXT="&#x2022; Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources." ID="ID_125618532" CREATED="1544200456993" MODIFIED="1544200550035" BACKGROUND_COLOR="#ccccff"/>
-<node TEXT="&#x2022; Issues relating to poverty and hunger." FOLDED="true" ID="ID_1069550365" CREATED="1544200456994" MODIFIED="1544200550041" BACKGROUND_COLOR="#ccccff">
-<node TEXT="poverty" FOLDED="true" ID="ID_1917179760" CREATED="1549044328150" MODIFIED="1549044329961">
+<node TEXT="&#x2022; Issues relating to poverty and hunger." ID="ID_1069550365" CREATED="1544200456994" MODIFIED="1544200550041" BACKGROUND_COLOR="#ccccff">
+<node TEXT="poverty" ID="ID_1917179760" CREATED="1549044328150" MODIFIED="1549044329961">
 <font BOLD="true"/>
-<node TEXT="Govt goal should&#xa;&#xa;not to eradicate poverty&#xa;&#xa;but to create prosperity ( high economic growth )" ID="ID_1502168690" CREATED="1549044347336" MODIFIED="1549044381113"/>
 <node TEXT="housing electricity bring down poverty fast&#xa;&#xa;toilets creations" ID="ID_239505671" CREATED="1549044401665" MODIFIED="1549044417432"/>
 <node TEXT="expenditure on agriculture" FOLDED="true" ID="ID_1321868014" CREATED="1549044417592" MODIFIED="1549044422310">
 <node ID="ID_1240513772" CREATED="1549044612536" MODIFIED="1549044644513"><richcontent TYPE="NODE">
@@ -3830,12 +4591,117 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="entitle based approach -&gt; empowerment based approach" ID="ID_198193991" CREATED="1549044513343" MODIFIED="1549044531343"/>
 <node TEXT="income and wealth inequality" FOLDED="true" ID="ID_142512359" CREATED="1549044535543" MODIFIED="1549044582434">
 <node TEXT="tax wealth as well as income" ID="ID_1603421504" CREATED="1549044589826" MODIFIED="1549044596345"/>
 </node>
+<node TEXT="poverty reduced  but NOT vulnerability" ID="ID_963828176" CREATED="1550564475550" MODIFIED="1550564486632">
+<node TEXT="3 facets :&#xa;&#xa;,resilience&#xa;, equity &#xa;, opportunity" FOLDED="true" ID="ID_76088114" CREATED="1550564489151" MODIFIED="1550568336052" LINK="http://in.one.un.org/blogs/shifting-from-schemes-to-systems/">
+<node ID="ID_59790701" CREATED="1550564605418" MODIFIED="1550568228452"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0033cc">resilience </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      social security programmes
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1425110895" CREATED="1550564582937" MODIFIED="1550568318601"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0033cc">equity</font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , post disaster recovery : taking care destitution natural disaster old age
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , prevent irreversible catastrophic losses to human capital
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      =&gt; promote equality of opportunity!
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_472494672" CREATED="1550564630063" MODIFIED="1550568190348"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0033cc">opportunities</font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , human capital building
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , access to jobs :
+    </p>
+    <p>
+      sustained livelihood in urban areas is necessary (SDG 2 + SDG 11)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , productive investments
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="What are the hallmarks of a successful intervention?" ID="ID_1187440751" CREATED="1550568450195" MODIFIED="1550568450409">
+<node TEXT="HallMark = SDG 1.3 :&#xa;&#xa;nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable." ID="ID_1230508086" CREATED="1550568458002" MODIFIED="1550568488287">
+<node TEXT="meet&#xa;&#xa;, diverse needs&#xa;, risk profiles&#xa;&#xa;instead of one-size-fits-all approach" ID="ID_726823512" CREATED="1550568546757" MODIFIED="1550568568096"/>
+<node TEXT="capacity builiding at sub national level to implement these programmes" ID="ID_1910156300" CREATED="1550568623450" MODIFIED="1550568635108"/>
+</node>
+<node TEXT="from silos based schemes to integrated platforms" ID="ID_323737150" CREATED="1550568502133" MODIFIED="1550568511293"/>
+<node TEXT="GoI :&#xa;&#xa;NITI aayog convergence of schemes&#xa;+&#xa;cooperative federalism" ID="ID_395127975" CREATED="1550568511789" MODIFIED="1550568532886"/>
+</node>
+</node>
+<node TEXT="Govt goal should&#xa;&#xa;not to eradicate poverty&#xa;&#xa;but to create prosperity ( high economic growth )" ID="ID_1502168690" CREATED="1549044347336" MODIFIED="1549044381113"/>
+<node TEXT="entitle based approach -&gt; empowerment based approach" ID="ID_198193991" CREATED="1549044513343" MODIFIED="1549044531343"/>
 <node TEXT="todo to remove poverty" FOLDED="true" ID="ID_31369596" CREATED="1549045198082" MODIFIED="1549045203504">
-<node TEXT="social safety net for the people&#xa;&#xa;Income transfer for farmer" ID="ID_279602639" CREATED="1549045223683" MODIFIED="1549045246213"/>
+<node TEXT="social safety net for the people&#xa;&#xa;Income transfer for farmer" ID="ID_279602639" CREATED="1549045223683" MODIFIED="1549045246213">
+<node TEXT="Social protection IN India" ID="ID_309745595" CREATED="1550563155634" MODIFIED="1550563202123" LINK="https://indianexpress.com/article/explained/lok-sabha-elections-schemes-explained-from-schemes-to-systems-why-the-difference-matters-5590071/"/>
+</node>
 <node TEXT="public infra investment" ID="ID_1660425791" CREATED="1549045203687" MODIFIED="1549045212302"/>
 </node>
 </node>
@@ -12758,7 +13624,7 @@
 <node TEXT="* not universal but = opt-in / opt-out&#xa;* PDS modern + social audit&#xa;* more pulses&#xa;* food commission for mgmt." ID="ID_1632273639" CREATED="1502369578299" MODIFIED="1502369658232" MAX_WIDTH="145.5587309164097 pt" MIN_WIDTH="145.5587309164097 pt"/>
 </node>
 </node>
-<node TEXT="Health" LOCALIZED_STYLE_REF="default" ID="ID_1891134012" CREATED="1487759811580" MODIFIED="1525674720741" BACKGROUND_COLOR="#feffd6">
+<node TEXT="Health" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1891134012" CREATED="1487759811580" MODIFIED="1525674720741" BACKGROUND_COLOR="#feffd6">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
 <node TEXT="Introduction" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_389214174" CREATED="1487759811580" MODIFIED="1488545169788">
@@ -12773,7 +13639,7 @@
 <node TEXT="women dead = pregnancy + childbirth per 100,000" ID="ID_1909418654" CREATED="1524897535955" MODIFIED="1524897549075"/>
 </node>
 </node>
-<node TEXT="Diseases" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1132178798" CREATED="1487759811580" MODIFIED="1488545169823">
+<node TEXT="Diseases" LOCALIZED_STYLE_REF="default" ID="ID_1132178798" CREATED="1487759811580" MODIFIED="1488545169823">
 <node TEXT="Hepatitis" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1686619800" CREATED="1488541693227" MODIFIED="1488545169823">
 <node TEXT="Inflammation of liver" LOCALIZED_STYLE_REF="default" ID="ID_442712391" CREATED="1489737068943" MODIFIED="1489737073862"/>
 <node TEXT="virus" ID="ID_536962377" CREATED="1497261034053" MODIFIED="1497261035155"/>
@@ -12892,12 +13758,12 @@
 </node>
 <node TEXT="nutrition focus" ID="ID_1407092313" CREATED="1549777546467" MODIFIED="1549777550209"/>
 </node>
-<node TEXT="National Strategic Mission on TB elimination 2017-2025" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1380056803" CREATED="1525512517153" MODIFIED="1525675539347" BACKGROUND_COLOR="#feffd6">
+<node TEXT="National Strategic Mission on TB elimination 2017-2025" LOCALIZED_STYLE_REF="default" ID="ID_1380056803" CREATED="1525512517153" MODIFIED="1525675539347" BACKGROUND_COLOR="#feffd6">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
 <node TEXT="100% elimination by 2025" ID="ID_1120582324" CREATED="1549598575450" MODIFIED="1549598581449"/>
-<node TEXT="what&apos;s new?" FOLDED="true" ID="ID_1031566586" CREATED="1549598595488" MODIFIED="1549598597412">
-<node TEXT="no self-reporting of TB cases&#xa;&#xa;unlike RNTCP&#xa;&#xa;=&gt;private synergy" FOLDED="true" ID="ID_1895490346" CREATED="1549598600174" MODIFIED="1549599085239">
+<node TEXT="what&apos;s new?" ID="ID_1031566586" CREATED="1549598595488" MODIFIED="1549598597412">
+<node TEXT="no self-reporting of TB cases&#xa;&#xa;unlike RNTCP&#xa;&#xa;=&gt;private synergy" ID="ID_1895490346" CREATED="1549598600174" MODIFIED="1549599085239">
 <node TEXT="e NIKSHAY" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_287615231" CREATED="1489575054575" MODIFIED="1549598670581">
 <node TEXT="by NIC + MoHFW" ID="ID_960595133" CREATED="1495410232220" MODIFIED="1495410237757"/>
 <node TEXT="tracking TB patients&#xa;&#xa;web + SMS" ID="ID_1203993053" CREATED="1489575058087" MODIFIED="1549598694640"/>
@@ -12933,7 +13799,7 @@
 </node>
 </node>
 <node TEXT="govt. effort for detection&#xa;&#xa;drug sensitive&#xa;, drug resistant cases" ID="ID_1656991943" CREATED="1525512540504" MODIFIED="1525512565592"/>
-<node TEXT="DTPB approach ( 7.11 )" FOLDED="true" ID="ID_1864756397" CREATED="1495409953861" MODIFIED="1495410023662" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Mar&apos;17/Vision%20IAS%20Current%20Affairs%20March-2017%20.pdf">
+<node TEXT="DTPB approach ( 7.11 )" ID="ID_1864756397" CREATED="1495409953861" MODIFIED="1495410023662" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Mar&apos;17/Vision%20IAS%20Current%20Affairs%20March-2017%20.pdf">
 <node TEXT="detect&#xa;treat&#xa;prevent&#xa;build" ID="ID_543249283" CREATED="1495409966198" MODIFIED="1525512534528"/>
 </node>
 </node>
@@ -13738,8 +14604,8 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
-<node ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1549617159419" BACKGROUND_COLOR="#fdfdd0"><richcontent TYPE="NODE">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node FOLDED="true" ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1549617159419" BACKGROUND_COLOR="#fdfdd0"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13777,7 +14643,7 @@
 <node TEXT="DIPP promote" ID="ID_1192424975" CREATED="1497501837626" MODIFIED="1497501840220"/>
 </node>
 </node>
-<node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
+<node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
 <node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
 <node TEXT="Intro" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_635115520" CREATED="1488427334339" MODIFIED="1488545169567">
 <node TEXT="demographic data/trends" FOLDED="true" ID="ID_306319748" CREATED="1495142919356" MODIFIED="1495142935258">
@@ -13873,7 +14739,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Input based" ID="ID_58891636" CREATED="1546849178693" MODIFIED="1546849181090">
+<node TEXT="Input based" FOLDED="true" ID="ID_58891636" CREATED="1546849178693" MODIFIED="1546849181090">
 <node TEXT="fertilisers" FOLDED="true" ID="ID_297293393" CREATED="1504938959343" MODIFIED="1504938961262">
 <node TEXT="Ammonia over agri farms" LOCALIZED_STYLE_REF="default" ID="ID_377665777" CREATED="1504938935012" MODIFIED="1504939124946">
 <font BOLD="true"/>
@@ -14861,7 +15727,7 @@
 <icon BUILTIN="idea"/>
 <node TEXT="2126 - 14" ID="ID_1332146293" CREATED="1489481582428" MODIFIED="1489481589451" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
 </node>
-<node TEXT="market intervention scheme" ID="ID_1106049585" CREATED="1489499563711" MODIFIED="1489729391471">
+<node TEXT="market intervention scheme" FOLDED="true" ID="ID_1106049585" CREATED="1489499563711" MODIFIED="1489729391471">
 <icon BUILTIN="idea"/>
 <node TEXT="2124 - 56" ID="ID_3566557" CREATED="1489499568593" MODIFIED="1489561618149" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
 <node TEXT="ad hoc for procuring perishable and horticulture commodities" ID="ID_1207313351" CREATED="1496289768498" MODIFIED="1496289784802">
@@ -14869,7 +15735,7 @@
 </node>
 </node>
 <node TEXT="Nat. horticulture mission" ID="ID_828821310" CREATED="1489499598224" MODIFIED="1489499602670"/>
-<node TEXT="GIAHS" LOCALIZED_STYLE_REF="default" ID="ID_1078968735" CREATED="1489410354742" MODIFIED="1525066283650">
+<node TEXT="GIAHS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1078968735" CREATED="1489410354742" MODIFIED="1525066283650">
 <node TEXT=" Globally Important&#xa;Agricultural Heritage Systems" ID="ID_1946317024" CREATED="1489410356399" MODIFIED="1495495214618"/>
 <node TEXT="by FAO, 2002" LOCALIZED_STYLE_REF="default" ID="ID_186952164" CREATED="1489410362009" MODIFIED="1497334457796" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
@@ -14884,7 +15750,7 @@
 </node>
 <node TEXT="Kuttanad in kerala = below sea level farming" ID="ID_1974389962" CREATED="1497334479284" MODIFIED="1497334489919"/>
 </node>
-<node TEXT="rythu bandhu" ID="ID_1248372066" CREATED="1526654889771" MODIFIED="1531407423081">
+<node TEXT="rythu bandhu" FOLDED="true" ID="ID_1248372066" CREATED="1526654889771" MODIFIED="1531407423081">
 <font BOLD="true"/>
 <node TEXT="agriculture invetment support scheme" ID="ID_1962072282" CREATED="1526654903896" MODIFIED="1546849129455">
 <icon BUILTIN="launch"/>
@@ -14913,7 +15779,7 @@
 <node TEXT="risk sharing between contract parties not mentioned in laws" ID="ID_945324987" CREATED="1546850791144" MODIFIED="1546850808619"/>
 </node>
 </node>
-<node TEXT="Agri Research" LOCALIZED_STYLE_REF="default" ID="ID_1128963783" CREATED="1489560598051" MODIFIED="1489560600728">
+<node TEXT="Agri Research" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1128963783" CREATED="1489560598051" MODIFIED="1489560600728">
 <node TEXT="Funding" ID="ID_1223191273" CREATED="1489560600993" MODIFIED="1489560603371"/>
 <node TEXT="Private partnership" FOLDED="true" ID="ID_725338011" CREATED="1489560603543" MODIFIED="1489560614902">
 <node TEXT="for enhanced research-productivity" ID="ID_1235438796" CREATED="1489560615043" MODIFIED="1489560625817"/>
@@ -14935,7 +15801,7 @@
 <node TEXT="agro diplomacy&#xa;&#xa;for trade protectionism with china" ID="ID_557130680" CREATED="1549715790207" MODIFIED="1549715802320"/>
 <node TEXT="DVA (Domestic Value additions) in agri exports less" ID="ID_519801438" CREATED="1549730546310" MODIFIED="1549730574643"/>
 </node>
-<node TEXT="private investment in agri" LOCALIZED_STYLE_REF="default" ID="ID_514420622" CREATED="1549778166482" MODIFIED="1549778227067" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="private investment in agri" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_514420622" CREATED="1549778166482" MODIFIED="1549778227067" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 <node TEXT="agri future market" ID="ID_1474925485" CREATED="1549778182548" MODIFIED="1549778217463" LINK="#ID_19567486"/>
 </node>
@@ -15011,6 +15877,13 @@
 <node TEXT="Khet bachao, Kisan bachao" FOLDED="true" ID="ID_973587396" CREATED="1531998558356" MODIFIED="1531998564707">
 <node TEXT="Jaipur, against land acqiuisition" ID="ID_1365830035" CREATED="1531998574801" MODIFIED="1531998583655"/>
 <node TEXT="" ID="ID_1635821395" CREATED="1532018246628" MODIFIED="1532018246628"/>
+</node>
+</node>
+<node TEXT="needs restructuring and rationalisation" FOLDED="true" ID="ID_1820565076" CREATED="1550457971964" MODIFIED="1550457981979">
+<node TEXT="restruct" ID="ID_1325655321" CREATED="1550457982430" MODIFIED="1550457984279"/>
+<node TEXT="rationalisation" ID="ID_333479397" CREATED="1550457984470" MODIFIED="1550458071692">
+<node TEXT="PDS, NFSA : only to bottom 25-30%" ID="ID_650181555" CREATED="1550457986122" MODIFIED="1550458003678"/>
+<node TEXT="MNREGA : (60k cr budget)&#xa;, preserve for drought seasons,&#xa;&#xa;, use to build cold storage, supply chains&#xa;&#xa;, integrate with skilling" ID="ID_1515846738" CREATED="1550458004242" MODIFIED="1550458065814"/>
 </node>
 </node>
 </node>
@@ -15518,6 +16391,9 @@
 </node>
 <node TEXT="3.        Government Budgeting." FOLDED="true" ID="ID_1671366301" CREATED="1540965626235" MODIFIED="1540965781452" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="vision ias 2018 materials" ID="ID_272124533" CREATED="1549712597965" MODIFIED="1549712602509"/>
+<node TEXT="Why not measure GDP?" ID="ID_1447246325" CREATED="1550458226934" MODIFIED="1550458236910">
+<node TEXT="measure other socio welfare indicators&#xa;&#xa;, OECD = Better life index country reports&#xa;&#xa;, UNGA = 20 march = International day of happiness&#xa;&#xa;, Bhutan = Gross national happiness&#xa;&#xa;," ID="ID_1986795531" CREATED="1550458237044" MODIFIED="1550458352924"/>
+</node>
 </node>
 <node ID="ID_272853218" CREATED="1540965626238" MODIFIED="1549617147007" BACKGROUND_COLOR="#fdfdd0"><richcontent TYPE="NODE">
 
@@ -15538,10 +16414,10 @@
 <node TEXT="5.        Issues related to direct and indirect farm subsidies MSP" ID="ID_247191221" CREATED="1549712649350" MODIFIED="1549712672331" LINK="#ID_682774013" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT=", PDS - objectives, functioning, limitations, revamping&#xa;&#xa;, issues of buffer stocks and food security&#xa;&#xa;, Technology missions&#xa;&#xa;, economics of animal-rearing." ID="ID_488344249" CREATED="1540965626241" MODIFIED="1549712648781" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="6. Food processing and related industries in India- scope and significance,&#xa;&#xa; location&#xa;&#xa;, upstream and downstream requirements&#xa;&#xa;, supply chain management." ID="ID_614818165" CREATED="1540965626245" MODIFIED="1549713989723" LINK="#ID_1617892606" BACKGROUND_COLOR="#fdfdd0"/>
-<node TEXT="7.        Land reforms in India." ID="ID_642541775" CREATED="1540965626249" MODIFIED="1540965781505" BACKGROUND_COLOR="#fdfdd0">
+<node TEXT="7.        Land reforms in India." FOLDED="true" ID="ID_642541775" CREATED="1540965626249" MODIFIED="1540965781505" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="farms friendly reforms index&#xa;&#xa;Land leasing law&#xa;&#xa;digitisation" ID="ID_705089699" CREATED="1549778450990" MODIFIED="1549778476767" LINK="#ID_625643111"/>
 </node>
-<node TEXT="8.        Effects of liberalization on the economy&#xa;&#xa;, changes in industrial policy&#xa;&#xa;and their effects on industrial growth." ID="ID_1671982321" CREATED="1540965626253" MODIFIED="1549617065987" BACKGROUND_COLOR="#fdfdd0">
+<node TEXT="8.        Effects of liberalization on the economy&#xa;&#xa;, changes in industrial policy&#xa;&#xa;and their effects on industrial growth." FOLDED="true" ID="ID_1671982321" CREATED="1540965626253" MODIFIED="1549617065987" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="BEPS" FOLDED="true" ID="ID_1640948357" CREATED="1549766312576" MODIFIED="1549766314317">
 <node TEXT="def :&#xa;&#xa;tax avoidance strategies that exploit gaps and mismatches in tax rules to artificially shift profits to low or no-tax locations." ID="ID_1923691124" CREATED="1549766315699" MODIFIED="1549766322863"/>
 <node TEXT="GAAR&#xa;by Shome Panel" ID="ID_1704530227" CREATED="1549766395662" MODIFIED="1549766405759"/>
@@ -18994,12 +19870,12 @@
 </node>
 </node>
 </node>
-<node TEXT="drought" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1646275247" CREATED="1489246713326" MODIFIED="1497043998669">
+<node TEXT="drought" LOCALIZED_STYLE_REF="default" ID="ID_1646275247" CREATED="1489246713326" MODIFIED="1497043998669">
 <font NAME="Calibri"/>
 <node TEXT="4 types" FOLDED="true" ID="ID_240953390" CREATED="1489246715622" MODIFIED="1526643852501" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Jan&apos;17/Vision%20IAS%20CSP%202017%20ECOLOGY_ENVIRONMENT_AND_DISASTER_MANAGEMENT.pdf">
 <icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
-<node TEXT="Hydrological,&#xa;Ecological,&#xa;Meterological&#xa;agricultural" FOLDED="true" ID="ID_758866763" CREATED="1526642780308" MODIFIED="1526642857814">
+<node TEXT="Hydrological,&#xa;Ecological,&#xa;Meterological&#xa;agricultural" ID="ID_758866763" CREATED="1526642780308" MODIFIED="1526642857814">
 <node TEXT="well mein water falls&lt;&#xa;ecosystem productivity falls,&#xa;inadequate rainfall,&#xa;Crop failure" ID="ID_385994226" CREATED="1526642866637" MODIFIED="1526642914344"/>
 </node>
 </node>
@@ -19076,11 +19952,15 @@
 </node>
 <node TEXT="Oil Spill" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1423969678" CREATED="1488273946803" MODIFIED="1548668631657">
 <font NAME="Calibri"/>
-<node TEXT="India Srilanka Exercise" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1026183880" CREATED="1494894429320" MODIFIED="1495498786276">
+<node TEXT="India Srilanka Exercise" LOCALIZED_STYLE_REF="default" ID="ID_1026183880" CREATED="1494894429320" MODIFIED="1495498786276">
 <node TEXT="Samudra Pahredar" ID="ID_911632132" CREATED="1494894435567" MODIFIED="1494894448709"/>
-<node TEXT="Indian Coast guard" ID="ID_1038051577" CREATED="1494894471203" MODIFIED="1494894474338"/>
+<node TEXT="Indian Coast guard" ID="ID_1038051577" CREATED="1494894471203" MODIFIED="1550468728568" LINK="#ID_1287084456"/>
 </node>
-<node TEXT="Solutions?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1955814151" CREATED="1488273949921" MODIFIED="1488545169682">
+<node TEXT="Bunker convention" FOLDED="true" ID="ID_214874009" CREATED="1495498733517" MODIFIED="1495498740674">
+<node TEXT="effective compensation is&#xa;available to persons who suffer damage caused by spills of oil, when carried as fuel in ships&apos; bunkers." ID="ID_1630956984" CREATED="1495498741471" MODIFIED="1495498751707"/>
+<node TEXT="applicable to territory (including territorial sea), EEZ" ID="ID_605663163" CREATED="1495498754957" MODIFIED="1495498774507"/>
+</node>
+<node TEXT="Solutions?" LOCALIZED_STYLE_REF="default" ID="ID_1955814151" CREATED="1488273949921" MODIFIED="1488545169682">
 <node TEXT="Bio remediation" LOCALIZED_STYLE_REF="default" ID="ID_1701399531" CREATED="1488273953645" MODIFIED="1488545169682"><richcontent TYPE="DETAILS">
 
 <html>
@@ -19096,12 +19976,9 @@
 </richcontent>
 </node>
 <node TEXT="Nano sheet - hydrophoic + oil philic" LOCALIZED_STYLE_REF="default" ID="ID_1176375762" CREATED="1488273956571" MODIFIED="1488545169683"/>
+<node TEXT="Oilzapper&#xa;&#xa;sorbents" LOCALIZED_STYLE_REF="default" ID="ID_1162215989" CREATED="1550468754106" MODIFIED="1550468766843"/>
+<node TEXT="National Oil Spill Disaster Contingency Plan, 1996&#xa;&#xa;Indian coast guard as designated authority" ID="ID_1287084456" CREATED="1550468676737" MODIFIED="1550468694710"/>
 </node>
-<node TEXT="Bunker convention" FOLDED="true" ID="ID_214874009" CREATED="1495498733517" MODIFIED="1495498740674">
-<node TEXT="effective compensation is&#xa;available to persons who suffer damage caused by spills of oil, when carried as fuel in ships&apos; bunkers." ID="ID_1630956984" CREATED="1495498741471" MODIFIED="1495498751707"/>
-<node TEXT="applicable to territory (including territorial sea), EEZ" ID="ID_605663163" CREATED="1495498754957" MODIFIED="1495498774507"/>
-</node>
-<node TEXT="- 2019-01-28 15.13.46" ID="ID_1851761424" CREATED="1548668626810" MODIFIED="1548668626810"/>
 </node>
 <node TEXT="Heat waves" FOLDED="true" ID="ID_1819448559" CREATED="1492418767539" MODIFIED="1548668635063">
 <font NAME="Calibri"/>
@@ -19211,7 +20088,42 @@
 </node>
 </node>
 <node TEXT="16.        &#x2022; Linkages between development and spread of extremism." ID="ID_1796350869" CREATED="1540965626271" MODIFIED="1540965805630" BACKGROUND_COLOR="#e8fefb"/>
-<node TEXT="17.        &#x2022; Role of external state and non-state actors in creating challenges to internal security" ID="ID_1602764971" CREATED="1540965626272" MODIFIED="1540965805636" BACKGROUND_COLOR="#e8fefb"/>
+<node TEXT="17.        &#x2022; Role of external state and non-state actors in creating challenges to internal security" FOLDED="true" ID="ID_1602764971" CREATED="1540965626272" MODIFIED="1540965805636" BACKGROUND_COLOR="#e8fefb">
+<node TEXT="National Security Doctrine" ID="ID_405798379" CREATED="1550458392301" MODIFIED="1550560447480">
+<node TEXT="why needed?" FOLDED="true" ID="ID_676412996" CREATED="1550560467006" MODIFIED="1550560470549">
+<node TEXT="Ad Hoc responses to crisis:&#xa;&#xa;Surgical strike&#xa;, army &apos;free hand&apos;&#xa;, released Masood under passenger pressure Hijack&#xa;&#xa;&#xa;Ad Hoc responses don&apos;t work" ID="ID_1074534984" CREATED="1550560470669" MODIFIED="1550560526468"/>
+<node TEXT="to manage crisis and long term security planning" ID="ID_1273496910" CREATED="1550560527024" MODIFIED="1550560538441"/>
+<node TEXT="holistic approach to security involving&#xa;&#xa;economic&#xa;ecological&#xa;military&#xa;strategic angle" ID="ID_795382182" CREATED="1550560538636" MODIFIED="1550560565520"/>
+<node TEXT="convergence of military and political views&#xa;&#xa;War n peace are political decisions not be left only to military" ID="ID_772900559" CREATED="1550560568207" MODIFIED="1550560592595"/>
+<node TEXT="evaluate options + combination of options&#xa;&#xa;beyond binaries of war and appeasement" ID="ID_968952033" CREATED="1550560643681" MODIFIED="1550560672906"/>
+<node TEXT="Clear communication strategy&#xa;&#xa;e.g. Kandhar Hijack Case of masood Azhar" ID="ID_1347785991" CREATED="1550560599595" MODIFIED="1550560620176"/>
+</node>
+<node TEXT="fodder" ID="ID_342045694" CREATED="1550560458646" MODIFIED="1550560463099">
+<node TEXT="Pakistani strategy : Bleeding India by thousand cuts" ID="ID_562876300" CREATED="1550458497994" MODIFIED="1550459203206"/>
+<node TEXT="success or failure of a military operation depends upon the strategic objective (SO) it achieves&#xa;&#xa;Revenge is not a SO.&#xa;&#xa;=&gt; not surgical strike" ID="ID_1024673673" CREATED="1550459030629" MODIFIED="1550459070024" MAX_WIDTH="145.6595713907694 pt" MIN_WIDTH="145.6595713907694 pt"/>
+<node ID="ID_785454200" CREATED="1550458524466" MODIFIED="1550458611032" LINK="https://indianexpress.com/article/opinion/editorials/kashmir-attack-pulwama-pakistan-jaish-e-mohammad-militancy-needed-policy-not-reaction-5588434/" MAX_WIDTH="145.6595713907694 pt" MIN_WIDTH="145.6595713907694 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      misrepresenting Pakistan's move as <font color="#0000cc">'cross border terrorism' </font>instead of <font color="#ff0033">'act of war' </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff0033">[do not agree]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="18.        &#x2022; Challenges to internal security through communication networks&#xa;, role of media and social networking sites in internal security challenges&#xa;, basics of cyber security&#xa;, money-laundering and its prevention" FOLDED="true" ID="ID_1379390934" CREATED="1540965626274" MODIFIED="1540966003854" BACKGROUND_COLOR="#e8fefb">
 <node TEXT="leveraging soft power" FOLDED="true" ID="ID_324486997" CREATED="1532172851570" MODIFIED="1532172856006">
 <font BOLD="true"/>
