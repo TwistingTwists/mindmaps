@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1628,7 +1628,10 @@
 </node>
 </node>
 </node>
-<node TEXT="Social Justice" FOLDED="true" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
+<node TEXT="Social Justice" ID="ID_651276494" CREATED="1498840566963" MODIFIED="1530941509904">
+<node TEXT="income and wealth inequality" ID="ID_142512359" CREATED="1549044535543" MODIFIED="1549044582434">
+<node TEXT="tax wealth as well as income" ID="ID_1603421504" CREATED="1549044589826" MODIFIED="1549044596345"/>
+</node>
 <node TEXT="National Health policy, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1236096259" CREATED="1491236883553" MODIFIED="1498925822582">
 <font NAME="Calibri"/>
 <node TEXT="Salient features" FOLDED="true" ID="ID_1432035499" CREATED="1494669834724" MODIFIED="1494669838880">
@@ -1891,118 +1894,6 @@
 </node>
 </node>
 </node>
-<node TEXT="women" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_132650656" CREATED="1502369843633" MODIFIED="1502369844595">
-<font NAME="Calibri"/>
-<node TEXT="sexual harassment" FOLDED="true" ID="ID_865243950" CREATED="1502369847295" MODIFIED="1502369854764">
-<node TEXT="any attack on personhood, physical or mental integrity," LOCALIZED_STYLE_REF="default" ID="ID_951234901" CREATED="1504152163936" MODIFIED="1504152180765">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Sexual Harassment of Women at workplace, 2013" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1732270828" CREATED="1488257556240" MODIFIED="1502369862639" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
-<font NAME="Calibri"/>
-<node TEXT="Women complains only when unbearable" LOCALIZED_STYLE_REF="default" ID="ID_1626870880" CREATED="1488257660001" MODIFIED="1488545169408"/>
-<node TEXT="inter ministerial committee for working of act @MoWCD" LOCALIZED_STYLE_REF="default" ID="ID_314374631" CREATED="1496275108383" MODIFIED="1496275122540"/>
-<node TEXT="more than 10 employee =&gt; must have internal complaints committee (ICC)" LOCALIZED_STYLE_REF="default" ID="ID_609433754" CREATED="1496275037083" MODIFIED="1533888828841" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="ICC only constituted in &lt;50% of companies" LOCALIZED_STYLE_REF="default" ID="ID_1749348254" CREATED="1533888842177" MODIFIED="1533888858150" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="e-apply directly to MoWCD + Anonymous" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1336520695" CREATED="1488257565068" MODIFIED="1488545169413">
-<node TEXT="Transparency" LOCALIZED_STYLE_REF="default" ID="ID_1781398030" CREATED="1488257636654" MODIFIED="1488545169413"/>
-<node TEXT="Monitorable" LOCALIZED_STYLE_REF="default" ID="ID_760346110" CREATED="1488257645780" MODIFIED="1488545169413"/>
-<node TEXT="SHe-Box for effective implementation" ID="ID_1967643882" CREATED="1501200471082" MODIFIED="1501200479711"/>
-</node>
-<node ID="ID_1667574353" CREATED="1496275136863" MODIFIED="1496275204542"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      workplace = any place visited by the <i>employee </i>during the course of employment <b><i>including the transportation.</i></b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="limitation" FOLDED="true" ID="ID_798625415" CREATED="1535793914103" MODIFIED="1535793916306">
-<node TEXT="freelancers? (not defined geographic workplace)&#xa;, electronic harassment&#xa;," ID="ID_1417823554" CREATED="1535793916478" MODIFIED="1535799437604"/>
-</node>
-</node>
-<node TEXT="SEBI guidelines, 2012" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_553328049" CREATED="1502369893893" MODIFIED="1502369900898">
-<font NAME="Calibri"/>
-<node TEXT="Business responsibility Report annual  :&#xa;&#xa;, list of sexual complaints&#xa;, environment&#xa;, social reponsibility&#xa;&#xa;in cases of public interest" ID="ID_986465941" CREATED="1502369903582" MODIFIED="1533889015054"/>
-</node>
-<node TEXT="14 = right to gender equality&#xa;21&#xa;IPC" LOCALIZED_STYLE_REF="default" ID="ID_940094687" CREATED="1504152152330" MODIFIED="1504152209797">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="women migration" FOLDED="true" ID="ID_79683296" CREATED="1532667816014" MODIFIED="1532667819280">
-<node TEXT="historical context" FOLDED="true" ID="ID_951644349" CREATED="1532667882052" MODIFIED="1532667886480">
-<node TEXT="19th century&#xa;[Plassey to partition]" ID="ID_1952465870" CREATED="1533889033401" MODIFIED="1533889043496"/>
-</node>
-<node TEXT="NSS (national sample survey)&#xa;&#xa;45% of urban women are migrants" ID="ID_1365474289" CREATED="1532667819515" MODIFIED="1532667839809"/>
-<node TEXT="ES 2016-17 indicates increasing trend in women migration" ID="ID_925133136" CREATED="1532667842699" MODIFIED="1532667855459"/>
-</node>
-<node TEXT="lack of employment opportunities in comparison to male counter partss relegate them to positions of relative insignificance" FOLDED="true" ID="ID_496529735" CREATED="1516449170536" MODIFIED="1516449197774">
-<node TEXT="e.g. Ladakah - women cooperative (reduced migration and women empowerment through participation in development)" ID="ID_1593906925" CREATED="1516449197993" MODIFIED="1527771699937"/>
-<node TEXT="involve youth in managerial works via community leaders and peer learning" ID="ID_554630267" CREATED="1516449236061" MODIFIED="1516449260800"/>
-</node>
-<node TEXT="Gender parity index = education, UNESCO" FOLDED="true" ID="ID_227376054" CREATED="1520859948523" MODIFIED="1520859958302">
-<node TEXT="ratio of female to male in education" ID="ID_711903944" CREATED="1520859960050" MODIFIED="1520859978603"/>
-</node>
-<node TEXT="UPSC mains :&#xa;partiarchy&apos;s effect on middle class working women = don&apos;t control their spending" ID="ID_1250987877" CREATED="1520860827182" MODIFIED="1520860862878">
-<icon BUILTIN="flag-green"/>
-</node>
-<node TEXT="Anti Trafficing legislation, 2018" FOLDED="true" ID="ID_1826630629" CREATED="1533887711251" MODIFIED="1533887948267" LINK="https://www.thehindu.com/todays-paper/tp-opinion/does-the-anti-trafficking-bill-address-trafficking/article24648772.ece">
-<node TEXT="pro" FOLDED="true" ID="ID_1609613722" CREATED="1533887718987" MODIFIED="1533887719768">
-<node TEXT="as organised crime&#xa;, witness protection&#xa;, rehab fund&#xa;, foreign agency collaborate&#xa;, victim capacity building&#xa;, attachment of property" ID="ID_1327861191" CREATED="1533887735989" MODIFIED="1533887797326"/>
-</node>
-<node TEXT="cons" FOLDED="true" ID="ID_232520597" CREATED="1533887719971" MODIFIED="1533887723190">
-<node ID="ID_744949134" CREATED="1533887817719" MODIFIED="1533887881291"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      trafficker police collusion?
-    </p>
-    <p>
-      , prosecution also on <i>possibility of </i>trafficking
-    </p>
-    <p>
-      , 370 IPC
-    </p>
-    <p>
-      (, sex tourism
-    </p>
-    <p>
-      , surrogacy not covered)
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="    National commission on Women" FOLDED="true" ID="ID_1924372560" CREATED="1530252503926" MODIFIED="1531994895024">
-<node TEXT="Nagaland - legal aid to female inmates" ID="ID_126017272" CREATED="1530252509706" MODIFIED="1530252519809"/>
-<node TEXT="Khunti, JHK gangrape cognisance" ID="ID_963084878" CREATED="1530252526598" MODIFIED="1530252536012"/>
-</node>
-<node TEXT="eg of women empoerment" FOLDED="true" ID="ID_203860075" CREATED="1531994895891" MODIFIED="1531994902022">
-<node TEXT="kolkata police all women police on scooty to reach remotest places" ID="ID_1066193669" CREATED="1531994902601" MODIFIED="1531994918835"/>
-</node>
-</node>
-<node TEXT="Children" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1050380848" CREATED="1531407282808" MODIFIED="1531407284330">
-<font NAME="Calibri"/>
-<node TEXT="CRY report -&#xa;&#xa;15-18 no longer protected under Child Labor Act" ID="ID_1667914890" CREATED="1531407285492" MODIFIED="1549709014663"/>
-<node TEXT="adulthood - sexual and mental health" ID="ID_985503664" CREATED="1531407312995" MODIFIED="1531407320970"/>
-<node TEXT="undernourished ~40%&#xa;&#xa;&gt;50% girls anaemic in 15-18 age group" ID="ID_1737532652" CREATED="1531407324559" MODIFIED="1531407354990"/>
-<node TEXT="Crime against children &gt; 1L&#xa;&#xa;[NCRB data, 2016]" ID="ID_1816048178" CREATED="1533887981020" MODIFIED="1533888003555"/>
-</node>
 <node TEXT="social show off in marriage is harmful, why?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1570423987" CREATED="1517370936140" MODIFIED="1517370956009">
 <font NAME="Calibri"/>
 <node TEXT="child sex ratio skewed,&#xa;meta preference for son,&#xa;discrimnatory attitude towards girls" ID="ID_1822651582" CREATED="1517370957088" MODIFIED="1517370980230"/>
@@ -2016,755 +1907,8 @@
 <node TEXT="SHUT clinics in NIMHANS,&#xa;&#xa;Social activities" ID="ID_563024631" CREATED="1549862560735" MODIFIED="1549862569292"/>
 </node>
 </node>
-<node TEXT="Betterment of vulnerable sections" FOLDED="true" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1522382917507">
-<node TEXT="children" FOLDED="true" ID="ID_1782340994" CREATED="1507641586177" MODIFIED="1507641587865">
-<node TEXT="Child Labor" FOLDED="true" ID="ID_1027291556" CREATED="1497950728446" MODIFIED="1497950731068">
-<node TEXT="family enterprise" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1572271001" CREATED="1512619575488" MODIFIED="1512619581696">
-<font NAME="Calibri"/>
-<node TEXT="traditional skill and artisian + culture preservation" ID="ID_326558784" CREATED="1512619716388" MODIFIED="1512619730377"/>
-<node TEXT="instead, employ them as teachers =&gt; no need for child labor" ID="ID_225102673" CREATED="1512619730668" MODIFIED="1512619743128"/>
-</node>
-<node TEXT="rehabilitation, education, skill" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1340400506" CREATED="1512619582742" MODIFIED="1512619611226">
-<font NAME="Calibri"/>
-<node TEXT="reduce school dropout =&gt; child labor down (jordan)" ID="ID_1065475741" CREATED="1512619806617" MODIFIED="1512619819113"/>
-</node>
-<node TEXT="legal protection" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1543156787" CREATED="1512619589038" MODIFIED="1512619655956">
-<font NAME="Calibri"/>
-<node TEXT="ILO = worst forms of child Labor convention (WFCL)" FOLDED="true" ID="ID_1783508992" CREATED="1497950804717" MODIFIED="1503832625160">
-<node ID="ID_256643459" CREATED="1497950859676" MODIFIED="1497950936435"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      harms <b>health </b>(physical+mental)<b>, safety, morals </b>of children
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="prostitution, drugs, slavery" ID="ID_83195317" CREATED="1497950872370" MODIFIED="1497950888759"/>
-<node TEXT="hazardous work = WFCL + confined spaces." ID="ID_533278282" CREATED="1497950988966" MODIFIED="1497951038667"/>
-</node>
-<node TEXT="ILO =  Minimum Age Convention, 1973" ID="ID_783257243" CREATED="1503832626226" MODIFIED="1503832634160"/>
-<node TEXT="Child Labor Protection ACt, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_30341265" CREATED="1490105819185" MODIFIED="1494887616014">
-<font NAME="Calibri"/>
-<node ID="ID_1391631538" CREATED="1490105825143" MODIFIED="1524387390510"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>hazardous occupation </b>(Haz.Occu) count down + GoI empowered to include Haz.Occu
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="stricter norms for punishment" ID="ID_1745931045" CREATED="1503832761135" MODIFIED="1503832765690"/>
-<node TEXT="provides fund for rehabilitation" ID="ID_944631888" CREATED="1490105843762" MODIFIED="1490105854219"/>
-<node TEXT="def adolescent = 14-18" ID="ID_1813670684" CREATED="1503832708659" MODIFIED="1524387398109">
-<font BOLD="true"/>
-</node>
-<node TEXT="aligned with RTE, ILO" ID="ID_718683080" CREATED="1503832780889" MODIFIED="1503832788254"/>
-</node>
-<node TEXT="national child labor project" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_829423018" CREATED="1503832672430" MODIFIED="1503832676186">
-<font NAME="Calibri"/>
-<node ID="ID_1627998279" CREATED="1503832676474" MODIFIED="1503832870840"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      rehabilitation for <b><i><u>bridge </u></i></b>education + vocational training + stipend (rs. 150)+ Healthcare + mid day meal
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="convergence of schemes" ID="ID_1918795469" CREATED="1503832893248" MODIFIED="1503832897585"/>
-<node TEXT="monitoring child labor, tracking system" ID="ID_1631419118" CREATED="1503832905602" MODIFIED="1503832914993"/>
-</node>
-<node TEXT="PENCIL Portal" LOCALIZED_STYLE_REF="default" ID="ID_1123854413" CREATED="1524387434677" MODIFIED="1537407099196">
-<icon BUILTIN="flag-green"/>
-<font NAME="Calibri"/>
-</node>
-<node TEXT="in conflict laws" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1675731694" CREATED="1512619622629" MODIFIED="1512619626959">
-<font NAME="Calibri"/>
-<node TEXT="RTE and Child Labor protection Act" ID="ID_444728286" CREATED="1512619628006" MODIFIED="1512619639990"/>
-</node>
-</node>
-<node TEXT="labor market regulations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_118675488" CREATED="1512619599704" MODIFIED="1512619603378">
-<font NAME="Calibri"/>
-<node ID="ID_639238135" CREATED="1512619680035" MODIFIED="1512619702695"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>71% </b>of children in agriculture and allied sector
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_217825349" CREATED="1497950738253" MODIFIED="1512619775400"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      90% of workforce in <b>unorganised </b>sector =&gt; children susceptible
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Constitution =&#xa;23 (1) - trafficking + begar stop&#xa;24 - no child labor &lt;14 yrs&#xa;39(e) - prevent child labor" ID="ID_810859650" CREATED="1497951112233" MODIFIED="1533887733567" LINK="#ID_1826630629"/>
-<node TEXT="misc" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1728990571" CREATED="1512619834140" MODIFIED="1512619835344">
-<font NAME="Calibri"/>
-<node TEXT="SDG = 8 eliminate child labor" ID="ID_1967725195" CREATED="1503832647000" MODIFIED="1503832652707"/>
-<node TEXT="Kailash Satyarthi" ID="ID_803865347" CREATED="1524387475388" MODIFIED="1524387480851"/>
-</node>
-</node>
-<node TEXT="child protection" FOLDED="true" ID="ID_1672600478" CREATED="1524387294401" MODIFIED="1524387297079">
-<node TEXT="Posco E Box" ID="ID_1488776423" CREATED="1524387324341" MODIFIED="1524387328937"/>
-<node TEXT="UN Convention on Rights of Child" FOLDED="true" ID="ID_1874426637" CREATED="1524387605166" MODIFIED="1524387636593">
-<node TEXT="legally binding, india ratified only 2 protocols of it" ID="ID_825915071" CREATED="1524387727792" MODIFIED="1524387745296"/>
-</node>
-<node TEXT="safe childhood programme" FOLDED="true" ID="ID_595027970" CREATED="1524387773194" MODIFIED="1524387777109">
-<node TEXT="min pnachayati raj + UNICEF booklet" ID="ID_1344462664" CREATED="1524387777224" MODIFIED="1524387786773"/>
-</node>
-<node TEXT="UNICEF report" FOLDED="true" ID="ID_176927181" CREATED="1524387794203" MODIFIED="1524387796908">
-<node TEXT="2017 - state of children in digital world" ID="ID_1960983198" CREATED="1524387797366" MODIFIED="1524387812233"/>
-</node>
-</node>
-<node TEXT="Child Adoption" FOLDED="true" ID="ID_474680911" CREATED="1537407046620" MODIFIED="1537407049350">
-<node TEXT="SC : Speedup Adoption&#xa;&#xa;NCPCR : 8 / 208 centres are positive review (adoption)" ID="ID_1492719887" CREATED="1537406869886" MODIFIED="1537406946828"/>
-<node TEXT="issue&#xa;&#xa;1. timely adoption,&#xa;even after adoption children remain in childcare Insitutition." ID="ID_351793501" CREATED="1537406948106" MODIFIED="1537407034077"/>
-<node TEXT="WAY FORWARD&#xa;&#xa;JJ Act, 2018 amendment&#xa;, Adoption proceedings in camera" ID="ID_1314245893" CREATED="1537406984340" MODIFIED="1537407043502"/>
-</node>
-<node TEXT="national action plan for children, 2016" ID="ID_120354101" CREATED="1524387853503" MODIFIED="1524387885575"/>
-<node TEXT="survival health nutrition" ID="ID_1901808904" CREATED="1524387299660" MODIFIED="1524387306428"/>
-</node>
-<node TEXT="Beggars" FOLDED="true" ID="ID_631667822" CREATED="1533964367406" MODIFIED="1533964370469">
-<node TEXT="vision mains 365 social" ID="ID_831318518" CREATED="1533964750624" MODIFIED="1533964754546"/>
-<node TEXT="Delhi HC decriminalised begging" FOLDED="true" ID="ID_1101425740" CREATED="1533964370516" MODIFIED="1533964375723">
-<node TEXT="a move to criminalise them will make them invisible without addressing rootcause of problem" ID="ID_891499105" CREATED="1533964389952" MODIFIED="1533964407863"/>
-</node>
-<node TEXT="japanese saying&#xa;&#xa;it is a beggar&apos;s honor that he is not a thief" ID="ID_1472229313" CREATED="1533964664454" MODIFIED="1533964681004"/>
-</node>
-<node TEXT="Disabled" FOLDED="true" ID="ID_1941891589" CREATED="1498974131849" MODIFIED="1498974133817">
-<node TEXT="nothing about us without us" ID="ID_1022712832" CREATED="1498974137161" MODIFIED="1498974145067"/>
-</node>
-<node TEXT="women" FOLDED="true" ID="ID_887639469" CREATED="1498974134020" MODIFIED="1498974136131">
-<node TEXT="representation" FOLDED="true" ID="ID_1847725190" CREATED="1499747621049" MODIFIED="1499747624333">
-<node TEXT="S" FOLDED="true" ID="ID_1636117302" CREATED="1499747628860" MODIFIED="1499747635128">
-<node TEXT="women = greater access to public space" ID="ID_1014793912" CREATED="1499747739903" MODIFIED="1499747756478"/>
-<node TEXT="SHG (sharing of spaces for work) + changing mobility" ID="ID_1727859542" CREATED="1499747917486" MODIFIED="1499747932659"/>
-</node>
-<node TEXT="in parliament, state, ULB, PRI" FOLDED="true" ID="ID_1477859384" CREATED="1499747638190" MODIFIED="1499747645753">
-<node TEXT="Nagaland 33% women&#xa;Amravati women parliament" ID="ID_1987977552" CREATED="1499747646407" MODIFIED="1499747658156"/>
-<node TEXT="Nai Roshni = leadership qualities in women from minority,&#xa;Mahila Shakti Kendra" ID="ID_1529612310" CREATED="1520951195104" MODIFIED="1526196714128">
-<icon BUILTIN="idea"/>
-</node>
-</node>
-<node ID="ID_251887424" CREATED="1520951221893" MODIFIED="1520951254829"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      acc. to <b>Pam Rajput Committee</b>, 50% reservation for women legislators at all levels
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_1616174519" CREATED="1499747689863" MODIFIED="1499747715751"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      SHG = economic independence for political empowerment
-    </p>
-    <p>
-      <br/>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="occupational division must start from institution" ID="ID_928633833" CREATED="1499747786562" MODIFIED="1499747797751"/>
-<node TEXT="liberalism emerging from economic independence not from society =&gt; to make it complete, promoted by institutions" ID="ID_390340127" CREATED="1499747812985" MODIFIED="1499747863488"/>
-</node>
-<node TEXT="to her own body" FOLDED="true" ID="ID_311780008" CREATED="1499773419761" MODIFIED="1499773422164">
-<node TEXT="assam two child policy!" ID="ID_1189681142" CREATED="1499773422357" MODIFIED="1499773427398"/>
-<node TEXT="sterlistaion camps - chattisgarh" ID="ID_473975428" CREATED="1499773478960" MODIFIED="1499773484034"/>
-<node TEXT="CARA under JJ Act, Surrogate mothers, constitution - 23,24" ID="ID_605527265" CREATED="1499773428372" MODIFIED="1499773454854"/>
-<node TEXT="FGM&#xa;&#xa;SC - violative of right to her own body" ID="ID_1636644789" CREATED="1531998848667" MODIFIED="1535793832546" LINK="#ID_1650349846"/>
-</node>
-<node TEXT="female genital mutilation to curb sexual desires" FOLDED="true" ID="ID_1650349846" CREATED="1499987007100" MODIFIED="1499987016753">
-<node TEXT="by certain muslim sect" ID="ID_829267221" CREATED="1503833270424" MODIFIED="1503833276349"/>
-<node TEXT="banned in 24 african countries" ID="ID_1417054471" CREATED="1499987028724" MODIFIED="1499987037373"/>
-<node TEXT="UNGA adopted resolution to eliminate practice" ID="ID_315408490" CREATED="1499987040445" MODIFIED="1499987052464"/>
-<node TEXT="POSCO, IPC" ID="ID_389023079" CREATED="1503833284974" MODIFIED="1503833290704"/>
-</node>
-<node TEXT="Child marriage" FOLDED="true" ID="ID_1235054794" CREATED="1497970595627" MODIFIED="1497970600861">
-<node ID="ID_188977750" CREATED="1497970898279" MODIFIED="1535793887416" MAX_WIDTH="121.04916594018557 pt" MIN_WIDTH="121.04916594018557 pt"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      25% of total women married=child brides (CB)
-    </p>
-    <p>
-      [NFHS -4 ]
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      33% of all CB= India
-    </p>
-    <p>
-      42% of all CB = South Asia<br/>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="rajasthan = top in girls marrying below legal age 21" FOLDED="true" ID="ID_1542600746" CREATED="1497970660175" MODIFIED="1497970670105">
-<node TEXT="sajha abhiyaan = UNICEF + Raj. Govt." ID="ID_296392640" CREATED="1497970672371" MODIFIED="1497970683951"/>
-</node>
-<node TEXT="devoid of health + education + inter generational poverty" FOLDED="true" ID="ID_1819907714" CREATED="1497971547538" MODIFIED="1497971556063">
-<node TEXT="long term consequences on quality of life" ID="ID_1633149170" CREATED="1497971566946" MODIFIED="1497971573591"/>
-<node TEXT="limits informed choice" ID="ID_1898216115" CREATED="1497971662035" MODIFIED="1497971666696"/>
-<node TEXT="more education =&gt; better nourish and care child" ID="ID_858010269" CREATED="1497971470011" MODIFIED="1497971485668"/>
-</node>
-<node TEXT="PCMA" FOLDED="true" ID="ID_1992690370" CREATED="1497971559105" MODIFIED="1497971561451">
-<node TEXT="prevention of child marraige act" ID="ID_631377593" CREATED="1497971575775" MODIFIED="1497971580706"/>
-</node>
-<node FOLDED="true" ID="ID_323985218" CREATED="1497971593409" MODIFIED="1497971608159"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      not social evil <b>ONLY</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="economic (LFPR + Poverty) + equity + dignity of human life angles too!" ID="ID_1083116859" CREATED="1497971612162" MODIFIED="1497971635864"/>
-</node>
-<node TEXT="todo" FOLDED="true" ID="ID_1551415049" CREATED="1497971683287" MODIFIED="1497971685117">
-<node TEXT="actors" ID="ID_51504333" CREATED="1497971685388" MODIFIED="1497971706501"/>
-<node TEXT="social infra." ID="ID_1733984388" CREATED="1497971711463" MODIFIED="1497971717552"/>
-</node>
-<node TEXT="ending child marriage =&gt; ending inter generational cycle of poverty by allowing women to participate fully in society" ID="ID_342426473" CREATED="1497971384990" MODIFIED="1497971412829"/>
-<node TEXT="when girls are allowed to be girls, everybody wins!" ID="ID_1491439684" CREATED="1497971451974" MODIFIED="1497971463304"/>
-</node>
-<node TEXT="ES 2018" FOLDED="true" ID="ID_771881086" CREATED="1520861109002" MODIFIED="1520861111136">
-<node FOLDED="true" ID="ID_1254707603" CREATED="1520861046365" MODIFIED="1520861100872"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      w.r.t. income of the household increase, india's performance in <i>LFPR </i>+ <i>son meta pref</i>. has not improved [ES 2018]
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="LFPR declined 36 -&gt; 24% in a decade" FOLDED="true" ID="ID_649923897" CREATED="1520861192494" MODIFIED="1525513244942">
-<icon BUILTIN="flag-green"/>
-<node ID="ID_1468339708" CREATED="1520861668387" MODIFIED="1520861714601"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      women only participating in LFPR becoz to sustain family
-    </p>
-    <p>
-      <b>not empowerment</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="causes" FOLDED="true" ID="ID_762542720" CREATED="1520864070579" MODIFIED="1520864071685">
-<node FOLDED="true" ID="ID_1100426327" CREATED="1520861462496" MODIFIED="1525513210984" MAX_WIDTH="141.4678337704237 pt" MIN_WIDTH="141.4678337704237 pt"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      1. increase in household income
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      2. caste system = upper caste more domestication of women
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <i>3. feminisation of agri =&gt; mechanisation</i>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      4. economic growth requires services =&gt; need skill =&gt; but no education
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      5. security outside house
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="feminisation of agriculture" FOLDED="true" ID="ID_1009717515" CREATED="1523333411360" MODIFIED="1523333540224">
-<icon BUILTIN="flag-green"/>
-<node TEXT="why a problem?&#xa;1. land a state subject =&gt; no uniform (gender) law!&#xa;2. Women no bargaining power, cultural" ID="ID_1967707008" CREATED="1523333490125" MODIFIED="1523333531040"/>
-<node TEXT="more women workforce but no property rights =&gt; not counted as farmers!" ID="ID_593189209" CREATED="1523333419518" MODIFIED="1523333441690"/>
-<node TEXT="ignorance about right, no bargaining power, male migration" ID="ID_1311915799" CREATED="1523333441880" MODIFIED="1523333454092"/>
-<node TEXT="Mahila Kisan Adhikar Sangh, Women Farmer&apos;s day by min agri," ID="ID_1339359492" CREATED="1523333456494" MODIFIED="1523333487539"/>
-</node>
-</node>
-<node TEXT="Issues" FOLDED="true" ID="ID_500080772" CREATED="1489899447374" MODIFIED="1489899451911">
-<node TEXT="Rural women" FOLDED="true" ID="ID_1145188624" CREATED="1489129321115" MODIFIED="1489129324609">
-<node TEXT="Agri mechanised =&gt; Lost jobs" ID="ID_333656808" CREATED="1489129328288" MODIFIED="1489129335396"/>
-<node TEXT="MNREGA = employment option =&gt; women participate!" ID="ID_831995699" CREATED="1489129347227" MODIFIED="1489129370959"/>
-<node TEXT="withdraw if prosper?" ID="ID_1689262341" CREATED="1489129335632" MODIFIED="1489129346445"/>
-</node>
-<node TEXT="Urban women" FOLDED="true" ID="ID_1780853981" CREATED="1489129324779" MODIFIED="1489129326857">
-<node TEXT="" ID="ID_894460183" CREATED="1489899492037" MODIFIED="1489899492038">
-<hook NAME="FirstGroupNode"/>
-</node>
-<node TEXT="travel" ID="ID_1476871835" CREATED="1489129374056" MODIFIED="1489129380920"/>
-<node TEXT="rigid work hours" ID="ID_219422132" CREATED="1489129381072" MODIFIED="1489129393585"/>
-<node TEXT="" ID="ID_834797661" CREATED="1489899492034" MODIFIED="1489899492037">
-<hook NAME="SummaryNode"/>
-<hook NAME="AlwaysUnfoldedNode"/>
-<node TEXT="child rearing" ID="ID_146121735" CREATED="1489899492040" MODIFIED="1489899495914"/>
-</node>
-<node TEXT="work from home?" ID="ID_278638210" CREATED="1489129393843" MODIFIED="1489129399025"/>
-<node TEXT="Safety&#xa;sexual harrasment" ID="ID_471034938" CREATED="1489899460968" MODIFIED="1525513134674"/>
-</node>
-</node>
-</node>
-<node TEXT="implications" FOLDED="true" ID="ID_1522201845" CREATED="1520862013582" MODIFIED="1520862015950">
-<node ID="ID_733794244" CREATED="1520862016828" MODIFIED="1525512994277" MAX_WIDTH="170.46209516331535 pt" MIN_WIDTH="170.46209516331535 pt" TEXT_ALIGN="LEFT"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>individual </b>= economic freedom
-    </p>
-    <p>
-      <b>family </b>= reinforced patriarchy + income
-    </p>
-    <p>
-      <b>Nation </b>= LFPR + 27% GDP loss
-    </p>
-    <p>
-      <b>Intl image</b>&#160;= GII, Gender gap = global power??
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="govt. efforts" FOLDED="true" ID="ID_1657651612" CREATED="1520864080476" MODIFIED="1520864161759">
-<icon BUILTIN="flag-green"/>
-<node TEXT="constitutional provisions" FOLDED="true" ID="ID_1989966499" CREATED="1520864083417" MODIFIED="1520864088124">
-<node TEXT="14, FD = dignity of women, DPSP = equal pay for equal work" ID="ID_1552902836" CREATED="1520864127131" MODIFIED="1520864146625"/>
-</node>
-<node TEXT="statutory guidelines" FOLDED="true" ID="ID_47467997" CREATED="1520864088408" MODIFIED="1520864096236">
-<node TEXT="Maternity benefit" ID="ID_1731591548" CREATED="1520864149111" MODIFIED="1520864156199"/>
-</node>
-<node TEXT="judicial cases" FOLDED="true" ID="ID_1681595673" CREATED="1520864113910" MODIFIED="1520864117257">
-<node TEXT="vishakha guidelines" ID="ID_1749761869" CREATED="1520864117513" MODIFIED="1520864123287"/>
-</node>
-<node TEXT="schemes" ID="ID_883636726" CREATED="1520864096459" MODIFIED="1520864110624"/>
-</node>
-</node>
-<node TEXT="It is high time for india to move to Gender dividend along with demographic dividend" ID="ID_1389790995" CREATED="1489899526244" MODIFIED="1489899548558">
-<icon BUILTIN="attach"/>
-</node>
-</node>
-<node TEXT="Global Human Capital Index" FOLDED="true" ID="ID_149029151" CREATED="1526711913232" MODIFIED="1526711927284">
-<node TEXT="WEF" ID="ID_1177147123" CREATED="1526711940877" MODIFIED="1526711944391"/>
-<node TEXT="lowest rank among BRICS" ID="ID_204286315" CREATED="1526711947725" MODIFIED="1526711952722"/>
-</node>
-<node TEXT="feminisation U- hypothesis" FOLDED="true" ID="ID_922519658" CREATED="1520861719061" MODIFIED="1520861726381">
-<node TEXT="more women educated =&gt; initially participation down, then up as education level increases (becoz formal job access)" ID="ID_951188996" CREATED="1520861829421" MODIFIED="1520861869977"/>
-</node>
-</node>
-<node TEXT="e.g. Child marriage in Rajasthan + Bengal&apos;s KanyaShree" ID="ID_1837542500" CREATED="1499932295809" MODIFIED="1499932311652"/>
-<node TEXT="female child is ignored. e.g. gender gap in child stunting" ID="ID_1181468348" CREATED="1519539993255" MODIFIED="1519540011189"/>
-<node TEXT="adultery&#xa;section 497, 498 IPC" FOLDED="true" ID="ID_1823541654" CREATED="1514028769787" MODIFIED="1531996291078">
-<node TEXT="woman and man in sexual relationship.&#xa;&#xa;1. Husband of woman can file case against the man.&#xa;while the wife of man can&apos;t.&#xa;2. no provision for punishment for woman for sexual misconduct" ID="ID_1760640851" CREATED="1514028772697" MODIFIED="1514028834606"/>
-<node ID="ID_1000721319" CREATED="1531996309102" MODIFIED="1531996323680"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      women as <b>subordinate </b>to man in marriage =&gt; gender equality
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="man as adulter and woman as victim" ID="ID_822230775" CREATED="1531996327136" MODIFIED="1531996334169"/>
-</node>
-<node TEXT="fodder" FOLDED="true" ID="ID_1134892572" CREATED="1533971469314" MODIFIED="1533971476471">
-<node FOLDED="true" ID="ID_1358446341" CREATED="1533971476908" MODIFIED="1533971576439"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <i>Faith and Feminism </i>book
-    </p>
-    <p>
-      struggle for women rights in pakistan
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      [religion angle to women inequality]
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="many liberal men who fear backlash from Islamists have become Ambivalent." ID="ID_316846695" CREATED="1533971505866" MODIFIED="1533971550685"/>
-<node TEXT="thus, feminist movement slowed down" ID="ID_1965959441" CREATED="1533971551419" MODIFIED="1533971558405"/>
-</node>
-<node TEXT="Women Action Forum (WAF) = pak group for women" FOLDED="true" ID="ID_11122217" CREATED="1533971600145" MODIFIED="1533971628633">
-<node TEXT="slogan&#xa;enemy = men, money, mullah, military" ID="ID_964774179" CREATED="1533971629211" MODIFIED="1533971649590"/>
-</node>
-</node>
-</node>
-<node TEXT="Tribal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_969099627" CREATED="1488271339741" MODIFIED="1488545169863">
-<node TEXT="PVTG" FOLDED="true" ID="ID_1247671953" CREATED="1491718145353" MODIFIED="1491718207984">
-<icon BUILTIN="idea"/>
-<node TEXT="Criteria of identification" FOLDED="true" ID="ID_451671275" CREATED="1491718452916" MODIFIED="1491718458213">
-<node TEXT="geographical isolation" ID="ID_778835129" CREATED="1491718173770" MODIFIED="1491718173770"/>
-<node TEXT="distinctive traits" ID="ID_1376943674" CREATED="1491718173770" MODIFIED="1491718401092"/>
-<node TEXT="shyness of contact with other cultures." ID="ID_29849034" CREATED="1491718232940" MODIFIED="1491718233584"/>
-<node TEXT="can profess any religion" ID="ID_1472077934" CREATED="1491718173770" MODIFIED="1491718173770"/>
-<node TEXT="primitive traits; backwardness" ID="ID_1293500634" CREATED="1491718173775" MODIFIED="1491718230994"/>
-</node>
-<node TEXT="Issues" FOLDED="true" ID="ID_294164070" CREATED="1491718445936" MODIFIED="1491718447127">
-<node TEXT="Pre agricultural system of existence, i.e. they practice hunting or gathering" ID="ID_1376494304" CREATED="1491718447756" MODIFIED="1491718447756"/>
-<node TEXT="Zero or negative population growth" ID="ID_1957613923" CREATED="1491718447756" MODIFIED="1491718447756"/>
-<node TEXT="Extremely low level of literacy" ID="ID_1531278245" CREATED="1491718447761" MODIFIED="1491718447761"/>
-<node TEXT="Absence of a written language" ID="ID_991999997" CREATED="1491718447766" MODIFIED="1491718447766"/>
-</node>
-<node TEXT="Schemes for PVTG, 2008" FOLDED="true" ID="ID_932461153" CREATED="1491718537190" MODIFIED="1491718541428">
-<node TEXT="CCD plan&#xa;conservation cum Development plan" FOLDED="true" ID="ID_104664782" CREATED="1491718541634" MODIFIED="1530939727318">
-<node ID="ID_1147071569" CREATED="1491718562789" MODIFIED="1496790335018"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      approved by Experts Committee appointed by&#160;&#160;<b>MinTribal</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="funded by central govt." ID="ID_1972785019" CREATED="1491718590211" MODIFIED="1491718594318"/>
-</node>
-</node>
-<node TEXT="examples of PVTG" ID="ID_1349854983" CREATED="1492165469819" MODIFIED="1492234172083"/>
-</node>
-<node TEXT="fodder" FOLDED="true" ID="ID_1045941647" CREATED="1530939980560" MODIFIED="1530939982122">
-<node TEXT="universities" FOLDED="true" ID="ID_1408693120" CREATED="1495233898660" MODIFIED="1497241881252">
-<icon BUILTIN="full-1"/>
-<node TEXT="1. Indira Gandhi Tribal University ,Amarkantak, MP" ID="ID_1537452286" CREATED="1495233901301" MODIFIED="1495233925257"/>
-<node TEXT="2. coming up in Jharkhand" ID="ID_195811088" CREATED="1495233925741" MODIFIED="1495233934914"/>
-</node>
-<node TEXT="BITs" FOLDED="true" ID="ID_224398771" CREATED="1490670093277" MODIFIED="1490946815702">
-<icon BUILTIN="flag-green"/>
-<node TEXT="BIT and tribal rights" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1625050668" CREATED="1488235931587" MODIFIED="1488545169873">
-<node TEXT="If India does one, =&gt; guarantee the investment by these countries." LOCALIZED_STYLE_REF="default" ID="ID_741600652" CREATED="1488235934721" MODIFIED="1488545169876"/>
-<node TEXT="Affect tribal people&apos;s rights." LOCALIZED_STYLE_REF="default" ID="ID_514119517" CREATED="1488235954576" MODIFIED="1488545169878"/>
-<node TEXT="UN Declaration to rights of Indegenous People, UNRIP 2007" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_270365754" CREATED="1488235978580" MODIFIED="1488545169880">
-<node TEXT="" ID="ID_1523057238" CREATED="1488236596226" MODIFIED="1488236596230">
-<hook NAME="FirstGroupNode"/>
-</node>
-<node TEXT="self-determination" LOCALIZED_STYLE_REF="default" ID="ID_533906205" CREATED="1488236035326" MODIFIED="1488545169881" BACKGROUND_COLOR="#feffd6"/>
-<node TEXT="autonomy" LOCALIZED_STYLE_REF="default" ID="ID_1950286598" CREATED="1488236040869" MODIFIED="1488545169882" BACKGROUND_COLOR="#feffd6"/>
-<node TEXT="self-governance" LOCALIZED_STYLE_REF="default" ID="ID_599205193" CREATED="1488236044266" MODIFIED="1488545169883" BACKGROUND_COLOR="#feffd6"/>
-<node TEXT="" ID="ID_784719773" CREATED="1488236596214" MODIFIED="1488236596223">
-<hook NAME="SummaryNode"/>
-<hook NAME="AlwaysUnfoldedNode"/>
-<node TEXT="Rights of indegenous people for" LOCALIZED_STYLE_REF="default" ID="ID_1328955672" CREATED="1488236596233" MODIFIED="1488545169884" BACKGROUND_COLOR="#feffd6"/>
-</node>
-<node TEXT="right against forcible displacement with prior informed consent" LOCALIZED_STYLE_REF="default" ID="ID_626855262" CREATED="1488236052533" MODIFIED="1488545169885"/>
-</node>
-<node TEXT="Way forward" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1051766090" CREATED="1488236104805" MODIFIED="1488545169886">
-<node TEXT="Strong domestic legislation" LOCALIZED_STYLE_REF="default" ID="ID_196699921" CREATED="1488236116476" MODIFIED="1488545169886"/>
-<node TEXT="Exclude tribal rights in BIT like NZ (Maoris)" LOCALIZED_STYLE_REF="default" ID="ID_1348662771" CREATED="1488236125554" MODIFIED="1488545169888"/>
-<node TEXT="Tribal made partners (representations) in investment policy making" LOCALIZED_STYLE_REF="default" ID="ID_555542024" CREATED="1488236143966" MODIFIED="1488545169888"/>
-</node>
-</node>
-<node TEXT="promote commitment + protection to foreign investors =&gt; Increase FDI" LOCALIZED_STYLE_REF="default" ID="ID_261795105" CREATED="1490670097778" MODIFIED="1490670116373"/>
-<node TEXT="provisions for tribal rights" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1183926395" CREATED="1490946738855" MODIFIED="1490946804943">
-<node TEXT="5+6th schedule" ID="ID_1462435626" CREATED="1490946747157" MODIFIED="1490946752489"/>
-<node TEXT="PESA" ID="ID_147972960" CREATED="1490946753475" MODIFIED="1490946754631"/>
-<node TEXT="Forest Rights Act" FOLDED="true" ID="ID_1905789877" CREATED="1490946754830" MODIFIED="1497263704276">
-<icon BUILTIN="full-1"/>
-<node TEXT="vision mar 10.4" ID="ID_1775532056" CREATED="1493975154758" MODIFIED="1493975172612" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Mar&apos;17/Vision%20IAS%20Current%20Affairs%20March-2017%20.pdf"/>
-<node TEXT="title right" ID="ID_1198526697" CREATED="1493975121896" MODIFIED="1493975126625"/>
-<node TEXT="use right" ID="ID_633833680" CREATED="1493975143296" MODIFIED="1493975144887"/>
-<node TEXT="forest mgmt" ID="ID_942875548" CREATED="1493975184164" MODIFIED="1493975189856"/>
-<node TEXT="rehabilitation" ID="ID_1954624592" CREATED="1493975127501" MODIFIED="1493975130095"/>
-<node TEXT="development right" ID="ID_579611682" CREATED="1493975132502" MODIFIED="1493975135206"/>
-</node>
-<node TEXT="UNRIP" ID="ID_549361307" CREATED="1490946771931" MODIFIED="1490946794083" LINK="#ID_270365754"/>
-</node>
-</node>
-<node TEXT="Demographics of tribals" FOLDED="true" ID="ID_695691080" CREATED="1492234274321" MODIFIED="1530939993640">
-<node TEXT="highest literacy rate" FOLDED="true" ID="ID_1489782326" CREATED="1492234277527" MODIFIED="1492234285250">
-<node TEXT="Lakshwadeep = 91.7%&#xa;kerala = 76%" ID="ID_1546059111" CREATED="1492234285394" MODIFIED="1492234313082"/>
-</node>
-</node>
-</node>
-<node TEXT="Medicinal Plants promotion" FOLDED="true" ID="ID_1308208493" CREATED="1534308869707" MODIFIED="1534308922684">
-<icon BUILTIN="flag-green"/>
-<node TEXT="Min AYUSH + Min Tribal Collaborate to realise the value of medicinal plants grown by tribals" ID="ID_468218482" CREATED="1534308876615" MODIFIED="1534308896821"/>
-</node>
-<node TEXT="Individual Forest Rights (IFR)&#xa;&#xa;62% denied claims!" FOLDED="true" ID="ID_1883214457" CREATED="1532683219763" MODIFIED="1532683235213">
-<node TEXT="use Van Mitra and Tribal research training institute&apos;s capacity development + digital approach" ID="ID_1425978153" CREATED="1532683714291" MODIFIED="1532683746497"/>
-</node>
-<node TEXT="Niyamgiri resistance against Vedanta&#xa;&#xa;shows that entire forest can&apos;t be sold to Industry" LOCALIZED_STYLE_REF="default" ID="ID_1110639289" CREATED="1532683553450" MODIFIED="1532683659977" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="PAC report on Tribal Sub Plan&#xa;v_2018-02 1.2" FOLDED="true" ID="ID_728772575" CREATED="1530940001829" MODIFIED="1534308048706">
-<icon BUILTIN="flag-green"/>
-<node TEXT="Tribal Sub Plan?&#xa;2018-04 vision" FOLDED="true" ID="ID_783541928" CREATED="1534307858268" MODIFIED="1534307867847">
-<node ID="ID_1025836352" CREATED="1534307867925" MODIFIED="1534308326643"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      rapid socio-econ development strategy for tribals
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      ensure <b>policy driven benefits </b>are reached
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="benefits are besides state govt. funding&#xa;&#xa;from CFI (275 (1) )&#xa;by Min Tribal" ID="ID_160947412" CREATED="1534307885459" MODIFIED="1534308644781"/>
-<node TEXT="issues" ID="ID_1898805587" CREATED="1534308601320" MODIFIED="1534308606648" LINK="#ID_1155678929"/>
-<node TEXT="in proportion to ST population" ID="ID_1993966037" CREATED="1534307900086" MODIFIED="1534307905556"/>
-</node>
-<node ID="ID_1155678929" CREATED="1530940095203" MODIFIED="1534308558718"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>[better financial resource utilisation]</b>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      1. central node unit for <b>oversight </b>of plan
-    </p>
-    <p>
-      <b>2. Non lapsable </b>pool of TSP
-    </p>
-    <p>
-      3. earmarking finance into <b>separate heads</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="2015 CAG report = no tribal participation in policy making =&gt; increase it" ID="ID_619156651" CREATED="1530940101344" MODIFIED="1534308485824"/>
-</node>
-<node TEXT="govt. initiatives" FOLDED="true" ID="ID_140460565" CREATED="1492242467511" MODIFIED="1492242472333">
-<node TEXT="MSP for MFP" ID="ID_1405711335" CREATED="1492242564754" MODIFIED="1492242567383"/>
-<node TEXT="TRIFED marketing for tribal products" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1703433236" CREATED="1496790218841" MODIFIED="1497241875298" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node ID="ID_566838778" CREATED="1532683325112" MODIFIED="1534308656658"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u>Tribes India </u>stores
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_408670986" CREATED="1532683345101" MODIFIED="1532683354832"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      tied up with <b>Amazon </b>and <b>Flipkart </b>to sell our products online
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT=" Speedpost to deliver products at no extra cost" ID="ID_1762195292" CREATED="1532683361900" MODIFIED="1532683362222"/>
-</node>
-<node TEXT="vanjeevan" FOLDED="true" ID="ID_1148471109" CREATED="1494919058449" MODIFIED="1526191990043">
-<icon BUILTIN="idea"/>
-<node TEXT="UNDP + NSTFDC" FOLDED="true" ID="ID_969978861" CREATED="1494919060166" MODIFIED="1496286374391">
-<node TEXT="NSTFDC = non-profit company under Min. Tribal" FOLDED="true" ID="ID_1777140556" CREATED="1494925724675" MODIFIED="1494925740172">
-<node ID="ID_1199814456" CREATED="1494925755039" MODIFIED="1495501119670"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      financial assistance at <i>concessional </i>rates of interest for undertaking viable income generating activities to the Scheduled Tribes upto <b>double the poverty line</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="also research + technical assistance" ID="ID_1831706865" CREATED="1497152579764" MODIFIED="1497152588346"/>
-<node TEXT="tribal livelihood" ID="ID_1957326992" CREATED="1494919249687" MODIFIED="1494919255485"/>
-</node>
-<node TEXT="eklavya model residential schools&#xa;    EMRS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_613549527" CREATED="1496635028250" MODIFIED="1526192024054" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="idea"/>
-<font NAME="Calibri"/>
-<node TEXT="min Tribal" ID="ID_926880914" CREATED="1496635046581" MODIFIED="1496635052825"/>
-<node TEXT="all tribal blocks with &gt;50% ST" ID="ID_1878627358" CREATED="1524896850793" MODIFIED="1524896875200"/>
-<node TEXT="sports, skill, local art n culture" ID="ID_639201987" CREATED="1524896876048" MODIFIED="1526192099909">
-<font BOLD="true"/>
-</node>
-</node>
-<node TEXT="Van dhan Vikas karyakaram" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_865108307" CREATED="1532667160905" MODIFIED="1532667172336" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="value addition to tribal products -&#xa;Mahua packaged selling&#xa;&#xa;Training tribals for the same" ID="ID_1078308666" CREATED="1532667177654" MODIFIED="1532667318805"/>
-</node>
-<node TEXT="Human capacity dev" FOLDED="true" ID="ID_1550148698" CREATED="1534308800588" MODIFIED="1534308833858">
-<node TEXT="TSP," ID="ID_1600491629" CREATED="1534308807401" MODIFIED="1534308820544" LINK="#ID_728772575"/>
-<node TEXT="Van dhan vikas" ID="ID_810103661" CREATED="1534308811386" MODIFIED="1534308825732" LINK="#ID_865108307"/>
-<node TEXT="education" ID="ID_426659256" CREATED="1534308843407" MODIFIED="1534308850705" LINK="#ID_613549527"/>
-</node>
-</node>
-</node>
-<node TEXT="fodder" FOLDED="true" ID="ID_1967746051" CREATED="1516465696956" MODIFIED="1530941859446">
-<node TEXT="schemes like housing have separate provisions for transgenders, women head of house, sc/st manual scavengers" ID="ID_1184459193" CREATED="1516465703712" MODIFIED="1516465734039"/>
-</node>
-<node TEXT="Reservation in promotion" FOLDED="true" ID="ID_1898959071" CREATED="1531995241192" MODIFIED="1531995245383">
-<node TEXT="Nagraj vs Union of India" FOLDED="true" ID="ID_1215692396" CREATED="1531995246314" MODIFIED="1531995252725">
-<node TEXT="cap at 50%" ID="ID_410505519" CREATED="1531995253870" MODIFIED="1531995271613"/>
-<node TEXT="criteria :&#xa;&#xa;backwardness show via data&#xa;, inadequate repn in public employment&#xa;, Not hurt administrative efficiency" ID="ID_1622659817" CREATED="1535873203008" MODIFIED="1535873244219"/>
-</node>
-<node TEXT="pending in front of 7 judge constitutional bench at SC" ID="ID_1467890337" CREATED="1531995272990" MODIFIED="1531995284493"/>
-<node TEXT="only to those who have not benefitteed ever in service from reservation" ID="ID_1313239" CREATED="1531995316221" MODIFIED="1531995329173"/>
-</node>
-<node TEXT="Transgenders" FOLDED="true" ID="ID_1454594181" CREATED="1531997050649" MODIFIED="1531997053478">
-<node ID="ID_1603650690" CREATED="1524400094705" MODIFIED="1531997109548"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      free transgender eudcaiton
-    </p>
-    Manonmaniam Sundaranar University, TN<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Odisha Behrampur GoI initiative for awareness" FOLDED="true" ID="ID_1562038760" CREATED="1531997056533" MODIFIED="1531997068658">
-<node TEXT="app to register + community-based org to Physically verify&#xa;&#xa;registering transgender for GoI schemes" ID="ID_1614384370" CREATED="1531997068971" MODIFIED="1531997089804"/>
-<node TEXT="use of ICT in social justice!!" LOCALIZED_STYLE_REF="default" ID="ID_77579588" CREATED="1531997126768" MODIFIED="1531997134534" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-</node>
-<node TEXT="Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Amendment Act 2015" FOLDED="true" ID="ID_784404290" CREATED="1526653792368" MODIFIED="1526653793744">
-<node TEXT="will full negiligence of public officials" ID="ID_308517175" CREATED="1535799452169" MODIFIED="1535799467233"/>
-<node TEXT="no immediate arrest&#xa;&#xa;for innocent protection" ID="ID_988367868" CREATED="1535799486908" MODIFIED="1535799494580"/>
-<node TEXT="compensation clause" ID="ID_882585733" CREATED="1535799467437" MODIFIED="1535799473906"/>
-<node TEXT="additional offences added" ID="ID_1380333672" CREATED="1535799474031" MODIFIED="1535799478985"/>
-<node TEXT="exclusive special courts + special public prosecutor" ID="ID_1002095598" CREATED="1526653807322" MODIFIED="1526653815676"/>
-<node TEXT="  state government shall specify a scheme to ensure the implementation of rights of victims and witnesses." ID="ID_1817854236" CREATED="1526653840740" MODIFIED="1526653841427"/>
-</node>
-</node>
 <node TEXT="Social services = Health, Education, Human Resource" ID="ID_1505178844" CREATED="1522382940464" MODIFIED="1522382960421"/>
+<node TEXT="vulnerable sections" ID="ID_166177670" CREATED="1550928012490" MODIFIED="1550928041306" LINK="#ID_1289559853"/>
 <node TEXT="Poverty and Hunger" ID="ID_862856829" CREATED="1522382966187" MODIFIED="1522382970250"/>
 <node TEXT="republic of mob lynching" FOLDED="true" ID="ID_1163738241" CREATED="1498494894365" MODIFIED="1531989028569">
 <icon BUILTIN="flag-green"/>
@@ -2857,9 +2001,6 @@
 </html>
 </richcontent>
 </node>
-</node>
-<node TEXT="SC in role of social justice for vulnerable sections" FOLDED="true" ID="ID_1340546544" CREATED="1532667565802" MODIFIED="1532667576855">
-<node TEXT="SC directive for compensation&#xa;&#xa;acid attack, sexual assault, child abuse victims" ID="ID_1838090926" CREATED="1532667578021" MODIFIED="1532667599969"/>
 </node>
 <node TEXT="evaluate NCPCR" FOLDED="true" ID="ID_1911566504" CREATED="1535871143733" MODIFIED="1535871147983">
 <node TEXT="reported sexual abuse at Child shelters" ID="ID_1765495660" CREATED="1535871148296" MODIFIED="1535871159688"/>
@@ -3485,7 +2626,7 @@
 </node>
 <node TEXT="gs2" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
 <node TEXT="Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure." ID="ID_1794554400" CREATED="1544200456978" MODIFIED="1544200577047" BACKGROUND_COLOR="#ccffcc"/>
-<node TEXT="&#x2022; Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein." ID="ID_1222219820" CREATED="1544200456978" MODIFIED="1544200577059" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="&#x2022; Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein." FOLDED="true" ID="ID_1222219820" CREATED="1544200456978" MODIFIED="1544200577059" BACKGROUND_COLOR="#ccffcc">
 <node TEXT="constitution + polity" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1593403955" CREATED="1530941423899" MODIFIED="1530941432245">
 <font NAME="Calibri" BOLD="true"/>
 <node TEXT="Role of governor" FOLDED="true" ID="ID_984505114" CREATED="1530941880505" MODIFIED="1530941888057">
@@ -4569,13 +3710,1252 @@
 <node TEXT="&#x2022; Development processes and the development industry- the role of NGOs, SHGs, various groups and associations, donors, charities, institutional and other stakeholders" FOLDED="true" ID="ID_559943090" CREATED="1544200456990" MODIFIED="1544200550013" BACKGROUND_COLOR="#ccccff">
 <node TEXT="FCRA bans 150 NGO funding :&#xa;&#xa;FCRA 2015 allows min fin to seek details of bank accounts of NGO from banks within 48 hours.&#xa;&#xa;Those NGO without an account in &apos;designated banks&apos; are stopped from foregin funds" ID="ID_1011631485" CREATED="1544499506824" MODIFIED="1544499558399"/>
 </node>
-<node TEXT="&#x2022; Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections." ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1544200550025" BACKGROUND_COLOR="#ccccff"/>
+<node TEXT="&#x2022; Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections." ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1544200550025" BACKGROUND_COLOR="#ccccff">
+<node TEXT="Betterment of vulnerable sections" FOLDED="true" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1522382917507">
+<node TEXT="children" FOLDED="true" ID="ID_1782340994" CREATED="1507641586177" MODIFIED="1507641587865">
+<node TEXT="Child Labor" FOLDED="true" ID="ID_1027291556" CREATED="1497950728446" MODIFIED="1497950731068">
+<node TEXT="family enterprise" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1572271001" CREATED="1512619575488" MODIFIED="1512619581696">
+<font NAME="Calibri"/>
+<node TEXT="traditional skill and artisian + culture preservation" ID="ID_326558784" CREATED="1512619716388" MODIFIED="1512619730377"/>
+<node TEXT="instead, employ them as teachers =&gt; no need for child labor" ID="ID_225102673" CREATED="1512619730668" MODIFIED="1512619743128"/>
+</node>
+<node TEXT="rehabilitation, education, skill" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1340400506" CREATED="1512619582742" MODIFIED="1512619611226">
+<font NAME="Calibri"/>
+<node TEXT="reduce school dropout =&gt; child labor down (jordan)" ID="ID_1065475741" CREATED="1512619806617" MODIFIED="1512619819113"/>
+</node>
+<node TEXT="legal protection" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1543156787" CREATED="1512619589038" MODIFIED="1512619655956">
+<font NAME="Calibri"/>
+<node TEXT="ILO = worst forms of child Labor convention (WFCL)" FOLDED="true" ID="ID_1783508992" CREATED="1497950804717" MODIFIED="1503832625160">
+<node ID="ID_256643459" CREATED="1497950859676" MODIFIED="1497950936435"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      harms <b>health </b>(physical+mental)<b>, safety, morals </b>of children
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="prostitution, drugs, slavery" ID="ID_83195317" CREATED="1497950872370" MODIFIED="1497950888759"/>
+<node TEXT="hazardous work = WFCL + confined spaces." ID="ID_533278282" CREATED="1497950988966" MODIFIED="1497951038667"/>
+</node>
+<node TEXT="ILO =  Minimum Age Convention, 1973" ID="ID_783257243" CREATED="1503832626226" MODIFIED="1503832634160"/>
+<node TEXT="Child Labor Protection ACt, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_30341265" CREATED="1490105819185" MODIFIED="1494887616014">
+<font NAME="Calibri"/>
+<node ID="ID_1391631538" CREATED="1490105825143" MODIFIED="1524387390510"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>hazardous occupation </b>(Haz.Occu) count down + GoI empowered to include Haz.Occu
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="stricter norms for punishment" ID="ID_1745931045" CREATED="1503832761135" MODIFIED="1503832765690"/>
+<node TEXT="provides fund for rehabilitation" ID="ID_944631888" CREATED="1490105843762" MODIFIED="1490105854219"/>
+<node TEXT="def adolescent = 14-18" ID="ID_1813670684" CREATED="1503832708659" MODIFIED="1524387398109">
+<font BOLD="true"/>
+</node>
+<node TEXT="aligned with RTE, ILO" ID="ID_718683080" CREATED="1503832780889" MODIFIED="1503832788254"/>
+</node>
+<node TEXT="national child labor project" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_829423018" CREATED="1503832672430" MODIFIED="1503832676186">
+<font NAME="Calibri"/>
+<node ID="ID_1627998279" CREATED="1503832676474" MODIFIED="1503832870840"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      rehabilitation for <b><i><u>bridge </u></i></b>education + vocational training + stipend (rs. 150)+ Healthcare + mid day meal
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="convergence of schemes" ID="ID_1918795469" CREATED="1503832893248" MODIFIED="1503832897585"/>
+<node TEXT="monitoring child labor, tracking system" ID="ID_1631419118" CREATED="1503832905602" MODIFIED="1503832914993"/>
+</node>
+<node TEXT="PENCIL Portal" LOCALIZED_STYLE_REF="default" ID="ID_1123854413" CREATED="1524387434677" MODIFIED="1537407099196">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+</node>
+<node TEXT="in conflict laws" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1675731694" CREATED="1512619622629" MODIFIED="1512619626959">
+<font NAME="Calibri"/>
+<node TEXT="RTE and Child Labor protection Act" ID="ID_444728286" CREATED="1512619628006" MODIFIED="1512619639990"/>
+</node>
+</node>
+<node TEXT="labor market regulations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_118675488" CREATED="1512619599704" MODIFIED="1512619603378">
+<font NAME="Calibri"/>
+<node ID="ID_639238135" CREATED="1512619680035" MODIFIED="1512619702695"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>71% </b>of children in agriculture and allied sector
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_217825349" CREATED="1497950738253" MODIFIED="1512619775400"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      90% of workforce in <b>unorganised </b>sector =&gt; children susceptible
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Constitution =&#xa;23 (1) - trafficking + begar stop&#xa;24 - no child labor &lt;14 yrs&#xa;39(e) - prevent child labor" ID="ID_810859650" CREATED="1497951112233" MODIFIED="1533887733567" LINK="#ID_1826630629"/>
+<node TEXT="misc" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1728990571" CREATED="1512619834140" MODIFIED="1512619835344">
+<font NAME="Calibri"/>
+<node TEXT="SDG = 8 eliminate child labor" ID="ID_1967725195" CREATED="1503832647000" MODIFIED="1503832652707"/>
+<node TEXT="Kailash Satyarthi" ID="ID_803865347" CREATED="1524387475388" MODIFIED="1524387480851"/>
+</node>
+</node>
+<node TEXT="child protection" FOLDED="true" ID="ID_1672600478" CREATED="1524387294401" MODIFIED="1524387297079">
+<node TEXT="Posco E Box" ID="ID_1488776423" CREATED="1524387324341" MODIFIED="1524387328937"/>
+<node TEXT="UN Convention on Rights of Child" FOLDED="true" ID="ID_1874426637" CREATED="1524387605166" MODIFIED="1524387636593">
+<node TEXT="legally binding, india ratified only 2 protocols of it" ID="ID_825915071" CREATED="1524387727792" MODIFIED="1524387745296"/>
+</node>
+<node TEXT="safe childhood programme" FOLDED="true" ID="ID_595027970" CREATED="1524387773194" MODIFIED="1524387777109">
+<node TEXT="min pnachayati raj + UNICEF booklet" ID="ID_1344462664" CREATED="1524387777224" MODIFIED="1524387786773"/>
+</node>
+<node TEXT="UNICEF report" FOLDED="true" ID="ID_176927181" CREATED="1524387794203" MODIFIED="1524387796908">
+<node TEXT="2017 - state of children in digital world" ID="ID_1960983198" CREATED="1524387797366" MODIFIED="1524387812233"/>
+</node>
+</node>
+<node TEXT="Child Adoption" FOLDED="true" ID="ID_474680911" CREATED="1537407046620" MODIFIED="1537407049350">
+<node TEXT="SC : Speedup Adoption&#xa;&#xa;NCPCR : 8 / 208 centres are positive review (adoption)" ID="ID_1492719887" CREATED="1537406869886" MODIFIED="1537406946828"/>
+<node TEXT="issue&#xa;&#xa;1. timely adoption,&#xa;even after adoption children remain in childcare Insitutition." ID="ID_351793501" CREATED="1537406948106" MODIFIED="1537407034077"/>
+<node TEXT="WAY FORWARD&#xa;&#xa;JJ Act, 2018 amendment&#xa;, Adoption proceedings in camera" ID="ID_1314245893" CREATED="1537406984340" MODIFIED="1537407043502"/>
+</node>
+<node TEXT="national action plan for children, 2016" ID="ID_120354101" CREATED="1524387853503" MODIFIED="1524387885575"/>
+<node TEXT="survival health nutrition" ID="ID_1901808904" CREATED="1524387299660" MODIFIED="1524387306428"/>
+</node>
+<node TEXT="Beggars" FOLDED="true" ID="ID_631667822" CREATED="1533964367406" MODIFIED="1533964370469">
+<node TEXT="vision mains 365 social" ID="ID_831318518" CREATED="1533964750624" MODIFIED="1533964754546"/>
+<node TEXT="Delhi HC decriminalised begging" FOLDED="true" ID="ID_1101425740" CREATED="1533964370516" MODIFIED="1533964375723">
+<node TEXT="a move to criminalise them will make them invisible without addressing rootcause of problem" ID="ID_891499105" CREATED="1533964389952" MODIFIED="1533964407863"/>
+</node>
+<node TEXT="japanese saying&#xa;&#xa;it is a beggar&apos;s honor that he is not a thief" ID="ID_1472229313" CREATED="1533964664454" MODIFIED="1533964681004"/>
+</node>
+<node TEXT="Disabled" FOLDED="true" ID="ID_1941891589" CREATED="1498974131849" MODIFIED="1498974133817">
+<node TEXT="nothing about us without us" ID="ID_1022712832" CREATED="1498974137161" MODIFIED="1498974145067"/>
+</node>
+<node TEXT="Women" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1572707793" CREATED="1488270931570" MODIFIED="1488545169853">
+<node TEXT="[oldies]" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_712046819" CREATED="1533888691572" MODIFIED="1533888696682">
+<node TEXT="Temple Entry" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_91288506" CREATED="1488541382367" MODIFIED="1488545169858">
+<node TEXT="14, 15, 25" LOCALIZED_STYLE_REF="default" ID="ID_938900972" CREATED="1488541384365" MODIFIED="1488545169858"/>
+</node>
+</node>
+<node TEXT="Fertility Rates and Contraception" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_359293550" CREATED="1489804332580" MODIFIED="1489804339987">
+<node TEXT="fertility is not a responsibility of women alone, men shall also take part in contraception" FOLDED="true" ID="ID_1820339447" CREATED="1489804354194" MODIFIED="1489804373836">
+<node TEXT="vasectomy = 0.3 % =&gt; male participation LOW" ID="ID_156915435" CREATED="1489804380871" MODIFIED="1533888765002">
+<icon BUILTIN="pencil"/>
+</node>
+</node>
+<node TEXT="Injectable contraceptives" FOLDED="true" ID="ID_1268005397" CREATED="1489804341842" MODIFIED="1489804428461">
+<icon BUILTIN="help"/>
+<node TEXT="bone density low" ID="ID_531235116" CREATED="1489804416306" MODIFIED="1489804423609"/>
+</node>
+<node TEXT="Why an issue?" FOLDED="true" ID="ID_1220038774" CREATED="1490945309436" MODIFIED="1490945314290">
+<node TEXT="Poor and migrant women" FOLDED="true" ID="ID_1801929284" CREATED="1490945244799" MODIFIED="1490945250928">
+<node TEXT="can&apos;t goto work during pregnancy" ID="ID_672415476" CREATED="1490945251103" MODIFIED="1490945259499"/>
+<node TEXT="+ monetary benefit for vasectomy" ID="ID_355408218" CREATED="1490945261044" MODIFIED="1490945292680"/>
+</node>
+<node TEXT="Awareness" ID="ID_99759054" CREATED="1489804436590" MODIFIED="1489804440135"/>
+</node>
+<node TEXT="Way forward" FOLDED="true" ID="ID_1058974544" CREATED="1490945322590" MODIFIED="1490945324121">
+<node TEXT="reproductive health facilities to un-organised sector women" ID="ID_136804542" CREATED="1490945332082" MODIFIED="1490945344060"/>
+<node TEXT="Ramakant Rai SC case" ID="ID_336370270" CREATED="1490945358443" MODIFIED="1490945361760"/>
+</node>
+</node>
+<node TEXT="Neerdhur = efficient cooking stove" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_60217384" CREATED="1488277002096" MODIFIED="1497241710912">
+<icon BUILTIN="full-1"/>
+<node TEXT="CSIR + NEERI" LOCALIZED_STYLE_REF="default" ID="ID_1291594059" CREATED="1488276987268" MODIFIED="1488545169858"/>
+<node TEXT="multi fuel cooking" ID="ID_1051852620" CREATED="1494893014070" MODIFIED="1494893022558"/>
+</node>
+<node TEXT="BBBP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_76461161" CREATED="1488613265298" MODIFIED="1496295484005">
+<icon BUILTIN="full-1"/>
+<node TEXT="3 min - MoH + MoWCD + MHRD" ID="ID_271855649" CREATED="1488613267194" MODIFIED="1488613285303"/>
+<node TEXT="Survival + protection + education" ID="ID_530287030" CREATED="1488613302813" MODIFIED="1488613316607"/>
+<node ID="ID_121099322" CREATED="1489558309318" MODIFIED="1489558314365"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i>Gudda Guddi Boards</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Sukanya Samridhi Yojna" FOLDED="true" ID="ID_267893952" CREATED="1489558295894" MODIFIED="1489558301161">
+<node TEXT="MoWCD + Min Finance ( Dept of Economic Affairs -&gt;interest decide)" LOCALIZED_STYLE_REF="default" ID="ID_768920215" CREATED="1496295420901" MODIFIED="1496295577843" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="small savings scheme!!" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1470741071" CREATED="1496295470720" MODIFIED="1496295476941" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="banks + post offices" ID="ID_71090161" CREATED="1524107065217" MODIFIED="1524107068493"/>
+</node>
+<node TEXT="only 2 girl child" FOLDED="true" ID="ID_1670153284" CREATED="1489578664763" MODIFIED="1489578667830">
+<node TEXT="Twin daughter + another child = OK" ID="ID_1902040753" CREATED="1489578654378" MODIFIED="1489578661790"/>
+</node>
+<node TEXT="1k to 1.5L / year" FOLDED="true" ID="ID_336731124" CREATED="1489578681313" MODIFIED="1489578692763">
+<node TEXT="for 14 years" ID="ID_1474525147" CREATED="1489579000230" MODIFIED="1489579002514"/>
+</node>
+<node TEXT="open = 0-10 years&#xa;operative = 21 yrs or till marriage" LOCALIZED_STYLE_REF="default" ID="ID_1444568445" CREATED="1489578670241" MODIFIED="1524107095533" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Civils dialy" ID="ID_1217675078" CREATED="1489578841423" MODIFIED="1489578849075" LINK="http://www.civilsdaily.com/blog/sukanya-samriddhi-yojana/"/>
+<node TEXT="@18 = withdraw 50%&#xa;@21 = 100%" ID="ID_75329881" CREATED="1489578693000" MODIFIED="1489578707906"/>
+<node TEXT="not for NRI" ID="ID_1708233482" CREATED="1496711676524" MODIFIED="1496711679024"/>
+</node>
+</node>
+<node TEXT="Nirbhaya Fund" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1872345163" CREATED="1488619139703" MODIFIED="1488619142412">
+<node TEXT="MoWCD" ID="ID_772869713" CREATED="1488619142572" MODIFIED="1488619145715"/>
+</node>
+<node TEXT="JSY" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_230755812" CREATED="1488171537589" MODIFIED="1497241749367">
+<icon BUILTIN="full-1"/>
+<node TEXT="launched under NRHM, MoHFW" LOCALIZED_STYLE_REF="default" ID="ID_408375321" CREATED="1488171548622" MODIFIED="1496965025395"/>
+<node TEXT="Promote Institutional deliveries" LOCALIZED_STYLE_REF="default" ID="ID_812143647" CREATED="1488171540527" MODIFIED="1488545169798"/>
+<node TEXT="100% centre sponsored = Delivery + POST delivery" LOCALIZED_STYLE_REF="default" ID="ID_1797275680" CREATED="1488171577200" MODIFIED="1488545169803"/>
+<node TEXT="Money to ASHA + Mother both" LOCALIZED_STYLE_REF="default" ID="ID_1773411131" CREATED="1488171592712" MODIFIED="1496295507019" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Narrowing the gap between&#xa;1. more - less educated&#xa;2. rich - poor women" LOCALIZED_STYLE_REF="default" ID="ID_978744559" CREATED="1488171620632" MODIFIED="1488545169808"/>
+</node>
+<node TEXT="Indira Gandhi Matritva Sahyog" LOCALIZED_STYLE_REF="default" ID="ID_1343728567" CREATED="1489466890341" MODIFIED="1495143359363"/>
+<node TEXT="PM surakshit matritva Abhiyaan ( PMSMA )" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1765845329" CREATED="1494905259179" MODIFIED="1526092896198">
+<icon BUILTIN="idea"/>
+<node TEXT="MoHFW" ID="ID_1334492784" CREATED="1494905277119" MODIFIED="1526092893761">
+<font BOLD="true"/>
+</node>
+<node TEXT="9th of every month" ID="ID_1199438655" CREATED="1494905268052" MODIFIED="1494905272828"/>
+<node TEXT="Green, red stickers" ID="ID_453480442" CREATED="1494905285784" MODIFIED="1494905291747"/>
+<node TEXT="use private doctors if sarkari not available" ID="ID_1674850421" CREATED="1497260491452" MODIFIED="1497260503776"/>
+</node>
+<node TEXT="SWADHAR" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1107221795" CREATED="1489570385467" MODIFIED="1489570388493">
+<node TEXT="2125 - 28" ID="ID_1664303861" CREATED="1489570388694" MODIFIED="1489570402838" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/22-Answer.pdf"/>
+<node TEXT="women, widows, prisoners" ID="ID_1291655021" CREATED="1490365863943" MODIFIED="1490365868156"/>
+</node>
+<node TEXT="NMWE" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1556901651" CREATED="1489571948637" MODIFIED="1489571955249">
+<node TEXT="2125 - 38" ID="ID_1826522700" CREATED="1489571956701" MODIFIED="1489571964200" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/22-Question.pdf"/>
+<node TEXT="PSK" ID="ID_1864274674" CREATED="1489571972480" MODIFIED="1489571973959"/>
+</node>
+</node>
+<node TEXT="women2" FOLDED="true" ID="ID_887639469" CREATED="1498974134020" MODIFIED="1550928114740">
+<node TEXT="representation" FOLDED="true" ID="ID_1847725190" CREATED="1499747621049" MODIFIED="1499747624333">
+<node TEXT="S" FOLDED="true" ID="ID_1636117302" CREATED="1499747628860" MODIFIED="1499747635128">
+<node TEXT="women = greater access to public space" ID="ID_1014793912" CREATED="1499747739903" MODIFIED="1499747756478"/>
+<node TEXT="SHG (sharing of spaces for work) + changing mobility" ID="ID_1727859542" CREATED="1499747917486" MODIFIED="1499747932659"/>
+</node>
+<node TEXT="in parliament, state, ULB, PRI" FOLDED="true" ID="ID_1477859384" CREATED="1499747638190" MODIFIED="1499747645753">
+<node TEXT="Nagaland 33% women&#xa;Amravati women parliament" ID="ID_1987977552" CREATED="1499747646407" MODIFIED="1499747658156"/>
+<node TEXT="Nai Roshni = leadership qualities in women from minority,&#xa;Mahila Shakti Kendra" ID="ID_1529612310" CREATED="1520951195104" MODIFIED="1526196714128">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node ID="ID_251887424" CREATED="1520951221893" MODIFIED="1520951254829"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      acc. to <b>Pam Rajput Committee</b>, 50% reservation for women legislators at all levels
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1616174519" CREATED="1499747689863" MODIFIED="1499747715751"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      SHG = economic independence for political empowerment
+    </p>
+    <p>
+      <br/>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="occupational division must start from institution" ID="ID_928633833" CREATED="1499747786562" MODIFIED="1499747797751"/>
+<node TEXT="liberalism emerging from economic independence not from society =&gt; to make it complete, promoted by institutions" ID="ID_390340127" CREATED="1499747812985" MODIFIED="1499747863488"/>
+</node>
+<node TEXT="to her own body" FOLDED="true" ID="ID_311780008" CREATED="1499773419761" MODIFIED="1499773422164">
+<node TEXT="assam two child policy!" ID="ID_1189681142" CREATED="1499773422357" MODIFIED="1499773427398"/>
+<node TEXT="sterlistaion camps - chattisgarh" ID="ID_473975428" CREATED="1499773478960" MODIFIED="1499773484034"/>
+<node TEXT="CARA under JJ Act, Surrogate mothers, constitution - 23,24" ID="ID_605527265" CREATED="1499773428372" MODIFIED="1499773454854"/>
+<node TEXT="FGM&#xa;&#xa;SC - violative of right to her own body" ID="ID_1636644789" CREATED="1531998848667" MODIFIED="1535793832546" LINK="#ID_1650349846"/>
+</node>
+<node TEXT="female genital mutilation to curb sexual desires" FOLDED="true" ID="ID_1650349846" CREATED="1499987007100" MODIFIED="1499987016753">
+<node TEXT="by certain muslim sect" ID="ID_829267221" CREATED="1503833270424" MODIFIED="1503833276349"/>
+<node TEXT="banned in 24 african countries" ID="ID_1417054471" CREATED="1499987028724" MODIFIED="1499987037373"/>
+<node TEXT="UNGA adopted resolution to eliminate practice" ID="ID_315408490" CREATED="1499987040445" MODIFIED="1499987052464"/>
+<node TEXT="POSCO, IPC" ID="ID_389023079" CREATED="1503833284974" MODIFIED="1503833290704"/>
+</node>
+<node TEXT="Child marriage" FOLDED="true" ID="ID_1235054794" CREATED="1497970595627" MODIFIED="1497970600861">
+<node ID="ID_188977750" CREATED="1497970898279" MODIFIED="1535793887416" MAX_WIDTH="121.04916594018557 pt" MIN_WIDTH="121.04916594018557 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      25% of total women married=child brides (CB)
+    </p>
+    <p>
+      [NFHS -4 ]
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      33% of all CB= India
+    </p>
+    <p>
+      42% of all CB = South Asia<br/>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="rajasthan = top in girls marrying below legal age 21" FOLDED="true" ID="ID_1542600746" CREATED="1497970660175" MODIFIED="1497970670105">
+<node TEXT="sajha abhiyaan = UNICEF + Raj. Govt." ID="ID_296392640" CREATED="1497970672371" MODIFIED="1497970683951"/>
+</node>
+<node TEXT="devoid of health + education + inter generational poverty" FOLDED="true" ID="ID_1819907714" CREATED="1497971547538" MODIFIED="1497971556063">
+<node TEXT="long term consequences on quality of life" ID="ID_1633149170" CREATED="1497971566946" MODIFIED="1497971573591"/>
+<node TEXT="limits informed choice" ID="ID_1898216115" CREATED="1497971662035" MODIFIED="1497971666696"/>
+<node TEXT="more education =&gt; better nourish and care child" ID="ID_858010269" CREATED="1497971470011" MODIFIED="1497971485668"/>
+</node>
+<node TEXT="PCMA" FOLDED="true" ID="ID_1992690370" CREATED="1497971559105" MODIFIED="1497971561451">
+<node TEXT="prevention of child marraige act" ID="ID_631377593" CREATED="1497971575775" MODIFIED="1497971580706"/>
+</node>
+<node FOLDED="true" ID="ID_323985218" CREATED="1497971593409" MODIFIED="1497971608159"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      not social evil <b>ONLY</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="economic (LFPR + Poverty) + equity + dignity of human life angles too!" ID="ID_1083116859" CREATED="1497971612162" MODIFIED="1497971635864"/>
+</node>
+<node TEXT="todo" FOLDED="true" ID="ID_1551415049" CREATED="1497971683287" MODIFIED="1497971685117">
+<node TEXT="actors" ID="ID_51504333" CREATED="1497971685388" MODIFIED="1497971706501"/>
+<node TEXT="social infra." ID="ID_1733984388" CREATED="1497971711463" MODIFIED="1497971717552"/>
+</node>
+<node TEXT="ending child marriage =&gt; ending inter generational cycle of poverty by allowing women to participate fully in society" ID="ID_342426473" CREATED="1497971384990" MODIFIED="1497971412829"/>
+<node TEXT="when girls are allowed to be girls, everybody wins!" ID="ID_1491439684" CREATED="1497971451974" MODIFIED="1497971463304"/>
+</node>
+<node TEXT="ES 2018" FOLDED="true" ID="ID_771881086" CREATED="1520861109002" MODIFIED="1520861111136">
+<node FOLDED="true" ID="ID_1254707603" CREATED="1520861046365" MODIFIED="1520861100872"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      w.r.t. income of the household increase, india's performance in <i>LFPR </i>+ <i>son meta pref</i>. has not improved [ES 2018]
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="LFPR declined 36 -&gt; 24% in a decade" FOLDED="true" ID="ID_649923897" CREATED="1520861192494" MODIFIED="1525513244942">
+<icon BUILTIN="flag-green"/>
+<node ID="ID_1468339708" CREATED="1520861668387" MODIFIED="1520861714601"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      women only participating in LFPR becoz to sustain family
+    </p>
+    <p>
+      <b>not empowerment</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="causes" FOLDED="true" ID="ID_762542720" CREATED="1520864070579" MODIFIED="1520864071685">
+<node FOLDED="true" ID="ID_1100426327" CREATED="1520861462496" MODIFIED="1525513210984" MAX_WIDTH="141.4678337704237 pt" MIN_WIDTH="141.4678337704237 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1. increase in household income
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      2. caste system = upper caste more domestication of women
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>3. feminisation of agri =&gt; mechanisation</i>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      4. economic growth requires services =&gt; need skill =&gt; but no education
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      5. security outside house
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="feminisation of agriculture" FOLDED="true" ID="ID_1009717515" CREATED="1523333411360" MODIFIED="1523333540224">
+<icon BUILTIN="flag-green"/>
+<node TEXT="why a problem?&#xa;1. land a state subject =&gt; no uniform (gender) law!&#xa;2. Women no bargaining power, cultural" ID="ID_1967707008" CREATED="1523333490125" MODIFIED="1523333531040"/>
+<node TEXT="more women workforce but no property rights =&gt; not counted as farmers!" ID="ID_593189209" CREATED="1523333419518" MODIFIED="1523333441690"/>
+<node TEXT="ignorance about right, no bargaining power, male migration" ID="ID_1311915799" CREATED="1523333441880" MODIFIED="1523333454092"/>
+<node TEXT="Mahila Kisan Adhikar Sangh, Women Farmer&apos;s day by min agri," ID="ID_1339359492" CREATED="1523333456494" MODIFIED="1523333487539"/>
+</node>
+</node>
+<node TEXT="Issues" FOLDED="true" ID="ID_500080772" CREATED="1489899447374" MODIFIED="1489899451911">
+<node TEXT="Rural women" FOLDED="true" ID="ID_1145188624" CREATED="1489129321115" MODIFIED="1489129324609">
+<node TEXT="Agri mechanised =&gt; Lost jobs" ID="ID_333656808" CREATED="1489129328288" MODIFIED="1489129335396"/>
+<node TEXT="MNREGA = employment option =&gt; women participate!" ID="ID_831995699" CREATED="1489129347227" MODIFIED="1489129370959"/>
+<node TEXT="withdraw if prosper?" ID="ID_1689262341" CREATED="1489129335632" MODIFIED="1489129346445"/>
+</node>
+<node TEXT="Urban women" FOLDED="true" ID="ID_1780853981" CREATED="1489129324779" MODIFIED="1489129326857">
+<node TEXT="" ID="ID_894460183" CREATED="1489899492037" MODIFIED="1489899492038">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="travel" ID="ID_1476871835" CREATED="1489129374056" MODIFIED="1489129380920"/>
+<node TEXT="rigid work hours" ID="ID_219422132" CREATED="1489129381072" MODIFIED="1489129393585"/>
+<node TEXT="" ID="ID_834797661" CREATED="1489899492034" MODIFIED="1489899492037">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="child rearing" ID="ID_146121735" CREATED="1489899492040" MODIFIED="1489899495914"/>
+</node>
+<node TEXT="work from home?" ID="ID_278638210" CREATED="1489129393843" MODIFIED="1489129399025"/>
+<node TEXT="Safety&#xa;sexual harrasment" ID="ID_471034938" CREATED="1489899460968" MODIFIED="1525513134674"/>
+</node>
+</node>
+</node>
+<node TEXT="implications" FOLDED="true" ID="ID_1522201845" CREATED="1520862013582" MODIFIED="1520862015950">
+<node ID="ID_733794244" CREATED="1520862016828" MODIFIED="1525512994277" MAX_WIDTH="170.46209516331535 pt" MIN_WIDTH="170.46209516331535 pt" TEXT_ALIGN="LEFT"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>individual </b>= economic freedom
+    </p>
+    <p>
+      <b>family </b>= reinforced patriarchy + income
+    </p>
+    <p>
+      <b>Nation </b>= LFPR + 27% GDP loss
+    </p>
+    <p>
+      <b>Intl image</b>&#160;= GII, Gender gap = global power??
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="govt. efforts" FOLDED="true" ID="ID_1657651612" CREATED="1520864080476" MODIFIED="1520864161759">
+<icon BUILTIN="flag-green"/>
+<node TEXT="constitutional provisions" FOLDED="true" ID="ID_1989966499" CREATED="1520864083417" MODIFIED="1520864088124">
+<node TEXT="14, FD = dignity of women, DPSP = equal pay for equal work" ID="ID_1552902836" CREATED="1520864127131" MODIFIED="1520864146625"/>
+</node>
+<node TEXT="statutory guidelines" FOLDED="true" ID="ID_47467997" CREATED="1520864088408" MODIFIED="1520864096236">
+<node TEXT="Maternity benefit" ID="ID_1731591548" CREATED="1520864149111" MODIFIED="1520864156199"/>
+</node>
+<node TEXT="judicial cases" FOLDED="true" ID="ID_1681595673" CREATED="1520864113910" MODIFIED="1520864117257">
+<node TEXT="vishakha guidelines" ID="ID_1749761869" CREATED="1520864117513" MODIFIED="1520864123287"/>
+</node>
+<node TEXT="schemes" ID="ID_883636726" CREATED="1520864096459" MODIFIED="1520864110624"/>
+</node>
+</node>
+<node TEXT="It is high time for india to move to Gender dividend along with demographic dividend" ID="ID_1389790995" CREATED="1489899526244" MODIFIED="1489899548558">
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node TEXT="Global Human Capital Index" ID="ID_149029151" CREATED="1526711913232" MODIFIED="1526711927284">
+<node TEXT="WEF" ID="ID_1177147123" CREATED="1526711940877" MODIFIED="1526711944391"/>
+<node TEXT="lowest rank among BRICS" ID="ID_204286315" CREATED="1526711947725" MODIFIED="1526711952722"/>
+</node>
+<node TEXT="feminisation U- hypothesis" FOLDED="true" ID="ID_922519658" CREATED="1520861719061" MODIFIED="1520861726381">
+<node TEXT="more women educated =&gt; initially participation down, then up as education level increases (becoz formal job access)" ID="ID_951188996" CREATED="1520861829421" MODIFIED="1520861869977"/>
+</node>
+</node>
+<node TEXT="e.g. Child marriage in Rajasthan + Bengal&apos;s KanyaShree" ID="ID_1837542500" CREATED="1499932295809" MODIFIED="1499932311652"/>
+<node TEXT="female child is ignored. e.g. gender gap in child stunting" ID="ID_1181468348" CREATED="1519539993255" MODIFIED="1519540011189"/>
+<node TEXT="adultery&#xa;section 497, 498 IPC" FOLDED="true" ID="ID_1823541654" CREATED="1514028769787" MODIFIED="1531996291078">
+<node TEXT="woman and man in sexual relationship.&#xa;&#xa;1. Husband of woman can file case against the man.&#xa;while the wife of man can&apos;t.&#xa;2. no provision for punishment for woman for sexual misconduct" ID="ID_1760640851" CREATED="1514028772697" MODIFIED="1514028834606"/>
+<node ID="ID_1000721319" CREATED="1531996309102" MODIFIED="1531996323680"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      women as <b>subordinate </b>to man in marriage =&gt; gender equality
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="man as adulter and woman as victim" ID="ID_822230775" CREATED="1531996327136" MODIFIED="1531996334169"/>
+</node>
+<node TEXT="fodder" FOLDED="true" ID="ID_1134892572" CREATED="1533971469314" MODIFIED="1533971476471">
+<node FOLDED="true" ID="ID_1358446341" CREATED="1533971476908" MODIFIED="1533971576439"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i>Faith and Feminism </i>book
+    </p>
+    <p>
+      struggle for women rights in pakistan
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      [religion angle to women inequality]
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="many liberal men who fear backlash from Islamists have become Ambivalent." ID="ID_316846695" CREATED="1533971505866" MODIFIED="1533971550685"/>
+<node TEXT="thus, feminist movement slowed down" ID="ID_1965959441" CREATED="1533971551419" MODIFIED="1533971558405"/>
+</node>
+<node TEXT="Women Action Forum (WAF) = pak group for women" FOLDED="true" ID="ID_11122217" CREATED="1533971600145" MODIFIED="1533971628633">
+<node TEXT="slogan&#xa;enemy = men, money, mullah, military" ID="ID_964774179" CREATED="1533971629211" MODIFIED="1533971649590"/>
+</node>
+</node>
+</node>
+<node TEXT="women" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_132650656" CREATED="1502369843633" MODIFIED="1502369844595">
+<font NAME="Calibri"/>
+<node TEXT="sexual harassment" FOLDED="true" ID="ID_865243950" CREATED="1502369847295" MODIFIED="1502369854764">
+<node TEXT="any attack on personhood, physical or mental integrity," LOCALIZED_STYLE_REF="default" ID="ID_951234901" CREATED="1504152163936" MODIFIED="1504152180765">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Sexual Harassment of Women at workplace, 2013" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1732270828" CREATED="1488257556240" MODIFIED="1502369862639" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
+<font NAME="Calibri"/>
+<node TEXT="Women complains only when unbearable" LOCALIZED_STYLE_REF="default" ID="ID_1626870880" CREATED="1488257660001" MODIFIED="1488545169408"/>
+<node TEXT="inter ministerial committee for working of act @MoWCD" LOCALIZED_STYLE_REF="default" ID="ID_314374631" CREATED="1496275108383" MODIFIED="1496275122540"/>
+<node TEXT="more than 10 employee =&gt; must have internal complaints committee (ICC)" LOCALIZED_STYLE_REF="default" ID="ID_609433754" CREATED="1496275037083" MODIFIED="1533888828841" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="ICC only constituted in &lt;50% of companies" LOCALIZED_STYLE_REF="default" ID="ID_1749348254" CREATED="1533888842177" MODIFIED="1533888858150" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="e-apply directly to MoWCD + Anonymous" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1336520695" CREATED="1488257565068" MODIFIED="1488545169413">
+<node TEXT="Transparency" LOCALIZED_STYLE_REF="default" ID="ID_1781398030" CREATED="1488257636654" MODIFIED="1488545169413"/>
+<node TEXT="Monitorable" LOCALIZED_STYLE_REF="default" ID="ID_760346110" CREATED="1488257645780" MODIFIED="1488545169413"/>
+<node TEXT="SHe-Box for effective implementation" ID="ID_1967643882" CREATED="1501200471082" MODIFIED="1501200479711"/>
+</node>
+<node ID="ID_1667574353" CREATED="1496275136863" MODIFIED="1496275204542"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      workplace = any place visited by the <i>employee </i>during the course of employment <b><i>including the transportation.</i></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="limitation" FOLDED="true" ID="ID_798625415" CREATED="1535793914103" MODIFIED="1535793916306">
+<node TEXT="freelancers? (not defined geographic workplace)&#xa;, electronic harassment&#xa;," ID="ID_1417823554" CREATED="1535793916478" MODIFIED="1535799437604"/>
+</node>
+</node>
+<node TEXT="SEBI guidelines, 2012" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_553328049" CREATED="1502369893893" MODIFIED="1502369900898">
+<font NAME="Calibri"/>
+<node TEXT="Business responsibility Report annual  :&#xa;&#xa;, list of sexual complaints&#xa;, environment&#xa;, social reponsibility&#xa;&#xa;in cases of public interest" ID="ID_986465941" CREATED="1502369903582" MODIFIED="1533889015054"/>
+</node>
+<node TEXT="14 = right to gender equality&#xa;21&#xa;IPC" LOCALIZED_STYLE_REF="default" ID="ID_940094687" CREATED="1504152152330" MODIFIED="1504152209797">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="women migration" FOLDED="true" ID="ID_79683296" CREATED="1532667816014" MODIFIED="1532667819280">
+<node TEXT="historical context" FOLDED="true" ID="ID_951644349" CREATED="1532667882052" MODIFIED="1532667886480">
+<node TEXT="19th century&#xa;[Plassey to partition]" ID="ID_1952465870" CREATED="1533889033401" MODIFIED="1533889043496"/>
+</node>
+<node TEXT="NSS (national sample survey)&#xa;&#xa;45% of urban women are migrants" ID="ID_1365474289" CREATED="1532667819515" MODIFIED="1532667839809"/>
+<node TEXT="ES 2016-17 indicates increasing trend in women migration" ID="ID_925133136" CREATED="1532667842699" MODIFIED="1532667855459"/>
+</node>
+<node TEXT="lack of employment opportunities in comparison to male counter partss relegate them to positions of relative insignificance" FOLDED="true" ID="ID_496529735" CREATED="1516449170536" MODIFIED="1516449197774">
+<node TEXT="e.g. Ladakah - women cooperative (reduced migration and women empowerment through participation in development)" ID="ID_1593906925" CREATED="1516449197993" MODIFIED="1527771699937"/>
+<node TEXT="involve youth in managerial works via community leaders and peer learning" ID="ID_554630267" CREATED="1516449236061" MODIFIED="1516449260800"/>
+</node>
+<node TEXT="Gender parity index = education, UNESCO" ID="ID_227376054" CREATED="1520859948523" MODIFIED="1520859958302">
+<node TEXT="ratio of female to male in education" ID="ID_711903944" CREATED="1520859960050" MODIFIED="1520859978603"/>
+</node>
+<node TEXT="UPSC mains :&#xa;partiarchy&apos;s effect on middle class working women = don&apos;t control their spending" ID="ID_1250987877" CREATED="1520860827182" MODIFIED="1520860862878">
+<icon BUILTIN="flag-green"/>
+</node>
+<node TEXT="Anti Trafficing legislation, 2018" FOLDED="true" ID="ID_1826630629" CREATED="1533887711251" MODIFIED="1533887948267" LINK="https://www.thehindu.com/todays-paper/tp-opinion/does-the-anti-trafficking-bill-address-trafficking/article24648772.ece">
+<node TEXT="pro" FOLDED="true" ID="ID_1609613722" CREATED="1533887718987" MODIFIED="1533887719768">
+<node TEXT="as organised crime&#xa;, witness protection&#xa;, rehab fund&#xa;, foreign agency collaborate&#xa;, victim capacity building&#xa;, attachment of property" ID="ID_1327861191" CREATED="1533887735989" MODIFIED="1533887797326"/>
+</node>
+<node TEXT="cons" FOLDED="true" ID="ID_232520597" CREATED="1533887719971" MODIFIED="1533887723190">
+<node ID="ID_744949134" CREATED="1533887817719" MODIFIED="1533887881291"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      trafficker police collusion?
+    </p>
+    <p>
+      , prosecution also on <i>possibility of </i>trafficking
+    </p>
+    <p>
+      , 370 IPC
+    </p>
+    <p>
+      (, sex tourism
+    </p>
+    <p>
+      , surrogacy not covered)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="    National commission on Women" FOLDED="true" ID="ID_1924372560" CREATED="1530252503926" MODIFIED="1531994895024">
+<node TEXT="Nagaland - legal aid to female inmates" ID="ID_126017272" CREATED="1530252509706" MODIFIED="1530252519809"/>
+<node TEXT="Khunti, JHK gangrape cognisance" ID="ID_963084878" CREATED="1530252526598" MODIFIED="1530252536012"/>
+</node>
+<node TEXT="eg of women empoerment" FOLDED="true" ID="ID_203860075" CREATED="1531994895891" MODIFIED="1531994902022">
+<node TEXT="kolkata police all women police on scooty to reach remotest places" ID="ID_1066193669" CREATED="1531994902601" MODIFIED="1531994918835"/>
+</node>
+</node>
+<node TEXT="Elderly" FOLDED="true" ID="ID_1225017312" CREATED="1550928197418" MODIFIED="1550928198994">
+<node TEXT="facts" FOLDED="true" ID="ID_260862749" CREATED="1550928199167" MODIFIED="1550928202054">
+<node TEXT="8.6% of population, Census 2011&#xa;&#xa;women &gt; men" ID="ID_1720029668" CREATED="1550928202199" MODIFIED="1550928215010"/>
+</node>
+<node TEXT="issues" FOLDED="true" ID="ID_1119515806" CREATED="1550928219114" MODIFIED="1550928221354">
+<node TEXT="FINANCIAL :&#xa;&#xa;, 90% unorganised working =&gt; no pension + no adequate pension scheme (IGNPS)&#xa;&#xa;, can&apos;t earn&#xa;," ID="ID_1981337832" CREATED="1550928221551" MODIFIED="1550928682716"/>
+<node ID="ID_1644414416" CREATED="1550928353089" MODIFIED="1550928673899"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      HEALTH :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , immediate response
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , health infra poor
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , human capital Gyriatrics Care
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , loneliness
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff0000">Why? </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , Migration
+    </p>
+    <p>
+      , socio economic changes
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="POOR INSTITUTIONAL SUPPORT :&#xa;&#xa;old age homes" ID="ID_71818101" CREATED="1550928707207" MODIFIED="1550928716784"/>
+<node TEXT="POOR LEGAL AID :" ID="ID_939286549" CREATED="1550928719103" MODIFIED="1550928723673"/>
+<node TEXT="MORE VULNERABLE TO DISASTERS :&#xa;&#xa;elderly died in KR Floods" ID="ID_733124800" CREATED="1550928775964" MODIFIED="1550928795979"/>
+<node TEXT="PROTECTION OF LIFE AND PROPERTY OF ELDERLY :" ID="ID_191678819" CREATED="1550944530052" MODIFIED="1550944541730">
+<node TEXT="" ID="ID_271769042" CREATED="1550944542816" MODIFIED="1550944542816"/>
+</node>
+</node>
+<node TEXT="Elderly&#xa;schemes" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_364614497" CREATED="1488271336600" MODIFIED="1550944711953">
+<node TEXT="IGNOAPS&#xa;&#xa;indira gandhi national old age pension scheme&#xa;&#xa;MoRD" ID="ID_1357932108" CREATED="1550944806063" MODIFIED="1550944851062"/>
+<node TEXT="IPOP&#xa;integrated programme for older persons" ID="ID_1953503306" CREATED="1550944824158" MODIFIED="1550944831547"/>
+<node TEXT="national programme on healthcare for elderly&#xa;&#xa;NPHCE, 2016-17" FOLDED="true" ID="ID_1186314376" CREATED="1550945019718" MODIFIED="1550945405000" LINK="https://mohfw.gov.in/major-programmes/other-national-health-programmes/national-programme-health-care-elderlynphce">
+<icon BUILTIN="button_ok"/>
+<node TEXT="preventive curative rehab care" ID="ID_1472523636" CREATED="1550945315060" MODIFIED="1550945321149"/>
+<node TEXT="National centre for ageing, 2016" ID="ID_1334377422" CREATED="1550945333453" MODIFIED="1550945375436">
+<node TEXT="healthcare + training in Gyratrics care + RnD" ID="ID_418810030" CREATED="1550945352413" MODIFIED="1550945393797">
+<font BOLD="true" ITALIC="true"/>
+</node>
+</node>
+</node>
+<node TEXT="national council for senior citizens" FOLDED="true" ID="ID_1605175024" CREATED="1496271315808" MODIFIED="1524896086252">
+<node TEXT="old name = &quot;National council for old people ( NCOP )&quot; @ MoSJE" LOCALIZED_STYLE_REF="default" ID="ID_478322598" CREATED="1488271386558" MODIFIED="1496271332545"/>
+<node TEXT="headed by Minister MoSJE" LOCALIZED_STYLE_REF="default" ID="ID_1919616954" CREATED="1496271392086" MODIFIED="1496271402432" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="NGO, experts, academic ," LOCALIZED_STYLE_REF="default" ID="ID_731186598" CREATED="1496271356064" MODIFIED="1496271382163"/>
+<node TEXT="5 states represented by rotation" LOCALIZED_STYLE_REF="default" ID="ID_1174756743" CREATED="1496271382334" MODIFIED="1496271386616"/>
+</node>
+<node TEXT="Vayoshrestha Samman" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_370850684" CREATED="1488271410426" MODIFIED="1495408668851">
+<node TEXT="status of national award" ID="ID_308634104" CREATED="1494897955247" MODIFIED="1494897962609"/>
+</node>
+<node TEXT="PM vaya vandana yojna&#xa;(same as old Varishta pension yojna)" LOCALIZED_STYLE_REF="default" ID="ID_1036956945" CREATED="1519960819010" MODIFIED="1519960841160" LINK="#ID_376329996"/>
+<node TEXT="Varishtha Pension Bima Yojna" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_376329996" CREATED="1489407080649" MODIFIED="1497241849457">
+<icon BUILTIN="full-1"/>
+<node TEXT="via LIC" ID="ID_1928699642" CREATED="1489407105574" MODIFIED="1489407107184"/>
+<node ID="ID_1500334977" CREATED="1489407108067" MODIFIED="1496228706809"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt;= 55 yrs ; <b>8% for 10 years</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="tax exempt" ID="ID_850287219" CREATED="1526125345095" MODIFIED="1526125350666"/>
+</node>
+<node TEXT="Rashtriya Vayoshri yojna" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1387733297" CREATED="1524895905017" MODIFIED="1524895911075">
+<node TEXT="physical aids + assisting living devices&#xa;to BPL old + women (30%)" ID="ID_1653475107" CREATED="1524895911189" MODIFIED="1524895970058"/>
+<node TEXT="by ALIMCO" ID="ID_1121300601" CREATED="1524895923455" MODIFIED="1524895940169"/>
+</node>
+</node>
+<node TEXT="sectino CrPC 125 : everone has to take care of their partents" LOCALIZED_STYLE_REF="default" ID="ID_1630899427" CREATED="1550945601697" MODIFIED="1550945614565"/>
+</node>
+<node TEXT="Children" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1050380848" CREATED="1531407282808" MODIFIED="1531407284330">
+<font NAME="Calibri"/>
+<node TEXT="CRY report -&#xa;&#xa;15-18 no longer protected under Child Labor Act" ID="ID_1667914890" CREATED="1531407285492" MODIFIED="1549709014663"/>
+<node TEXT="adulthood - sexual and mental health" ID="ID_985503664" CREATED="1531407312995" MODIFIED="1531407320970"/>
+<node TEXT="undernourished ~40%&#xa;&#xa;&gt;50% girls anaemic in 15-18 age group" ID="ID_1737532652" CREATED="1531407324559" MODIFIED="1531407354990"/>
+<node TEXT="Crime against children &gt; 1L&#xa;&#xa;[NCRB data, 2016]" ID="ID_1816048178" CREATED="1533887981020" MODIFIED="1533888003555"/>
+</node>
+<node TEXT="Tribal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_969099627" CREATED="1488271339741" MODIFIED="1488545169863">
+<node TEXT="PVTG" FOLDED="true" ID="ID_1247671953" CREATED="1491718145353" MODIFIED="1491718207984">
+<icon BUILTIN="idea"/>
+<node TEXT="Criteria of identification" FOLDED="true" ID="ID_451671275" CREATED="1491718452916" MODIFIED="1491718458213">
+<node TEXT="geographical isolation" ID="ID_778835129" CREATED="1491718173770" MODIFIED="1491718173770"/>
+<node TEXT="distinctive traits" ID="ID_1376943674" CREATED="1491718173770" MODIFIED="1491718401092"/>
+<node TEXT="shyness of contact with other cultures." ID="ID_29849034" CREATED="1491718232940" MODIFIED="1491718233584"/>
+<node TEXT="can profess any religion" ID="ID_1472077934" CREATED="1491718173770" MODIFIED="1491718173770"/>
+<node TEXT="primitive traits; backwardness" ID="ID_1293500634" CREATED="1491718173775" MODIFIED="1491718230994"/>
+</node>
+<node TEXT="Issues" FOLDED="true" ID="ID_294164070" CREATED="1491718445936" MODIFIED="1491718447127">
+<node TEXT="Pre agricultural system of existence, i.e. they practice hunting or gathering" ID="ID_1376494304" CREATED="1491718447756" MODIFIED="1491718447756"/>
+<node TEXT="Zero or negative population growth" ID="ID_1957613923" CREATED="1491718447756" MODIFIED="1491718447756"/>
+<node TEXT="Extremely low level of literacy" ID="ID_1531278245" CREATED="1491718447761" MODIFIED="1491718447761"/>
+<node TEXT="Absence of a written language" ID="ID_991999997" CREATED="1491718447766" MODIFIED="1491718447766"/>
+</node>
+<node TEXT="Schemes for PVTG, 2008" FOLDED="true" ID="ID_932461153" CREATED="1491718537190" MODIFIED="1491718541428">
+<node TEXT="CCD plan&#xa;conservation cum Development plan" FOLDED="true" ID="ID_104664782" CREATED="1491718541634" MODIFIED="1530939727318">
+<node ID="ID_1147071569" CREATED="1491718562789" MODIFIED="1496790335018"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      approved by Experts Committee appointed by&#160;&#160;<b>MinTribal</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="funded by central govt." ID="ID_1972785019" CREATED="1491718590211" MODIFIED="1491718594318"/>
+</node>
+</node>
+<node TEXT="examples of PVTG" ID="ID_1349854983" CREATED="1492165469819" MODIFIED="1492234172083"/>
+</node>
+<node TEXT="fodder" FOLDED="true" ID="ID_1045941647" CREATED="1530939980560" MODIFIED="1530939982122">
+<node TEXT="universities" FOLDED="true" ID="ID_1408693120" CREATED="1495233898660" MODIFIED="1497241881252">
+<icon BUILTIN="full-1"/>
+<node TEXT="1. Indira Gandhi Tribal University ,Amarkantak, MP" ID="ID_1537452286" CREATED="1495233901301" MODIFIED="1495233925257"/>
+<node TEXT="2. coming up in Jharkhand" ID="ID_195811088" CREATED="1495233925741" MODIFIED="1495233934914"/>
+</node>
+<node TEXT="BITs" FOLDED="true" ID="ID_224398771" CREATED="1490670093277" MODIFIED="1490946815702">
+<icon BUILTIN="flag-green"/>
+<node TEXT="BIT and tribal rights" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1625050668" CREATED="1488235931587" MODIFIED="1488545169873">
+<node TEXT="If India does one, =&gt; guarantee the investment by these countries." LOCALIZED_STYLE_REF="default" ID="ID_741600652" CREATED="1488235934721" MODIFIED="1488545169876"/>
+<node TEXT="Affect tribal people&apos;s rights." LOCALIZED_STYLE_REF="default" ID="ID_514119517" CREATED="1488235954576" MODIFIED="1488545169878"/>
+<node TEXT="UN Declaration to rights of Indegenous People, UNRIP 2007" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_270365754" CREATED="1488235978580" MODIFIED="1488545169880">
+<node TEXT="" ID="ID_1523057238" CREATED="1488236596226" MODIFIED="1488236596230">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="self-determination" LOCALIZED_STYLE_REF="default" ID="ID_533906205" CREATED="1488236035326" MODIFIED="1488545169881" BACKGROUND_COLOR="#feffd6"/>
+<node TEXT="autonomy" LOCALIZED_STYLE_REF="default" ID="ID_1950286598" CREATED="1488236040869" MODIFIED="1488545169882" BACKGROUND_COLOR="#feffd6"/>
+<node TEXT="self-governance" LOCALIZED_STYLE_REF="default" ID="ID_599205193" CREATED="1488236044266" MODIFIED="1488545169883" BACKGROUND_COLOR="#feffd6"/>
+<node TEXT="" ID="ID_784719773" CREATED="1488236596214" MODIFIED="1488236596223">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="Rights of indegenous people for" LOCALIZED_STYLE_REF="default" ID="ID_1328955672" CREATED="1488236596233" MODIFIED="1488545169884" BACKGROUND_COLOR="#feffd6"/>
+</node>
+<node TEXT="right against forcible displacement with prior informed consent" LOCALIZED_STYLE_REF="default" ID="ID_626855262" CREATED="1488236052533" MODIFIED="1488545169885"/>
+</node>
+<node TEXT="Way forward" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1051766090" CREATED="1488236104805" MODIFIED="1488545169886">
+<node TEXT="Strong domestic legislation" LOCALIZED_STYLE_REF="default" ID="ID_196699921" CREATED="1488236116476" MODIFIED="1488545169886"/>
+<node TEXT="Exclude tribal rights in BIT like NZ (Maoris)" LOCALIZED_STYLE_REF="default" ID="ID_1348662771" CREATED="1488236125554" MODIFIED="1488545169888"/>
+<node TEXT="Tribal made partners (representations) in investment policy making" LOCALIZED_STYLE_REF="default" ID="ID_555542024" CREATED="1488236143966" MODIFIED="1488545169888"/>
+</node>
+</node>
+<node TEXT="promote commitment + protection to foreign investors =&gt; Increase FDI" LOCALIZED_STYLE_REF="default" ID="ID_261795105" CREATED="1490670097778" MODIFIED="1490670116373"/>
+<node TEXT="provisions for tribal rights" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1183926395" CREATED="1490946738855" MODIFIED="1490946804943">
+<node TEXT="5+6th schedule" ID="ID_1462435626" CREATED="1490946747157" MODIFIED="1490946752489"/>
+<node TEXT="PESA" ID="ID_147972960" CREATED="1490946753475" MODIFIED="1490946754631"/>
+<node TEXT="Forest Rights Act" FOLDED="true" ID="ID_1905789877" CREATED="1490946754830" MODIFIED="1497263704276">
+<icon BUILTIN="full-1"/>
+<node TEXT="vision mar 10.4" ID="ID_1775532056" CREATED="1493975154758" MODIFIED="1493975172612" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Mar&apos;17/Vision%20IAS%20Current%20Affairs%20March-2017%20.pdf"/>
+<node TEXT="title right" ID="ID_1198526697" CREATED="1493975121896" MODIFIED="1493975126625"/>
+<node TEXT="use right" ID="ID_633833680" CREATED="1493975143296" MODIFIED="1493975144887"/>
+<node TEXT="forest mgmt" ID="ID_942875548" CREATED="1493975184164" MODIFIED="1493975189856"/>
+<node TEXT="rehabilitation" ID="ID_1954624592" CREATED="1493975127501" MODIFIED="1493975130095"/>
+<node TEXT="development right" ID="ID_579611682" CREATED="1493975132502" MODIFIED="1493975135206"/>
+</node>
+<node TEXT="UNRIP" ID="ID_549361307" CREATED="1490946771931" MODIFIED="1490946794083" LINK="#ID_270365754"/>
+</node>
+</node>
+<node TEXT="Demographics of tribals" FOLDED="true" ID="ID_695691080" CREATED="1492234274321" MODIFIED="1530939993640">
+<node TEXT="highest literacy rate" FOLDED="true" ID="ID_1489782326" CREATED="1492234277527" MODIFIED="1492234285250">
+<node TEXT="Lakshwadeep = 91.7%&#xa;kerala = 76%" ID="ID_1546059111" CREATED="1492234285394" MODIFIED="1492234313082"/>
+</node>
+</node>
+</node>
+<node TEXT="Medicinal Plants promotion" FOLDED="true" ID="ID_1308208493" CREATED="1534308869707" MODIFIED="1534308922684">
+<icon BUILTIN="flag-green"/>
+<node TEXT="Min AYUSH + Min Tribal Collaborate to realise the value of medicinal plants grown by tribals" ID="ID_468218482" CREATED="1534308876615" MODIFIED="1534308896821"/>
+</node>
+<node TEXT="Individual Forest Rights (IFR)&#xa;&#xa;62% denied claims!" FOLDED="true" ID="ID_1883214457" CREATED="1532683219763" MODIFIED="1532683235213">
+<node TEXT="use Van Mitra and Tribal research training institute&apos;s capacity development + digital approach" ID="ID_1425978153" CREATED="1532683714291" MODIFIED="1532683746497"/>
+</node>
+<node TEXT="Niyamgiri resistance against Vedanta&#xa;&#xa;shows that entire forest can&apos;t be sold to Industry" LOCALIZED_STYLE_REF="default" ID="ID_1110639289" CREATED="1532683553450" MODIFIED="1532683659977" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="PAC report on Tribal Sub Plan&#xa;v_2018-02 1.2" FOLDED="true" ID="ID_728772575" CREATED="1530940001829" MODIFIED="1534308048706">
+<icon BUILTIN="flag-green"/>
+<node TEXT="Tribal Sub Plan?&#xa;2018-04 vision" FOLDED="true" ID="ID_783541928" CREATED="1534307858268" MODIFIED="1534307867847">
+<node ID="ID_1025836352" CREATED="1534307867925" MODIFIED="1534308326643"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      rapid socio-econ development strategy for tribals
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ensure <b>policy driven benefits </b>are reached
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="benefits are besides state govt. funding&#xa;&#xa;from CFI (275 (1) )&#xa;by Min Tribal" ID="ID_160947412" CREATED="1534307885459" MODIFIED="1534308644781"/>
+<node TEXT="issues" ID="ID_1898805587" CREATED="1534308601320" MODIFIED="1534308606648" LINK="#ID_1155678929"/>
+<node TEXT="in proportion to ST population" ID="ID_1993966037" CREATED="1534307900086" MODIFIED="1534307905556"/>
+</node>
+<node ID="ID_1155678929" CREATED="1530940095203" MODIFIED="1534308558718"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>[better financial resource utilisation]</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      1. central node unit for <b>oversight </b>of plan
+    </p>
+    <p>
+      <b>2. Non lapsable </b>pool of TSP
+    </p>
+    <p>
+      3. earmarking finance into <b>separate heads</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="2015 CAG report = no tribal participation in policy making =&gt; increase it" ID="ID_619156651" CREATED="1530940101344" MODIFIED="1534308485824"/>
+</node>
+<node TEXT="govt. initiatives" FOLDED="true" ID="ID_140460565" CREATED="1492242467511" MODIFIED="1492242472333">
+<node TEXT="MSP for MFP" ID="ID_1405711335" CREATED="1492242564754" MODIFIED="1492242567383"/>
+<node TEXT="TRIFED marketing for tribal products" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1703433236" CREATED="1496790218841" MODIFIED="1497241875298" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node ID="ID_566838778" CREATED="1532683325112" MODIFIED="1534308656658"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u>Tribes India </u>stores
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_408670986" CREATED="1532683345101" MODIFIED="1532683354832"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      tied up with <b>Amazon </b>and <b>Flipkart </b>to sell our products online
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT=" Speedpost to deliver products at no extra cost" ID="ID_1762195292" CREATED="1532683361900" MODIFIED="1532683362222"/>
+</node>
+<node TEXT="vanjeevan" FOLDED="true" ID="ID_1148471109" CREATED="1494919058449" MODIFIED="1526191990043">
+<icon BUILTIN="idea"/>
+<node TEXT="UNDP + NSTFDC" FOLDED="true" ID="ID_969978861" CREATED="1494919060166" MODIFIED="1496286374391">
+<node TEXT="NSTFDC = non-profit company under Min. Tribal" FOLDED="true" ID="ID_1777140556" CREATED="1494925724675" MODIFIED="1494925740172">
+<node ID="ID_1199814456" CREATED="1494925755039" MODIFIED="1495501119670"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      financial assistance at <i>concessional </i>rates of interest for undertaking viable income generating activities to the Scheduled Tribes upto <b>double the poverty line</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="also research + technical assistance" ID="ID_1831706865" CREATED="1497152579764" MODIFIED="1497152588346"/>
+<node TEXT="tribal livelihood" ID="ID_1957326992" CREATED="1494919249687" MODIFIED="1494919255485"/>
+</node>
+<node TEXT="eklavya model residential schools&#xa;    EMRS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_613549527" CREATED="1496635028250" MODIFIED="1526192024054" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="idea"/>
+<font NAME="Calibri"/>
+<node TEXT="min Tribal" ID="ID_926880914" CREATED="1496635046581" MODIFIED="1496635052825"/>
+<node TEXT="all tribal blocks with &gt;50% ST" ID="ID_1878627358" CREATED="1524896850793" MODIFIED="1524896875200"/>
+<node TEXT="sports, skill, local art n culture" ID="ID_639201987" CREATED="1524896876048" MODIFIED="1526192099909">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="Van dhan Vikas karyakaram" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_865108307" CREATED="1532667160905" MODIFIED="1532667172336" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node TEXT="value addition to tribal products -&#xa;Mahua packaged selling&#xa;&#xa;Training tribals for the same" ID="ID_1078308666" CREATED="1532667177654" MODIFIED="1532667318805"/>
+</node>
+<node TEXT="Human capacity dev" FOLDED="true" ID="ID_1550148698" CREATED="1534308800588" MODIFIED="1534308833858">
+<node TEXT="TSP," ID="ID_1600491629" CREATED="1534308807401" MODIFIED="1534308820544" LINK="#ID_728772575"/>
+<node TEXT="Van dhan vikas" ID="ID_810103661" CREATED="1534308811386" MODIFIED="1534308825732" LINK="#ID_865108307"/>
+<node TEXT="education" ID="ID_426659256" CREATED="1534308843407" MODIFIED="1534308850705" LINK="#ID_613549527"/>
+</node>
+</node>
+</node>
+<node TEXT="fodder" FOLDED="true" ID="ID_1967746051" CREATED="1516465696956" MODIFIED="1530941859446">
+<node TEXT="schemes like housing have separate provisions for transgenders, women head of house, sc/st manual scavengers" ID="ID_1184459193" CREATED="1516465703712" MODIFIED="1516465734039"/>
+</node>
+<node TEXT="Reservation in promotion" FOLDED="true" ID="ID_1898959071" CREATED="1531995241192" MODIFIED="1531995245383">
+<node TEXT="Nagraj vs Union of India" FOLDED="true" ID="ID_1215692396" CREATED="1531995246314" MODIFIED="1531995252725">
+<node TEXT="cap at 50%" ID="ID_410505519" CREATED="1531995253870" MODIFIED="1531995271613"/>
+<node TEXT="criteria :&#xa;&#xa;backwardness show via data&#xa;, inadequate repn in public employment&#xa;, Not hurt administrative efficiency" ID="ID_1622659817" CREATED="1535873203008" MODIFIED="1535873244219"/>
+</node>
+<node TEXT="pending in front of 7 judge constitutional bench at SC" ID="ID_1467890337" CREATED="1531995272990" MODIFIED="1531995284493"/>
+<node TEXT="only to those who have not benefitteed ever in service from reservation" ID="ID_1313239" CREATED="1531995316221" MODIFIED="1531995329173"/>
+</node>
+<node TEXT="Transgenders" FOLDED="true" ID="ID_1454594181" CREATED="1531997050649" MODIFIED="1531997053478">
+<node ID="ID_1603650690" CREATED="1524400094705" MODIFIED="1531997109548"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      free transgender eudcaiton
+    </p>
+    Manonmaniam Sundaranar University, TN<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Odisha Behrampur GoI initiative for awareness" FOLDED="true" ID="ID_1562038760" CREATED="1531997056533" MODIFIED="1531997068658">
+<node TEXT="app to register + community-based org to Physically verify&#xa;&#xa;registering transgender for GoI schemes" ID="ID_1614384370" CREATED="1531997068971" MODIFIED="1531997089804"/>
+<node TEXT="use of ICT in social justice!!" LOCALIZED_STYLE_REF="default" ID="ID_77579588" CREATED="1531997126768" MODIFIED="1531997134534" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+</node>
+<node TEXT="Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Amendment Act 2015" FOLDED="true" ID="ID_784404290" CREATED="1526653792368" MODIFIED="1526653793744">
+<node TEXT="will full negiligence of public officials" ID="ID_308517175" CREATED="1535799452169" MODIFIED="1535799467233"/>
+<node TEXT="no immediate arrest&#xa;&#xa;for innocent protection" ID="ID_988367868" CREATED="1535799486908" MODIFIED="1535799494580"/>
+<node TEXT="compensation clause" ID="ID_882585733" CREATED="1535799467437" MODIFIED="1535799473906"/>
+<node TEXT="additional offences added" ID="ID_1380333672" CREATED="1535799474031" MODIFIED="1535799478985"/>
+<node TEXT="exclusive special courts + special public prosecutor" ID="ID_1002095598" CREATED="1526653807322" MODIFIED="1526653815676"/>
+<node TEXT="  state government shall specify a scheme to ensure the implementation of rights of victims and witnesses." ID="ID_1817854236" CREATED="1526653840740" MODIFIED="1526653841427"/>
+</node>
+</node>
+<node TEXT="SC in role of social justice for vulnerable sections" FOLDED="true" ID="ID_1340546544" CREATED="1532667565802" MODIFIED="1532667576855">
+<node TEXT="SC directive for compensation&#xa;&#xa;acid attack, sexual assault, child abuse victims" ID="ID_1838090926" CREATED="1532667578021" MODIFIED="1532667599969"/>
+</node>
+<node TEXT="Vulnerable Sections" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1505326792" CREATED="1488271332966" MODIFIED="1526192054656" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+<node TEXT="Disable People&#xa;Divyangjans" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1316804651" CREATED="1491235322683" MODIFIED="1491718212614">
+<icon BUILTIN="idea"/>
+<node TEXT="Right to person with disability, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1534153670" CREATED="1489579168945" MODIFIED="1537420022845">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+<node TEXT="reservation 3 -&gt; 4 %" ID="ID_1709640990" CREATED="1489579173813" MODIFIED="1489579179855"/>
+<node TEXT="Grant of guardianship" FOLDED="true" ID="ID_1819702252" CREATED="1491236204350" MODIFIED="1491236212187">
+<node TEXT="under district court" ID="ID_670187048" CREATED="1491236212379" MODIFIED="1491236217042"/>
+</node>
+<node TEXT="special courts" ID="ID_552170362" CREATED="1489579295573" MODIFIED="1489579297665"/>
+<node TEXT="constitution mentions" FOLDED="true" ID="ID_1208167916" CREATED="1496285542577" MODIFIED="1496285580556">
+<node TEXT="art. 41" ID="ID_401662690" CREATED="1489725183788" MODIFIED="1494998866903"/>
+<node TEXT="7th schedule, state list = relief of the disabled and unemployable" ID="ID_1331504186" CREATED="1496285547250" MODIFIED="1496285574782"/>
+</node>
+<node TEXT="International" FOLDED="true" ID="ID_756524603" CREATED="1491236272794" MODIFIED="1491236274721">
+<node TEXT="UNCPRD" ID="ID_91935746" CREATED="1491236245114" MODIFIED="1491236246859"/>
+<node TEXT="Incheon Strategy" FOLDED="true" ID="ID_379157241" CREATED="1491236265412" MODIFIED="1491236270710">
+<node ID="ID_673194173" CREATED="1491236287188" MODIFIED="1491236355493"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      making <b><i>societies barrier free</i></b>&#160;for people with disabilities
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="adopted 2012" ID="ID_1712017906" CREATED="1491236369964" MODIFIED="1491236371692"/>
+<node TEXT="2013-2022 action plan" ID="ID_1604555358" CREATED="1491236413670" MODIFIED="1491236422472"/>
+</node>
+</node>
+<node TEXT="private establishment under ambit" ID="ID_1267392133" CREATED="1524896256429" MODIFIED="1524896287679">
+<font BOLD="true"/>
+</node>
+<node LOCALIZED_STYLE_REF="default" ID="ID_481711674" CREATED="1494998725846" MODIFIED="1524896234225" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      right to free education to every child 6-18 yrs with <b>benchmark disability</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Disabilities" FOLDED="true" ID="ID_848167499" CREATED="1489725151750" MODIFIED="1489725164356">
+<node TEXT="three blood disorders" FOLDED="true" ID="ID_970906725" CREATED="1489579223923" MODIFIED="1489579225129">
+<node TEXT="Sickle cell" ID="ID_1251298142" CREATED="1489579225800" MODIFIED="1489579228426"/>
+<node TEXT="haemophilia" ID="ID_1804867896" CREATED="1489579228656" MODIFIED="1495508263509"/>
+<node TEXT="thalassemia" FOLDED="true" ID="ID_206754649" CREATED="1489579236458" MODIFIED="1499987145878">
+<node TEXT="regular blood transfusion needed" ID="ID_412684075" CREATED="1499987159493" MODIFIED="1499987172957"/>
+<node TEXT="genetic disorder ( do Bone marrow transplant)" ID="ID_715095613" CREATED="1499987173363" MODIFIED="1499987192763"/>
+</node>
+</node>
+<node TEXT="dwarf + acid attack victom + Speech disability + Learning disablitiy" ID="ID_1262653973" CREATED="1489579298681" MODIFIED="1491236086497"/>
+</node>
+<node TEXT="issues with bill" FOLDED="true" ID="ID_153055158" CREATED="1537420014970" MODIFIED="1537420016848">
+<node TEXT="national, state commission?&#xa;&#xa;, state subject - central law&#xa;&#xa;, exception clause - discriminate in certain jobs" ID="ID_887058767" CREATED="1537420025332" MODIFIED="1537420061712"/>
+</node>
+</node>
+<node TEXT="Marrakesh Treaty, 2013" LOCALIZED_STYLE_REF="default" ID="ID_260312986" CREATED="1496790368471" MODIFIED="1496790375987"/>
+<node TEXT="Sugamya Pustkalya" LOCALIZED_STYLE_REF="default" ID="ID_1048623651" CREATED="1491235352165" MODIFIED="1491235357170"/>
+<node TEXT="AIC&#xa;accessible india campaign" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1243850786" CREATED="1491235367236" MODIFIED="1526317849083" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="as a part of Incheon Stratgey" ID="ID_1839947381" CREATED="1491236383429" MODIFIED="1491236393973"/>
+<node TEXT="Universal access" ID="ID_1399862106" CREATED="1491236444515" MODIFIED="1491236447712"/>
+<node TEXT="Equality" FOLDED="true" ID="ID_56632933" CREATED="1491236509764" MODIFIED="1526317860713">
+<icon BUILTIN="flag-green"/>
+<font ITALIC="true"/>
+<node TEXT="resource access" FOLDED="true" ID="ID_199802182" CREATED="1491236516989" MODIFIED="1524104646345">
+<node TEXT="building" ID="ID_142806264" CREATED="1491236812644" MODIFIED="1491236815662"/>
+</node>
+<node TEXT="information access" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_590883943" CREATED="1491236511149" MODIFIED="1526317854476" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="Website Accessibility Project" ID="ID_578568838" CREATED="1524104635891" MODIFIED="1524104644220"/>
+<node TEXT="Screen reader softwares links provided on MHRD website" LOCALIZED_STYLE_REF="default" ID="ID_691045230" CREATED="1526317813374" MODIFIED="1526317851716" BACKGROUND_COLOR="#feffd6">
+<icon BUILTIN="flag-green"/>
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="transport" ID="ID_1045540097" CREATED="1491236514616" MODIFIED="1524104647126"/>
+</node>
+<node TEXT="MoSJE" ID="ID_18885302" CREATED="1491236825389" MODIFIED="1491236826824"/>
+<node TEXT="Accessibility Index" ID="ID_1601546155" CREATED="1491236830986" MODIFIED="1491236835553"/>
+<node TEXT="50% of all govt buildings fully accessibly by 2018" ID="ID_1879832533" CREATED="1491236465766" MODIFIED="1491236492568">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node TEXT="not wipe out differences but unite with differences intact" LOCALIZED_STYLE_REF="default" ID="ID_1248576341" CREATED="1507107834806" MODIFIED="1507107846747"/>
+<node TEXT="Mental HealthCare Bill, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1448990265" CREATED="1491235428063" MODIFIED="1495407834818">
+<font NAME="Calibri"/>
+<node TEXT="repealed Mental Health Act, 1987" ID="ID_264931505" CREATED="1495407835525" MODIFIED="1495407845307"/>
+<node TEXT="facts" FOLDED="true" ID="ID_49657290" CREATED="1491720582582" MODIFIED="1495407878182">
+<node TEXT="" ID="ID_1043807821" CREATED="1491720996050" MODIFIED="1491720996061">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="20% population = mental illness by 2020" ID="ID_1712705354" CREATED="1491720583854" MODIFIED="1491720599090"/>
+<node TEXT="&lt;4000 trained psychiatrists for 7Cr people" FOLDED="true" ID="ID_1353703439" CREATED="1491720604502" MODIFIED="1491720623409">
+<node TEXT="mostly in TIER I + II cities" ID="ID_1457490198" CREATED="1491720624281" MODIFIED="1491720631552"/>
+</node>
+<node TEXT="" ID="ID_1061366125" CREATED="1491720996047" MODIFIED="1491720996049">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="Insitutional Challenges" ID="ID_1118403775" CREATED="1491720996066" MODIFIED="1491721004382"/>
+</node>
+<node TEXT="" ID="ID_59643675" CREATED="1491721007598" MODIFIED="1491721007605">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="stigma associated" ID="ID_1577639782" CREATED="1491720641549" MODIFIED="1495407878178" VSHIFT_QUANTITY="9.818181733060475 pt"/>
+<node TEXT="" ID="ID_1900253971" CREATED="1491721007592" MODIFIED="1491721007597">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="Social Challenges" ID="ID_457166645" CREATED="1491721007607" MODIFIED="1491721011361"/>
+</node>
+</node>
+<node TEXT="decriminalises suicide" ID="ID_233108672" CREATED="1491720528302" MODIFIED="1491720541090"/>
+<node TEXT="right to get govt. services on mental health" ID="ID_362753764" CREATED="1496283968178" MODIFIED="1496283988510"/>
+<node TEXT="manner of treatment pre decide" ID="ID_1787967395" CREATED="1496284041217" MODIFIED="1496284049527"/>
+<node TEXT="insurance just like physical illness" ID="ID_1169648137" CREATED="1496283990851" MODIFIED="1496284002611"/>
+<node TEXT="Mental Health Review commission" ID="ID_1174141020" CREATED="1507266368020" MODIFIED="1507266374773"/>
+</node>
+</node>
+<node TEXT="Backward Classes (BC)" FOLDED="true" ID="ID_646417804" CREATED="1492492162547" MODIFIED="1527741322076">
+<icon BUILTIN="flag-green"/>
+<node TEXT="123rd constitution amendment" FOLDED="true" ID="ID_101599311" CREATED="1527742400331" MODIFIED="1527742407364">
+<node TEXT="National commission for backward classes&#xa;NCBC" ID="ID_587800467" CREATED="1492492201574" MODIFIED="1503987985805"/>
+<node TEXT="amend : 342A in constitution" FOLDED="true" ID="ID_1965473774" CREATED="1492492165499" MODIFIED="1503988167211">
+<icon BUILTIN="help"/>
+<node TEXT="president can decide about which groups to include in BC" ID="ID_1728269203" CREATED="1492492173476" MODIFIED="1492492185485"/>
+<node TEXT="like he can now for SC/ST (341/342)" ID="ID_316483714" CREATED="1492492190896" MODIFIED="1503988443143"/>
+</node>
+<node TEXT="socially and educationally backwards = mentioned in constitution!" ID="ID_645144373" CREATED="1496790515337" MODIFIED="1496790530222"/>
+</node>
+<node TEXT="340" OBJECT="java.lang.Long|340" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1861480502" CREATED="1503988002950" MODIFIED="1503988074887" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="president can constitute a committee to examine OBC sub-categoristaion" ID="ID_662688764" CREATED="1503988013732" MODIFIED="1503988047177"/>
+<node TEXT="for more equitable distribution" ID="ID_1100162271" CREATED="1503988047509" MODIFIED="1503988057250"/>
+</node>
+<node TEXT="Backward classes Act," FOLDED="true" ID="ID_712427307" CREATED="1527741324259" MODIFIED="1527741330440">
+<node TEXT="not in JnK" ID="ID_1472885596" CREATED="1527741330612" MODIFIED="1527741332556"/>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="&#x2022; Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources." ID="ID_125618532" CREATED="1544200456993" MODIFIED="1544200550035" BACKGROUND_COLOR="#ccccff"/>
-<node TEXT="&#x2022; Issues relating to poverty and hunger." ID="ID_1069550365" CREATED="1544200456994" MODIFIED="1544200550041" BACKGROUND_COLOR="#ccccff">
+<node TEXT="&#x2022; Issues relating to poverty and hunger." FOLDED="true" ID="ID_1069550365" CREATED="1544200456994" MODIFIED="1544200550041" BACKGROUND_COLOR="#ccccff">
 <node TEXT="poverty" ID="ID_1917179760" CREATED="1549044328150" MODIFIED="1549044329961">
 <font BOLD="true"/>
-<node TEXT="housing electricity bring down poverty fast&#xa;&#xa;toilets creations" ID="ID_239505671" CREATED="1549044401665" MODIFIED="1549044417432"/>
-<node TEXT="expenditure on agriculture" FOLDED="true" ID="ID_1321868014" CREATED="1549044417592" MODIFIED="1549044422310">
+<node TEXT="expenditure on agriculture" ID="ID_1321868014" CREATED="1549044417592" MODIFIED="1549044422310">
 <node ID="ID_1240513772" CREATED="1549044612536" MODIFIED="1549044644513"><richcontent TYPE="NODE">
 
 <html>
@@ -4591,9 +4971,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="income and wealth inequality" FOLDED="true" ID="ID_142512359" CREATED="1549044535543" MODIFIED="1549044582434">
-<node TEXT="tax wealth as well as income" ID="ID_1603421504" CREATED="1549044589826" MODIFIED="1549044596345"/>
-</node>
+<node TEXT="multi dimensional poverty" ID="ID_502739216" CREATED="1550645871385" MODIFIED="1550645876857"/>
 <node TEXT="poverty reduced  but NOT vulnerability" ID="ID_963828176" CREATED="1550564475550" MODIFIED="1550564486632">
 <node TEXT="3 facets :&#xa;&#xa;,resilience&#xa;, equity &#xa;, opportunity" FOLDED="true" ID="ID_76088114" CREATED="1550564489151" MODIFIED="1550568336052" LINK="http://in.one.un.org/blogs/shifting-from-schemes-to-systems/">
 <node ID="ID_59790701" CREATED="1550564605418" MODIFIED="1550568228452"><richcontent TYPE="NODE">
@@ -4614,7 +4992,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1425110895" CREATED="1550564582937" MODIFIED="1550568318601"><richcontent TYPE="NODE">
@@ -4647,7 +5024,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_472494672" CREATED="1550564630063" MODIFIED="1550568190348"><richcontent TYPE="NODE">
@@ -4683,11 +5059,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
-<node TEXT="What are the hallmarks of a successful intervention?" ID="ID_1187440751" CREATED="1550568450195" MODIFIED="1550568450409">
+<node TEXT="What are the hallmarks of a successful intervention?" FOLDED="true" ID="ID_1187440751" CREATED="1550568450195" MODIFIED="1550568450409">
 <node TEXT="HallMark = SDG 1.3 :&#xa;&#xa;nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable." ID="ID_1230508086" CREATED="1550568458002" MODIFIED="1550568488287">
 <node TEXT="meet&#xa;&#xa;, diverse needs&#xa;, risk profiles&#xa;&#xa;instead of one-size-fits-all approach" ID="ID_726823512" CREATED="1550568546757" MODIFIED="1550568568096"/>
 <node TEXT="capacity builiding at sub national level to implement these programmes" ID="ID_1910156300" CREATED="1550568623450" MODIFIED="1550568635108"/>
@@ -4696,14 +5071,15 @@
 <node TEXT="GoI :&#xa;&#xa;NITI aayog convergence of schemes&#xa;+&#xa;cooperative federalism" ID="ID_395127975" CREATED="1550568511789" MODIFIED="1550568532886"/>
 </node>
 </node>
-<node TEXT="Govt goal should&#xa;&#xa;not to eradicate poverty&#xa;&#xa;but to create prosperity ( high economic growth )" ID="ID_1502168690" CREATED="1549044347336" MODIFIED="1549044381113"/>
-<node TEXT="entitle based approach -&gt; empowerment based approach" ID="ID_198193991" CREATED="1549044513343" MODIFIED="1549044531343"/>
-<node TEXT="todo to remove poverty" FOLDED="true" ID="ID_31369596" CREATED="1549045198082" MODIFIED="1549045203504">
+<node TEXT="todo to remove poverty" ID="ID_31369596" CREATED="1549045198082" MODIFIED="1549045203504">
 <node TEXT="social safety net for the people&#xa;&#xa;Income transfer for farmer" ID="ID_279602639" CREATED="1549045223683" MODIFIED="1549045246213">
 <node TEXT="Social protection IN India" ID="ID_309745595" CREATED="1550563155634" MODIFIED="1550563202123" LINK="https://indianexpress.com/article/explained/lok-sabha-elections-schemes-explained-from-schemes-to-systems-why-the-difference-matters-5590071/"/>
 </node>
 <node TEXT="public infra investment" ID="ID_1660425791" CREATED="1549045203687" MODIFIED="1549045212302"/>
+<node TEXT="housing + electricity bring down poverty fast&#xa;&#xa;toilets creations" ID="ID_239505671" CREATED="1549044401665" MODIFIED="1550601871993"/>
 </node>
+<node TEXT="entitle based approach -&gt; empowerment based approach" ID="ID_198193991" CREATED="1549044513343" MODIFIED="1549044531343"/>
+<node TEXT="Govt goal should&#xa;&#xa;not to eradicate poverty&#xa;&#xa;but to create prosperity ( high economic growth )" ID="ID_1502168690" CREATED="1549044347336" MODIFIED="1549044381113"/>
 </node>
 <node TEXT="hunger" FOLDED="true" ID="ID_1291657078" CREATED="1549044335087" MODIFIED="1549044337156">
 <node TEXT="nutrition" FOLDED="true" ID="ID_590871261" CREATED="1509014088155" MODIFIED="1528989664643">
@@ -16362,13 +16738,13 @@
 </node>
 <node TEXT="Services sector" ID="ID_791658927" CREATED="1549874833051" MODIFIED="1549874846605"/>
 </node>
-<node TEXT="Romer&apos;s model of resource mobilisation&#xa;&#xa;{economics Nobel]" FOLDED="true" ID="ID_1164298194" CREATED="1549869611206" MODIFIED="1549869627413">
+<node TEXT="Romer&apos;s model of resource mobilisation&#xa;&#xa;{economics Nobel]" ID="ID_1164298194" CREATED="1549869611206" MODIFIED="1549869627413">
 <node TEXT="innovation + skilling important besides&#xa;&#xa;moving capital for growth" ID="ID_1995550793" CREATED="1549869627608" MODIFIED="1549869671028"/>
 </node>
 </node>
 <node TEXT="2.         Inclusive growth and issues arising from it." FOLDED="true" ID="ID_1763437746" CREATED="1540965626219" MODIFIED="1540965781433" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="socially vulnerable groups" ID="ID_41137369" CREATED="1549874556111" MODIFIED="1549874559729">
-<node TEXT="mental health" FOLDED="true" ID="ID_1363687504" CREATED="1526129049617" MODIFIED="1526129052226">
+<node TEXT="mental health" ID="ID_1363687504" CREATED="1526129049617" MODIFIED="1526129052226">
 <node TEXT="ES 2016-17, inter state migration of workers - urban family structure non-existent" LOCALIZED_STYLE_REF="default" ID="ID_1478985673" CREATED="1526129053670" MODIFIED="1526129561330" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
@@ -16376,8 +16752,8 @@
 </node>
 <node TEXT="MINORITy" ID="ID_872880794" CREATED="1526130648797" MODIFIED="1526130653421"/>
 </node>
-<node TEXT="international dimension" FOLDED="true" ID="ID_342524394" CREATED="1549213894154" MODIFIED="1549213897790">
-<node TEXT="Human Capital Index HCI by WB, WDR, 2019&#xa;&#xa;focus_11_18" ID="ID_674729900" CREATED="1549213867940" MODIFIED="1549213916678">
+<node TEXT="international dimension" ID="ID_342524394" CREATED="1549213894154" MODIFIED="1549213897790">
+<node TEXT="Human Capital Index HCI by WB, WDR, 2019&#xa;&#xa;focus_11_18" FOLDED="true" ID="ID_674729900" CREATED="1549213867940" MODIFIED="1549213916678">
 <node TEXT="India = 0.44&#xa;&#xa;child becomes HC upto 18" ID="ID_1951666992" CREATED="1549707850475" MODIFIED="1549707864665"/>
 <node TEXT="measuring?&#xa;&#xa;how investment in human resources (HR) can lead to HC formation" ID="ID_1700907825" CREATED="1549707787277" MODIFIED="1549707820871"/>
 <node TEXT="criticism of the index" ID="ID_1947486664" CREATED="1549707782141" MODIFIED="1549707786531">
@@ -16390,10 +16766,10 @@
 </node>
 </node>
 <node TEXT="3.        Government Budgeting." FOLDED="true" ID="ID_1671366301" CREATED="1540965626235" MODIFIED="1540965781452" BACKGROUND_COLOR="#fdfdd0">
-<node TEXT="vision ias 2018 materials" ID="ID_272124533" CREATED="1549712597965" MODIFIED="1549712602509"/>
 <node TEXT="Why not measure GDP?" ID="ID_1447246325" CREATED="1550458226934" MODIFIED="1550458236910">
 <node TEXT="measure other socio welfare indicators&#xa;&#xa;, OECD = Better life index country reports&#xa;&#xa;, UNGA = 20 march = International day of happiness&#xa;&#xa;, Bhutan = Gross national happiness&#xa;&#xa;," ID="ID_1986795531" CREATED="1550458237044" MODIFIED="1550458352924"/>
 </node>
+<node TEXT="vision ias 2018 materials" ID="ID_272124533" CREATED="1549712597965" MODIFIED="1549712602509"/>
 </node>
 <node ID="ID_272853218" CREATED="1540965626238" MODIFIED="1549617147007" BACKGROUND_COLOR="#fdfdd0"><richcontent TYPE="NODE">
 
@@ -16414,17 +16790,18 @@
 <node TEXT="5.        Issues related to direct and indirect farm subsidies MSP" ID="ID_247191221" CREATED="1549712649350" MODIFIED="1549712672331" LINK="#ID_682774013" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT=", PDS - objectives, functioning, limitations, revamping&#xa;&#xa;, issues of buffer stocks and food security&#xa;&#xa;, Technology missions&#xa;&#xa;, economics of animal-rearing." ID="ID_488344249" CREATED="1540965626241" MODIFIED="1549712648781" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="6. Food processing and related industries in India- scope and significance,&#xa;&#xa; location&#xa;&#xa;, upstream and downstream requirements&#xa;&#xa;, supply chain management." ID="ID_614818165" CREATED="1540965626245" MODIFIED="1549713989723" LINK="#ID_1617892606" BACKGROUND_COLOR="#fdfdd0"/>
-<node TEXT="7.        Land reforms in India." FOLDED="true" ID="ID_642541775" CREATED="1540965626249" MODIFIED="1540965781505" BACKGROUND_COLOR="#fdfdd0">
+<node TEXT="7.        Land reforms in India." ID="ID_642541775" CREATED="1540965626249" MODIFIED="1540965781505" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="farms friendly reforms index&#xa;&#xa;Land leasing law&#xa;&#xa;digitisation" ID="ID_705089699" CREATED="1549778450990" MODIFIED="1549778476767" LINK="#ID_625643111"/>
+<node TEXT="vision material" ID="ID_1746951666" CREATED="1550839794584" MODIFIED="1550839798703"/>
 </node>
-<node TEXT="8.        Effects of liberalization on the economy&#xa;&#xa;, changes in industrial policy&#xa;&#xa;and their effects on industrial growth." FOLDED="true" ID="ID_1671982321" CREATED="1540965626253" MODIFIED="1549617065987" BACKGROUND_COLOR="#fdfdd0">
-<node TEXT="BEPS" FOLDED="true" ID="ID_1640948357" CREATED="1549766312576" MODIFIED="1549766314317">
+<node TEXT="8.        Effects of liberalization on the economy&#xa;&#xa;, changes in industrial policy&#xa;&#xa;and their effects on industrial growth." ID="ID_1671982321" CREATED="1540965626253" MODIFIED="1549617065987" BACKGROUND_COLOR="#fdfdd0">
+<node TEXT="BEPS" ID="ID_1640948357" CREATED="1549766312576" MODIFIED="1549766314317">
 <node TEXT="def :&#xa;&#xa;tax avoidance strategies that exploit gaps and mismatches in tax rules to artificially shift profits to low or no-tax locations." ID="ID_1923691124" CREATED="1549766315699" MODIFIED="1549766322863"/>
 <node TEXT="GAAR&#xa;by Shome Panel" ID="ID_1704530227" CREATED="1549766395662" MODIFIED="1549766405759"/>
 </node>
 </node>
 <node TEXT="9.        Infrastructure: Energy, Ports, Roads, Airports, Railways etc." FOLDED="true" ID="ID_1936713512" CREATED="1540965626256" MODIFIED="1540965781524" BACKGROUND_COLOR="#fdfdd0">
-<node TEXT="Infrastructure" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_678112031" CREATED="1488268303536" MODIFIED="1488545169567">
+<node TEXT="Infrastructure" LOCALIZED_STYLE_REF="default" ID="ID_678112031" CREATED="1488268303536" MODIFIED="1488545169567">
 <node TEXT="Ports infrastrucutre" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_992840945" CREATED="1533555559607" MODIFIED="1533555564154">
 <icon BUILTIN="flag-green"/>
 <node TEXT="100% FDI" ID="ID_914813925" CREATED="1533555736599" MODIFIED="1533555739083"/>
@@ -16930,7 +17307,7 @@
 </node>
 </node>
 <node TEXT="railway" FOLDED="true" ID="ID_203183087" CREATED="1549689991607" MODIFIED="1549689992781">
-<node TEXT="Railway Reforms" FOLDED="true" ID="ID_1890727205" CREATED="1494560332584" MODIFIED="1494560338146">
+<node TEXT="Railway Reforms" ID="ID_1890727205" CREATED="1494560332584" MODIFIED="1494560338146">
 <node TEXT="HSR tech" ID="ID_751975955" CREATED="1494560366149" MODIFIED="1494560368387">
 <node TEXT="Indo-Japan Joint venture" FOLDED="true" ID="ID_1214577412" CREATED="1494560379014" MODIFIED="1499047905583">
 <node TEXT="Transfer of Technology ( TOT )" ID="ID_1525343202" CREATED="1494560464595" MODIFIED="1494560471602"/>
@@ -17009,7 +17386,7 @@
 </node>
 <node TEXT="bibek debroy and Anil Kaodkar committee reports" ID="ID_775793252" CREATED="1505106388994" MODIFIED="1505106405419"/>
 </node>
-<node TEXT="schemes" FOLDED="true" ID="ID_421565783" CREATED="1549690002347" MODIFIED="1549690004048">
+<node TEXT="schemes" ID="ID_421565783" CREATED="1549690002347" MODIFIED="1549690004048">
 <node TEXT="Special Freight Train Operation Scheme" FOLDED="true" ID="ID_787863672" CREATED="1494387288487" MODIFIED="1494387296357">
 <node TEXT="operation with railway" ID="ID_1910015704" CREATED="1494387296513" MODIFIED="1494387304366"/>
 <node TEXT="private terminals" FOLDED="true" ID="ID_1404571067" CREATED="1494387305101" MODIFIED="1494387307331">
@@ -17046,21 +17423,32 @@
 </node>
 <node TEXT="10.        Investment models" ID="ID_1634378450" CREATED="1540965626258" MODIFIED="1540965781388" BACKGROUND_COLOR="#fdfdd0"/>
 <node TEXT="11.        Science and Technology- developments and their applications and effects in everyday life" ID="ID_1692338214" CREATED="1540965626262" MODIFIED="1540965821122" BACKGROUND_COLOR="#defede"/>
-<node TEXT="12.        Achievements of Indians in science &amp; technology; indigenization of technology and developing new technology." FOLDED="true" ID="ID_1375289982" CREATED="1540965626263" MODIFIED="1540965821135" BACKGROUND_COLOR="#defede">
+<node TEXT="12.        Achievements of Indians in science &amp; technology; indigenization of technology and developing new technology." ID="ID_1375289982" CREATED="1540965626263" MODIFIED="1540965821135" BACKGROUND_COLOR="#defede">
 <node TEXT="Science and society" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1321721180" CREATED="1521265139600" MODIFIED="1521265143865">
 <font NAME="Calibri"/>
 <node TEXT="Indian Science Congress, PM =&#xa;Research and dev -&gt; research ON dev" ID="ID_1953202597" CREATED="1521265143990" MODIFIED="1521265160702"/>
-<node TEXT="women in science" FOLDED="true" ID="ID_900592187" CREATED="1522383630495" MODIFIED="1522383634729">
+<node TEXT="women in science" ID="ID_900592187" CREATED="1522383630495" MODIFIED="1522383634729">
 <node TEXT="DISHA&#xa;&#xa;3R&apos;s = Recruitment, retention, recognition" ID="ID_36264290" CREATED="1522383635386" MODIFIED="1522383655233">
 <icon BUILTIN="flag-green"/>
 </node>
 </node>
-<node TEXT="Predatory journals" FOLDED="true" ID="ID_483582700" CREATED="1532667470717" MODIFIED="1532667474575">
+<node TEXT="Predatory journals" ID="ID_483582700" CREATED="1532667470717" MODIFIED="1532667474575">
 <node TEXT="UGC to weed out all" ID="ID_715194259" CREATED="1532667475528" MODIFIED="1532667483574"/>
 </node>
-<node TEXT="Contribution of science to society and vice versa" FOLDED="true" ID="ID_818083278" CREATED="1534309288860" MODIFIED="1534309302742">
+<node TEXT="Contribution of science to society and vice versa" ID="ID_818083278" CREATED="1534309288860" MODIFIED="1534309302742">
 <node TEXT="Science can be done only by whole men&#xa;&#xa;arts for science people" ID="ID_1083711221" CREATED="1534309302961" MODIFIED="1534309367876"/>
 <node TEXT="IMPRINT&#xa;&#xa;socially relevant hard engineering problems (IIT + IISc + private insti)" ID="ID_1519668437" CREATED="1534309317843" MODIFIED="1534309359896"/>
+</node>
+</node>
+<node TEXT="national data communication policy, 2018" FOLDED="true" ID="ID_414317410" CREATED="1550914180317" MODIFIED="1550914188146">
+<node TEXT="Connect" ID="ID_153240273" CREATED="1550914188336" MODIFIED="1550914190362">
+<node TEXT="broadband for all" ID="ID_44318213" CREATED="1550914195845" MODIFIED="1550914201597"/>
+</node>
+<node TEXT="propel" ID="ID_1838651126" CREATED="1550914190545" MODIFIED="1550914193134">
+<node TEXT=", top 50 in ICT development index by ITU&#xa;, 8% Digital communication sector in GDP from 6% (2017)&#xa;, 1mn additional jobs" ID="ID_1779708587" CREATED="1550914203195" MODIFIED="1550914288741"/>
+</node>
+<node TEXT="secure" ID="ID_813125409" CREATED="1550914193329" MODIFIED="1550914194914">
+<node TEXT="digital sovereignty" ID="ID_1037450540" CREATED="1550914267569" MODIFIED="1550914273373"/>
 </node>
 </node>
 </node>
