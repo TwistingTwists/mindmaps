@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -135,11 +135,11 @@
 </hook>
 <font NAME="Calibri"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
-<node TEXT="Polity" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
+<node TEXT="Polity" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
 <font NAME="Calibri"/>
 <node TEXT="Legislations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
 <font NAME="Calibri"/>
-<node TEXT="COPRA, 1986" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_212585028" CREATED="1488179043829" MODIFIED="1494887615890">
+<node TEXT="COPRA, 1986" LOCALIZED_STYLE_REF="default" ID="ID_212585028" CREATED="1488179043829" MODIFIED="1494887615890">
 <font NAME="Calibri"/>
 <node TEXT="Safety" LOCALIZED_STYLE_REF="default" ID="ID_105900592" CREATED="1488179050990" MODIFIED="1488545169320"/>
 <node TEXT="Information" LOCALIZED_STYLE_REF="default" ID="ID_1611748011" CREATED="1488179057549" MODIFIED="1488545169320"/>
@@ -161,7 +161,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="NCDRC" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_157430068" CREATED="1490086794402" MODIFIED="1490086796112" BACKGROUND_COLOR="#feffd6">
+<node TEXT="NCDRC" LOCALIZED_STYLE_REF="default" ID="ID_157430068" CREATED="1490086794402" MODIFIED="1490086796112" BACKGROUND_COLOR="#feffd6">
 <node TEXT="headed by judge of SC" ID="ID_375800496" CREATED="1490086799662" MODIFIED="1490086827058"/>
 <node ID="ID_937027524" CREATED="1490086831729" MODIFIED="1499528327024"><richcontent TYPE="NODE">
 
@@ -179,16 +179,16 @@
 </node>
 </node>
 </node>
-<node TEXT="PCA, 1988" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1066894752" CREATED="1487759709508" MODIFIED="1496529760974">
+<node TEXT="PCA, 1988" LOCALIZED_STYLE_REF="default" ID="ID_1066894752" CREATED="1487759709508" MODIFIED="1496529760974">
 <font NAME="Calibri"/>
-<node TEXT="13 (1) d" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_983138958" CREATED="1487759713246" MODIFIED="1488545169330">
+<node TEXT="13 (1) d" LOCALIZED_STYLE_REF="default" ID="ID_983138958" CREATED="1487759713246" MODIFIED="1488545169330">
 <node TEXT="commissioning on wrong doing but omission on NO doing" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1145874593" CREATED="1487759725831" MODIFIED="1488545169330">
 <node TEXT=" =&gt; Play SAFE behaviour!" LOCALIZED_STYLE_REF="default" ID="ID_571405136" CREATED="1487759756146" MODIFIED="1488545169335"/>
 </node>
 </node>
 <node TEXT="to be amended -&gt; Kelkar committee" ID="ID_1542980907" CREATED="1497706484164" MODIFIED="1497706492846"/>
 </node>
-<node TEXT="Motor Vehicles Act, 2016 (passed in LS)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1253470137" CREATED="1488119089799" MODIFIED="1497057814199">
+<node TEXT="Motor Vehicles Act, 2017 (passed in LS)" LOCALIZED_STYLE_REF="default" ID="ID_1253470137" CREATED="1488119089799" MODIFIED="1551429941099">
 <font NAME="Calibri"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1044838322" CREATED="1488119155844" MODIFIED="1504074048807"><richcontent TYPE="NODE">
 
@@ -205,7 +205,19 @@
 </richcontent>
 </node>
 <node TEXT="penalty" LOCALIZED_STYLE_REF="default" ID="ID_1536589244" CREATED="1504074064106" MODIFIED="1504074068795"/>
-<node TEXT="Compulsory Insurance [to all road users] by central govt!" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1457325818" CREATED="1488119112056" MODIFIED="1497057861183">
+<node LOCALIZED_STYLE_REF="default" ID="ID_1457325818" CREATED="1488119112056" MODIFIED="1551430004747"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Compulsory Insurance </b>[to all road users] by central govt!
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="constitute Motor Vehicle Accident Fund" ID="ID_1051538302" CREATED="1497057832283" MODIFIED="1497057850975"/>
 <node TEXT="use cess, grant, loan etc. etc. to find money" ID="ID_1160718800" CREATED="1497057866434" MODIFIED="1497057877358"/>
 </node>
@@ -216,7 +228,8 @@
 <font NAME="Calibri"/>
 </node>
 <node TEXT="Recall Vehicle if defective/damaging to env." LOCALIZED_STYLE_REF="default" ID="ID_870816519" CREATED="1488119100087" MODIFIED="1488545169350"/>
-<node TEXT="Offences by juveniles" LOCALIZED_STYLE_REF="default" ID="ID_915885149" CREATED="1488119213403" MODIFIED="1488545169355"/>
+<node TEXT="Offences by juveniles =&gt; 3 yr jail" LOCALIZED_STYLE_REF="default" ID="ID_915885149" CREATED="1488119213403" MODIFIED="1551430013404"/>
+<node TEXT="SC,2019: payout for hit n Run death cases = min 2L" LOCALIZED_STYLE_REF="default" ID="ID_372932630" CREATED="1551429965835" MODIFIED="1551430018958"/>
 </node>
 <node TEXT="IIT act 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1705578592" CREATED="1488533876359" MODIFIED="1494887615936">
 <font NAME="Calibri"/>
@@ -2399,14 +2412,14 @@
 <font NAME="Calibri"/>
 <node TEXT="5 yrs or 70" ID="ID_589650871" CREATED="1489757829746" MODIFIED="1489757834582"/>
 <node TEXT="no further employment" ID="ID_1608542072" CREATED="1489757824390" MODIFIED="1489757828646"/>
-<node TEXT="remove like CIC" FOLDED="true" ID="ID_1518093768" CREATED="1489757846229" MODIFIED="1489757848854">
+<node TEXT="remove like CIC" ID="ID_1518093768" CREATED="1489757846229" MODIFIED="1489757848854">
 <node TEXT="Tuccha powers" ID="ID_313982224" CREATED="1489757849470" MODIFIED="1489757852174"/>
 </node>
 </node>
 <node TEXT="only on state + Concurrent list" ID="ID_322365051" CREATED="1489757738619" MODIFIED="1497043998607">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="working" FOLDED="true" ID="ID_604888475" CREATED="1489757746352" MODIFIED="1497043998607">
+<node TEXT="working" ID="ID_604888475" CREATED="1489757746352" MODIFIED="1497043998607">
 <font NAME="Calibri"/>
 <node ID="ID_310284603" CREATED="1489757858695" MODIFIED="1489757861715"><richcontent TYPE="NODE">
 
@@ -2460,15 +2473,16 @@
 <node TEXT="CVO for linking CVC to organisation" ID="ID_1936419386" CREATED="1492154517289" MODIFIED="1492154532057"/>
 <node TEXT="not further employment ( like CIC )" ID="ID_604563886" CREATED="1496191554922" MODIFIED="1496191561059"/>
 </node>
-<node TEXT="CIC" FOLDED="true" ID="ID_288631248" CREATED="1496457727090" MODIFIED="1497043983573">
+<node TEXT="55. CIC" FOLDED="true" ID="ID_288631248" CREATED="1496457727090" MODIFIED="1551152285534">
 <font NAME="Calibri"/>
 <node TEXT="statutory" ID="ID_1129250064" CREATED="1496476490378" MODIFIED="1496476492409"/>
 <node TEXT="5 yr, 65 age" ID="ID_239200268" CREATED="1496457742765" MODIFIED="1496457748947"/>
-<node TEXT="report to central govt" FOLDED="true" ID="ID_985173832" CREATED="1496457750238" MODIFIED="1527742990823">
+<node TEXT="powers of civil court&#xa;&#xa;Suo motu powers for inquiry if reasonable grounds" ID="ID_1632601720" CREATED="1551152263208" MODIFIED="1551152276069"/>
+<node TEXT="report to central govt" ID="ID_985173832" CREATED="1496457750238" MODIFIED="1527742990823">
 <font BOLD="true"/>
 <node TEXT="laid before each house of parliament" ID="ID_778115019" CREATED="1496457765135" MODIFIED="1527742996402"/>
 </node>
-<node TEXT="appointment" FOLDED="true" ID="ID_496812629" CREATED="1497062468822" MODIFIED="1497062470807">
+<node TEXT="appointment" ID="ID_496812629" CREATED="1497062468822" MODIFIED="1497062470807">
 <node ID="ID_1698953926" CREATED="1497062470994" MODIFIED="1497545189009"><richcontent TYPE="NODE">
 
 <html>
@@ -2530,7 +2544,7 @@
 <node TEXT="reco of HC&#xa;, not currently in service&#xa;, 7 yrs advocate" ID="ID_827063204" CREATED="1526182651103" MODIFIED="1526182668728"/>
 <node TEXT="not tribunal judge" ID="ID_1968875744" CREATED="1527742502959" MODIFIED="1527742506619"/>
 </node>
-<node TEXT="state election commissioner" FOLDED="true" ID="ID_906783551" CREATED="1526182843475" MODIFIED="1526182877063">
+<node TEXT="56. state election commissioner" FOLDED="true" ID="ID_906783551" CREATED="1526182843475" MODIFIED="1551152306217">
 <icon BUILTIN="idea"/>
 <node TEXT="conditions of service + tenure = governor" ID="ID_1733020282" CREATED="1526182854445" MODIFIED="1526182863537"/>
 <node TEXT="removed = as HC judge" ID="ID_1217144048" CREATED="1526182863678" MODIFIED="1526182875414"/>
@@ -2563,7 +2577,7 @@
 <node TEXT="Urban Local Govt." ID="ID_352153868" CREATED="1527747677610" MODIFIED="1527747684074"/>
 </node>
 </node>
-<node TEXT="Constitution" LOCALIZED_STYLE_REF="default" ID="ID_1340862862" CREATED="1488234371502" MODIFIED="1494887616050">
+<node TEXT="Constitution" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1340862862" CREATED="1488234371502" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
 <node TEXT="19" OBJECT="java.lang.Long|19" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1007446490" CREATED="1490936266018" MODIFIED="1490936266680">
 <node TEXT="19(1)a" ID="ID_1161127740" CREATED="1490936129850" MODIFIED="1490936136018"/>
@@ -3066,7 +3080,7 @@
 <node TEXT="Coterminus with municipalities" LOCALIZED_STYLE_REF="default" ID="ID_393563307" CREATED="1488532146267" MODIFIED="1488545169542"/>
 </node>
 </node>
-<node TEXT="Bodies of India" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1739541457" CREATED="1488864616898" MODIFIED="1495493339747">
+<node TEXT="Bodies of India" LOCALIZED_STYLE_REF="default" ID="ID_1739541457" CREATED="1488864616898" MODIFIED="1495493339747">
 <font NAME="Calibri" BOLD="false"/>
 <node TEXT="ASI" FOLDED="true" ID="ID_1694132507" CREATED="1495142268233" MODIFIED="1495142269183">
 <node TEXT="statutory under AMASR act, 1958" ID="ID_17079880" CREATED="1495142269402" MODIFIED="1499532445560"/>
@@ -10950,7 +10964,878 @@
 </node>
 </node>
 </node>
-<node TEXT="Geography overview" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1884441230" CREATED="1526472808185" MODIFIED="1526472812914">
+<node TEXT="Art n Culture" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1481922316" CREATED="1488692725015" MODIFIED="1551633849585" BACKGROUND_COLOR="#ff9999">
+<font NAME="Calibri"/>
+<node TEXT="Guru Ravidas" ID="ID_265148931" CREATED="1551428167867" MODIFIED="1551428179035">
+<font NAME="Calibri"/>
+<node TEXT="Bhakti saint&#xa;, 14-16th century&#xa;, literary = adi granth hymns + panchavani&#xa;, untouchable cast" ID="ID_887823135" CREATED="1551428179090" MODIFIED="1551429349227"/>
+</node>
+<node TEXT="Sangam" FOLDED="true" ID="ID_394354894" CREATED="1495867531083" MODIFIED="1497043998716">
+<font NAME="Calibri"/>
+<node TEXT="patron = pandya rulers" ID="ID_115901242" CREATED="1495867555331" MODIFIED="1495867559863"/>
+<node TEXT="Poems in Tamil!" ID="ID_1665617150" CREATED="1496728652277" MODIFIED="1496728661980"/>
+<node TEXT="Yavana or Javana or Yonaka," FOLDED="true" ID="ID_1246313997" CREATED="1496741253560" MODIFIED="1496795153526">
+<node TEXT="mentioned in sangam - refer to greek kingdoms" ID="ID_1291914266" CREATED="1496741265892" MODIFIED="1496741277000"/>
+</node>
+<node TEXT="I" ID="ID_1087486246" CREATED="1495867533334" MODIFIED="1495867533893"/>
+<node TEXT="II" ID="ID_221799328" CREATED="1495867534312" MODIFIED="1495867534976"/>
+<node TEXT="III" ID="ID_1087285634" CREATED="1495867535265" MODIFIED="1495867536110"/>
+</node>
+<node TEXT="nalanda" ID="ID_11279483" CREATED="1489412074510" MODIFIED="1497043998716">
+<font NAME="Calibri"/>
+<node TEXT="Gupta Empire @Harsha, Kannauj, 400-500" ID="ID_1812688325" CREATED="1489412077261" MODIFIED="1489412114152"/>
+<node TEXT="@magadha" ID="ID_147195123" CREATED="1495497056485" MODIFIED="1495497059266"/>
+<node TEXT="UNSECO world heritage site" ID="ID_977931094" CREATED="1495497074175" MODIFIED="1495497081660"/>
+</node>
+<node TEXT="Bhakti movement" FOLDED="true" ID="ID_1907169093" CREATED="1494386757921" MODIFIED="1497043998716">
+<font NAME="Calibri"/>
+<node TEXT="adi Shankaracharya" FOLDED="true" ID="ID_1815313967" CREATED="1494386759656" MODIFIED="1496795172528">
+<node TEXT="9th century" ID="ID_1018652044" CREATED="1494387078344" MODIFIED="1494387080477"/>
+<node TEXT="advaita" FOLDED="true" ID="ID_914516144" CREATED="1494386870899" MODIFIED="1494386872047">
+<node TEXT="monoism" ID="ID_375836931" CREATED="1494386791435" MODIFIED="1494386796889"/>
+</node>
+<node TEXT="nirgunbrahma" ID="ID_1269144558" CREATED="1494386773906" MODIFIED="1494386779260"/>
+</node>
+<node TEXT="ramanuja" FOLDED="true" ID="ID_1174696833" CREATED="1494386763966" MODIFIED="1497713831625">
+<icon BUILTIN="full-1"/>
+<node TEXT="12th century" ID="ID_1161902721" CREATED="1494387090104" MODIFIED="1494387092682"/>
+<node TEXT="commentary on Brahma Sutras" FOLDED="true" ID="ID_1764871180" CREATED="1494387111564" MODIFIED="1494387118836">
+<node TEXT="aka Sri Bhashya" ID="ID_370205014" CREATED="1494387118930" MODIFIED="1497713702959"/>
+</node>
+<node TEXT="vaishnavite" FOLDED="true" ID="ID_464840416" CREATED="1494386783441" MODIFIED="1494386786403">
+<node TEXT="invited downtrodden to vaishanvism" ID="ID_1011420589" CREATED="1494386830926" MODIFIED="1494386837062"/>
+</node>
+<node TEXT="Vishishtadvaita" FOLDED="true" ID="ID_923842631" CREATED="1494386860741" MODIFIED="1494386864732">
+<node TEXT="sagunabrahma" FOLDED="true" ID="ID_53764686" CREATED="1494386766888" MODIFIED="1494386771848">
+<node TEXT="god soul matter are real&#xa;i.e. God WITH attributes" FOLDED="true" ID="ID_1815697881" CREATED="1494386920413" MODIFIED="1497713716538">
+<node TEXT="god is inner substance&#xa;others are its attributes" ID="ID_1968073835" CREATED="1494386927949" MODIFIED="1494386938608"/>
+</node>
+</node>
+</node>
+<node TEXT="prabattimarga" FOLDED="true" ID="ID_1771592102" CREATED="1494386813118" MODIFIED="1494386815807">
+<node TEXT="self-surrender to god" ID="ID_176517462" CREATED="1494386817179" MODIFIED="1494386823074"/>
+</node>
+</node>
+<node TEXT="Vallabhacharya" FOLDED="true" ID="ID_741268542" CREATED="1496458451490" MODIFIED="1496458491214">
+<icon BUILTIN="full-1"/>
+<node TEXT="patron - krishnadeva rai , vijaynagar" ID="ID_1893941506" CREATED="1496458454152" MODIFIED="1496458467278"/>
+<node TEXT="Vrindavan ," ID="ID_1422271179" CREATED="1496458469422" MODIFIED="1496458472788"/>
+<node ID="ID_1778511155" CREATED="1496458473169" MODIFIED="1496458484817"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i>family is not&#160;&#160;a hurdle in way of salvation</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="prabandhas" FOLDED="true" ID="ID_638463564" CREATED="1526794959888" MODIFIED="1526794961788">
+<node TEXT="songs by alvar saints in devtion of vishanu" ID="ID_1793090858" CREATED="1526794962396" MODIFIED="1526794969457"/>
+</node>
+</node>
+<node TEXT="UNSECO Intangible Heritage" FOLDED="true" ID="ID_1646462105" CREATED="1491720265653" MODIFIED="1497043998716" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Dec&apos;16/Vision%20CURRENT%20AFFAIRS%20DECEMBER%202016.pdf">
+<icon BUILTIN="full-1"/>
+<font NAME="Calibri"/>
+<richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="1">v_dec 8.2</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="yoga" ID="ID_1522134061" CREATED="1491720272343" MODIFIED="1491720273284"/>
+<node TEXT="traditional brass and copper craft - Thatheras of punjab" ID="ID_536594509" CREATED="1494911152580" MODIFIED="1494911177773"/>
+<node TEXT="Kalbelia folk" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_306875234" CREATED="1494911220992" MODIFIED="1527862991068" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="rajasthan" ID="ID_758442957" CREATED="1494911225915" MODIFIED="1494911229087"/>
+<node TEXT="snake dance" ID="ID_97393104" CREATED="1495860986711" MODIFIED="1495860989516"/>
+<node TEXT="Khanjri" ID="ID_1459948551" CREATED="1495860983113" MODIFIED="1495860986385"/>
+</node>
+<node TEXT="chahu dance" FOLDED="true" ID="ID_1790271850" CREATED="1494911232281" MODIFIED="1494911234076">
+<node TEXT="eastern bihar, jhk, WB, Odisha" ID="ID_954577335" CREATED="1494911234279" MODIFIED="1497499409550"/>
+<node TEXT="Mahabharata + ramayana" ID="ID_1343417145" CREATED="1495860755938" MODIFIED="1495860802887"/>
+<node TEXT="dance + martial = by men" ID="ID_1249233456" CREATED="1495860818068" MODIFIED="1495860825956"/>
+<node TEXT="mohuri + shehnai + Dhol" ID="ID_1377168641" CREATED="1495860812704" MODIFIED="1497499419565"/>
+</node>
+<node TEXT="mudiyettu" FOLDED="true" ID="ID_1079777506" CREATED="1494911240480" MODIFIED="1494911242569">
+<node TEXT="kerala" ID="ID_805823323" CREATED="1494911244439" MODIFIED="1494911245345"/>
+<node TEXT="bhadravati (Kali) goddess" ID="ID_1852900429" CREATED="1494912235011" MODIFIED="1495861200673"/>
+<node TEXT="use chenda" ID="ID_810894096" CREATED="1494912240363" MODIFIED="1494912245728"/>
+</node>
+<node TEXT="Kutiyattam or koodiyattam" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_605207527" CREATED="1494911283008" MODIFIED="1496098031046" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="kerala" ID="ID_769382039" CREATED="1494911285080" MODIFIED="1494911285866"/>
+<node TEXT="sanskrit theatre" ID="ID_602260822" CREATED="1494912196746" MODIFIED="1494912200278"/>
+<node TEXT="2000 yrs old" ID="ID_580921288" CREATED="1495861289707" MODIFIED="1495861296472"/>
+<node TEXT="Hindu temple, upto 40 days performance" ID="ID_293585599" CREATED="1495861276328" MODIFIED="1495861284826"/>
+</node>
+<node TEXT="vedic chanting" ID="ID_1780470207" CREATED="1494911288527" MODIFIED="1494911290664"/>
+<node TEXT="ramman" FOLDED="true" ID="ID_1843321113" CREATED="1494911250573" MODIFIED="1494911252266">
+<node TEXT="religious festival uttrakhand, Garhwal himalayas" ID="ID_1527476535" CREATED="1494911252920" MODIFIED="1495861224902"/>
+<node TEXT="Rama and various legends" ID="ID_1560994327" CREATED="1495861237415" MODIFIED="1495861243786"/>
+</node>
+<node TEXT="Ramlila" ID="ID_1494413902" CREATED="1494911274775" MODIFIED="1494911276016"/>
+<node TEXT="Buddhist chanting in ladakh" FOLDED="true" ID="ID_288818431" CREATED="1494911214183" MODIFIED="1496795308008">
+<node TEXT="Mahayana + Vajrayana" ID="ID_1028212973" CREATED="1495860530860" MODIFIED="1495860539325"/>
+<node TEXT="four sect = Nyngma + Kagyud + Shakya + Geluk" ID="ID_203130069" CREATED="1495860544611" MODIFIED="1495860561220"/>
+<node TEXT="Chod is a buddhist practice" FOLDED="true" ID="ID_950805104" CREATED="1495860563789" MODIFIED="1495860571651">
+<node ID="ID_1978748280" CREATED="1495860673164" MODIFIED="1495860702526"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      emptiness + mahayana + <b><i>&quot;Cutting through the ego&quot;</i></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="Sankirtana" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1218578322" CREATED="1494563368454" MODIFIED="1496795313629" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="@manipur" ID="ID_287163022" CREATED="1494563370900" MODIFIED="1494563373291"/>
+<node TEXT="Krishna" ID="ID_953862224" CREATED="1494563374264" MODIFIED="1494563375982"/>
+</node>
+<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1834818861" CREATED="1495861775878" MODIFIED="1495861919572" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">Novruz</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri"/>
+<node TEXT="new year, 21 march" ID="ID_182658315" CREATED="1495861922163" MODIFIED="1495861928902"/>
+</node>
+</node>
+<node TEXT="Philosophy" FOLDED="true" ID="ID_956818106" CREATED="1495365258416" MODIFIED="1497043998716">
+<icon BUILTIN="full-1"/>
+<font NAME="Calibri"/>
+<node TEXT="orthodox" FOLDED="true" ID="ID_20494832" CREATED="1526792039914" MODIFIED="1526792042577">
+<node TEXT="Nyaya" FOLDED="true" ID="ID_372888012" CREATED="1527254442734" MODIFIED="1527254444006">
+<node FOLDED="true" ID="ID_625120593" CREATED="1527254444300" MODIFIED="1527254451057"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      obtain <i><u>valid knowledge</u></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_703190311" CREATED="1527254477670" MODIFIED="1527254503001"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      via PICT
+    </p>
+    <p>
+      Perception
+    </p>
+    <p>
+      inference
+    </p>
+    <p>
+      <b><u>Comparison </u></b>
+    </p>
+    <p>
+      Testimony
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="based on logic" ID="ID_1511329197" CREATED="1527254453209" MODIFIED="1527254475828"/>
+</node>
+<node TEXT="Vaisheshika" FOLDED="true" ID="ID_1036681012" CREATED="1527765205721" MODIFIED="1527765207956">
+<node TEXT="Kanada, atom, Karma" ID="ID_109741339" CREATED="1527765208898" MODIFIED="1527765212964"/>
+</node>
+</node>
+<node TEXT="non orthodox" ID="ID_889486504" CREATED="1526792043259" MODIFIED="1526792045558"/>
+<node TEXT="Charvaka aka Lokayata aka materialists" FOLDED="true" ID="ID_1449937200" CREATED="1495365261507" MODIFIED="1497066965270">
+<node FOLDED="true" ID="ID_928274153" CREATED="1495365328992" MODIFIED="1495365328992"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">doctrine of materialism</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+<node TEXT="everything = earth +  water + fire + air" ID="ID_1388062599" CREATED="1497067084507" MODIFIED="1497067096552"/>
+<node ID="ID_1841909714" CREATED="1495365392524" MODIFIED="1495365392524"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">No existence other than the physical body exists</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1178890366" CREATED="1495365352437" MODIFIED="1495365352437"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">to enjoy pleasures and avoid pain.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1538625297" CREATED="1495365274250" MODIFIED="1495365274250"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">That which cannot be perceived does not exist; to exist implies to be perceivable</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_239379142" CREATED="1495365369579" MODIFIED="1495365369579"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">Providing a good living for the priests is a sufficient explanation for the practice of religion.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_768079468" CREATED="1495365284068" MODIFIED="1495365309779"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">rejected</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+<node LOCALIZED_STYLE_REF="default" ID="ID_1119926181" CREATED="1495365302817" MODIFIED="1496458526040" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">notion of an afterworld, karma,</span>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri"/>
+</node>
+<node TEXT="immortality of the self" ID="ID_17071922" CREATED="1495365292926" MODIFIED="1506487206975"/>
+<node ID="ID_361408129" CREATED="1495365310475" MODIFIED="1495365310475"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">&#160;liberation (moksha)</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1916445403" CREATED="1495365317570" MODIFIED="1495365317570"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">the authority of the<br/>sacred scriptures, the Vedas</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_284364254" CREATED="1495365378771" MODIFIED="1495365378771"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">oul, reincarnation, spirits, or gods</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="founder = Brihaspati" ID="ID_472285348" CREATED="1497067071197" MODIFIED="1497067077117"/>
+<node TEXT="mentioned in Brihadaranyaka Upnishada" LOCALIZED_STYLE_REF="default" ID="ID_1182505034" CREATED="1497067057765" MODIFIED="1497242920278" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="Ajivika Sect" FOLDED="true" ID="ID_555726388" CREATED="1497066923943" MODIFIED="1497066927999">
+<node TEXT="no karma, everything pre determined" ID="ID_1480574436" CREATED="1497066928155" MODIFIED="1497066935194"/>
+<node TEXT="believe in fatalism" ID="ID_1593374796" CREATED="1497066938239" MODIFIED="1497066940927"/>
+</node>
+<node TEXT="Buddhism" FOLDED="true" ID="ID_1273388002" CREATED="1488692755712" MODIFIED="1526619912062">
+<font NAME="Calibri"/>
+<node TEXT="Pillars" ID="ID_1452266312" CREATED="1488692762055" MODIFIED="1494562512635" LINK="../../../E:/archived/Downloads/UPSC%20REVISION%20for%202017/unacademy-dl/images/Q_Mar_2/16.jpeg">
+<font NAME="Dialog"/>
+</node>
+<node TEXT="4 noble truth" FOLDED="true" ID="ID_837800172" CREATED="1526792952050" MODIFIED="1526792954381">
+<font NAME="Dialog"/>
+<node TEXT="suffering, cause, cessation, 8 fold path" ID="ID_1470401036" CREATED="1526792954444" MODIFIED="1526792962319"/>
+</node>
+<node TEXT="scriptures" FOLDED="true" ID="ID_1519377142" CREATED="1497333767743" MODIFIED="1497333772674">
+<font NAME="Dialog"/>
+<node TEXT="avadana" FOLDED="true" ID="ID_758948962" CREATED="1526619775558" MODIFIED="1526619777402">
+<node TEXT="about past lives of bodhisattvas&#xa;&#xa;part of buddhist literature" ID="ID_442554414" CREATED="1526619777605" MODIFIED="1526619807000"/>
+</node>
+</node>
+<node TEXT="Schools of thought" FOLDED="true" ID="ID_1095305726" CREATED="1494562482665" MODIFIED="1494646165142">
+<font NAME="Dialog"/>
+<node TEXT="Hinayana" FOLDED="true" ID="ID_1574437325" CREATED="1494562485915" MODIFIED="1494562562496">
+<font NAME="Dialog"/>
+<node ID="ID_975562690" CREATED="1494562562902" MODIFIED="1497162260838"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      aka Theravada ( lesser vehicle )
+    </p>
+    <p>
+      <i>Doctrine of Elders</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="self-effort to attain nirvana" FOLDED="true" ID="ID_637701505" CREATED="1494562583875" MODIFIED="1526640443940">
+<font BOLD="true"/>
+<node ID="ID_1253021947" CREATED="1495855001045" MODIFIED="1495855027762"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i.e. <b>no</b><i>&#160;transference of merit </i>( but present in Mahayana )
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_168429492" CREATED="1495856223717" MODIFIED="1495856265373"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Patimokkha is the basic code of monastic discipline<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>&#160;written in __
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Vinayaka pitaka" ID="ID_314183134" CREATED="1495856237439" MODIFIED="1495856269639"/>
+</node>
+<node TEXT="Sarvastivadin = all is." ID="ID_1365304051" CREATED="1523010862098" MODIFIED="1523010876259"/>
+<node TEXT="sautranikas =" ID="ID_1468254075" CREATED="1523010882002" MODIFIED="1523010901681"/>
+<node TEXT="sammitiyas" ID="ID_241063301" CREATED="1523010901795" MODIFIED="1523010905736"/>
+</node>
+<node TEXT="Mahayana" FOLDED="true" ID="ID_730364418" CREATED="1494562489402" MODIFIED="1494562512635">
+<font NAME="Dialog"/>
+<node TEXT="greater vehicle" ID="ID_31118473" CREATED="1494562603283" MODIFIED="1494562606159"/>
+<node TEXT="Buddha as saviour" ID="ID_500601003" CREATED="1494562607315" MODIFIED="1494562610878"/>
+<node TEXT="Bodhisattas!" FOLDED="true" ID="ID_1176476991" CREATED="1494562627163" MODIFIED="1494562630516">
+<node TEXT="deeply compassionate beings" ID="ID_640972609" CREATED="1494562632391" MODIFIED="1494562637032"/>
+<node ID="ID_1046183128" CREATED="1495854928477" MODIFIED="1495854971777"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      concept of <b><i>transference of merit</i></b>&#160;=&gt; Bodhisattva can help achieve <i>salvation from suffering</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="in 4th council" ID="ID_216953499" CREATED="1494988078003" MODIFIED="1494988085098"/>
+</node>
+<node TEXT="Vajrayana" FOLDED="true" ID="ID_1282908087" CREATED="1494562492900" MODIFIED="1494562512635">
+<font NAME="Dialog"/>
+<node TEXT="skillful means" ID="ID_33462812" CREATED="1494562655800" MODIFIED="1494562659937"/>
+<node TEXT="Kagyu School" FOLDED="true" ID="ID_1929778708" CREATED="1494910597989" MODIFIED="1494910772440">
+<icon BUILTIN="launch"/>
+<node ID="ID_1094912329" CREATED="1494910614980" MODIFIED="1494910631375"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      doctrine of <b>Mahamudra ( the great seal ) </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="single pointedness of mind" ID="ID_1602912836" CREATED="1495426048449" MODIFIED="1495426053190"/>
+</node>
+<node TEXT="buddhist tantric literature" FOLDED="true" ID="ID_490276358" CREATED="1495769750088" MODIFIED="1495769811015">
+<node TEXT="believe in magical powers for salvation from suffering" ID="ID_1074405477" CREATED="1495854983382" MODIFIED="1495854994035"/>
+</node>
+<node TEXT="premise = we already are enligtened beings =&gt; seeing the world in terms of ultimate truth will help us reveal buddha nature" ID="ID_1624471727" CREATED="1495769776331" MODIFIED="1495769803921"/>
+</node>
+<node TEXT="Shingon" ID="ID_1581842944" CREATED="1494562501042" MODIFIED="1496793763585">
+<icon BUILTIN="help"/>
+<font NAME="Dialog"/>
+</node>
+</node>
+<node TEXT="Buddhist councils" FOLDED="true" ID="ID_351128042" CREATED="1494988097149" MODIFIED="1494988102867">
+<font NAME="Dialog"/>
+<node TEXT="I" FOLDED="true" ID="ID_714892198" CREATED="1494988104470" MODIFIED="1494988106268">
+<node ID="ID_180463490" CREATED="1495865246183" MODIFIED="1495865342122"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Saptarni Cave, <b>Rajgriha, 4</b>83 BC
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Mahakasapa, Ajatshatru" ID="ID_1635286785" CREATED="1494988118834" MODIFIED="1495864647787"/>
+<node TEXT="right after death of BUddha" FOLDED="true" ID="ID_75324467" CREATED="1494988112527" MODIFIED="1494988117217">
+<node TEXT="to maintain purity in teaching of buddha" ID="ID_1229269845" CREATED="1494988136099" MODIFIED="1494988145249"/>
+</node>
+<node TEXT="compilation of Sutta Pitaka, Vinayak Pitak by Ananda and Upali" FOLDED="true" ID="ID_420714257" CREATED="1495864657709" MODIFIED="1495864677694">
+<node TEXT="Sutta pitaka" FOLDED="true" ID="ID_803330332" CREATED="1497333781728" MODIFIED="1497333783788">
+<node TEXT="digha nikaya = mahaparinirvana" ID="ID_971479872" CREATED="1497333791940" MODIFIED="1497333803896"/>
+<node TEXT="Sammannaphala, Brahamjala sutta = view on &apos;time&apos; by buddha" ID="ID_1825936948" CREATED="1497333820746" MODIFIED="1497333848203"/>
+<node TEXT="siglovada sutta = ethics for followers" ID="ID_12441830" CREATED="1497333857648" MODIFIED="1497333877364"/>
+</node>
+</node>
+</node>
+<node TEXT="II" FOLDED="true" ID="ID_157296585" CREATED="1494988106676" MODIFIED="1494988107119">
+<node TEXT="Vaishali, 383 BC" ID="ID_766099327" CREATED="1494988151745" MODIFIED="1494988157832"/>
+<node TEXT="Sabbakami, Kalashoka" ID="ID_1043263589" CREATED="1495865203808" MODIFIED="1495865222984"/>
+<node TEXT="Sangha divided into orthodox Sthaviradins (Theravadins) + liberal mahasanghika" LOCALIZED_STYLE_REF="default" ID="ID_1760928187" CREATED="1495865272678" MODIFIED="1497625774649" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="III" FOLDED="true" ID="ID_742773535" CREATED="1494988107692" MODIFIED="1494988108231">
+<node TEXT="Patliputra, 250 BC" ID="ID_1205241043" CREATED="1494988179001" MODIFIED="1495865354376"/>
+<node TEXT="Mogaliputta Tissa, AShoka" ID="ID_956913422" CREATED="1494988168242" MODIFIED="1495865292112"/>
+<node TEXT="1. Abhidhamma Pitaka = Tripitakas Completed&#xa;2. Send people for mission!" FOLDED="true" ID="ID_1950052703" CREATED="1494988275362" MODIFIED="1495865327154">
+<node TEXT="Abhidhamma pitaka = by Upagupta ; religious practices" ID="ID_1262053350" CREATED="1497625744679" MODIFIED="1497625762547"/>
+</node>
+<node TEXT="Sthaviradins are rival to Mahasanghikas" ID="ID_603647979" CREATED="1497625612834" MODIFIED="1497625629625"/>
+<node ID="ID_1905847118" CREATED="1494988242505" MODIFIED="1494988258836"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      after 4th council, Ashoka's Buddhism known as <i>Hinayana</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="IV" FOLDED="true" ID="ID_733123748" CREATED="1494988108518" MODIFIED="1494988109807">
+<node TEXT=" Kundalavana monastery, Kashmir, 98 AD" ID="ID_1982120925" CREATED="1494988199431" MODIFIED="1495865369501"/>
+<node TEXT="Vasumitra, Kanishka" ID="ID_81203264" CREATED="1494988203518" MODIFIED="1495865383889"/>
+<node TEXT="Sthaviradins + Mahasanghikas unite to form Mahayana" LOCALIZED_STYLE_REF="default" ID="ID_1952609808" CREATED="1497625571908" MODIFIED="1497625650308" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="1. Mahavibha Shastra [ By Vasumitra ] = commentary of Tripitakas&#xa;2. Mahayana" LOCALIZED_STYLE_REF="default" ID="ID_1467909425" CREATED="1495854543034" MODIFIED="1495866698916" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_662498241" CREATED="1494987948754" MODIFIED="1497500581558"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Buddha aka <i>Shakya Muni</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Dialog"/>
+<node TEXT="law of Karma" ID="ID_1974791467" CREATED="1494987949553" MODIFIED="1494987954049"/>
+<node TEXT="no comment on God" ID="ID_1928320980" CREATED="1494987963971" MODIFIED="1494987967586"/>
+<node TEXT="no soul, no self" ID="ID_729318183" CREATED="1494987973445" MODIFIED="1496794919787"/>
+<node TEXT="practical ethics + principle of social equality" ID="ID_584575831" CREATED="1494987983191" MODIFIED="1494988015595"/>
+<node TEXT="event, place, symbol" FOLDED="true" ID="ID_1924892769" CREATED="1495866199138" MODIFIED="1495866209919">
+<node TEXT="birth, Lumbini, Lotus + Bull" LOCALIZED_STYLE_REF="default" ID="ID_1612510325" CREATED="1495866219595" MODIFIED="1495866504895" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="renunciation, Mahabhinishkramana, Horse" ID="ID_1977474039" CREATED="1495866268756" MODIFIED="1495866378877"/>
+<node TEXT="Nirvana (enlightenment), Bodh Gaya, Bodhi Tree" ID="ID_1132132325" CREATED="1495866270953" MODIFIED="1495866473066"/>
+<node TEXT="Dharamchakra parivartna (first sermon), Sarnath, Wheel" ID="ID_290001580" CREATED="1495866277306" MODIFIED="1495866417734"/>
+<node TEXT="death, Kushinagar, Mahaparinirvana, Stupa" ID="ID_1875604901" CREATED="1495866220652" MODIFIED="1495866444719"/>
+</node>
+<node TEXT="Kanthaka = Horse&#xa;Channa = Charioteer&#xa;Alara Karma = gautama" LOCALIZED_STYLE_REF="default" ID="ID_955124463" CREATED="1496738430840" MODIFIED="1496738472288" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Kushinagar = capital of Malla (gana, Sangha)" LOCALIZED_STYLE_REF="default" ID="ID_1217344349" CREATED="1497079113507" MODIFIED="1497325465566" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="Vihara and chaitya" FOLDED="true" ID="ID_1322954573" CREATED="1496972036184" MODIFIED="1496972040373">
+<font NAME="Dialog"/>
+<node TEXT="vihara = for stay&#xa;chaitya = for praying" ID="ID_1238471569" CREATED="1496972043887" MODIFIED="1496972055101"/>
+<node TEXT="chaitya = pray =&gt; contain Stupa! =&gt; have buddhist relics on them" ID="ID_367035074" CREATED="1496972055397" MODIFIED="1496972081868"/>
+</node>
+</node>
+<node TEXT="Jainism" FOLDED="true" ID="ID_126528454" CREATED="1495855834404" MODIFIED="1497043998716">
+<icon BUILTIN="full-1"/>
+<font NAME="Calibri"/>
+<node FOLDED="true" ID="ID_1426608140" CREATED="1495866982438" MODIFIED="1495867018022"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      rejected authority of vedas + NO God + karma + transmigration of soul +&#160; <i><b>equality</b></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="karma = yes&#xa;asceticism + penance are needed to free oneself from Karma cycle" ID="ID_557306172" CREATED="1497075694004" MODIFIED="1497075728923">
+<icon BUILTIN="idea"/>
+</node>
+<node TEXT="everything is ANIMATE = has a soul" ID="ID_828129019" CREATED="1497075731001" MODIFIED="1497075740408"/>
+<node TEXT="did not condemn varna system, rebirth believed (?&gt;&gt;)" ID="ID_1514669516" CREATED="1523014446976" MODIFIED="1523014467726"/>
+</node>
+<node TEXT="Mahavira = 24th tirthankar&#xa;Rishabha = 1st tirthankar" ID="ID_1184306642" CREATED="1496974330491" MODIFIED="1496974344952"/>
+<node TEXT="2 councils" FOLDED="true" ID="ID_969192551" CREATED="1495867040182" MODIFIED="1495867042327">
+<node TEXT="Patliputra, 300 BC&#xa;Chandragupta Maurya&#xa;compile 12 Angas" ID="ID_1119521060" CREATED="1495867042679" MODIFIED="1495867083723"/>
+<node TEXT="Vallabhi, 512 AD&#xa;...&#xa;Final complete 12 Angas + 12 upangas" ID="ID_1622533980" CREATED="1495867052139" MODIFIED="1495867097035"/>
+</node>
+<node TEXT="5 vows" FOLDED="true" ID="ID_465106122" CREATED="1495866853949" MODIFIED="1495866945617">
+<node TEXT="Ahimsa" ID="ID_1992668391" CREATED="1495866877942" MODIFIED="1495866880610"/>
+<node TEXT="Satya ( no lie )" ID="ID_285958096" CREATED="1495866862885" MODIFIED="1495866895095"/>
+<node TEXT="Asatya ( no steal )" ID="ID_1354222223" CREATED="1495866865630" MODIFIED="1495866900708"/>
+<node TEXT="Aparigraha ( no possess )" ID="ID_961009101" CREATED="1495866868643" MODIFIED="1495866909462"/>
+<node TEXT="Celibacy" FOLDED="true" ID="ID_1687845498" CREATED="1495855846839" MODIFIED="1495855848895">
+<node TEXT="5th added by Mahavira" ID="ID_1964435059" CREATED="1495855837685" MODIFIED="1495855845126"/>
+</node>
+<node ID="ID_999206549" CREATED="1495855850317" MODIFIED="1495855863387"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      follow all 5 =&gt; <i>Mahavrata</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="follow vratas in constraints = Anuvrata" ID="ID_921944462" CREATED="1495855928865" MODIFIED="1495855944258"/>
+</node>
+<node TEXT="Sallekhnana aka Santhara" FOLDED="true" ID="ID_474154472" CREATED="1495855982197" MODIFIED="1495855990113">
+<node ID="ID_1573020780" CREATED="1495856022508" MODIFIED="1495856057424"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;= giving up body with complete peace of mind, calmness, and patience, without any fear at all<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_35796708" CREATED="1495855993880" MODIFIED="1495856070291"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      method : gradually abstaining from the food and the water and simultaneously<br/>meditating on the true nature of the Self until the soul parts the body<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_729375355" CREATED="1495856003396" MODIFIED="1495856003396"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">if he falls ill or for any other reason can not maintain the peace of mind, then he should<br/>give up Sallekhana and resume taking foods and other activities</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Basadi" FOLDED="true" ID="ID_911160100" CREATED="1496728638736" MODIFIED="1496728640118">
+<node ID="ID_66148631" CREATED="1496728640764" MODIFIED="1496728640764"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">place of residence of Jain monks</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="gomateshwara statue" FOLDED="true" ID="ID_447876538" CREATED="1497061542995" MODIFIED="1497061549957">
+<node TEXT="@shravanbelagola, karnataka" ID="ID_1138574339" CREATED="1497061550379" MODIFIED="1497061557740"/>
+<node TEXT="standings statue, 981 AD" ID="ID_1273150193" CREATED="1497061558146" MODIFIED="1497061618616">
+<hook URI="Gommateshvara_Bahubali_978-993_AD..jpg" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+<node TEXT="kayotsarga&#xa;    standing / sitting meditation" ID="ID_1407054465" CREATED="1524139325753" MODIFIED="1524139328659"/>
+</node>
+<node TEXT="both Jainism + buddhism have principles from Upanishads" ID="ID_1016332325" CREATED="1497061666233" MODIFIED="1497061688741"/>
+<node FOLDED="true" ID="ID_1267913494" CREATED="1526792983686" MODIFIED="1526793000550"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      about judgement - syavada (<b><i><u>somehow</u></i></b>)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Saptbhanginaya - 7 types of judgement&#xa;&#xa;, [ not uncertainty in judgement but its conditional character ]" ID="ID_1969681272" CREATED="1526793001471" MODIFIED="1526793013175"/>
+</node>
+<node TEXT="Nyayavada or Anek_antavada" FOLDED="true" ID="ID_1216292667" CREATED="1527866349711" MODIFIED="1527866383677">
+<node TEXT="six blind men trying to describe elephant" ID="ID_831254600" CREATED="1527866384621" MODIFIED="1527866397803"/>
+</node>
+</node>
+<node TEXT="Vishisht advaita" FOLDED="true" ID="ID_281019723" CREATED="1526793077469" MODIFIED="1526793087177">
+<font NAME="Calibri"/>
+<node TEXT="ramanujacharya" ID="ID_1271965508" CREATED="1526793094209" MODIFIED="1526793098815"/>
+<node TEXT="personal god, omniscient" ID="ID_1620851047" CREATED="1526793087302" MODIFIED="1526793094068"/>
+</node>
+</node>
+<node TEXT="Paintings" FOLDED="true" ID="ID_765136895" CREATED="1490876242722" MODIFIED="1497043998716">
+<font NAME="Calibri"/>
+<node TEXT="pal" FOLDED="true" ID="ID_95390277" CREATED="1496020386071" MODIFIED="1496020387741">
+<node TEXT="@magadha region, South Bihar, 750 AD (Pala Dynasty)" LOCALIZED_STYLE_REF="default" ID="ID_1894553504" CREATED="1496021606663" MODIFIED="1496021702462" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="first ever miniature, 11-12th century" LOCALIZED_STYLE_REF="default" ID="ID_1299518594" CREATED="1496461075884" MODIFIED="1496795653773" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Demise = Buddhist monastries destroy by  (Huna?) Muslim invaders (13th century) =&gt; art Gone!" LOCALIZED_STYLE_REF="default" ID="ID_1764142999" CREATED="1496021622828" MODIFIED="1506487136624" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Hindu, Buddhist theme," ID="ID_1962884156" CREATED="1496021572464" MODIFIED="1496021579007"/>
+<node TEXT="lonely human figures" ID="ID_1301448876" CREATED="1496021579171" MODIFIED="1496021582186"/>
+<node TEXT="coconut or palm leaves" ID="ID_114539719" CREATED="1496021586469" MODIFIED="1496021592636"/>
+</node>
+<node TEXT="Apbhransha" FOLDED="true" ID="ID_1028908804" CREATED="1496020387984" MODIFIED="1496020390216">
+<node TEXT="@mewar, gujrat" ID="ID_108467961" CREATED="1496020412916" MODIFIED="1496020418066"/>
+<node TEXT="stiff figures, bright gold color" ID="ID_820625723" CREATED="1496020424173" MODIFIED="1496020432328"/>
+</node>
+<node TEXT="mughal" FOLDED="true" ID="ID_988363707" CREATED="1490876244518" MODIFIED="1490876245638">
+<node TEXT="started during akbar, 1560" ID="ID_1854053079" CREATED="1496461098033" MODIFIED="1496461106167"/>
+<node TEXT="akbar" FOLDED="true" ID="ID_1653595953" CREATED="1490876245878" MODIFIED="1490876247998">
+<node ID="ID_1949317827" CREATED="1527321996149" MODIFIED="1527321996149"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">Jaswant and Dasawan were two of the famous painters of Akbar's court</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="jahangir" FOLDED="true" ID="ID_777803158" CREATED="1490876248125" MODIFIED="1490876249968">
+<node TEXT="subject : Nature + birds + animals" ID="ID_1059327803" CREATED="1490876257982" MODIFIED="1490876268223"/>
+<node TEXT="decorated borders" ID="ID_859292346" CREATED="1490876252788" MODIFIED="1490876256217"/>
+</node>
+<node TEXT="shahjahan" FOLDED="true" ID="ID_1704751251" CREATED="1490876250137" MODIFIED="1490876251842">
+<node TEXT="Pencil use" ID="ID_1573887727" CREATED="1490876269942" MODIFIED="1490876273678"/>
+<node TEXT="golden colors&#xa;=&gt; reduced liveliness" ID="ID_1505507916" CREATED="1490876275610" MODIFIED="1496795693358"/>
+<node TEXT="mir hasan = famous painter" ID="ID_1403067023" CREATED="1527322002056" MODIFIED="1527322013604"/>
+</node>
+<node TEXT="Aurangzeb" FOLDED="true" ID="ID_1027740457" CREATED="1490876290942" MODIFIED="1490876294849">
+<node TEXT="no patronage to painters. Why?" FOLDED="true" ID="ID_713924030" CREATED="1490876294995" MODIFIED="1496795701547">
+<node TEXT="resource crisis&#xa;=&gt;  painters go back to their regions&#xa;=&gt;  regional development of painting" ID="ID_1922595379" CREATED="1490876302606" MODIFIED="1496795724795" MAX_WIDTH="156.9719725333555 pt" MIN_WIDTH="156.9719725333555 pt"/>
+</node>
+<node ID="ID_1571942227" CREATED="1527322051764" MODIFIED="1527322051764"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">Aurangzeb's reign<br/>saw the production of a large number of books on music</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node LOCALIZED_STYLE_REF="default" ID="ID_175718810" CREATED="1496025383886" MODIFIED="1496025408521" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      influenced from '<i>safavid </i>school of persian painting'
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Calibri"/>
+</node>
+<node TEXT="secular + natural themes" LOCALIZED_STYLE_REF="default" ID="ID_1903811927" CREATED="1496025403123" MODIFIED="1496025408516" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="Regional Schools" FOLDED="true" ID="ID_128150770" CREATED="1490876345217" MODIFIED="1490876346973">
+<node TEXT="rajasthani" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1618169192" CREATED="1490876348854" MODIFIED="1506486982943" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="hindu tradition + mythology" FOLDED="true" ID="ID_444124932" CREATED="1490876470651" MODIFIED="1490876489719">
+<node TEXT="battle, riding, hunting scenes" ID="ID_235439632" CREATED="1490876494646" MODIFIED="1490876504099"/>
+</node>
+<node TEXT="16 century" FOLDED="true" ID="ID_666020845" CREATED="1490876507158" MODIFIED="1490876511279">
+<node TEXT="mural = dark background&#xa;simple" ID="ID_656962777" CREATED="1490876546817" MODIFIED="1490876554895"/>
+</node>
+<node TEXT="early 17 century" FOLDED="true" ID="ID_624219121" CREATED="1490876514599" MODIFIED="1490876540102">
+<node TEXT="sophisticated" ID="ID_978325969" CREATED="1490876558237" MODIFIED="1490876560237"/>
+</node>
+<node TEXT="17-18 century" FOLDED="true" ID="ID_294262078" CREATED="1490876520499" MODIFIED="1490876525142">
+<node TEXT="aurangzeb period" FOLDED="true" ID="ID_1471093850" CREATED="1490876562230" MODIFIED="1490876567188">
+<node TEXT="mughal influence" ID="ID_1132560683" CREATED="1490876569587" MODIFIED="1490876572008"/>
+<node TEXT="miniature style" ID="ID_1231602917" CREATED="1490876578506" MODIFIED="1490876582241"/>
+</node>
+<node TEXT="radha-krishna + nayak-nayika" ID="ID_1854002174" CREATED="1490876586474" MODIFIED="1490876592416"/>
+</node>
+</node>
+<node TEXT="pahari" ID="ID_525834182" CREATED="1490876351012" MODIFIED="1490876352162"/>
+</node>
+<node TEXT="deccani school" FOLDED="true" ID="ID_160736394" CREATED="1496020106514" MODIFIED="1496020111134">
+<node ID="ID_972003140" CREATED="1496020676722" MODIFIED="1496020682921"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>independent of mughal</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="influenced from mughal in 17th cand 18th century" ID="ID_1090389859" CREATED="1496020476926" MODIFIED="1496020484712"/>
+</node>
+<node TEXT="Pichwai" FOLDED="true" ID="ID_745395908" CREATED="1496107109802" MODIFIED="1496107111949">
+<node TEXT="to portray krishna to illiterate" ID="ID_1412098419" CREATED="1496107117616" MODIFIED="1496107153419"/>
+<node TEXT="nathdwara, rajasthan" ID="ID_946707694" CREATED="1496107112297" MODIFIED="1525838491656"/>
+</node>
+<node TEXT="pattchitra" FOLDED="true" ID="ID_126952949" CREATED="1497316197639" MODIFIED="1497316199996">
+<node TEXT="orissa, cloth scroll" ID="ID_77017501" CREATED="1497316200123" MODIFIED="1497316205793"/>
+<node TEXT="mentioned in Gita Govinda" FOLDED="true" ID="ID_1134476040" CREATED="1497495590545" MODIFIED="1497495595049">
+<node TEXT="Gita govinda = Raga Kavya on radha Krishna" ID="ID_923857745" CREATED="1497499561657" MODIFIED="1497499574377"/>
+</node>
+<node TEXT="hindu deities" ID="ID_1752328340" CREATED="1497316206082" MODIFIED="1497316208539"/>
+</node>
+<node TEXT="jharnapata" FOLDED="true" ID="ID_1267975129" CREATED="1497495623299" MODIFIED="1497495626343">
+<node TEXT="paper rolls, WB" ID="ID_1686103786" CREATED="1497495644971" MODIFIED="1497495650517"/>
+<node TEXT="sing while unscrolling the painting" ID="ID_1340203194" CREATED="1497495626464" MODIFIED="1497495644299"/>
+</node>
+<node TEXT="Bundi School of painting" FOLDED="true" ID="ID_35065713" CREATED="1496738021514" MODIFIED="1496738024796">
+<node TEXT="Lush green, sunset" ID="ID_1857409964" CREATED="1496738024999" MODIFIED="1496738031406"/>
+<node TEXT="17-19 th century" ID="ID_784137983" CREATED="1496738040418" MODIFIED="1496738044605"/>
+<node TEXT="used at Kota Railway station" ID="ID_1506486549" CREATED="1496738044746" MODIFIED="1496738051202"/>
+<node TEXT="" ID="ID_889181850" CREATED="1525838629632" MODIFIED="1525838629632"/>
+</node>
+<node TEXT="kalighat paintings" FOLDED="true" ID="ID_1712375357" CREATED="1526204251606" MODIFIED="1526204254874">
+<node TEXT="lithography, Hindu" ID="ID_308807415" CREATED="1526204255609" MODIFIED="1526204259490"/>
+<node TEXT="ram, sita, durga = oriental branch" ID="ID_949763565" CREATED="1526204348004" MODIFIED="1526204357803"/>
+<node TEXT="daily life = occidental branch" ID="ID_347543758" CREATED="1526204358063" MODIFIED="1526204363951"/>
+</node>
+</node>
+</node>
+<node TEXT="Geography overview" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1884441230" CREATED="1526472808185" MODIFIED="1526472812914">
 <font NAME="Calibri"/>
 <node TEXT="factors affecting T of a place" ID="ID_237622832" CREATED="1526472812946" MODIFIED="1526472819588">
 <node TEXT="Latitude,&#xa;Ocean Current,&#xa;Altitude&#xa;Continentality&#xa;Slope,&#xa;vegetation" ID="ID_520668913" CREATED="1526472819728" MODIFIED="1526472879539"/>
@@ -11045,7 +11930,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Countries / Treaties" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1769221224" CREATED="1488085354289" MODIFIED="1494887616062">
+<node TEXT="Countries / Treaties" LOCALIZED_STYLE_REF="default" ID="ID_1769221224" CREATED="1488085354289" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
 <node TEXT="India - Bangladesh" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1185339932" CREATED="1488235602170" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
@@ -11187,6 +12072,10 @@
 <node TEXT="opportunity :&#xa;&#xa;, energy security- nat gas, U-238, oil&#xa;, INSTC - trade&#xa;, market for educatoin and IT services&#xa;, new miliatry base in tajikistan" ID="ID_1388222322" CREATED="1547527897920" MODIFIED="1547528418213"/>
 <node TEXT="challenges :&#xa;&#xa;OBOR&#xa;, TAPI&#xa;, no connectivity&#xa;, poor defence relations" ID="ID_392324765" CREATED="1547527965968" MODIFIED="1547527993342"/>
 <node TEXT="ashgabat agreement" ID="ID_796900421" CREATED="1547528023138" MODIFIED="1547528032232"/>
+</node>
+<node TEXT="india EU" ID="ID_1268611608" CREATED="1551150715269" MODIFIED="1551150717166">
+<font NAME="Calibri"/>
+<node TEXT="SME :&#xa;EU business support programme&#xa;&#xa;for people to people contact" ID="ID_1523432316" CREATED="1551150717743" MODIFIED="1551150768393" LINK="https://indianexpress.com/article/opinion/columns/india-european-union-business-partnership-trade-relations-5600571/"/>
 </node>
 </node>
 <node TEXT="South China Sea" LOCALIZED_STYLE_REF="default" ID="ID_316452416" CREATED="1488085959430" MODIFIED="1494887616063">
@@ -12349,266 +13238,6 @@
 </node>
 <node TEXT="Social" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1304810247" CREATED="1488174989799" MODIFIED="1494887616077">
 <font NAME="Calibri"/>
-<node TEXT="Women" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1572707793" CREATED="1488270931570" MODIFIED="1488545169853">
-<node TEXT="[oldies]" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_712046819" CREATED="1533888691572" MODIFIED="1533888696682">
-<node TEXT="Temple Entry" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_91288506" CREATED="1488541382367" MODIFIED="1488545169858">
-<node TEXT="14, 15, 25" LOCALIZED_STYLE_REF="default" ID="ID_938900972" CREATED="1488541384365" MODIFIED="1488545169858"/>
-</node>
-</node>
-<node TEXT="Fertility Rates and Contraception" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_359293550" CREATED="1489804332580" MODIFIED="1489804339987">
-<node TEXT="fertility is not a responsibility of women alone, men shall also take part in contraception" FOLDED="true" ID="ID_1820339447" CREATED="1489804354194" MODIFIED="1489804373836">
-<node TEXT="vasectomy = 0.3 % =&gt; male participation LOW" ID="ID_156915435" CREATED="1489804380871" MODIFIED="1533888765002">
-<icon BUILTIN="pencil"/>
-</node>
-</node>
-<node TEXT="Injectable contraceptives" FOLDED="true" ID="ID_1268005397" CREATED="1489804341842" MODIFIED="1489804428461">
-<icon BUILTIN="help"/>
-<node TEXT="bone density low" ID="ID_531235116" CREATED="1489804416306" MODIFIED="1489804423609"/>
-</node>
-<node TEXT="Why an issue?" FOLDED="true" ID="ID_1220038774" CREATED="1490945309436" MODIFIED="1490945314290">
-<node TEXT="Poor and migrant women" FOLDED="true" ID="ID_1801929284" CREATED="1490945244799" MODIFIED="1490945250928">
-<node TEXT="can&apos;t goto work during pregnancy" ID="ID_672415476" CREATED="1490945251103" MODIFIED="1490945259499"/>
-<node TEXT="+ monetary benefit for vasectomy" ID="ID_355408218" CREATED="1490945261044" MODIFIED="1490945292680"/>
-</node>
-<node TEXT="Awareness" ID="ID_99759054" CREATED="1489804436590" MODIFIED="1489804440135"/>
-</node>
-<node TEXT="Way forward" FOLDED="true" ID="ID_1058974544" CREATED="1490945322590" MODIFIED="1490945324121">
-<node TEXT="reproductive health facilities to un-organised sector women" ID="ID_136804542" CREATED="1490945332082" MODIFIED="1490945344060"/>
-<node TEXT="Ramakant Rai SC case" ID="ID_336370270" CREATED="1490945358443" MODIFIED="1490945361760"/>
-</node>
-</node>
-<node TEXT="Neerdhur = efficient cooking stove" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_60217384" CREATED="1488277002096" MODIFIED="1497241710912" LINK="#ID_1848023338">
-<icon BUILTIN="full-1"/>
-<node TEXT="CSIR + NEERI" LOCALIZED_STYLE_REF="default" ID="ID_1291594059" CREATED="1488276987268" MODIFIED="1488545169858"/>
-<node TEXT="multi fuel cooking" ID="ID_1051852620" CREATED="1494893014070" MODIFIED="1494893022558"/>
-</node>
-<node TEXT="BBBP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_76461161" CREATED="1488613265298" MODIFIED="1496295484005">
-<icon BUILTIN="full-1"/>
-<node TEXT="3 min - MoH + MoWCD + MHRD" ID="ID_271855649" CREATED="1488613267194" MODIFIED="1488613285303"/>
-<node TEXT="Survival + protection + education" ID="ID_530287030" CREATED="1488613302813" MODIFIED="1488613316607"/>
-<node ID="ID_121099322" CREATED="1489558309318" MODIFIED="1489558314365"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <i>Gudda Guddi Boards</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Sukanya Samridhi Yojna" FOLDED="true" ID="ID_267893952" CREATED="1489558295894" MODIFIED="1489558301161">
-<node TEXT="MoWCD + Min Finance ( Dept of Economic Affairs -&gt;interest decide)" LOCALIZED_STYLE_REF="default" ID="ID_768920215" CREATED="1496295420901" MODIFIED="1496295577843" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="small savings scheme!!" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1470741071" CREATED="1496295470720" MODIFIED="1496295476941" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="banks + post offices" ID="ID_71090161" CREATED="1524107065217" MODIFIED="1524107068493"/>
-</node>
-<node TEXT="only 2 girl child" FOLDED="true" ID="ID_1670153284" CREATED="1489578664763" MODIFIED="1489578667830">
-<node TEXT="Twin daughter + another child = OK" ID="ID_1902040753" CREATED="1489578654378" MODIFIED="1489578661790"/>
-</node>
-<node TEXT="1k to 1.5L / year" FOLDED="true" ID="ID_336731124" CREATED="1489578681313" MODIFIED="1489578692763">
-<node TEXT="for 14 years" ID="ID_1474525147" CREATED="1489579000230" MODIFIED="1489579002514"/>
-</node>
-<node TEXT="open = 0-10 years&#xa;operative = 21 yrs or till marriage" LOCALIZED_STYLE_REF="default" ID="ID_1444568445" CREATED="1489578670241" MODIFIED="1524107095533" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Civils dialy" ID="ID_1217675078" CREATED="1489578841423" MODIFIED="1489578849075" LINK="http://www.civilsdaily.com/blog/sukanya-samriddhi-yojana/"/>
-<node TEXT="@18 = withdraw 50%&#xa;@21 = 100%" ID="ID_75329881" CREATED="1489578693000" MODIFIED="1489578707906"/>
-<node TEXT="not for NRI" ID="ID_1708233482" CREATED="1496711676524" MODIFIED="1496711679024"/>
-</node>
-</node>
-<node TEXT="Nirbhaya Fund" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1872345163" CREATED="1488619139703" MODIFIED="1488619142412">
-<node TEXT="MoWCD" ID="ID_772869713" CREATED="1488619142572" MODIFIED="1488619145715"/>
-</node>
-<node TEXT="JSY" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_230755812" CREATED="1488171537589" MODIFIED="1497241749367">
-<icon BUILTIN="full-1"/>
-<node TEXT="launched under NRHM, MoHFW" LOCALIZED_STYLE_REF="default" ID="ID_408375321" CREATED="1488171548622" MODIFIED="1496965025395"/>
-<node TEXT="Promote Institutional deliveries" LOCALIZED_STYLE_REF="default" ID="ID_812143647" CREATED="1488171540527" MODIFIED="1488545169798"/>
-<node TEXT="100% centre sponsored = Delivery + POST delivery" LOCALIZED_STYLE_REF="default" ID="ID_1797275680" CREATED="1488171577200" MODIFIED="1488545169803"/>
-<node TEXT="Money to ASHA + Mother both" LOCALIZED_STYLE_REF="default" ID="ID_1773411131" CREATED="1488171592712" MODIFIED="1496295507019" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Narrowing the gap between&#xa;1. more - less educated&#xa;2. rich - poor women" LOCALIZED_STYLE_REF="default" ID="ID_978744559" CREATED="1488171620632" MODIFIED="1488545169808"/>
-</node>
-<node TEXT="Indira Gandhi Matritva Sahyog" LOCALIZED_STYLE_REF="default" ID="ID_1343728567" CREATED="1489466890341" MODIFIED="1495143359363"/>
-<node TEXT="PM surakshit matritva Abhiyaan ( PMSMA )" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1765845329" CREATED="1494905259179" MODIFIED="1526092896198">
-<icon BUILTIN="idea"/>
-<node TEXT="MoHFW" ID="ID_1334492784" CREATED="1494905277119" MODIFIED="1526092893761">
-<font BOLD="true"/>
-</node>
-<node TEXT="9th of every month" ID="ID_1199438655" CREATED="1494905268052" MODIFIED="1494905272828"/>
-<node TEXT="Green, red stickers" ID="ID_453480442" CREATED="1494905285784" MODIFIED="1494905291747"/>
-<node TEXT="use private doctors if sarkari not available" ID="ID_1674850421" CREATED="1497260491452" MODIFIED="1497260503776"/>
-</node>
-<node TEXT="SWADHAR" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1107221795" CREATED="1489570385467" MODIFIED="1489570388493">
-<node TEXT="2125 - 28" ID="ID_1664303861" CREATED="1489570388694" MODIFIED="1489570402838" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/22-Answer.pdf"/>
-<node TEXT="women, widows, prisoners" ID="ID_1291655021" CREATED="1490365863943" MODIFIED="1490365868156"/>
-</node>
-<node TEXT="NMWE" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1556901651" CREATED="1489571948637" MODIFIED="1489571955249">
-<node TEXT="2125 - 38" ID="ID_1826522700" CREATED="1489571956701" MODIFIED="1489571964200" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/22-Question.pdf"/>
-<node TEXT="PSK" ID="ID_1864274674" CREATED="1489571972480" MODIFIED="1489571973959"/>
-</node>
-</node>
-<node TEXT="Vulnerable Sections" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1505326792" CREATED="1488271332966" MODIFIED="1526192054656" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="flag-green"/>
-<font NAME="Calibri"/>
-<node TEXT="Elderly" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_364614497" CREATED="1488271336600" MODIFIED="1526192058641">
-<node TEXT="facts" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_357128747" CREATED="1495408598495" MODIFIED="1495408599123">
-<node TEXT="for 38% pension is the only income" LOCALIZED_STYLE_REF="default" ID="ID_1763513367" CREATED="1488271368703" MODIFIED="1488545169858"/>
-<node TEXT="65% dependent for financial needs" LOCALIZED_STYLE_REF="default" ID="ID_743732823" CREATED="1488271348077" MODIFIED="1488545169858"/>
-</node>
-<node TEXT="national council for senior citizens" FOLDED="true" ID="ID_1605175024" CREATED="1496271315808" MODIFIED="1524896086252">
-<node TEXT="old name = &quot;National council for old people ( NCOP )&quot; @ MoSJE" LOCALIZED_STYLE_REF="default" ID="ID_478322598" CREATED="1488271386558" MODIFIED="1496271332545"/>
-<node TEXT="headed by Minister MoSJE" LOCALIZED_STYLE_REF="default" ID="ID_1919616954" CREATED="1496271392086" MODIFIED="1496271402432" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="NGO, experts, academic ," LOCALIZED_STYLE_REF="default" ID="ID_731186598" CREATED="1496271356064" MODIFIED="1496271382163"/>
-<node TEXT="5 states represented by rotation" LOCALIZED_STYLE_REF="default" ID="ID_1174756743" CREATED="1496271382334" MODIFIED="1496271386616"/>
-</node>
-<node TEXT="Vayoshrestha Samman" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_370850684" CREATED="1488271410426" MODIFIED="1495408668851">
-<node TEXT="status of national award" ID="ID_308634104" CREATED="1494897955247" MODIFIED="1494897962609"/>
-</node>
-<node TEXT="PM vaya vandana yojna&#xa;(same as old Varishta pension yojna)" LOCALIZED_STYLE_REF="default" ID="ID_1036956945" CREATED="1519960819010" MODIFIED="1519960841160" LINK="#ID_376329996"/>
-<node TEXT="Varishtha Pension Bima Yojna" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_376329996" CREATED="1489407080649" MODIFIED="1497241849457">
-<icon BUILTIN="full-1"/>
-<node TEXT="via LIC" ID="ID_1928699642" CREATED="1489407105574" MODIFIED="1489407107184"/>
-<node ID="ID_1500334977" CREATED="1489407108067" MODIFIED="1496228706809"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &gt;= 55 yrs ; <b>8% for 10 years</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="tax exempt" ID="ID_850287219" CREATED="1526125345095" MODIFIED="1526125350666"/>
-</node>
-<node TEXT="Rashtriya Vayoshri yojna" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1387733297" CREATED="1524895905017" MODIFIED="1524895911075">
-<node TEXT="physical aids + assisting living devices&#xa;to BPL old + women (30%)" ID="ID_1653475107" CREATED="1524895911189" MODIFIED="1524895970058"/>
-<node TEXT="by ALIMCO" ID="ID_1121300601" CREATED="1524895923455" MODIFIED="1524895940169"/>
-</node>
-</node>
-<node TEXT="Disable People&#xa;Divyangjans" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1316804651" CREATED="1491235322683" MODIFIED="1491718212614">
-<icon BUILTIN="idea"/>
-<node ID="ID_1534153670" TREE_ID="ID_97013103">
-<node ID="ID_1709640990" TREE_ID="ID_96743125"/>
-<node ID="ID_1819702252" TREE_ID="ID_1590814651">
-<node ID="ID_670187048" TREE_ID="ID_133166769"/>
-</node>
-<node ID="ID_552170362" TREE_ID="ID_368681496"/>
-<node ID="ID_1208167916" TREE_ID="ID_389711878">
-<node ID="ID_401662690" TREE_ID="ID_1159172765"/>
-<node ID="ID_1331504186" TREE_ID="ID_1322884231"/>
-</node>
-<node ID="ID_756524603" TREE_ID="ID_1853377552">
-<node ID="ID_91935746" TREE_ID="ID_1825177006"/>
-<node ID="ID_379157241" TREE_ID="ID_1307501342">
-<node ID="ID_673194173" TREE_ID="ID_841570747"/>
-<node ID="ID_1712017906" TREE_ID="ID_1225532129"/>
-<node ID="ID_1604555358" TREE_ID="ID_315428972"/>
-</node>
-</node>
-<node ID="ID_1267392133" TREE_ID="ID_1728188588"/>
-<node ID="ID_481711674" TREE_ID="ID_200701375"/>
-<node ID="ID_848167499" TREE_ID="ID_1293433789">
-<node ID="ID_970906725" TREE_ID="ID_1668102089">
-<node ID="ID_1251298142" TREE_ID="ID_1255865174"/>
-<node ID="ID_1804867896" TREE_ID="ID_1343242683"/>
-<node ID="ID_206754649" TREE_ID="ID_572715622">
-<node ID="ID_412684075" TREE_ID="ID_318011995"/>
-<node ID="ID_715095613" TREE_ID="ID_451193824"/>
-</node>
-</node>
-<node ID="ID_1262653973" TREE_ID="ID_729683489"/>
-</node>
-<node ID="ID_153055158" TREE_ID="ID_1371345804">
-<node ID="ID_887058767" TREE_ID="ID_1688273619"/>
-</node>
-</node>
-<node TEXT="Marrakesh Treaty, 2013" LOCALIZED_STYLE_REF="default" ID="ID_260312986" CREATED="1496790368471" MODIFIED="1496790375987"/>
-<node TEXT="Sugamya Pustkalya" LOCALIZED_STYLE_REF="default" ID="ID_1048623651" CREATED="1491235352165" MODIFIED="1491235357170"/>
-<node TEXT="AIC&#xa;accessible india campaign" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1243850786" CREATED="1491235367236" MODIFIED="1526317849083" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="as a part of Incheon Stratgey" ID="ID_1839947381" CREATED="1491236383429" MODIFIED="1491236393973"/>
-<node TEXT="Universal access" ID="ID_1399862106" CREATED="1491236444515" MODIFIED="1491236447712"/>
-<node TEXT="Equality" FOLDED="true" ID="ID_56632933" CREATED="1491236509764" MODIFIED="1526317860713">
-<icon BUILTIN="flag-green"/>
-<font ITALIC="true"/>
-<node TEXT="resource access" FOLDED="true" ID="ID_199802182" CREATED="1491236516989" MODIFIED="1524104646345">
-<node TEXT="building" ID="ID_142806264" CREATED="1491236812644" MODIFIED="1491236815662"/>
-</node>
-<node TEXT="information access" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_590883943" CREATED="1491236511149" MODIFIED="1526317854476" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="Website Accessibility Project" ID="ID_578568838" CREATED="1524104635891" MODIFIED="1524104644220"/>
-<node TEXT="Screen reader softwares links provided on MHRD website" LOCALIZED_STYLE_REF="default" ID="ID_691045230" CREATED="1526317813374" MODIFIED="1526317851716" BACKGROUND_COLOR="#feffd6">
-<icon BUILTIN="flag-green"/>
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="transport" ID="ID_1045540097" CREATED="1491236514616" MODIFIED="1524104647126"/>
-</node>
-<node TEXT="MoSJE" ID="ID_18885302" CREATED="1491236825389" MODIFIED="1491236826824"/>
-<node TEXT="Accessibility Index" ID="ID_1601546155" CREATED="1491236830986" MODIFIED="1491236835553"/>
-<node TEXT="50% of all govt buildings fully accessibly by 2018" ID="ID_1879832533" CREATED="1491236465766" MODIFIED="1491236492568">
-<icon BUILTIN="idea"/>
-</node>
-</node>
-<node TEXT="not wipe out differences but unite with differences intact" LOCALIZED_STYLE_REF="default" ID="ID_1248576341" CREATED="1507107834806" MODIFIED="1507107846747"/>
-<node ID="ID_1448990265" TREE_ID="ID_1065338623">
-<node ID="ID_264931505" TREE_ID="ID_1557069995"/>
-<node ID="ID_49657290" TREE_ID="ID_1756959082">
-<node ID="ID_1043807821" TREE_ID="ID_1505951742"/>
-<node ID="ID_1712705354" TREE_ID="ID_1636544276"/>
-<node ID="ID_1353703439" TREE_ID="ID_1916607097">
-<node ID="ID_1457490198" TREE_ID="ID_972717259"/>
-</node>
-<node ID="ID_1061366125" TREE_ID="ID_1034469045">
-<node ID="ID_1118403775" TREE_ID="ID_332200677"/>
-</node>
-<node ID="ID_59643675" TREE_ID="ID_1928696300"/>
-<node ID="ID_1577639782" TREE_ID="ID_1420866929"/>
-<node ID="ID_1900253971" TREE_ID="ID_1388959883">
-<node ID="ID_457166645" TREE_ID="ID_450766385"/>
-</node>
-</node>
-<node ID="ID_233108672" TREE_ID="ID_615762302"/>
-<node ID="ID_362753764" TREE_ID="ID_592825261"/>
-<node ID="ID_1787967395" TREE_ID="ID_1705310943"/>
-<node ID="ID_1169648137" TREE_ID="ID_1966804863"/>
-<node ID="ID_1174141020" TREE_ID="ID_1992289534"/>
-</node>
-</node>
-<node TEXT="Backward Classes (BC)" FOLDED="true" ID="ID_646417804" CREATED="1492492162547" MODIFIED="1527741322076">
-<icon BUILTIN="flag-green"/>
-<node TEXT="123rd constitution amendment" FOLDED="true" ID="ID_101599311" CREATED="1527742400331" MODIFIED="1527742407364">
-<node TEXT="National commission for backward classes&#xa;NCBC" ID="ID_587800467" CREATED="1492492201574" MODIFIED="1503987985805"/>
-<node TEXT="amend : 342A in constitution" FOLDED="true" ID="ID_1965473774" CREATED="1492492165499" MODIFIED="1503988167211">
-<icon BUILTIN="help"/>
-<node TEXT="president can decide about which groups to include in BC" ID="ID_1728269203" CREATED="1492492173476" MODIFIED="1492492185485"/>
-<node TEXT="like he can now for SC/ST (341/342)" ID="ID_316483714" CREATED="1492492190896" MODIFIED="1503988443143"/>
-</node>
-<node TEXT="socially and educationally backwards = mentioned in constitution!" ID="ID_645144373" CREATED="1496790515337" MODIFIED="1496790530222"/>
-</node>
-<node TEXT="340" OBJECT="java.lang.Long|340" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1861480502" CREATED="1503988002950" MODIFIED="1503988074887" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="president can constitute a committee to examine OBC sub-categoristaion" ID="ID_662688764" CREATED="1503988013732" MODIFIED="1503988047177"/>
-<node TEXT="for more equitable distribution" ID="ID_1100162271" CREATED="1503988047509" MODIFIED="1503988057250"/>
-</node>
-<node TEXT="Backward classes Act," FOLDED="true" ID="ID_712427307" CREATED="1527741324259" MODIFIED="1527741330440">
-<node TEXT="not in JnK" ID="ID_1472885596" CREATED="1527741330612" MODIFIED="1527741332556"/>
-</node>
-</node>
-</node>
 <node TEXT="Social Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_595838431" CREATED="1491801087115" MODIFIED="1549262103801">
 <node ID="ID_1246403554" TREE_ID="ID_1149785788">
 <node ID="ID_1054224328" TREE_ID="ID_997686522">
@@ -12629,7 +13258,7 @@
 <node TEXT="PPF = savings + tax savings" ID="ID_290369214" CREATED="1494834447773" MODIFIED="1494834462795"/>
 </node>
 </node>
-<node TEXT="Middle Class" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1922051725" CREATED="1488321368150" MODIFIED="1488545169863">
+<node TEXT="Middle Class" LOCALIZED_STYLE_REF="default" ID="ID_1922051725" CREATED="1488321368150" MODIFIED="1488545169863">
 <node TEXT="India" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_203019570" CREATED="1488321370754" MODIFIED="1488545169863">
 <node TEXT="@freedom, Capitalists and workers ONLY" LOCALIZED_STYLE_REF="default" ID="ID_374162485" CREATED="1488321372486" MODIFIED="1488545169863"/>
 <node TEXT="factors for rise" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1404963630" CREATED="1488321442110" MODIFIED="1488545169863">
@@ -12655,32 +13284,6 @@
 </node>
 <node TEXT="France middle class = progressive" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_638818654" CREATED="1488321599087" MODIFIED="1488545169868">
 <node TEXT="French revolution" LOCALIZED_STYLE_REF="default" ID="ID_785161958" CREATED="1488321609009" MODIFIED="1488545169868"/>
-</node>
-</node>
-<node TEXT="Minority" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_51571520" CREATED="1489572489862" MODIFIED="1489572491969">
-<node TEXT="3E - education , employment, empowerment" FOLDED="true" ID="ID_258759023" CREATED="1526130749191" MODIFIED="1526132681717">
-<icon BUILTIN="flag-green"/>
-<node TEXT="education&#xa;3T - teacher tiffin toilet" ID="ID_274287428" CREATED="1526130768807" MODIFIED="1526130788989"/>
-</node>
-<node TEXT="Padho Pardesh" FOLDED="true" ID="ID_1608147127" CREATED="1489572492154" MODIFIED="1491448724247">
-<icon BUILTIN="idea"/>
-<node TEXT="2125 - 46" ID="ID_1629336179" CREATED="1489572494723" MODIFIED="1489572512463" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/22-Question.pdf"/>
-<node TEXT="100% interest free loan" ID="ID_1998168580" CREATED="1490364810626" MODIFIED="1490364815039"/>
-</node>
-<node ID="ID_1595022565" TREE_ID="ID_222485251">
-<node ID="ID_1680696830" TREE_ID="ID_1098697030">
-<node ID="ID_735928438" TREE_ID="ID_1193189759"/>
-</node>
-</node>
-<node TEXT="definition" FOLDED="true" ID="ID_1037370513" CREATED="1491448754156" MODIFIED="1491448756110">
-<node TEXT="Allahabad HC" FOLDED="true" ID="ID_1382333096" CREATED="1491448756281" MODIFIED="1491448759469">
-<node TEXT="no threat to their extinction in UP =&gt; muslims not a minority" ID="ID_1860930208" CREATED="1491448759626" MODIFIED="1491448771731"/>
-</node>
-<node TEXT="number inferiority only" FOLDED="true" ID="ID_45628538" CREATED="1491448774767" MODIFIED="1491448843117">
-<icon BUILTIN="flag-green"/>
-<node TEXT="has distinct characteristics from majority that it intends to preserve" ID="ID_1025705178" CREATED="1491448848533" MODIFIED="1491448867883"/>
-</node>
-<node TEXT="linguistic defined at state level ONLY" ID="ID_1729232549" CREATED="1491448791586" MODIFIED="1491448800160"/>
 </node>
 </node>
 <node TEXT="Education" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_97534679" CREATED="1488613883329" MODIFIED="1488613885911">
@@ -13731,873 +14334,6 @@
 <node TEXT="social media usage" ID="ID_1175845779" CREATED="1494848482535" MODIFIED="1494848486984"/>
 <node TEXT="for active participation of stakeholders" ID="ID_424718923" CREATED="1494848474247" MODIFIED="1494848481594"/>
 <node TEXT="e.g. EPFO failure to communicate policies in Budget 2016" ID="ID_727847295" CREATED="1494848499747" MODIFIED="1494848513740"/>
-</node>
-</node>
-<node TEXT="Art n Culture" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1481922316" CREATED="1488692725015" MODIFIED="1494887616078">
-<font NAME="Calibri"/>
-<node TEXT="Sangam" FOLDED="true" ID="ID_394354894" CREATED="1495867531083" MODIFIED="1497043998716">
-<font NAME="Calibri"/>
-<node TEXT="patron = pandya rulers" ID="ID_115901242" CREATED="1495867555331" MODIFIED="1495867559863"/>
-<node TEXT="Poems in Tamil!" ID="ID_1665617150" CREATED="1496728652277" MODIFIED="1496728661980"/>
-<node TEXT="Yavana or Javana or Yonaka," FOLDED="true" ID="ID_1246313997" CREATED="1496741253560" MODIFIED="1496795153526">
-<node TEXT="mentioned in sangam - refer to greek kingdoms" ID="ID_1291914266" CREATED="1496741265892" MODIFIED="1496741277000"/>
-</node>
-<node TEXT="I" ID="ID_1087486246" CREATED="1495867533334" MODIFIED="1495867533893"/>
-<node TEXT="II" ID="ID_221799328" CREATED="1495867534312" MODIFIED="1495867534976"/>
-<node TEXT="III" ID="ID_1087285634" CREATED="1495867535265" MODIFIED="1495867536110"/>
-</node>
-<node TEXT="nalanda" FOLDED="true" ID="ID_11279483" CREATED="1489412074510" MODIFIED="1497043998716">
-<font NAME="Calibri"/>
-<node TEXT="Gupta Empire @Harsha, Kannauj, 400-500" ID="ID_1812688325" CREATED="1489412077261" MODIFIED="1489412114152"/>
-<node TEXT="@magadha" ID="ID_147195123" CREATED="1495497056485" MODIFIED="1495497059266"/>
-<node TEXT="UNSECO world heritage site" ID="ID_977931094" CREATED="1495497074175" MODIFIED="1495497081660"/>
-</node>
-<node TEXT="Bhakti movement" FOLDED="true" ID="ID_1907169093" CREATED="1494386757921" MODIFIED="1497043998716">
-<font NAME="Calibri"/>
-<node TEXT="adi Shankaracharya" FOLDED="true" ID="ID_1815313967" CREATED="1494386759656" MODIFIED="1496795172528">
-<node TEXT="9th century" ID="ID_1018652044" CREATED="1494387078344" MODIFIED="1494387080477"/>
-<node TEXT="advaita" FOLDED="true" ID="ID_914516144" CREATED="1494386870899" MODIFIED="1494386872047">
-<node TEXT="monoism" ID="ID_375836931" CREATED="1494386791435" MODIFIED="1494386796889"/>
-</node>
-<node TEXT="nirgunbrahma" ID="ID_1269144558" CREATED="1494386773906" MODIFIED="1494386779260"/>
-</node>
-<node TEXT="ramanuja" FOLDED="true" ID="ID_1174696833" CREATED="1494386763966" MODIFIED="1497713831625">
-<icon BUILTIN="full-1"/>
-<node TEXT="12th century" ID="ID_1161902721" CREATED="1494387090104" MODIFIED="1494387092682"/>
-<node TEXT="commentary on Brahma Sutras" FOLDED="true" ID="ID_1764871180" CREATED="1494387111564" MODIFIED="1494387118836">
-<node TEXT="aka Sri Bhashya" ID="ID_370205014" CREATED="1494387118930" MODIFIED="1497713702959"/>
-</node>
-<node TEXT="vaishnavite" FOLDED="true" ID="ID_464840416" CREATED="1494386783441" MODIFIED="1494386786403">
-<node TEXT="invited downtrodden to vaishanvism" ID="ID_1011420589" CREATED="1494386830926" MODIFIED="1494386837062"/>
-</node>
-<node TEXT="Vishishtadvaita" FOLDED="true" ID="ID_923842631" CREATED="1494386860741" MODIFIED="1494386864732">
-<node TEXT="sagunabrahma" FOLDED="true" ID="ID_53764686" CREATED="1494386766888" MODIFIED="1494386771848">
-<node TEXT="god soul matter are real&#xa;i.e. God WITH attributes" FOLDED="true" ID="ID_1815697881" CREATED="1494386920413" MODIFIED="1497713716538">
-<node TEXT="god is inner substance&#xa;others are its attributes" ID="ID_1968073835" CREATED="1494386927949" MODIFIED="1494386938608"/>
-</node>
-</node>
-</node>
-<node TEXT="prabattimarga" FOLDED="true" ID="ID_1771592102" CREATED="1494386813118" MODIFIED="1494386815807">
-<node TEXT="self-surrender to god" ID="ID_176517462" CREATED="1494386817179" MODIFIED="1494386823074"/>
-</node>
-</node>
-<node TEXT="Vallabhacharya" FOLDED="true" ID="ID_741268542" CREATED="1496458451490" MODIFIED="1496458491214">
-<icon BUILTIN="full-1"/>
-<node TEXT="patron - krishnadeva rai , vijaynagar" ID="ID_1893941506" CREATED="1496458454152" MODIFIED="1496458467278"/>
-<node TEXT="Vrindavan ," ID="ID_1422271179" CREATED="1496458469422" MODIFIED="1496458472788"/>
-<node ID="ID_1778511155" CREATED="1496458473169" MODIFIED="1496458484817"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <i>family is not&#160;&#160;a hurdle in way of salvation</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="prabandhas" FOLDED="true" ID="ID_638463564" CREATED="1526794959888" MODIFIED="1526794961788">
-<node TEXT="songs by alvar saints in devtion of vishanu" ID="ID_1793090858" CREATED="1526794962396" MODIFIED="1526794969457"/>
-</node>
-</node>
-<node TEXT="UNSECO Intangible Heritage" FOLDED="true" ID="ID_1646462105" CREATED="1491720265653" MODIFIED="1497043998716" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Dec&apos;16/Vision%20CURRENT%20AFFAIRS%20DECEMBER%202016.pdf">
-<icon BUILTIN="full-1"/>
-<font NAME="Calibri"/>
-<richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font size="1">v_dec 8.2</font>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="yoga" ID="ID_1522134061" CREATED="1491720272343" MODIFIED="1491720273284"/>
-<node TEXT="traditional brass and copper craft - Thatheras of punjab" ID="ID_536594509" CREATED="1494911152580" MODIFIED="1494911177773"/>
-<node TEXT="Kalbelia folk" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_306875234" CREATED="1494911220992" MODIFIED="1527862991068" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="rajasthan" ID="ID_758442957" CREATED="1494911225915" MODIFIED="1494911229087"/>
-<node TEXT="snake dance" ID="ID_97393104" CREATED="1495860986711" MODIFIED="1495860989516"/>
-<node TEXT="Khanjri" ID="ID_1459948551" CREATED="1495860983113" MODIFIED="1495860986385"/>
-</node>
-<node TEXT="chahu dance" FOLDED="true" ID="ID_1790271850" CREATED="1494911232281" MODIFIED="1494911234076">
-<node TEXT="eastern bihar, jhk, WB, Odisha" ID="ID_954577335" CREATED="1494911234279" MODIFIED="1497499409550"/>
-<node TEXT="Mahabharata + ramayana" ID="ID_1343417145" CREATED="1495860755938" MODIFIED="1495860802887"/>
-<node TEXT="dance + martial = by men" ID="ID_1249233456" CREATED="1495860818068" MODIFIED="1495860825956"/>
-<node TEXT="mohuri + shehnai + Dhol" ID="ID_1377168641" CREATED="1495860812704" MODIFIED="1497499419565"/>
-</node>
-<node TEXT="mudiyettu" FOLDED="true" ID="ID_1079777506" CREATED="1494911240480" MODIFIED="1494911242569">
-<node TEXT="kerala" ID="ID_805823323" CREATED="1494911244439" MODIFIED="1494911245345"/>
-<node TEXT="bhadravati (Kali) goddess" ID="ID_1852900429" CREATED="1494912235011" MODIFIED="1495861200673"/>
-<node TEXT="use chenda" ID="ID_810894096" CREATED="1494912240363" MODIFIED="1494912245728"/>
-</node>
-<node TEXT="Kutiyattam or koodiyattam" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_605207527" CREATED="1494911283008" MODIFIED="1496098031046" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="kerala" ID="ID_769382039" CREATED="1494911285080" MODIFIED="1494911285866"/>
-<node TEXT="sanskrit theatre" ID="ID_602260822" CREATED="1494912196746" MODIFIED="1494912200278"/>
-<node TEXT="2000 yrs old" ID="ID_580921288" CREATED="1495861289707" MODIFIED="1495861296472"/>
-<node TEXT="Hindu temple, upto 40 days performance" ID="ID_293585599" CREATED="1495861276328" MODIFIED="1495861284826"/>
-</node>
-<node TEXT="vedic chanting" ID="ID_1780470207" CREATED="1494911288527" MODIFIED="1494911290664"/>
-<node TEXT="ramman" FOLDED="true" ID="ID_1843321113" CREATED="1494911250573" MODIFIED="1494911252266">
-<node TEXT="religious festival uttrakhand, Garhwal himalayas" ID="ID_1527476535" CREATED="1494911252920" MODIFIED="1495861224902"/>
-<node TEXT="Rama and various legends" ID="ID_1560994327" CREATED="1495861237415" MODIFIED="1495861243786"/>
-</node>
-<node TEXT="Ramlila" ID="ID_1494413902" CREATED="1494911274775" MODIFIED="1494911276016"/>
-<node TEXT="Buddhist chanting in ladakh" FOLDED="true" ID="ID_288818431" CREATED="1494911214183" MODIFIED="1496795308008">
-<node TEXT="Mahayana + Vajrayana" ID="ID_1028212973" CREATED="1495860530860" MODIFIED="1495860539325"/>
-<node TEXT="four sect = Nyngma + Kagyud + Shakya + Geluk" ID="ID_203130069" CREATED="1495860544611" MODIFIED="1495860561220"/>
-<node TEXT="Chod is a buddhist practice" FOLDED="true" ID="ID_950805104" CREATED="1495860563789" MODIFIED="1495860571651">
-<node ID="ID_1978748280" CREATED="1495860673164" MODIFIED="1495860702526"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      emptiness + mahayana + <b><i>&quot;Cutting through the ego&quot;</i></b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="Sankirtana" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1218578322" CREATED="1494563368454" MODIFIED="1496795313629" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="@manipur" ID="ID_287163022" CREATED="1494563370900" MODIFIED="1494563373291"/>
-<node TEXT="Krishna" ID="ID_953862224" CREATED="1494563374264" MODIFIED="1494563375982"/>
-</node>
-<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1834818861" CREATED="1495861775878" MODIFIED="1495861919572" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">Novruz</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-<font NAME="Calibri"/>
-<node TEXT="new year, 21 march" ID="ID_182658315" CREATED="1495861922163" MODIFIED="1495861928902"/>
-</node>
-</node>
-<node TEXT="Philosophy" FOLDED="true" ID="ID_956818106" CREATED="1495365258416" MODIFIED="1497043998716">
-<icon BUILTIN="full-1"/>
-<font NAME="Calibri"/>
-<node TEXT="orthodox" FOLDED="true" ID="ID_20494832" CREATED="1526792039914" MODIFIED="1526792042577">
-<node TEXT="Nyaya" FOLDED="true" ID="ID_372888012" CREATED="1527254442734" MODIFIED="1527254444006">
-<node FOLDED="true" ID="ID_625120593" CREATED="1527254444300" MODIFIED="1527254451057"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      obtain <i><u>valid knowledge</u></i>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_703190311" CREATED="1527254477670" MODIFIED="1527254503001"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      via PICT
-    </p>
-    <p>
-      Perception
-    </p>
-    <p>
-      inference
-    </p>
-    <p>
-      <b><u>Comparison </u></b>
-    </p>
-    <p>
-      Testimony
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="based on logic" ID="ID_1511329197" CREATED="1527254453209" MODIFIED="1527254475828"/>
-</node>
-<node TEXT="Vaisheshika" FOLDED="true" ID="ID_1036681012" CREATED="1527765205721" MODIFIED="1527765207956">
-<node TEXT="Kanada, atom, Karma" ID="ID_109741339" CREATED="1527765208898" MODIFIED="1527765212964"/>
-</node>
-</node>
-<node TEXT="non orthodox" ID="ID_889486504" CREATED="1526792043259" MODIFIED="1526792045558"/>
-<node TEXT="Charvaka aka Lokayata aka materialists" FOLDED="true" ID="ID_1449937200" CREATED="1495365261507" MODIFIED="1497066965270">
-<node FOLDED="true" ID="ID_928274153" CREATED="1495365328992" MODIFIED="1495365328992"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">doctrine of materialism</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-<node TEXT="everything = earth +  water + fire + air" ID="ID_1388062599" CREATED="1497067084507" MODIFIED="1497067096552"/>
-<node ID="ID_1841909714" CREATED="1495365392524" MODIFIED="1495365392524"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">No existence other than the physical body exists</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_1178890366" CREATED="1495365352437" MODIFIED="1495365352437"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">to enjoy pleasures and avoid pain.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_1538625297" CREATED="1495365274250" MODIFIED="1495365274250"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">That which cannot be perceived does not exist; to exist implies to be perceivable</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_239379142" CREATED="1495365369579" MODIFIED="1495365369579"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">Providing a good living for the priests is a sufficient explanation for the practice of religion.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node FOLDED="true" ID="ID_768079468" CREATED="1495365284068" MODIFIED="1495365309779"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">rejected</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1119926181" CREATED="1495365302817" MODIFIED="1496458526040" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">notion of an afterworld, karma,</span>
-  </body>
-</html>
-</richcontent>
-<font NAME="Calibri"/>
-</node>
-<node TEXT="immortality of the self" ID="ID_17071922" CREATED="1495365292926" MODIFIED="1506487206975"/>
-<node ID="ID_361408129" CREATED="1495365310475" MODIFIED="1495365310475"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">&#160;liberation (moksha)</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_1916445403" CREATED="1495365317570" MODIFIED="1495365317570"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">the authority of the<br/>sacred scriptures, the Vedas</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_284364254" CREATED="1495365378771" MODIFIED="1495365378771"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">oul, reincarnation, spirits, or gods</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="founder = Brihaspati" ID="ID_472285348" CREATED="1497067071197" MODIFIED="1497067077117"/>
-<node TEXT="mentioned in Brihadaranyaka Upnishada" LOCALIZED_STYLE_REF="default" ID="ID_1182505034" CREATED="1497067057765" MODIFIED="1497242920278" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="Ajivika Sect" FOLDED="true" ID="ID_555726388" CREATED="1497066923943" MODIFIED="1497066927999">
-<node TEXT="no karma, everything pre determined" ID="ID_1480574436" CREATED="1497066928155" MODIFIED="1497066935194"/>
-<node TEXT="believe in fatalism" ID="ID_1593374796" CREATED="1497066938239" MODIFIED="1497066940927"/>
-</node>
-<node TEXT="Buddhism" FOLDED="true" ID="ID_1273388002" CREATED="1488692755712" MODIFIED="1526619912062">
-<font NAME="Calibri"/>
-<node TEXT="Pillars" ID="ID_1452266312" CREATED="1488692762055" MODIFIED="1494562512635" LINK="../../../E:/archived/Downloads/UPSC%20REVISION%20for%202017/unacademy-dl/images/Q_Mar_2/16.jpeg">
-<font NAME="Dialog"/>
-</node>
-<node TEXT="4 noble truth" FOLDED="true" ID="ID_837800172" CREATED="1526792952050" MODIFIED="1526792954381">
-<font NAME="Dialog"/>
-<node TEXT="suffering, cause, cessation, 8 fold path" ID="ID_1470401036" CREATED="1526792954444" MODIFIED="1526792962319"/>
-</node>
-<node TEXT="scriptures" FOLDED="true" ID="ID_1519377142" CREATED="1497333767743" MODIFIED="1497333772674">
-<font NAME="Dialog"/>
-<node TEXT="avadana" FOLDED="true" ID="ID_758948962" CREATED="1526619775558" MODIFIED="1526619777402">
-<node TEXT="about past lives of bodhisattvas&#xa;&#xa;part of buddhist literature" ID="ID_442554414" CREATED="1526619777605" MODIFIED="1526619807000"/>
-</node>
-</node>
-<node TEXT="Schools of thought" FOLDED="true" ID="ID_1095305726" CREATED="1494562482665" MODIFIED="1494646165142">
-<font NAME="Dialog"/>
-<node TEXT="Hinayana" FOLDED="true" ID="ID_1574437325" CREATED="1494562485915" MODIFIED="1494562562496">
-<font NAME="Dialog"/>
-<node ID="ID_975562690" CREATED="1494562562902" MODIFIED="1497162260838"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      aka Theravada ( lesser vehicle )
-    </p>
-    <p>
-      <i>Doctrine of Elders</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="self-effort to attain nirvana" FOLDED="true" ID="ID_637701505" CREATED="1494562583875" MODIFIED="1526640443940">
-<font BOLD="true"/>
-<node ID="ID_1253021947" CREATED="1495855001045" MODIFIED="1495855027762"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      i.e. <b>no</b><i>&#160;transference of merit </i>( but present in Mahayana )
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node FOLDED="true" ID="ID_168429492" CREATED="1495856223717" MODIFIED="1495856265373"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Patimokkha is the basic code of monastic discipline<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>&#160;written in __
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Vinayaka pitaka" ID="ID_314183134" CREATED="1495856237439" MODIFIED="1495856269639"/>
-</node>
-<node TEXT="Sarvastivadin = all is." ID="ID_1365304051" CREATED="1523010862098" MODIFIED="1523010876259"/>
-<node TEXT="sautranikas =" ID="ID_1468254075" CREATED="1523010882002" MODIFIED="1523010901681"/>
-<node TEXT="sammitiyas" ID="ID_241063301" CREATED="1523010901795" MODIFIED="1523010905736"/>
-</node>
-<node TEXT="Mahayana" FOLDED="true" ID="ID_730364418" CREATED="1494562489402" MODIFIED="1494562512635">
-<font NAME="Dialog"/>
-<node TEXT="greater vehicle" ID="ID_31118473" CREATED="1494562603283" MODIFIED="1494562606159"/>
-<node TEXT="Buddha as saviour" ID="ID_500601003" CREATED="1494562607315" MODIFIED="1494562610878"/>
-<node TEXT="Bodhisattas!" FOLDED="true" ID="ID_1176476991" CREATED="1494562627163" MODIFIED="1494562630516">
-<node TEXT="deeply compassionate beings" ID="ID_640972609" CREATED="1494562632391" MODIFIED="1494562637032"/>
-<node ID="ID_1046183128" CREATED="1495854928477" MODIFIED="1495854971777"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      concept of <b><i>transference of merit</i></b>&#160;=&gt; Bodhisattva can help achieve <i>salvation from suffering</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="in 4th council" ID="ID_216953499" CREATED="1494988078003" MODIFIED="1494988085098"/>
-</node>
-<node TEXT="Vajrayana" FOLDED="true" ID="ID_1282908087" CREATED="1494562492900" MODIFIED="1494562512635">
-<font NAME="Dialog"/>
-<node TEXT="skillful means" ID="ID_33462812" CREATED="1494562655800" MODIFIED="1494562659937"/>
-<node TEXT="Kagyu School" FOLDED="true" ID="ID_1929778708" CREATED="1494910597989" MODIFIED="1494910772440">
-<icon BUILTIN="launch"/>
-<node ID="ID_1094912329" CREATED="1494910614980" MODIFIED="1494910631375"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      doctrine of <b>Mahamudra ( the great seal ) </b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="single pointedness of mind" ID="ID_1602912836" CREATED="1495426048449" MODIFIED="1495426053190"/>
-</node>
-<node TEXT="buddhist tantric literature" FOLDED="true" ID="ID_490276358" CREATED="1495769750088" MODIFIED="1495769811015">
-<node TEXT="believe in magical powers for salvation from suffering" ID="ID_1074405477" CREATED="1495854983382" MODIFIED="1495854994035"/>
-</node>
-<node TEXT="premise = we already are enligtened beings =&gt; seeing the world in terms of ultimate truth will help us reveal buddha nature" ID="ID_1624471727" CREATED="1495769776331" MODIFIED="1495769803921"/>
-</node>
-<node TEXT="Shingon" ID="ID_1581842944" CREATED="1494562501042" MODIFIED="1496793763585">
-<icon BUILTIN="help"/>
-<font NAME="Dialog"/>
-</node>
-</node>
-<node TEXT="Buddhist councils" FOLDED="true" ID="ID_351128042" CREATED="1494988097149" MODIFIED="1494988102867">
-<font NAME="Dialog"/>
-<node TEXT="I" FOLDED="true" ID="ID_714892198" CREATED="1494988104470" MODIFIED="1494988106268">
-<node ID="ID_180463490" CREATED="1495865246183" MODIFIED="1495865342122"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Saptarni Cave, <b>Rajgriha, 4</b>83 BC
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Mahakasapa, Ajatshatru" ID="ID_1635286785" CREATED="1494988118834" MODIFIED="1495864647787"/>
-<node TEXT="right after death of BUddha" FOLDED="true" ID="ID_75324467" CREATED="1494988112527" MODIFIED="1494988117217">
-<node TEXT="to maintain purity in teaching of buddha" ID="ID_1229269845" CREATED="1494988136099" MODIFIED="1494988145249"/>
-</node>
-<node TEXT="compilation of Sutta Pitaka, Vinayak Pitak by Ananda and Upali" FOLDED="true" ID="ID_420714257" CREATED="1495864657709" MODIFIED="1495864677694">
-<node TEXT="Sutta pitaka" FOLDED="true" ID="ID_803330332" CREATED="1497333781728" MODIFIED="1497333783788">
-<node TEXT="digha nikaya = mahaparinirvana" ID="ID_971479872" CREATED="1497333791940" MODIFIED="1497333803896"/>
-<node TEXT="Sammannaphala, Brahamjala sutta = view on &apos;time&apos; by buddha" ID="ID_1825936948" CREATED="1497333820746" MODIFIED="1497333848203"/>
-<node TEXT="siglovada sutta = ethics for followers" ID="ID_12441830" CREATED="1497333857648" MODIFIED="1497333877364"/>
-</node>
-</node>
-</node>
-<node TEXT="II" FOLDED="true" ID="ID_157296585" CREATED="1494988106676" MODIFIED="1494988107119">
-<node TEXT="Vaishali, 383 BC" ID="ID_766099327" CREATED="1494988151745" MODIFIED="1494988157832"/>
-<node TEXT="Sabbakami, Kalashoka" ID="ID_1043263589" CREATED="1495865203808" MODIFIED="1495865222984"/>
-<node TEXT="Sangha divided into orthodox Sthaviradins (Theravadins) + liberal mahasanghika" LOCALIZED_STYLE_REF="default" ID="ID_1760928187" CREATED="1495865272678" MODIFIED="1497625774649" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="III" FOLDED="true" ID="ID_742773535" CREATED="1494988107692" MODIFIED="1494988108231">
-<node TEXT="Patliputra, 250 BC" ID="ID_1205241043" CREATED="1494988179001" MODIFIED="1495865354376"/>
-<node TEXT="Mogaliputta Tissa, AShoka" ID="ID_956913422" CREATED="1494988168242" MODIFIED="1495865292112"/>
-<node TEXT="1. Abhidhamma Pitaka = Tripitakas Completed&#xa;2. Send people for mission!" FOLDED="true" ID="ID_1950052703" CREATED="1494988275362" MODIFIED="1495865327154">
-<node TEXT="Abhidhamma pitaka = by Upagupta ; religious practices" ID="ID_1262053350" CREATED="1497625744679" MODIFIED="1497625762547"/>
-</node>
-<node TEXT="Sthaviradins are rival to Mahasanghikas" ID="ID_603647979" CREATED="1497625612834" MODIFIED="1497625629625"/>
-<node ID="ID_1905847118" CREATED="1494988242505" MODIFIED="1494988258836"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      after 4th council, Ashoka's Buddhism known as <i>Hinayana</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="IV" FOLDED="true" ID="ID_733123748" CREATED="1494988108518" MODIFIED="1494988109807">
-<node TEXT=" Kundalavana monastery, Kashmir, 98 AD" ID="ID_1982120925" CREATED="1494988199431" MODIFIED="1495865369501"/>
-<node TEXT="Vasumitra, Kanishka" ID="ID_81203264" CREATED="1494988203518" MODIFIED="1495865383889"/>
-<node TEXT="Sthaviradins + Mahasanghikas unite to form Mahayana" LOCALIZED_STYLE_REF="default" ID="ID_1952609808" CREATED="1497625571908" MODIFIED="1497625650308" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="1. Mahavibha Shastra [ By Vasumitra ] = commentary of Tripitakas&#xa;2. Mahayana" LOCALIZED_STYLE_REF="default" ID="ID_1467909425" CREATED="1495854543034" MODIFIED="1495866698916" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-</node>
-<node FOLDED="true" ID="ID_662498241" CREATED="1494987948754" MODIFIED="1497500581558"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Buddha aka <i>Shakya Muni</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-<font NAME="Dialog"/>
-<node TEXT="law of Karma" ID="ID_1974791467" CREATED="1494987949553" MODIFIED="1494987954049"/>
-<node TEXT="no comment on God" ID="ID_1928320980" CREATED="1494987963971" MODIFIED="1494987967586"/>
-<node TEXT="no soul, no self" ID="ID_729318183" CREATED="1494987973445" MODIFIED="1496794919787"/>
-<node TEXT="practical ethics + principle of social equality" ID="ID_584575831" CREATED="1494987983191" MODIFIED="1494988015595"/>
-<node TEXT="event, place, symbol" FOLDED="true" ID="ID_1924892769" CREATED="1495866199138" MODIFIED="1495866209919">
-<node TEXT="birth, Lumbini, Lotus + Bull" LOCALIZED_STYLE_REF="default" ID="ID_1612510325" CREATED="1495866219595" MODIFIED="1495866504895" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="renunciation, Mahabhinishkramana, Horse" ID="ID_1977474039" CREATED="1495866268756" MODIFIED="1495866378877"/>
-<node TEXT="Nirvana (enlightenment), Bodh Gaya, Bodhi Tree" ID="ID_1132132325" CREATED="1495866270953" MODIFIED="1495866473066"/>
-<node TEXT="Dharamchakra parivartna (first sermon), Sarnath, Wheel" ID="ID_290001580" CREATED="1495866277306" MODIFIED="1495866417734"/>
-<node TEXT="death, Kushinagar, Mahaparinirvana, Stupa" ID="ID_1875604901" CREATED="1495866220652" MODIFIED="1495866444719"/>
-</node>
-<node TEXT="Kanthaka = Horse&#xa;Channa = Charioteer&#xa;Alara Karma = gautama" LOCALIZED_STYLE_REF="default" ID="ID_955124463" CREATED="1496738430840" MODIFIED="1496738472288" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Kushinagar = capital of Malla (gana, Sangha)" LOCALIZED_STYLE_REF="default" ID="ID_1217344349" CREATED="1497079113507" MODIFIED="1497325465566" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="Vihara and chaitya" FOLDED="true" ID="ID_1322954573" CREATED="1496972036184" MODIFIED="1496972040373">
-<font NAME="Dialog"/>
-<node TEXT="vihara = for stay&#xa;chaitya = for praying" ID="ID_1238471569" CREATED="1496972043887" MODIFIED="1496972055101"/>
-<node TEXT="chaitya = pray =&gt; contain Stupa! =&gt; have buddhist relics on them" ID="ID_367035074" CREATED="1496972055397" MODIFIED="1496972081868"/>
-</node>
-</node>
-<node TEXT="Jainism" FOLDED="true" ID="ID_126528454" CREATED="1495855834404" MODIFIED="1497043998716">
-<icon BUILTIN="full-1"/>
-<font NAME="Calibri"/>
-<node FOLDED="true" ID="ID_1426608140" CREATED="1495866982438" MODIFIED="1495867018022"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      rejected authority of vedas + NO God + karma + transmigration of soul +&#160; <i><b>equality</b></i>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="karma = yes&#xa;asceticism + penance are needed to free oneself from Karma cycle" ID="ID_557306172" CREATED="1497075694004" MODIFIED="1497075728923">
-<icon BUILTIN="idea"/>
-</node>
-<node TEXT="everything is ANIMATE = has a soul" ID="ID_828129019" CREATED="1497075731001" MODIFIED="1497075740408"/>
-<node TEXT="did not condemn varna system, rebirth believed (?&gt;&gt;)" ID="ID_1514669516" CREATED="1523014446976" MODIFIED="1523014467726"/>
-</node>
-<node TEXT="Mahavira = 24th tirthankar&#xa;Rishabha = 1st tirthankar" ID="ID_1184306642" CREATED="1496974330491" MODIFIED="1496974344952"/>
-<node TEXT="2 councils" FOLDED="true" ID="ID_969192551" CREATED="1495867040182" MODIFIED="1495867042327">
-<node TEXT="Patliputra, 300 BC&#xa;Chandragupta Maurya&#xa;compile 12 Angas" ID="ID_1119521060" CREATED="1495867042679" MODIFIED="1495867083723"/>
-<node TEXT="Vallabhi, 512 AD&#xa;...&#xa;Final complete 12 Angas + 12 upangas" ID="ID_1622533980" CREATED="1495867052139" MODIFIED="1495867097035"/>
-</node>
-<node TEXT="5 vows" FOLDED="true" ID="ID_465106122" CREATED="1495866853949" MODIFIED="1495866945617">
-<node TEXT="Ahimsa" ID="ID_1992668391" CREATED="1495866877942" MODIFIED="1495866880610"/>
-<node TEXT="Satya ( no lie )" ID="ID_285958096" CREATED="1495866862885" MODIFIED="1495866895095"/>
-<node TEXT="Asatya ( no steal )" ID="ID_1354222223" CREATED="1495866865630" MODIFIED="1495866900708"/>
-<node TEXT="Aparigraha ( no possess )" ID="ID_961009101" CREATED="1495866868643" MODIFIED="1495866909462"/>
-<node TEXT="Celibacy" FOLDED="true" ID="ID_1687845498" CREATED="1495855846839" MODIFIED="1495855848895">
-<node TEXT="5th added by Mahavira" ID="ID_1964435059" CREATED="1495855837685" MODIFIED="1495855845126"/>
-</node>
-<node ID="ID_999206549" CREATED="1495855850317" MODIFIED="1495855863387"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      follow all 5 =&gt; <i>Mahavrata</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="follow vratas in constraints = Anuvrata" ID="ID_921944462" CREATED="1495855928865" MODIFIED="1495855944258"/>
-</node>
-<node TEXT="Sallekhnana aka Santhara" FOLDED="true" ID="ID_474154472" CREATED="1495855982197" MODIFIED="1495855990113">
-<node ID="ID_1573020780" CREATED="1495856022508" MODIFIED="1495856057424"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &#160;= giving up body with complete peace of mind, calmness, and patience, without any fear at all<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_35796708" CREATED="1495855993880" MODIFIED="1495856070291"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      method : gradually abstaining from the food and the water and simultaneously<br/>meditating on the true nature of the Self until the soul parts the body<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_729375355" CREATED="1495856003396" MODIFIED="1495856003396"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">if he falls ill or for any other reason can not maintain the peace of mind, then he should<br/>give up Sallekhana and resume taking foods and other activities</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Basadi" FOLDED="true" ID="ID_911160100" CREATED="1496728638736" MODIFIED="1496728640118">
-<node ID="ID_66148631" CREATED="1496728640764" MODIFIED="1496728640764"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">place of residence of Jain monks</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="gomateshwara statue" FOLDED="true" ID="ID_447876538" CREATED="1497061542995" MODIFIED="1497061549957">
-<node TEXT="@shravanbelagola, karnataka" ID="ID_1138574339" CREATED="1497061550379" MODIFIED="1497061557740"/>
-<node TEXT="standings statue, 981 AD" ID="ID_1273150193" CREATED="1497061558146" MODIFIED="1497061618616">
-<hook URI="Gommateshvara_Bahubali_978-993_AD..jpg" SIZE="1.0" NAME="ExternalObject"/>
-</node>
-<node TEXT="kayotsarga&#xa;    standing / sitting meditation" ID="ID_1407054465" CREATED="1524139325753" MODIFIED="1524139328659"/>
-</node>
-<node TEXT="both Jainism + buddhism have principles from Upanishads" ID="ID_1016332325" CREATED="1497061666233" MODIFIED="1497061688741"/>
-<node FOLDED="true" ID="ID_1267913494" CREATED="1526792983686" MODIFIED="1526793000550"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      about judgement - syavada (<b><i><u>somehow</u></i></b>)
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Saptbhanginaya - 7 types of judgement&#xa;&#xa;, [ not uncertainty in judgement but its conditional character ]" ID="ID_1969681272" CREATED="1526793001471" MODIFIED="1526793013175"/>
-</node>
-<node TEXT="Nyayavada or Anek_antavada" FOLDED="true" ID="ID_1216292667" CREATED="1527866349711" MODIFIED="1527866383677">
-<node TEXT="six blind men trying to describe elephant" ID="ID_831254600" CREATED="1527866384621" MODIFIED="1527866397803"/>
-</node>
-</node>
-<node TEXT="Vishisht advaita" FOLDED="true" ID="ID_281019723" CREATED="1526793077469" MODIFIED="1526793087177">
-<font NAME="Calibri"/>
-<node TEXT="ramanujacharya" ID="ID_1271965508" CREATED="1526793094209" MODIFIED="1526793098815"/>
-<node TEXT="personal god, omniscient" ID="ID_1620851047" CREATED="1526793087302" MODIFIED="1526793094068"/>
-</node>
-</node>
-<node TEXT="Paintings" FOLDED="true" ID="ID_765136895" CREATED="1490876242722" MODIFIED="1497043998716">
-<font NAME="Calibri"/>
-<node TEXT="pal" FOLDED="true" ID="ID_95390277" CREATED="1496020386071" MODIFIED="1496020387741">
-<node TEXT="@magadha region, South Bihar, 750 AD (Pala Dynasty)" LOCALIZED_STYLE_REF="default" ID="ID_1894553504" CREATED="1496021606663" MODIFIED="1496021702462" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="first ever miniature, 11-12th century" LOCALIZED_STYLE_REF="default" ID="ID_1299518594" CREATED="1496461075884" MODIFIED="1496795653773" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Demise = Buddhist monastries destroy by  (Huna?) Muslim invaders (13th century) =&gt; art Gone!" LOCALIZED_STYLE_REF="default" ID="ID_1764142999" CREATED="1496021622828" MODIFIED="1506487136624" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Hindu, Buddhist theme," ID="ID_1962884156" CREATED="1496021572464" MODIFIED="1496021579007"/>
-<node TEXT="lonely human figures" ID="ID_1301448876" CREATED="1496021579171" MODIFIED="1496021582186"/>
-<node TEXT="coconut or palm leaves" ID="ID_114539719" CREATED="1496021586469" MODIFIED="1496021592636"/>
-</node>
-<node TEXT="Apbhransha" FOLDED="true" ID="ID_1028908804" CREATED="1496020387984" MODIFIED="1496020390216">
-<node TEXT="@mewar, gujrat" ID="ID_108467961" CREATED="1496020412916" MODIFIED="1496020418066"/>
-<node TEXT="stiff figures, bright gold color" ID="ID_820625723" CREATED="1496020424173" MODIFIED="1496020432328"/>
-</node>
-<node TEXT="mughal" FOLDED="true" ID="ID_988363707" CREATED="1490876244518" MODIFIED="1490876245638">
-<node TEXT="started during akbar, 1560" ID="ID_1854053079" CREATED="1496461098033" MODIFIED="1496461106167"/>
-<node TEXT="akbar" FOLDED="true" ID="ID_1653595953" CREATED="1490876245878" MODIFIED="1490876247998">
-<node ID="ID_1949317827" CREATED="1527321996149" MODIFIED="1527321996149"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">Jaswant and Dasawan were two of the famous painters of Akbar's court</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="jahangir" FOLDED="true" ID="ID_777803158" CREATED="1490876248125" MODIFIED="1490876249968">
-<node TEXT="subject : Nature + birds + animals" ID="ID_1059327803" CREATED="1490876257982" MODIFIED="1490876268223"/>
-<node TEXT="decorated borders" ID="ID_859292346" CREATED="1490876252788" MODIFIED="1490876256217"/>
-</node>
-<node TEXT="shahjahan" FOLDED="true" ID="ID_1704751251" CREATED="1490876250137" MODIFIED="1490876251842">
-<node TEXT="Pencil use" ID="ID_1573887727" CREATED="1490876269942" MODIFIED="1490876273678"/>
-<node TEXT="golden colors&#xa;=&gt; reduced liveliness" ID="ID_1505507916" CREATED="1490876275610" MODIFIED="1496795693358"/>
-<node TEXT="mir hasan = famous painter" ID="ID_1403067023" CREATED="1527322002056" MODIFIED="1527322013604"/>
-</node>
-<node TEXT="Aurangzeb" FOLDED="true" ID="ID_1027740457" CREATED="1490876290942" MODIFIED="1490876294849">
-<node TEXT="no patronage to painters. Why?" FOLDED="true" ID="ID_713924030" CREATED="1490876294995" MODIFIED="1496795701547">
-<node TEXT="resource crisis&#xa;=&gt;  painters go back to their regions&#xa;=&gt;  regional development of painting" ID="ID_1922595379" CREATED="1490876302606" MODIFIED="1496795724795" MAX_WIDTH="156.9719725333555 pt" MIN_WIDTH="156.9719725333555 pt"/>
-</node>
-<node ID="ID_1571942227" CREATED="1527322051764" MODIFIED="1527322051764"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">Aurangzeb's reign<br/>saw the production of a large number of books on music</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_175718810" CREATED="1496025383886" MODIFIED="1496025408521" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      influenced from '<i>safavid </i>school of persian painting'
-    </p>
-  </body>
-</html>
-</richcontent>
-<font NAME="Calibri"/>
-</node>
-<node TEXT="secular + natural themes" LOCALIZED_STYLE_REF="default" ID="ID_1903811927" CREATED="1496025403123" MODIFIED="1496025408516" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="Regional Schools" FOLDED="true" ID="ID_128150770" CREATED="1490876345217" MODIFIED="1490876346973">
-<node TEXT="rajasthani" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1618169192" CREATED="1490876348854" MODIFIED="1506486982943" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="hindu tradition + mythology" FOLDED="true" ID="ID_444124932" CREATED="1490876470651" MODIFIED="1490876489719">
-<node TEXT="battle, riding, hunting scenes" ID="ID_235439632" CREATED="1490876494646" MODIFIED="1490876504099"/>
-</node>
-<node TEXT="16 century" FOLDED="true" ID="ID_666020845" CREATED="1490876507158" MODIFIED="1490876511279">
-<node TEXT="mural = dark background&#xa;simple" ID="ID_656962777" CREATED="1490876546817" MODIFIED="1490876554895"/>
-</node>
-<node TEXT="early 17 century" FOLDED="true" ID="ID_624219121" CREATED="1490876514599" MODIFIED="1490876540102">
-<node TEXT="sophisticated" ID="ID_978325969" CREATED="1490876558237" MODIFIED="1490876560237"/>
-</node>
-<node TEXT="17-18 century" FOLDED="true" ID="ID_294262078" CREATED="1490876520499" MODIFIED="1490876525142">
-<node TEXT="aurangzeb period" FOLDED="true" ID="ID_1471093850" CREATED="1490876562230" MODIFIED="1490876567188">
-<node TEXT="mughal influence" ID="ID_1132560683" CREATED="1490876569587" MODIFIED="1490876572008"/>
-<node TEXT="miniature style" ID="ID_1231602917" CREATED="1490876578506" MODIFIED="1490876582241"/>
-</node>
-<node TEXT="radha-krishna + nayak-nayika" ID="ID_1854002174" CREATED="1490876586474" MODIFIED="1490876592416"/>
-</node>
-</node>
-<node TEXT="pahari" ID="ID_525834182" CREATED="1490876351012" MODIFIED="1490876352162"/>
-</node>
-<node TEXT="deccani school" FOLDED="true" ID="ID_160736394" CREATED="1496020106514" MODIFIED="1496020111134">
-<node ID="ID_972003140" CREATED="1496020676722" MODIFIED="1496020682921"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>independent of mughal</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="influenced from mughal in 17th cand 18th century" ID="ID_1090389859" CREATED="1496020476926" MODIFIED="1496020484712"/>
-</node>
-<node TEXT="Pichwai" FOLDED="true" ID="ID_745395908" CREATED="1496107109802" MODIFIED="1496107111949">
-<node TEXT="to portray krishna to illiterate" ID="ID_1412098419" CREATED="1496107117616" MODIFIED="1496107153419"/>
-<node TEXT="nathdwara, rajasthan" ID="ID_946707694" CREATED="1496107112297" MODIFIED="1525838491656"/>
-</node>
-<node TEXT="pattchitra" FOLDED="true" ID="ID_126952949" CREATED="1497316197639" MODIFIED="1497316199996">
-<node TEXT="orissa, cloth scroll" ID="ID_77017501" CREATED="1497316200123" MODIFIED="1497316205793"/>
-<node TEXT="mentioned in Gita Govinda" FOLDED="true" ID="ID_1134476040" CREATED="1497495590545" MODIFIED="1497495595049">
-<node TEXT="Gita govinda = Raga Kavya on radha Krishna" ID="ID_923857745" CREATED="1497499561657" MODIFIED="1497499574377"/>
-</node>
-<node TEXT="hindu deities" ID="ID_1752328340" CREATED="1497316206082" MODIFIED="1497316208539"/>
-</node>
-<node TEXT="jharnapata" FOLDED="true" ID="ID_1267975129" CREATED="1497495623299" MODIFIED="1497495626343">
-<node TEXT="paper rolls, WB" ID="ID_1686103786" CREATED="1497495644971" MODIFIED="1497495650517"/>
-<node TEXT="sing while unscrolling the painting" ID="ID_1340203194" CREATED="1497495626464" MODIFIED="1497495644299"/>
-</node>
-<node TEXT="Bundi School of painting" FOLDED="true" ID="ID_35065713" CREATED="1496738021514" MODIFIED="1496738024796">
-<node TEXT="Lush green, sunset" ID="ID_1857409964" CREATED="1496738024999" MODIFIED="1496738031406"/>
-<node TEXT="17-19 th century" ID="ID_784137983" CREATED="1496738040418" MODIFIED="1496738044605"/>
-<node TEXT="used at Kota Railway station" ID="ID_1506486549" CREATED="1496738044746" MODIFIED="1496738051202"/>
-<node TEXT="" ID="ID_889181850" CREATED="1525838629632" MODIFIED="1525838629632"/>
-</node>
-<node TEXT="kalighat paintings" FOLDED="true" ID="ID_1712375357" CREATED="1526204251606" MODIFIED="1526204254874">
-<node TEXT="lithography, Hindu" ID="ID_308807415" CREATED="1526204255609" MODIFIED="1526204259490"/>
-<node TEXT="ram, sita, durga = oriental branch" ID="ID_949763565" CREATED="1526204348004" MODIFIED="1526204357803"/>
-<node TEXT="daily life = occidental branch" ID="ID_347543758" CREATED="1526204358063" MODIFIED="1526204363951"/>
-</node>
 </node>
 </node>
 <node TEXT="GARBAGE COLLECTION" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_148841316" CREATED="1488235925024" MODIFIED="1494887616080">
