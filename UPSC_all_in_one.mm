@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -135,7 +135,7 @@
 </hook>
 <font NAME="Calibri"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
-<node TEXT="Polity" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
+<node TEXT="Polity" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
 <font NAME="Calibri"/>
 <node TEXT="Legislations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
 <font NAME="Calibri"/>
@@ -3900,7 +3900,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -3935,7 +3934,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -6068,20 +6066,6 @@
 </node>
 <node TEXT="homeostasis" FOLDED="true" ID="ID_1762223062" CREATED="1497495215068" MODIFIED="1497495221242">
 <node TEXT=" constancy of its internal environment&#xa;despite varying external environmental conditions" ID="ID_949441774" CREATED="1497495211645" MODIFIED="1497495212911"/>
-</node>
-<node TEXT="types of ecological reltaionships" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_794683804" CREATED="1497326210050" MODIFIED="1497706150861" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="full-1"/>
-<font NAME="Calibri"/>
-<node TEXT="commensalism" FOLDED="true" ID="ID_1775502290" CREATED="1497326215966" MODIFIED="1497326217621">
-<node TEXT="whale + choti fish = (0,1)" ID="ID_225330534" CREATED="1497326224568" MODIFIED="1497326252654"/>
-<node TEXT="orchid growing as an epiphyte on a mango branch" ID="ID_1004897104" CREATED="1497437872072" MODIFIED="1497437872837"/>
-</node>
-<node TEXT="amensalism" FOLDED="true" ID="ID_893558001" CREATED="1497326217779" MODIFIED="1497437738913">
-<node TEXT="grass trampled by sheep = (-1,0)" ID="ID_1909241825" CREATED="1497326267734" MODIFIED="1497437632420"/>
-<node TEXT="Pencillium growth in bread!&#xa;penicilum itself does not benefit from death of other bacteria" ID="ID_1143321104" CREATED="1497438570728" MODIFIED="1497438665415"/>
-<node TEXT="black walnut secrete substances that inhibit the growth of nearby plants" ID="ID_1108041757" CREATED="1497437855440" MODIFIED="1497437860050"/>
-</node>
-<node TEXT="Antibiosis = secretions causing harm to others but no benefit to secretor" ID="ID_1830233720" CREATED="1497491569805" MODIFIED="1497491586970"/>
 </node>
 <node TEXT="bonn challenge" FOLDED="true" ID="ID_994031799" CREATED="1497152336104" MODIFIED="1497439255966">
 <icon BUILTIN="full-1"/>
@@ -8726,7 +8710,8 @@
 <node TEXT="Andhra, Odisha, Telangana" ID="ID_774911149" CREATED="1492243270194" MODIFIED="1492243301233"/>
 </node>
 </node>
-<node TEXT="mizoram" FOLDED="true" ID="ID_1407125244" CREATED="1496214801798" MODIFIED="1496214803298">
+<node TEXT="mizoram" ID="ID_1407125244" CREATED="1496214801798" MODIFIED="1496214803298">
+<node TEXT="Bru tribe" ID="ID_1074453543" CREATED="1552291925062" MODIFIED="1552291926819"/>
 <node TEXT="lushai" ID="ID_1696375132" CREATED="1495175229373" MODIFIED="1495175231155"/>
 <node TEXT="Bnei Menashe" LOCALIZED_STYLE_REF="default" ID="ID_1091255308" CREATED="1496134789765" MODIFIED="1496134797036" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
@@ -8769,6 +8754,9 @@
 </node>
 <node TEXT="Lakshadweep" FOLDED="true" ID="ID_1807145233" CREATED="1492234336489" MODIFIED="1492234347590">
 <node TEXT="Aminidivi , Koyas, Malmis, Malacheris" ID="ID_1584870360" CREATED="1492234329310" MODIFIED="1492234336331"/>
+</node>
+<node TEXT="Tripura" ID="ID_461120305" CREATED="1552292037810" MODIFIED="1552292039658">
+<node TEXT="Reang Tribe" ID="ID_1774489793" CREATED="1552292039837" MODIFIED="1552292044540"/>
 </node>
 <node TEXT="Rengma" FOLDED="true" ID="ID_1153112221" CREATED="1495173706721" MODIFIED="1495173719196">
 <node TEXT="Nagaland, assam" ID="ID_1257223098" CREATED="1495173731520" MODIFIED="1495173820064"/>
@@ -11847,7 +11835,7 @@
 </node>
 <node TEXT="reasons of formation of tropical cyclone" ID="ID_407031278" CREATED="1526475043148" MODIFIED="1526475051977"/>
 </node>
-<node TEXT="IR" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
+<node TEXT="IR" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
 <font NAME="Calibri"/>
 <node TEXT="Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1034117854" CREATED="1488085350288" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
@@ -11935,7 +11923,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Countries / Treaties" LOCALIZED_STYLE_REF="default" ID="ID_1769221224" CREATED="1488085354289" MODIFIED="1494887616062">
+<node TEXT="Countries / Treaties" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1769221224" CREATED="1488085354289" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
 <node TEXT="India - Bangladesh" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1185339932" CREATED="1488235602170" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
@@ -12738,8 +12726,15 @@
 <node TEXT="Living planet report" ID="ID_1524282101" CREATED="1496396333797" MODIFIED="1496396337597"/>
 </node>
 </node>
-<node TEXT="GROUPS/ Summits" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_60885076" CREATED="1488260115997" MODIFIED="1494887616074">
+<node TEXT="GROUPS/ Summits" LOCALIZED_STYLE_REF="default" ID="ID_60885076" CREATED="1488260115997" MODIFIED="1494887616074">
 <font NAME="Calibri" SIZE="10"/>
+<node TEXT="APTA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1111580589" CREATED="1552292323831" MODIFIED="1552292325362">
+<font NAME="Calibri"/>
+<node TEXT="asia pacific trade agreement" ID="ID_92349191" CREATED="1552292325535" MODIFIED="1552292331412"/>
+<node TEXT="aka Bangkok Agreement" ID="ID_519931853" CREATED="1552292331737" MODIFIED="1552292342287"/>
+<node TEXT="initiative under UN ESCAP" ID="ID_1857452838" CREATED="1552292345597" MODIFIED="1552292352581"/>
+<node TEXT="Preferential trade agreement , india founding" ID="ID_1490596434" CREATED="1552292357390" MODIFIED="1552292371099"/>
+</node>
 <node TEXT="ASEAN (10)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1540755101" CREATED="1488260119667" MODIFIED="1495153324621" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Oct&apos;16/Vision%20IAS%20CURRENT%20AFFAIRS%20OCTOBER%202016_reduced.pdf">
 <font NAME="Calibri"/>
 <node TEXT="One Vision,&#xa;One Identity, One Community" LOCALIZED_STYLE_REF="default" ID="ID_117144204" CREATED="1527156204011" MODIFIED="1527156207324">
