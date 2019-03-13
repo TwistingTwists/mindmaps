@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -4054,10 +4054,47 @@
 <node TEXT="1882 : Hunter Commision in education" LOCALIZED_STYLE_REF="default" ID="ID_1916596178" CREATED="1488086587238" MODIFIED="1495588583183" LINK="#ID_888182081"/>
 <node TEXT="1881 : Factories Act" LOCALIZED_STYLE_REF="default" ID="ID_1672690754" CREATED="1488086582908" MODIFIED="1488545169633"/>
 </node>
-<node TEXT="Labor reforms" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1406645832" CREATED="1489496683338" MODIFIED="1520951451022">
+<node TEXT="Labor reforms" LOCALIZED_STYLE_REF="default" ID="ID_1406645832" CREATED="1489496683338" MODIFIED="1520951451022">
 <icon BUILTIN="flag-green"/>
 <node TEXT="status" FOLDED="true" ID="ID_158987147" CREATED="1532168056851" MODIFIED="1532168058142">
 <node TEXT="5th EUS  (2015)&#xa;&#xa;83% in self-employed, casual , contract" ID="ID_313025039" CREATED="1532168058230" MODIFIED="1532168092920"/>
+<node TEXT="Labor in low wage + low productivity activities!" ID="ID_308313207" CREATED="1532166509683" MODIFIED="1532167681054" BACKGROUND_COLOR="#ffccff">
+<font BOLD="true"/>
+<node ID="ID_1348174798" CREATED="1532166527449" MODIFIED="1532166604466"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1. <b>Manufacturing :</b>&#160;Small firms (&lt;20 workers)
+    </p>
+    <p>
+      72% employment
+    </p>
+    <p>
+      12% manuf output
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_613003890" CREATED="1532166558121" MODIFIED="1532166612416"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2. <b>Services : </b>MSME 98% workers, 62% output
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="NITI ayog reco" FOLDED="true" ID="ID_997049227" CREATED="1532168164764" MODIFIED="1532168166254">
 <node ID="ID_1390422022" CREATED="1532168167107" MODIFIED="1532168200560"><richcontent TYPE="NODE">
@@ -4095,10 +4132,10 @@
 <node TEXT="labor = concurrent list" ID="ID_690441600" CREATED="1507542802817" MODIFIED="1507542807780"/>
 </node>
 </node>
-<node TEXT="WUSS&#xa;&#xa;PM Leg" FOLDED="true" ID="ID_500252323" CREATED="1507542287041" MODIFIED="1549701368732">
+<node TEXT="WUSS&#xa;&#xa;PM Leg" ID="ID_500252323" CREATED="1507542287041" MODIFIED="1549701368732">
 <font BOLD="true"/>
-<node TEXT="wage" FOLDED="true" ID="ID_1458267151" CREATED="1507542289572" MODIFIED="1507542360344">
-<node TEXT="Minimum Wages Act, 2016" FOLDED="true" ID="ID_706550187" CREATED="1507542523931" MODIFIED="1507542530226">
+<node TEXT="wage" ID="ID_1458267151" CREATED="1507542289572" MODIFIED="1507542360344">
+<node TEXT="Minimum Wages Act, 2016" ID="ID_706550187" CREATED="1507542523931" MODIFIED="1507542530226">
 <node TEXT="overwork yes, but pay more" ID="ID_333266806" CREATED="1507542532407" MODIFIED="1507542538145"/>
 </node>
 <node TEXT="CPI linked" ID="ID_4584741" CREATED="1508986520272" MODIFIED="1515686158382">
@@ -4119,17 +4156,22 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="social security" ID="ID_36892105" CREATED="1507542364352" MODIFIED="1507542370608">
+<node TEXT="social security" FOLDED="true" ID="ID_36892105" CREATED="1507542364352" MODIFIED="1507542370608">
 <node TEXT="unorganised labor Social Security Act, 2008" ID="ID_434242793" CREATED="1507542373788" MODIFIED="1507542384927"/>
 <node TEXT="RSBY" ID="ID_469694473" CREATED="1507542544152" MODIFIED="1507542569285" LINK="#ID_1118674533"/>
 <node TEXT="deen dayal upadhyay shramev jayate" ID="ID_230883178" CREATED="1494997050451" MODIFIED="1507542511107" LINK="#ID_1878181686">
 <icon BUILTIN="flag-green"/>
 </node>
+<node TEXT="draft social security code, Min Labor" ID="ID_1559843092" CREATED="1552453757895" MODIFIED="1552453764427">
+<node TEXT="umbrellla law for 15 labor laws" ID="ID_55362706" CREATED="1552453765997" MODIFIED="1552453774744"/>
+<node TEXT="for&#xa;&#xa;Commercial&#xa;husehold&#xa;self employed&#xa;Contractors" ID="ID_388560292" CREATED="1552453778992" MODIFIED="1552453800203"/>
+</node>
 </node>
 <node TEXT="safety work conditions" ID="ID_1007540091" CREATED="1507542370988" MODIFIED="1507542371456">
 <node TEXT="occupational hazard&#xa;respiratory problems&#xa;salt = white light&#xa;Silicosis" ID="ID_79684512" CREATED="1507542947477" MODIFIED="1507542995272"/>
+<node TEXT="internation lvision zero conference for occupational safety" ID="ID_696340812" CREATED="1552455720315" MODIFIED="1552455731691"/>
 </node>
-<node TEXT="productivity low" ID="ID_58125794" CREATED="1549701395051" MODIFIED="1549701403717">
+<node TEXT="productivity low" FOLDED="true" ID="ID_58125794" CREATED="1549701395051" MODIFIED="1549701403717">
 <node TEXT="unorganised = self employed + family business + &lt;10" ID="ID_525739858" CREATED="1549701403827" MODIFIED="1549701421444"/>
 </node>
 <node TEXT="marketing, managing skills absent" ID="ID_1795056881" CREATED="1549701425531" MODIFIED="1549701433488"/>
@@ -4137,16 +4179,16 @@
 <node TEXT="niti aayog reco&apos;" ID="ID_271253597" CREATED="1549701441987" MODIFIED="1549701455313" LINK="#ID_958135477"/>
 </node>
 </node>
-<node TEXT="why not reforming?!" ID="ID_1915230344" CREATED="1507542759150" MODIFIED="1507542764874">
+<node TEXT="why not reforming?!" FOLDED="true" ID="ID_1915230344" CREATED="1507542759150" MODIFIED="1507542764874">
 <node TEXT="regulatory cholesterol&#xa;1. EPF&#xa;2. Industrial Dispute" ID="ID_1442234431" CREATED="1507542765299" MODIFIED="1515686177581"/>
 </node>
 <node TEXT="problems" FOLDED="true" ID="ID_1991936059" CREATED="1507542881097" MODIFIED="1507542882606">
 <node TEXT="contracts&#xa;low skilled = outsourcing agency&#xa;high skilled = professional contract" ID="ID_851132560" CREATED="1507542882812" MODIFIED="1507542907592"/>
 </node>
-<node TEXT="Labor mobility" ID="ID_1090057201" CREATED="1503985221097" MODIFIED="1503985223440">
+<node TEXT="Labor mobility" FOLDED="true" ID="ID_1090057201" CREATED="1503985221097" MODIFIED="1503985223440">
 <node TEXT="Silapddikaram, Tamil Epic - 400-500 AD, depicts people moving for religion and commerce. Even today, labor mobility is essential for economic efficiency." ID="ID_331920431" CREATED="1503985224127" MODIFIED="1503985294228"/>
 </node>
-<node TEXT="govt. efforts" ID="ID_110875046" CREATED="1520951471587" MODIFIED="1520951474159">
+<node TEXT="govt. efforts" FOLDED="true" ID="ID_110875046" CREATED="1520951471587" MODIFIED="1520951474159">
 <node TEXT="national career service portal" ID="ID_1489963711" CREATED="1520951474319" MODIFIED="1520951478273"/>
 <node TEXT="Shram suvidha portal" ID="ID_551089399" CREATED="1549701499331" MODIFIED="1549701504926"/>
 </node>
@@ -7982,7 +8024,7 @@
 <node TEXT="50% financial Aid by govt." ID="ID_382180238" CREATED="1494996940141" MODIFIED="1494996945655"/>
 <node TEXT="for 2 yrs" ID="ID_649733654" CREATED="1494996950804" MODIFIED="1494996953770"/>
 </node>
-<node TEXT="RSBY&#xa;Rashtriya Swasthya Bima Yojna" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1118674533" CREATED="1494997012568" MODIFIED="1497695931362" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="RSBY&#xa;Rashtriya Swasthya Bima Yojna" LOCALIZED_STYLE_REF="default" ID="ID_1118674533" CREATED="1494997012568" MODIFIED="1497695931362" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
 <node TEXT="MoHFW" LOCALIZED_STYLE_REF="default" ID="ID_938665175" CREATED="1496792941452" MODIFIED="1496792946150" BACKGROUND_COLOR="#feffd6">
@@ -7990,7 +8032,7 @@
 </node>
 <node TEXT="only BPL, 5 members in a family ( no age limit )" ID="ID_1151822591" CREATED="1496287945331" MODIFIED="1496287962143"/>
 <node TEXT="one time, pay 30 register." ID="ID_81487171" CREATED="1496229845375" MODIFIED="1496229852075"/>
-<node TEXT="Smart card for Workers" FOLDED="true" ID="ID_1899598657" CREATED="1494997026305" MODIFIED="1494997035428">
+<node TEXT="Smart card for Workers" ID="ID_1899598657" CREATED="1494997026305" MODIFIED="1494997035428">
 <node TEXT="seeded with &gt;= 2 social security schemes" ID="ID_734975440" CREATED="1494997035632" MODIFIED="1494997044072"/>
 <node TEXT="30k medical treatment, cashless" LOCALIZED_STYLE_REF="default" ID="ID_1866645112" CREATED="1496229840688" MODIFIED="1496287936125" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
@@ -8710,8 +8752,10 @@
 <node TEXT="Andhra, Odisha, Telangana" ID="ID_774911149" CREATED="1492243270194" MODIFIED="1492243301233"/>
 </node>
 </node>
-<node TEXT="mizoram" ID="ID_1407125244" CREATED="1496214801798" MODIFIED="1496214803298">
-<node TEXT="Bru tribe" ID="ID_1074453543" CREATED="1552291925062" MODIFIED="1552291926819"/>
+<node TEXT="mizoram" FOLDED="true" ID="ID_1407125244" CREATED="1496214801798" MODIFIED="1496214803298">
+<node TEXT="Bru tribe" ID="ID_1074453543" CREATED="1552291925062" MODIFIED="1552291926819">
+<node TEXT="fled to Tripura in 1997&#xa;&#xa;Centre to give financial assistance to rehab them in Mizoram" ID="ID_1692092526" CREATED="1552457188228" MODIFIED="1552457231381"/>
+</node>
 <node TEXT="lushai" ID="ID_1696375132" CREATED="1495175229373" MODIFIED="1495175231155"/>
 <node TEXT="Bnei Menashe" LOCALIZED_STYLE_REF="default" ID="ID_1091255308" CREATED="1496134789765" MODIFIED="1496134797036" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
@@ -8795,6 +8839,9 @@
 <node TEXT="birhor" FOLDED="true" ID="ID_1478910445" CREATED="1524392846302" MODIFIED="1524392848047">
 <node TEXT="JHK" ID="ID_1633476690" CREATED="1524392848146" MODIFIED="1524392849208"/>
 </node>
+<node TEXT="Myanmar refugees" ID="ID_871144192" CREATED="1552457428576" MODIFIED="1552457432520">
+<node TEXT="chin tribe&#xa;&#xa;UNHCR revoked refugee status they don&apos;t need protection , 2018" ID="ID_1903686307" CREATED="1552457432632" MODIFIED="1552457448829"/>
+</node>
 </node>
 <node TEXT="State of World&apos;s forest report" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_522061391" CREATED="1494453455419" MODIFIED="1525918952409" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <icon BUILTIN="idea"/>
@@ -8870,6 +8917,10 @@
 <node TEXT="NPL = purity" ID="ID_1524209452" CREATED="1494833744116" MODIFIED="1494833748417"/>
 </node>
 </node>
+</node>
+<node TEXT="examples of affirmative actio by state" ID="ID_589192710" CREATED="1552457242015" MODIFIED="1552457247535">
+<font NAME="Calibri"/>
+<node TEXT="Bru tribe rehab" ID="ID_189183293" CREATED="1552457248219" MODIFIED="1552457259498" LINK="#ID_1692092526"/>
 </node>
 <node TEXT="part 2" FOLDED="true" ID="ID_419980437" CREATED="1495019464508" MODIFIED="1496055203526">
 <font NAME="Calibri"/>
