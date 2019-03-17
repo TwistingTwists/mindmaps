@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1569,9 +1569,10 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node TEXT="22(3) = preventive detention&#xa;PD" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1535787462879">
-<node TEXT="preventive detention is statutory in nature" FOLDED="true" ID="ID_1008594485" CREATED="1499333772906" MODIFIED="1499334254728">
-<node TEXT="not as discretionary power of executive" FOLDED="true" ID="ID_591013130" CREATED="1503413488605" MODIFIED="1507780181922">
+<node TEXT="22(3) = preventive detention&#xa;PD" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1552843799468">
+<icon BUILTIN="bookmark"/>
+<node TEXT="preventive detention is statutory in nature" ID="ID_1008594485" CREATED="1499333772906" MODIFIED="1499334254728">
+<node TEXT="not as discretionary power of executive" ID="ID_591013130" CREATED="1503413488605" MODIFIED="1507780181922">
 <font BOLD="true"/>
 <node TEXT="its exercise has to be within limitation of statue!" ID="ID_914941349" CREATED="1499334255080" MODIFIED="1499334273106"/>
 </node>
@@ -1579,7 +1580,7 @@
 <font BOLD="true"/>
 </node>
 </node>
-<node TEXT="four grounds" FOLDED="true" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
+<node TEXT="four grounds" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
 <node ID="ID_513890276" CREATED="1497969610998" MODIFIED="1509101847761"><richcontent TYPE="NODE">
 
 <html>
@@ -1604,7 +1605,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="exceptions" FOLDED="true" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
+<node TEXT="exceptions" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
 <node ID="ID_1180436773" CREATED="1497969671950" MODIFIED="1497969763660" MAX_WIDTH="161.66212004813764 pt" MIN_WIDTH="161.66212004813764 pt"><richcontent TYPE="NODE">
 
 <html>
@@ -1642,7 +1643,24 @@
 </richcontent>
 </node>
 <node TEXT="anti torture legislation" ID="ID_1608045179" CREATED="1535787464817" MODIFIED="1535787773301" LINK="#ID_124885435"/>
+</node>
+<node TEXT="concerns" FOLDED="true" ID="ID_899376941" CREATED="1552843692116" MODIFIED="1552843693642">
+<node TEXT="against 22(1) : cannot be denied right to consult" ID="ID_34712099" CREATED="1552843697868" MODIFIED="1552843718709"/>
+<node TEXT="violate due process of law : presumption of guilt" ID="ID_1609599914" CREATED="1552843718913" MODIFIED="1552843735216"/>
+<node TEXT="inhumane treatment" ID="ID_969007154" CREATED="1552843735998" MODIFIED="1552843746472"/>
+</node>
+<node TEXT="way forward" ID="ID_1923513299" CREATED="1552843688579" MODIFIED="1552843690179">
 <node TEXT="NCRWC, 2000&#xa;- remove PD" ID="ID_615285603" CREATED="1535787471803" MODIFIED="1535787479913"/>
+</node>
+<node TEXT="legislations involved" FOLDED="true" ID="ID_218374164" CREATED="1552843587853" MODIFIED="1552843592000">
+<node TEXT="NSA, 1988" FOLDED="true" ID="ID_635549349" CREATED="1552843592145" MODIFIED="1552843600081">
+<node TEXT="UP govt. use NSA for cow slaughter, Bulandshahar" ID="ID_1777947755" CREATED="1552843634861" MODIFIED="1552843666219"/>
+<node TEXT="MP govt NSA for cow killing" ID="ID_1112471389" CREATED="1552843644439" MODIFIED="1552843654154"/>
+<node TEXT="not in JnK" ID="ID_539504119" CREATED="1552843674383" MODIFIED="1552843678130"/>
+</node>
+<node TEXT="UAPA, 1967" ID="ID_1280938886" CREATED="1552843600229" MODIFIED="1552843607784"/>
+<node TEXT="PDA, 1950-1969" ID="ID_1704331054" CREATED="1552843608056" MODIFIED="1552843614577"/>
+<node TEXT="Maintenance of internal security act MISA, 1971" ID="ID_1156294407" CREATED="1552843615398" MODIFIED="1552843628398"/>
 </node>
 </node>
 <node TEXT="Anti torture legislation" FOLDED="true" ID="ID_124885435" CREATED="1535787642108" MODIFIED="1535787649953">

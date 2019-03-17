@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1092,7 +1092,7 @@
 <node TEXT=" factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1617790756" CREATED="1549617287506" MODIFIED="1549617293252" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
 <node TEXT="Governance, constitution polity" FOLDED="true" ID="ID_1306619701" CREATED="1497938524457" MODIFIED="1497938532003">
 <node TEXT="unsorted" FOLDED="true" ID="ID_63813839" CREATED="1531068284878" MODIFIED="1531068292326">
 <font BOLD="true"/>
@@ -1226,7 +1226,9 @@
 </node>
 <node TEXT="article 35" ID="ID_551501565" CREATED="1552577987268" MODIFIED="1552577989899"/>
 </node>
-<node TEXT="124 A&#xa;    sedition = defamation or treason with govt." FOLDED="true" ID="ID_1235830218" CREATED="1530862753175" MODIFIED="1530862755325">
+<node TEXT="124 A IPC&#xa;    sedition = defamation or treason with govt." FOLDED="true" ID="ID_1235830218" CREATED="1530862753175" MODIFIED="1552843167539">
+<node TEXT="law commission report =&#xa;[earlier] govt. policy criticism is not sedition&#xa;____&#xa;[2018 report -BS Chauhan]&#xa;rename &apos;sedition?&apos;&#xa;, not curb free speech" ID="ID_1462644081" CREATED="1535871110149" MODIFIED="1537407281064"/>
+<node TEXT="favour" ID="ID_775258917" CREATED="1552843145339" MODIFIED="1552843146556">
 <node TEXT="Kedarnath vs State of Bihar" FOLDED="true" ID="ID_818981416" CREATED="1530862779282" MODIFIED="1530862790504">
 <node TEXT="124A strikes fine balance between FR and public order" ID="ID_985571188" CREATED="1530862915276" MODIFIED="1535769835596">
 <font BOLD="true"/>
@@ -1235,7 +1237,52 @@
 <font ITALIC="true"/>
 </node>
 </node>
-<node TEXT="law commission report =&#xa;[earlier] govt. policy criticism is not sedition&#xa;____&#xa;[2018 report -BS Chauhan]&#xa;rename &apos;sedition?&apos;&#xa;, not curb free speech" ID="ID_1462644081" CREATED="1535871110149" MODIFIED="1537407281064"/>
+<node ID="ID_659107437" CREATED="1552843178743" MODIFIED="1552843517445"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      not a colonial law : narrowed down by many SC judgements
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <u><font color="#ff3333">Kanhaiya Kumar, Romesh Thappar Case</font></u><br/>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>, incitement to violence </i>
+    </p>
+    <p>
+      <i>, violently overthrow govt. </i>
+    </p>
+    <p>
+      <i>, public order </i>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="deal with anti national elements" ID="ID_741963795" CREATED="1552843202545" MODIFIED="1552843207419"/>
+<node TEXT="application = reasonable restriction under 19(2)" ID="ID_988990744" CREATED="1552843213509" MODIFIED="1552843225887"/>
+</node>
+<node TEXT="against" FOLDED="true" ID="ID_937084157" CREATED="1552843146839" MODIFIED="1552843147676">
+<node TEXT="chilling effect : non bailable, non cognisable offence" ID="ID_87565785" CREATED="1552843235504" MODIFIED="1552843253962"/>
+<node TEXT="misuse" ID="ID_929377312" CREATED="1552843256843" MODIFIED="1552843269765"/>
+<node TEXT="against democratic norms of dissent" ID="ID_597738756" CREATED="1552843270335" MODIFIED="1552843283470"/>
+<node TEXT="only free and unrestrained press can effectively expose deception in government" ID="ID_1611088496" CREATED="1552843285596" MODIFIED="1552843373962" LINK="#ID_1562885110"/>
+</node>
+<node TEXT="Law Commission" FOLDED="true" ID="ID_1261927576" CREATED="1552843384486" MODIFIED="1552843387903">
+<node TEXT="dissent and criticism are essential part of robust public debate =&gt; democracy" ID="ID_111643128" CREATED="1552843388191" MODIFIED="1552843412344"/>
+<node TEXT="apply only&#xa;&#xa;public order&#xa;&#xa;overthrow govt. by violent means" ID="ID_1897468238" CREATED="1552843413552" MODIFIED="1552843438453"/>
+</node>
 <node TEXT="Menaka gandhi vs Union of India" FOLDED="true" ID="ID_387496611" CREATED="1530862723614" MODIFIED="1530862728635">
 <node TEXT="freedom of speech = gather info + express oneself at home + abroad" ID="ID_652485613" CREATED="1530862951467" MODIFIED="1530863506809">
 <font BOLD="true"/>
@@ -1382,7 +1429,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1530941434103">
+<node TEXT="Governance" LOCALIZED_STYLE_REF="default" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1530941434103">
 <font NAME="Calibri" BOLD="true"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
 <node TEXT="Grievance Redressal" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_452332544" CREATED="1488281410670" MODIFIED="1488545169868">
@@ -1541,6 +1588,69 @@
 <node TEXT="social media usage" ID="ID_1175845779" CREATED="1494848482535" MODIFIED="1494848486984"/>
 <node TEXT="for active participation of stakeholders" ID="ID_424718923" CREATED="1494848474247" MODIFIED="1494848481594"/>
 <node TEXT="e.g. EPFO failure to communicate policies in Budget 2016" ID="ID_727847295" CREATED="1494848499747" MODIFIED="1494848513740"/>
+</node>
+<node TEXT="low productivity of RS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1653988039" CREATED="1552843859838" MODIFIED="1552843871682">
+<node TEXT="data" ID="ID_1067815322" CREATED="1552843881002" MODIFIED="1552843886361">
+<node TEXT="budget session : 8 hours of 48" ID="ID_526981471" CREATED="1552843892301" MODIFIED="1552843900892"/>
+<node TEXT="40% of allocated time, since 2014" ID="ID_1403182589" CREATED="1552843901415" MODIFIED="1552843909196"/>
+</node>
+<node TEXT="relevance of RS" FOLDED="true" ID="ID_983184604" CREATED="1552843874408" MODIFIED="1552843877943">
+<node TEXT="Deliberated discussion =&gt; against populist measures" ID="ID_609559391" CREATED="1552843911005" MODIFIED="1552843923507"/>
+<node TEXT="state representation" ID="ID_1784520748" CREATED="1552843982282" MODIFIED="1552843985454"/>
+<node TEXT="expert opnion" ID="ID_1350822476" CREATED="1552843924379" MODIFIED="1552843950932"/>
+<node TEXT="permanent house : national leadership + stability" ID="ID_1612067725" CREATED="1552843951202" MODIFIED="1552843970025"/>
+<node TEXT="share legislative burden" ID="ID_832531652" CREATED="1552843972599" MODIFIED="1552843980490"/>
+</node>
+<node TEXT="way forward" ID="ID_1904866571" CREATED="1552843886706" MODIFIED="1552843890188">
+<node ID="ID_74359514" CREATED="1552843990255" MODIFIED="1552844025059"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i>NCRWC : 100 working days</i>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Parliament (Productivity) Bill, 2017
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<font ITALIC="true"/>
+</node>
+<node TEXT="performance related pay" ID="ID_828434162" CREATED="1552844028046" MODIFIED="1552844038352">
+<font ITALIC="false"/>
+</node>
+<node TEXT="strict rules to enforce code of conduct" ID="ID_338135089" CREATED="1552844039074" MODIFIED="1552844051582">
+<font ITALIC="false"/>
+</node>
+<node TEXT="review anti defection law" ID="ID_75820860" CREATED="1552844051733" MODIFIED="1552844068434">
+<font ITALIC="false"/>
+</node>
+</node>
+</node>
+<node TEXT="judges in post retirement position" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_847260931" CREATED="1552844079128" MODIFIED="1552844084133">
+<node TEXT="why needed?" FOLDED="true" ID="ID_1311066900" CREATED="1552844156789" MODIFIED="1552844161064">
+<node TEXT="Constitution does not ban" ID="ID_472996321" CREATED="1552844161177" MODIFIED="1552844167793"/>
+<node TEXT="legal experience" ID="ID_1309105420" CREATED="1552844168120" MODIFIED="1552844181160"/>
+</node>
+<node TEXT="why should not accept" ID="ID_1845001876" CREATED="1552844197312" MODIFIED="1552844200442">
+<node TEXT="politicisation of judiciary" ID="ID_620179539" CREATED="1552844200673" MODIFIED="1552844204475"/>
+<node TEXT="conflict of interest" ID="ID_1859338103" CREATED="1552844204711" MODIFIED="1552844209272"/>
+<node TEXT="judicial independence" ID="ID_25484256" CREATED="1552844209807" MODIFIED="1552844219293"/>
+</node>
+<node TEXT="way forward" ID="ID_1564330916" CREATED="1552844084302" MODIFIED="1552844088262">
+<node TEXT="cool off period" ID="ID_1582922236" CREATED="1552844098816" MODIFIED="1552844100813"/>
+<node TEXT="TRANSPARENT PROCESS&#xa;&#xa;Justice RM Lodha : ask them to be pensioner or full pay before retirement. Allot on that basis" ID="ID_1714009060" CREATED="1552844101975" MODIFIED="1552844141797"/>
+<node TEXT="increase retirement age =&gt; fully utilise productive years work" ID="ID_125635273" CREATED="1552844238676" MODIFIED="1552844264599"/>
+<node TEXT="amend constitution to not allow post retirement (like CAG)" ID="ID_1001824619" CREATED="1552844088413" MODIFIED="1552844155128"/>
+</node>
 </node>
 <node TEXT="Local Government" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_79188436" CREATED="1522383566672" MODIFIED="1522383572439">
 <font BOLD="true" ITALIC="true"/>
@@ -3665,7 +3775,7 @@
 <node TEXT="&#x2022; Separation of powers between various organs dispute redressal mechanisms and institutions." ID="ID_443019747" CREATED="1544200456980" MODIFIED="1544200577068" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Comparison of the Indian constitutional scheme with that of other countries" ID="ID_1844385126" CREATED="1544200456982" MODIFIED="1544200577076" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Parliament and State Legislatures &#x2013; structure, functioning, conduct of business, powers &amp; privileges and issues arising out of these." ID="ID_111510816" CREATED="1544200456983" MODIFIED="1544200577085" BACKGROUND_COLOR="#ccffcc">
-<node TEXT="Legislations" LOCALIZED_STYLE_REF="default" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
+<node TEXT="Legislations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
 <font NAME="Calibri"/>
 <node TEXT="COPRA, 1986" LOCALIZED_STYLE_REF="default" ID="ID_212585028" CREATED="1488179043829" MODIFIED="1494887615890">
 <font NAME="Calibri"/>
@@ -5030,13 +5140,47 @@
 </node>
 <node TEXT="Privacy as in puttaswamy" ID="ID_923835460" CREATED="1548412914102" MODIFIED="1548412920195"/>
 </node>
-<node TEXT="RTI vs OSA" FOLDED="true" ID="ID_1065953439" CREATED="1552804751344" MODIFIED="1552804755240">
+<node TEXT="RTI vs OSA" ID="ID_1065953439" CREATED="1552804751344" MODIFIED="1552804755240">
 <node TEXT="[livelaw]" ID="ID_964585963" CREATED="1552804756977" MODIFIED="1552804985066" LINK="https://web.archive.org/web/20190317064058/https://www.livelaw.in/columns/rafale-official-secret-act-vs-rti-143637"/>
-<node TEXT="issues" ID="ID_833759006" CREATED="1552805046952" MODIFIED="1552805047929">
+<node TEXT="issues" FOLDED="true" ID="ID_833759006" CREATED="1552805046952" MODIFIED="1552805047929">
 <node TEXT="freedom of speech vs Official Secrecy" ID="ID_1181868630" CREATED="1552805048062" MODIFIED="1552805056937"/>
 <node TEXT="define &apos;secret&apos;" ID="ID_1055628230" CREATED="1552805074831" MODIFIED="1552805079833">
 <node TEXT="secret / official secrets not defined in OSA&#xa;&#xa;neither is classification of secrecy done in OSA" ID="ID_1761861206" CREATED="1552805080322" MODIFIED="1552805101152"/>
-<node TEXT="classification by MODSI under Min Defence&#xa;&#xa;Top Secret&#xa;Secret&#xa;Confidential" ID="ID_997426632" CREATED="1552805101879" MODIFIED="1552805139399">
+<node ID="ID_997426632" CREATED="1552805101879" MODIFIED="1552806323416"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      classification by MODSI under Min Defence
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>[the classification manual is itself <font color="#ff0066">confidential </font>:p]</i>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      as
+    </p>
+    <p>
+      Top Secret
+    </p>
+    <p>
+      Secret
+    </p>
+    <p>
+      Confidential
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node ID="ID_598397774" CREATED="1552805160896" MODIFIED="1552805196355" MAX_WIDTH="144.63829505923871 pt" MIN_WIDTH="144.63829505923871 pt"><richcontent TYPE="NODE">
 
 <html>
@@ -5055,7 +5199,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -5080,13 +5223,12 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
 <node TEXT="section 8(2) RTI vs OSA" ID="ID_1067117019" CREATED="1552805489784" MODIFIED="1552805547668" LINK="#ID_727938536"/>
 </node>
-<node TEXT="OSA, 1923" ID="ID_1205676535" CREATED="1552805012610" MODIFIED="1552805015289">
+<node TEXT="OSA, 1923" FOLDED="true" ID="ID_1205676535" CREATED="1552805012610" MODIFIED="1552805015289">
 <node TEXT="colonial legacy with intent to silence voices&#xa;&#xa;initially in 1904 by Curzon" ID="ID_1055089629" CREATED="1552805015398" MODIFIED="1552805039393"/>
 </node>
 <node TEXT="way forward" ID="ID_1911940983" CREATED="1552805601304" MODIFIED="1552805606086">
@@ -5109,8 +5251,14 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+</node>
+<node TEXT="Pentagon papers case" FOLDED="true" ID="ID_535751430" CREATED="1552805902875" MODIFIED="1552805919878" LINK="https://www.livelaw.in/columns/official-secrets-act-press-freedom-national-security-143437">
+<node TEXT="The press was to serve the governed, not the governors." ID="ID_826243112" CREATED="1552805906929" MODIFIED="1552805911073"/>
+<node TEXT="Only a free and unrestrained press can effectively expose deception in government." ID="ID_1562885110" CREATED="1552805925367" MODIFIED="1552843369717"/>
+</node>
+<node TEXT="misuse of OSA : cases / examples&#xa;&#xa;[section :&#xa;Instances of misuse galore. ]" ID="ID_1505686359" CREATED="1552805987205" MODIFIED="1552806037182" LINK="https://www.livelaw.in/columns/official-secrets-act-press-freedom-national-security-143437">
+<node TEXT="santanu saika : leaking disinvestment policy, 1998&#xa;&#xa;SC acquitted though &apos;secret&apos; doc.&#xa;&#xa;because no threat to integrity of India" ID="ID_820241466" CREATED="1552806041628" MODIFIED="1552806077535"/>
 </node>
 <node TEXT="every leak is not a crime under OSA." ID="ID_1735136864" CREATED="1552805606441" MODIFIED="1552805616130">
 <node TEXT="section 3,5 : only those benefitting enemy nation are!" ID="ID_1486340426" CREATED="1552805616339" MODIFIED="1552805641611"/>
@@ -14664,7 +14812,7 @@
 </node>
 </node>
 </node>
-<node TEXT="prelims 2019" POSITION="right" ID="ID_479714722" CREATED="1551429738461" MODIFIED="1551429740990">
+<node TEXT="prelims 2019" FOLDED="true" POSITION="right" ID="ID_479714722" CREATED="1551429738461" MODIFIED="1551429740990">
 <node TEXT="NPPA brings price under control (control trade margins)" FOLDED="true" ID="ID_109359540" CREATED="1551429760156" MODIFIED="1551429772103">
 <node TEXT=" trade margin :&#xa;&#xa;difference between the price at which the manufacturers sell to trade and the price that patients pay (maximum retail price)." ID="ID_479469896" CREATED="1551429743902" MODIFIED="1551429755843"/>
 </node>
@@ -22758,6 +22906,10 @@
 <font NAME="Calibri"/>
 <node TEXT="in public interest - yes" ID="ID_1790267358" CREATED="1524395391587" MODIFIED="1524395398081"/>
 <node TEXT="OSA ambit + economic / national interest excluded" ID="ID_1477724987" CREATED="1524395398392" MODIFIED="1524395410469"/>
+<node TEXT="OSA vs Whistle Blowing" ID="ID_921173876" CREATED="1552806123556" MODIFIED="1552806130736">
+<node TEXT="OSA = misuse to mark secret&#xa;&#xa;=&gt; Need to whistle blow to reveal" ID="ID_1914016692" CREATED="1552806130994" MODIFIED="1552806153297"/>
+<node TEXT="OSA misuse" ID="ID_1490653236" CREATED="1552806154209" MODIFIED="1552806185767" LINK="#ID_820241466"/>
+</node>
 </node>
 <node TEXT="[example]&#xa;iPaid Bribe by Janaagraha.org" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_862485986" CREATED="1526129964734" MODIFIED="1532414980831" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
