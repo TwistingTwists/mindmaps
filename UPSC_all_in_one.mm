@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1582,9 +1582,10 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
+<node TEXT="22(1) : cannot be denied right to consult" ID="ID_34712099" CREATED="1552843697868" MODIFIED="1553682333538"/>
 <node TEXT="22(3) = preventive detention&#xa;PD" FOLDED="true" ID="ID_1281423292" CREATED="1497969591890" MODIFIED="1552843799468">
 <icon BUILTIN="bookmark"/>
-<node TEXT="preventive detention is statutory in nature" ID="ID_1008594485" CREATED="1499333772906" MODIFIED="1499334254728">
+<node TEXT="preventive detention is statutory in nature" FOLDED="true" ID="ID_1008594485" CREATED="1499333772906" MODIFIED="1499334254728">
 <node TEXT="not as discretionary power of executive" ID="ID_591013130" CREATED="1503413488605" MODIFIED="1507780181922">
 <font BOLD="true"/>
 <node TEXT="its exercise has to be within limitation of statue!" ID="ID_914941349" CREATED="1499334255080" MODIFIED="1499334273106"/>
@@ -1593,7 +1594,7 @@
 <font BOLD="true"/>
 </node>
 </node>
-<node TEXT="four grounds" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
+<node TEXT="four grounds" FOLDED="true" ID="ID_693838497" CREATED="1497969595218" MODIFIED="1497969597464">
 <node ID="ID_513890276" CREATED="1497969610998" MODIFIED="1509101847761"><richcontent TYPE="NODE">
 
 <html>
@@ -1618,7 +1619,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="exceptions" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
+<node TEXT="exceptions" FOLDED="true" ID="ID_642244368" CREATED="1497969597819" MODIFIED="1497969610027">
 <node ID="ID_1180436773" CREATED="1497969671950" MODIFIED="1497969763660" MAX_WIDTH="161.66212004813764 pt" MIN_WIDTH="161.66212004813764 pt"><richcontent TYPE="NODE">
 
 <html>
@@ -1658,15 +1659,14 @@
 <node TEXT="anti torture legislation" ID="ID_1608045179" CREATED="1535787464817" MODIFIED="1535787773301" LINK="#ID_124885435"/>
 </node>
 <node TEXT="concerns" FOLDED="true" ID="ID_899376941" CREATED="1552843692116" MODIFIED="1552843693642">
-<node TEXT="against 22(1) : cannot be denied right to consult" ID="ID_34712099" CREATED="1552843697868" MODIFIED="1552843718709"/>
 <node TEXT="violate due process of law : presumption of guilt" ID="ID_1609599914" CREATED="1552843718913" MODIFIED="1552843735216"/>
 <node TEXT="inhumane treatment" ID="ID_969007154" CREATED="1552843735998" MODIFIED="1552843746472"/>
 </node>
-<node TEXT="way forward" ID="ID_1923513299" CREATED="1552843688579" MODIFIED="1552843690179">
+<node TEXT="way forward" FOLDED="true" ID="ID_1923513299" CREATED="1552843688579" MODIFIED="1552843690179">
 <node TEXT="NCRWC, 2000&#xa;- remove PD" ID="ID_615285603" CREATED="1535787471803" MODIFIED="1535787479913"/>
 </node>
 <node TEXT="legislations involved" FOLDED="true" ID="ID_218374164" CREATED="1552843587853" MODIFIED="1552843592000">
-<node TEXT="NSA, 1988" FOLDED="true" ID="ID_635549349" CREATED="1552843592145" MODIFIED="1552843600081">
+<node TEXT="NSA, 1988" ID="ID_635549349" CREATED="1552843592145" MODIFIED="1552843600081">
 <node TEXT="UP govt. use NSA for cow slaughter, Bulandshahar" ID="ID_1777947755" CREATED="1552843634861" MODIFIED="1552843666219"/>
 <node TEXT="MP govt NSA for cow killing" ID="ID_1112471389" CREATED="1552843644439" MODIFIED="1552843654154"/>
 <node TEXT="not in JnK" ID="ID_539504119" CREATED="1552843674383" MODIFIED="1552843678130"/>
@@ -8999,7 +8999,7 @@
 </node>
 <node TEXT="reasons of formation of tropical cyclone" ID="ID_407031278" CREATED="1526475043148" MODIFIED="1526475051977"/>
 </node>
-<node TEXT="IR" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
+<node TEXT="IR" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
 <font NAME="Calibri"/>
 <node TEXT="Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1034117854" CREATED="1488085350288" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
@@ -10060,6 +10060,11 @@
 <node TEXT="+ other nation ke banks for economic ties + investment" ID="ID_362492695" CREATED="1495769626176" MODIFIED="1495769641487"/>
 </node>
 </node>
+<node TEXT="BTIA" LOCALIZED_STYLE_REF="default" ID="ID_795530933" CREATED="1553847965725" MODIFIED="1553847967249">
+<font NAME="Calibri"/>
+<node TEXT="2007, India EU" ID="ID_1878001523" CREATED="1553847974969" MODIFIED="1553847977800"/>
+<node TEXT="IPR, Sus Dev, SPS" ID="ID_1025687175" CREATED="1553847995443" MODIFIED="1553848002119"/>
+</node>
 <node TEXT="SAARC ( 8 )" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_684887168" CREATED="1488601162995" MODIFIED="1497236824716">
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
@@ -10105,23 +10110,23 @@
 <font NAME="Calibri"/>
 <node TEXT="19 countries + EU" ID="ID_1262899468" CREATED="1490806268803" MODIFIED="1490806273950"/>
 <node TEXT="2117 - 85" ID="ID_1428535855" CREATED="1490806279317" MODIFIED="1490806283311" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/14-Question.pdf"/>
-<node TEXT="Quiet on ?" FOLDED="true" ID="ID_615776185" CREATED="1489728817157" MODIFIED="1489728822086">
+<node TEXT="Quiet on ?" ID="ID_615776185" CREATED="1489728817157" MODIFIED="1489728822086">
 <node TEXT="climate change + energy" ID="ID_723418762" CREATED="1492238881938" MODIFIED="1492238887496"/>
 </node>
-<node TEXT="Speaks on" FOLDED="true" ID="ID_1475283253" CREATED="1492238892377" MODIFIED="1492238894310">
-<node TEXT="@Hangzhou consensus : China" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1084301085" CREATED="1488703939505" MODIFIED="1497236977937" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="Speaks on" ID="ID_1475283253" CREATED="1492238892377" MODIFIED="1492238894310">
+<node TEXT="@Hangzhou consensus : China" LOCALIZED_STYLE_REF="default" ID="ID_1084301085" CREATED="1488703939505" MODIFIED="1497236977937" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
 <node TEXT="cooperative macroeconomic policy + tade _ innovation" ID="ID_585321183" CREATED="1489728824956" MODIFIED="1489728843574"/>
 </node>
 <node TEXT="Sustainable Development" ID="ID_1592096156" CREATED="1492238958531" MODIFIED="1492238964281"/>
 <node TEXT="Anti corruption" ID="ID_1037836138" CREATED="1492238894609" MODIFIED="1492238899197"/>
-<node TEXT="International tax avoidance" FOLDED="true" ID="ID_881443962" CREATED="1492238899898" MODIFIED="1492238908381">
+<node TEXT="International tax avoidance" ID="ID_881443962" CREATED="1492238899898" MODIFIED="1492238908381">
 <node TEXT="    BEPS" ID="ID_1528436782" CREATED="1492238911828" MODIFIED="1492238913443"/>
 </node>
 </node>
 <node TEXT="BRICS countries are members! + developing + developed" ID="ID_996722494" CREATED="1496052100073" MODIFIED="1496052111034"/>
-<node TEXT="established Financial Stability Board" FOLDED="true" ID="ID_12555697" CREATED="1497236963705" MODIFIED="1527151266528">
+<node TEXT="established Financial Stability Board" ID="ID_12555697" CREATED="1497236963705" MODIFIED="1527151266528">
 <icon BUILTIN="idea"/>
 <font BOLD="true"/>
 <node TEXT="FSB hosted + funded by BIS" ID="ID_766054025" CREATED="1527151236265" MODIFIED="1527151245675"/>
@@ -10541,7 +10546,7 @@
 <node TEXT="Social justice = reduced to Reservation" ID="ID_722770119" CREATED="1489721742644" MODIFIED="1489721756297"/>
 </node>
 </node>
-<node TEXT="Essay" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_169267200" CREATED="1490333094834" MODIFIED="1494887616077">
+<node TEXT="Essay" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_169267200" CREATED="1490333094834" MODIFIED="1494887616077">
 <font NAME="Calibri"/>
 <node TEXT="If progress is not engendered it will be endangered." ID="ID_73778537" CREATED="1489129053800" MODIFIED="1489129065703"/>
 <node TEXT="Merely opening women account do not ensure financial inclusion" ID="ID_1978673542" CREATED="1490948111438" MODIFIED="1490948125934"/>
