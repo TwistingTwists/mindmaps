@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -137,9 +137,9 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
 <node TEXT="Polity" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
 <font NAME="Calibri"/>
-<node TEXT="Laxmikanth" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1966133345" CREATED="1488094079918" MODIFIED="1494887616050">
+<node TEXT="Laxmikanth" LOCALIZED_STYLE_REF="default" ID="ID_1966133345" CREATED="1488094079918" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
-<node TEXT="8. DPSP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_587865921" CREATED="1490036318688" MODIFIED="1509014051727">
+<node TEXT="8. DPSP" LOCALIZED_STYLE_REF="default" ID="ID_587865921" CREATED="1490036318688" MODIFIED="1509014051727">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
 <node TEXT="gandhian" FOLDED="true" ID="ID_834204016" CREATED="1490036331565" MODIFIED="1490036332674">
@@ -161,7 +161,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="socailistic" FOLDED="true" ID="ID_219799566" CREATED="1490036333190" MODIFIED="1490036335440">
+<node TEXT="socailistic" ID="ID_219799566" CREATED="1490036333190" MODIFIED="1490036335440">
 <node ID="ID_1852963952" CREATED="1490036617518" MODIFIED="1496529956842"><richcontent TYPE="NODE">
 
 <html>
@@ -179,7 +179,7 @@
 <node TEXT="free legal aid" ID="ID_1537179294" CREATED="1509111601513" MODIFIED="1509111612954"/>
 <node TEXT="47 = level of nutrition" ID="ID_428642033" CREATED="1490036657290" MODIFIED="1496529938370"/>
 </node>
-<node TEXT="liberal intellectual" FOLDED="true" ID="ID_735090860" CREATED="1490036321266" MODIFIED="1490036328596">
+<node TEXT="liberal intellectual" ID="ID_735090860" CREATED="1490036321266" MODIFIED="1490036328596">
 <node TEXT="Uniform Civil Code" FOLDED="true" ID="ID_639344372" CREATED="1490036482279" MODIFIED="1490036489843">
 <node TEXT="conflict leg / judiciary" FOLDED="true" ID="ID_196998264" CREATED="1507168471155" MODIFIED="1507168478042">
 <node TEXT="judiciary =&#xa;13 - whether personal law consistent with FR?" ID="ID_1217902805" CREATED="1507168420777" MODIFIED="1507168440512"/>
@@ -1013,7 +1013,7 @@
 </node>
 </node>
 </node>
-<node TEXT="32. Special status of J n K" LOCALIZED_STYLE_REF="default" ID="ID_1481839006" CREATED="1497708577900" MODIFIED="1497708582891">
+<node TEXT="32. Special status of J n K" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1481839006" CREATED="1497708577900" MODIFIED="1497708582891">
 <font NAME="Calibri"/>
 <node TEXT="Governor&apos;s Rule" ID="ID_843346229" CREATED="1497708583206" MODIFIED="1497708592553">
 <node TEXT="in concurrence with president" ID="ID_825517273" CREATED="1497708593103" MODIFIED="1497708600719"/>
@@ -4877,7 +4877,9 @@
 <font NAME="Calibri"/>
 </node>
 <node TEXT="assist living devices" ID="ID_1385110481" CREATED="1490417191451" MODIFIED="1490417195650"/>
-<node TEXT="By ALMICO" FOLDED="true" ID="ID_1774893810" CREATED="1492170282611" MODIFIED="1492170284073">
+<node TEXT="By ALMICO" ID="ID_1774893810" CREATED="1492170282611" MODIFIED="1492170284073">
+<node TEXT="not for profit" ID="ID_1465357319" CREATED="1554616003127" MODIFIED="1554616005054"/>
+<node TEXT="100% goI owned miniratna" ID="ID_990827268" CREATED="1554616010724" MODIFIED="1554616015961"/>
 <node TEXT="under MoSJE" ID="ID_1573190926" CREATED="1492170284208" MODIFIED="1492170287735"/>
 </node>
 </node>
@@ -5646,7 +5648,7 @@
 </node>
 </node>
 <node TEXT="mizoram" FOLDED="true" ID="ID_1407125244" CREATED="1496214801798" MODIFIED="1496214803298">
-<node TEXT="Bru tribe" FOLDED="true" ID="ID_1074453543" CREATED="1552291925062" MODIFIED="1552291926819">
+<node TEXT="Bru tribe" ID="ID_1074453543" CREATED="1552291925062" MODIFIED="1552291926819">
 <node TEXT="fled to Tripura in 1997&#xa;&#xa;Centre to give financial assistance to rehab them in Mizoram" ID="ID_1692092526" CREATED="1552457188228" MODIFIED="1552457231381"/>
 </node>
 <node TEXT="lushai" ID="ID_1696375132" CREATED="1495175229373" MODIFIED="1495175231155"/>
@@ -9945,6 +9947,9 @@
 <node TEXT="counter to NATO&#xa;for multi polar world" ID="ID_1001481712" CREATED="1492151862144" MODIFIED="1503365672267"/>
 <node TEXT="regional anti terrorist structure (RATS)" ID="ID_703170124" CREATED="1499183164467" MODIFIED="1508038502357">
 <font BOLD="true"/>
+<node TEXT="all members are part of RATS" ID="ID_1263724609" CREATED="1554615196978" MODIFIED="1554615203271"/>
+<node TEXT="permanent body of SCO" ID="ID_698769414" CREATED="1554615216834" MODIFIED="1554615224142"/>
+<node TEXT="HQ : Tashkent" ID="ID_493225179" CREATED="1554615203448" MODIFIED="1554615211660"/>
 </node>
 <node TEXT="defence, energy" ID="ID_1254656750" CREATED="1507195488719" MODIFIED="1507195491738">
 <font BOLD="true"/>
