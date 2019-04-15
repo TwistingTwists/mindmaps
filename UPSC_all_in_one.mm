@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -7340,8 +7340,12 @@
 <node TEXT="cheeked macaque" FOLDED="true" ID="ID_97927217" CREATED="1497545540735" MODIFIED="1497545549750">
 <node TEXT="Arunachal" ID="ID_1447919605" CREATED="1497545550046" MODIFIED="1497545555497"/>
 </node>
-<node TEXT="indian pangolin" FOLDED="true" ID="ID_864402612" CREATED="1497055700274" MODIFIED="1527245440994">
+<node TEXT="indian pangolin" ID="ID_864402612" CREATED="1497055700274" MODIFIED="1527245440994">
 <icon BUILTIN="idea"/>
+<node TEXT="Chinese Pangolin&#xa;is CE" ID="ID_562221549" CREATED="1555338153810" MODIFIED="1555338156795">
+<node TEXT=" mostly in the north-eastern states of India and parts of Southeast Asia." ID="ID_727868567" CREATED="1555338174307" MODIFIED="1555338175031"/>
+</node>
+<node TEXT="world&#x2019;s only truly scaly mammal." ID="ID_424470858" CREATED="1555338140356" MODIFIED="1555338140930"/>
 <node TEXT="rolls over when fears" ID="ID_1483145071" CREATED="1497055706840" MODIFIED="1497055712231"/>
 <node TEXT="everywhere in India&#xa;&#xa; except the arid region, high Himalayas and the North-East." ID="ID_1719039485" CREATED="1527245431058" MODIFIED="1527245437753"/>
 <node TEXT="endangered, Schedule I" ID="ID_889674610" CREATED="1497055712325" MODIFIED="1527245406941"/>
@@ -7820,25 +7824,6 @@
   </head>
   <body>
     <span class="fontstyle0">how much more needs to be done by countries in order to meet the target of<br/>keeping global warming levels below the 2&#176;C </span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="World conservation congress" FOLDED="true" ID="ID_1585230301" CREATED="1495960248257" MODIFIED="1525844171370">
-<icon BUILTIN="idea"/>
-<node TEXT="IUCN" ID="ID_1035926917" CREATED="1495960256482" MODIFIED="1495960258717"/>
-<node TEXT="@Hawaii&apos;16; every 4 years" ID="ID_912071635" CREATED="1495960259560" MODIFIED="1495960270639"/>
-<node ID="ID_557231041" CREATED="1495960353448" MODIFIED="1495960364783"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      gave Bibhuti Lakhar, <i><b>Heritage Heores Award</b></i>
-    </p>
   </body>
 </html>
 </richcontent>
@@ -9281,6 +9266,31 @@
 <node TEXT="Luc Hoffman Award" FOLDED="true" ID="ID_4733201" CREATED="1488551990154" MODIFIED="1488551996068">
 <node TEXT="Dr. Dhrubjyoti Ghosh" ID="ID_670278501" CREATED="1488552000732" MODIFIED="1488552006106"/>
 <node TEXT="kolkata = wetland of international importance [ ramsar wetland ]" ID="ID_186725283" CREATED="1488552006340" MODIFIED="1488552029216"/>
+</node>
+<node TEXT="UN Observer Status, since 1999" ID="ID_1772645444" CREATED="1555336829753" MODIFIED="1555336836175"/>
+<node TEXT="IUCN red list since 1964" ID="ID_695515399" CREATED="1555336844522" MODIFIED="1555336848803"/>
+<node TEXT="Protected Planet" FOLDED="true" ID="ID_602149864" CREATED="1555336856427" MODIFIED="1555336856621">
+<node TEXT="information on protected areas, updated monthly with submissions from governments, non-governmental organizations, landowners and communities." ID="ID_869437125" CREATED="1555336867983" MODIFIED="1555336868649"/>
+</node>
+<node TEXT="@Gland, Switzerland" ID="ID_7265505" CREATED="1555336822419" MODIFIED="1555336825832"/>
+<node TEXT="World conservation congress" FOLDED="true" ID="ID_1585230301" CREATED="1495960248257" MODIFIED="1525844171370">
+<icon BUILTIN="idea"/>
+<node TEXT="IUCN" ID="ID_1035926917" CREATED="1495960256482" MODIFIED="1495960258717"/>
+<node TEXT="@Hawaii&apos;16; every 4 years" ID="ID_912071635" CREATED="1495960259560" MODIFIED="1495960270639"/>
+<node ID="ID_557231041" CREATED="1495960353448" MODIFIED="1495960364783"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      gave Bibhuti Lakhar, <i><b>Heritage Heores Award</b></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="FATF" FOLDED="true" ID="ID_722660011" CREATED="1526729706157" MODIFIED="1526729707376">
