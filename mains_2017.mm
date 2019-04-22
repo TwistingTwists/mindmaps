@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -4436,7 +4436,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="free and fair election&#xa;, people&apos;s faith&#xa;, money power&#xa;, credibility (independence) of media?" ID="ID_352410689" CREATED="1530861091799" MODIFIED="1530861118906"/>
@@ -11991,7 +11990,7 @@
 </node>
 </node>
 </node>
-<node TEXT="prelims 2018" FOLDED="true" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
+<node TEXT="prelims 2018" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
 <node TEXT="modern HISTORY" ID="ID_582819970" CREATED="1524239181202" MODIFIED="1553158238818">
 <font BOLD="false"/>
 <node TEXT="Inquilaab Zindabad &#x2013; Maulana Hasrat Mohani" ID="ID_1938937598" CREATED="1524133082431" MODIFIED="1524133083196"/>
@@ -20168,7 +20167,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1549617159419" BACKGROUND_COLOR="#fdfdd0"><richcontent TYPE="NODE">
 
 <html>
@@ -20467,7 +20466,7 @@
 <node TEXT="Evaluation of PMKSY" FOLDED="true" ID="ID_829665849" CREATED="1532669300704" MODIFIED="1532669306186">
 <icon BUILTIN="flag-green"/>
 <font BOLD="true"/>
-<node TEXT="issues" FOLDED="true" ID="ID_1373724492" CREATED="1532669398869" MODIFIED="1532669400200">
+<node TEXT="issues" ID="ID_1373724492" CREATED="1532669398869" MODIFIED="1532669400200">
 <node ID="ID_549085276" CREATED="1532669323086" MODIFIED="1532669411176"><richcontent TYPE="NODE">
 
 <html>
@@ -22170,7 +22169,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2.         Inclusive growth and issues arising from it." FOLDED="true" ID="ID_1763437746" CREATED="1540965626219" MODIFIED="1540965781433" BACKGROUND_COLOR="#fdfdd0">
+<node TEXT="2.         Inclusive growth and issues arising from it." ID="ID_1763437746" CREATED="1540965626219" MODIFIED="1540965781433" BACKGROUND_COLOR="#fdfdd0">
 <node TEXT="international dimension" FOLDED="true" ID="ID_342524394" CREATED="1549213894154" MODIFIED="1549213897790">
 <node TEXT="Human Capital Index HCI by WB, WDR, 2019&#xa;&#xa;focus_11_18" FOLDED="true" ID="ID_674729900" CREATED="1549213867940" MODIFIED="1549213916678">
 <node TEXT="India = 0.44&#xa;&#xa;child becomes HC upto 18" ID="ID_1951666992" CREATED="1549707850475" MODIFIED="1549707864665"/>
