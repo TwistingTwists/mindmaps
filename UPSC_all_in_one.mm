@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.5">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -9384,10 +9384,10 @@
 <node TEXT="GATT" LOCALIZED_STYLE_REF="default" ID="ID_1296308096" CREATED="1488876059444" MODIFIED="1489489711975"/>
 <node TEXT="GATS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1380750585" CREATED="1488876054147" MODIFIED="1489489443168">
 <node TEXT="modes [ 2124 - 93 ]" FOLDED="true" ID="ID_1847392897" CREATED="1488876463227" MODIFIED="1488876493699" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf">
-<node TEXT="mode 2" FOLDED="true" ID="ID_1936704208" CREATED="1490677738650" MODIFIED="1490677741312">
+<node TEXT="mode 2" ID="ID_1936704208" CREATED="1490677738650" MODIFIED="1490677741312">
 <node TEXT="medical tourism" ID="ID_631977454" CREATED="1490677465985" MODIFIED="1490677468208"/>
 </node>
-<node TEXT="mode 4" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1030661272" CREATED="1489489684433" MODIFIED="1489489742328" BACKGROUND_COLOR="#fcb0b0">
+<node TEXT="mode 4" LOCALIZED_STYLE_REF="default" ID="ID_1030661272" CREATED="1489489684433" MODIFIED="1489489742328" BACKGROUND_COLOR="#fcb0b0">
 <font BOLD="false" ITALIC="true"/>
 <node TEXT="free movement of skilled workers" ID="ID_1789874414" CREATED="1490677470439" MODIFIED="1490677476875"/>
 </node>
@@ -9395,13 +9395,13 @@
 </node>
 <node TEXT=" = TFA in services (TFS)" ID="ID_417284505" CREATED="1490681712265" MODIFIED="1495429029051"/>
 </node>
-<node TEXT="NAMA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_989761257" CREATED="1489496165445" MODIFIED="1489496166576">
+<node TEXT="NAMA" LOCALIZED_STYLE_REF="default" ID="ID_989761257" CREATED="1489496165445" MODIFIED="1489496166576">
 <node TEXT="trade tariff elimination" ID="ID_1336208155" CREATED="1489496166711" MODIFIED="1489496173183"/>
 </node>
 </node>
 <node TEXT="non tariff" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_413855788" CREATED="1497416480096" MODIFIED="1497416495254">
 <node TEXT="Anti dumping duty / countervailing duty" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_940603885" CREATED="1489494912271" MODIFIED="1489494944287">
-<node TEXT="selling below market price" FOLDED="true" ID="ID_1745385633" CREATED="1489494945931" MODIFIED="1489494968839">
+<node TEXT="selling below market price" ID="ID_1745385633" CREATED="1489494945931" MODIFIED="1489494968839">
 <node TEXT="company doing predatory pricing" ID="ID_45516896" CREATED="1489494990874" MODIFIED="1489495020955"/>
 <node TEXT="if China subsidises company doing predatory pricing" ID="ID_336219379" CREATED="1489494997792" MODIFIED="1489495040000"/>
 </node>
