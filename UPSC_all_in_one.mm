@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1744,7 +1744,7 @@
 <font NAME="Calibri"/>
 </node>
 <node TEXT="The Biological Diversity Act, 2002." ID="ID_1006385008" CREATED="1495436209760" MODIFIED="1495436209760"/>
-<node TEXT="can&apos;t act under!" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1467160927" CREATED="1495436226294" MODIFIED="1495436252586" BACKGROUND_COLOR="#feffd6">
+<node TEXT="can&apos;t act under!" LOCALIZED_STYLE_REF="default" ID="ID_1467160927" CREATED="1495436226294" MODIFIED="1495436252586" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 <node TEXT="Wildlife (Protection) Act, 1972" ID="ID_713337805" CREATED="1495436248609" MODIFIED="1495436248609"/>
 <node TEXT="Indian Forest Act, 1927" ID="ID_699521031" CREATED="1495436248609" MODIFIED="1495436248609"/>
@@ -3493,24 +3493,6 @@
 <node TEXT="N fixation" LOCALIZED_STYLE_REF="default" ID="ID_516600687" CREATED="1496735112974" MODIFIED="1496958157263" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
-</node>
-<node TEXT="integrated development of wildlife habitat&#xa;IDWH" FOLDED="true" ID="ID_1004798680" CREATED="1496735820188" MODIFIED="1496735834194">
-<node ID="ID_636302746" CREATED="1496735837292" MODIFIED="1496958395550"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      protect wildlife <b>outside </b>its area
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="recovery prog for saving CEndangered species" ID="ID_1930057751" CREATED="1496735843297" MODIFIED="1496735860072"/>
-<node TEXT="support to protected areas" ID="ID_1327112509" CREATED="1496735868371" MODIFIED="1496735872417"/>
 </node>
 <node TEXT="eurythermal" FOLDED="true" ID="ID_588277078" CREATED="1497495166353" MODIFIED="1497495168979">
 <node TEXT="can live in wide range of temperature" ID="ID_1774575132" CREATED="1497495172605" MODIFIED="1497495181489"/>
@@ -7998,7 +7980,7 @@
 <node TEXT="no karma, everything pre determined" ID="ID_1480574436" CREATED="1497066928155" MODIFIED="1497066935194"/>
 <node TEXT="believe in fatalism" ID="ID_1593374796" CREATED="1497066938239" MODIFIED="1497066940927"/>
 </node>
-<node TEXT="Buddhism" ID="ID_1273388002" CREATED="1488692755712" MODIFIED="1526619912062">
+<node TEXT="Buddhism" FOLDED="true" ID="ID_1273388002" CREATED="1488692755712" MODIFIED="1526619912062">
 <font NAME="Calibri"/>
 <node TEXT="Pillars" ID="ID_1452266312" CREATED="1488692762055" MODIFIED="1494562512635" LINK="../../../E:/archived/Downloads/UPSC%20REVISION%20for%202017/unacademy-dl/images/Q_Mar_2/16.jpeg">
 <font NAME="Dialog"/>
@@ -8086,7 +8068,7 @@
 <node TEXT="Mahayana&#xa;greater vehicle" FOLDED="true" ID="ID_730364418" CREATED="1494562489402" MODIFIED="1557138386669">
 <font NAME="Dialog"/>
 <node TEXT="Buddha as saviour" ID="ID_500601003" CREATED="1494562607315" MODIFIED="1494562610878"/>
-<node TEXT="Bodhisattas!" ID="ID_1176476991" CREATED="1494562627163" MODIFIED="1494562630516">
+<node TEXT="Bodhisattas!" FOLDED="true" ID="ID_1176476991" CREATED="1494562627163" MODIFIED="1494562630516">
 <node ID="ID_640972609" CREATED="1494562632391" MODIFIED="1557138577170"><richcontent TYPE="NODE">
 
 <html>
@@ -8105,7 +8087,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1046183128" CREATED="1495854928477" MODIFIED="1495854971777"><richcontent TYPE="NODE">
@@ -8974,8 +8955,12 @@
 <node TEXT="9 yr term + no re-election" ID="ID_1209471469" CREATED="1494895734090" MODIFIED="1494895746842"/>
 </node>
 </node>
-<node TEXT="IEA&#xa;international energy agency" FOLDED="true" ID="ID_1446325645" CREATED="1495430258701" MODIFIED="1525511583767">
-<node TEXT="autonomous intergovernmental organization" FOLDED="true" ID="ID_786300738" CREATED="1495430318361" MODIFIED="1495430319834">
+<node TEXT="IEA&#xa;international energy agency" ID="ID_1446325645" CREATED="1495430258701" MODIFIED="1525511583767">
+<node TEXT="membership" FOLDED="true" ID="ID_1519345892" CREATED="1557211035189" MODIFIED="1557211037026">
+<node TEXT="30 members&#xa;&#xa;india = associate" ID="ID_557933574" CREATED="1557211024325" MODIFIED="1557211029926"/>
+<node TEXT="associate countries&#xa;China, India, Indonesia, Moroccoa, Singapore and Thailand" ID="ID_1150495001" CREATED="1557211014954" MODIFIED="1557211033333"/>
+</node>
+<node TEXT="autonomous intergovernmental organization" ID="ID_786300738" CREATED="1495430318361" MODIFIED="1495430319834">
 <node ID="ID_375759022" CREATED="1495430429883" MODIFIED="1525511848132"><richcontent TYPE="NODE">
 
 <html>
@@ -8991,20 +8976,19 @@
 </richcontent>
 </node>
 </node>
-<node TEXT=" four main areas of focus:" FOLDED="true" ID="ID_1262247859" CREATED="1495430340546" MODIFIED="1495430344685">
+<node TEXT=" four main areas of focus:" ID="ID_1262247859" CREATED="1495430340546" MODIFIED="1495430344685">
 <node TEXT="energy security&#xa; economic development environmental awareness engagement worldwide" ID="ID_865257191" CREATED="1495430345582" MODIFIED="1495430409605"/>
 </node>
 <node TEXT="to be a member, must be in OECD!! ( but if in OECD != member of IEA)" LOCALIZED_STYLE_REF="default" ID="ID_1385319590" CREATED="1496458695425" MODIFIED="1496458716542" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="China, India, Indonesia, Moroccoa, Singapore and Thailand" ID="ID_770090570" CREATED="1495430440773" MODIFIED="1495430441165"/>
 <node TEXT="world energy outlook" LOCALIZED_STYLE_REF="default" ID="ID_631754144" CREATED="1495430457086" MODIFIED="1525511790253" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
 <node TEXT="world energy investment" LOCALIZED_STYLE_REF="default" ID="ID_1192420205" CREATED="1495430462214" MODIFIED="1495430472515" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="International Smart Grid Action Network (ISGAN)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_801715720" CREATED="1495430489165" MODIFIED="1497417095781" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="International Smart Grid Action Network (ISGAN)" LOCALIZED_STYLE_REF="default" ID="ID_801715720" CREATED="1495430489165" MODIFIED="1497417095781" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 <node TEXT="agreement under IEA" ID="ID_556740411" CREATED="1495430495393" MODIFIED="1495430504441"/>
 <node TEXT="india = founding member" ID="ID_1520081017" CREATED="1495430504978" MODIFIED="1495430508741"/>
