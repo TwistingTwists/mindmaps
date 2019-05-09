@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -3439,47 +3439,6 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="MAB&#xa;man and biosphere program, UN" FOLDED="true" ID="ID_1127278916" CREATED="1495165868812" MODIFIED="1525510300634">
-<node TEXT="i_08 33" ID="ID_334809483" CREATED="1495165877165" MODIFIED="1495165903771" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/08-Insight%202017%20Prelims%20Test%20Series.pdf"/>
-<node ID="ID_486599228" CREATED="1495838455306" MODIFIED="1495838578338"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Biosphere&#160;&#160;= nature + culture protection + promote Env. conservation via <i>World Network of Biosphere Reserves</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node FOLDED="true" ID="ID_538021908" CREATED="1495838601678" MODIFIED="1525510356045"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      core areas can also contain <i>Sacred Groves (SG)</i>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="SG&#xa;, under WPA, 1972&#xa;, animals can be hunted of religious purposes&#xa;, in situ biodiversity conservation" ID="ID_760837655" CREATED="1525510314022" MODIFIED="1525510352420"/>
-</node>
-</node>
-<node TEXT="CEPI&#xa;coalation for epidemic preparedness" FOLDED="true" ID="ID_51720946" CREATED="1496371437030" MODIFIED="1496749114245">
-<icon BUILTIN="full-1"/>
-<node TEXT="by WEF" LOCALIZED_STYLE_REF="default" ID="ID_1257801804" CREATED="1496371524215" MODIFIED="1496371541209" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="global alliance of govt, WHO, etc. for vaccine development" ID="ID_1657951798" CREATED="1496371445578" MODIFIED="1496371481105"/>
-<node TEXT="chooses from WHO list" ID="ID_286446526" CREATED="1496371483652" MODIFIED="1496371489731"/>
-<node TEXT="chosen Lassa fever, Nipah, MERS ( middle east respiratory syndrome )" ID="ID_992403964" CREATED="1496371490543" MODIFIED="1496371515994"/>
-</node>
 <node TEXT="World Energy Architecture Performance Index" FOLDED="true" ID="ID_1308123543" CREATED="1496733624517" MODIFIED="1496733631030">
 <node TEXT="WEF" ID="ID_468108242" CREATED="1496733631342" MODIFIED="1496733632213"/>
 </node>
@@ -3517,32 +3476,40 @@
 <node TEXT="international vehicle compliance" ID="ID_831532423" CREATED="1497405972621" MODIFIED="1497405978719"/>
 <node TEXT="IBSA" FOLDED="true" ID="ID_503504710" CREATED="1491741834469" MODIFIED="1491741837125">
 <node TEXT="2003, India, brazil, SA" ID="ID_566791346" CREATED="1491741838939" MODIFIED="1491741847114"/>
+<node TEXT="IBSA Fund for the Alleviation of Poverty and Hunger" ID="ID_1279237042" CREATED="1557315403416" MODIFIED="1557315404616">
+<node TEXT="ach member country contributes $1 Million annually to this fund." ID="ID_1220068622" CREATED="1557315416019" MODIFIED="1557315416019"/>
+<node TEXT="managed by the United Nations Office for South-South Cooperation (UNOSSC)." ID="ID_1955723817" CREATED="1557315421433" MODIFIED="1557315421433"/>
+</node>
+<node TEXT="minsterial meeting in pretoria South Africa" ID="ID_1839397154" CREATED="1557315453769" MODIFIED="1557315461433">
+<node TEXT="understanding South-South Cooperation (SSC)" ID="ID_1477464829" CREATED="1557315462434" MODIFIED="1557315494504"/>
+</node>
 </node>
 <node TEXT="NATRIP&#xa;National Automotive Testing and R&amp;D Infrastructure Project" LOCALIZED_STYLE_REF="default" ID="ID_1220367595" CREATED="1496573272917" MODIFIED="1497406015058" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="Windhoek Declaration" FOLDED="true" ID="ID_1941733111" CREATED="1494402345865" MODIFIED="1494402349755">
+<node TEXT="Windhoek Declaration" ID="ID_1941733111" CREATED="1494402345865" MODIFIED="1494402349755">
 <node TEXT="African Pluralistic and independent Press" ID="ID_905380870" CREATED="1494402351109" MODIFIED="1494402363079"/>
 <node TEXT="under aegis of UNESCO" ID="ID_785634589" CREATED="1494402365458" MODIFIED="1494402370101"/>
 </node>
 <node TEXT="latvia - First country from  Baltic Sea to sign MoU for Belt and Road initiative" ID="ID_1173368689" CREATED="1494903833874" MODIFIED="1494903863820">
 <icon BUILTIN="launch"/>
 </node>
+<node TEXT="un peacekeeping forces" ID="ID_852473700" CREATED="1557316318423" MODIFIED="1557316324251">
+<node TEXT="first peacekeeping mission in 1948 to Palestine" ID="ID_1448191913" CREATED="1557316346972" MODIFIED="1557316370537"/>
+<node TEXT="Peacekeeping soldiers are paid by their own government" ID="ID_523690280" CREATED="1557316324408" MODIFIED="1557316326264"/>
+<node TEXT="financial resources of UN Peacekeeping operations are the collective responsibility of UN Member States" ID="ID_1939308804" CREATED="1557316336648" MODIFIED="1557316336859"/>
+</node>
 <node TEXT="India-myanmar-thailand motor car" FOLDED="true" ID="ID_1740075370" CREATED="1494904132955" MODIFIED="1496749410065">
 <icon BUILTIN="full-1"/>
 <node TEXT="Moreh - mandalay - mae sot" ID="ID_1914869164" CREATED="1494904140934" MODIFIED="1494904149721"/>
 <node TEXT="Manipur!" ID="ID_669648158" CREATED="1497674880333" MODIFIED="1497674882162"/>
 </node>
-<node TEXT="United Nations Commission on International Trade Law ( UNCITRAL )" FOLDED="true" ID="ID_1810060005" CREATED="1494904291355" MODIFIED="1496032009030">
+<node TEXT="United Nations Commission on International Trade Law ( UNCITRAL )" ID="ID_1810060005" CREATED="1494904291355" MODIFIED="1496032009030">
 <icon BUILTIN="full-1"/>
 <node TEXT="core legal body of UN" ID="ID_540693718" CREATED="1494904299088" MODIFIED="1494904303869"/>
 <node TEXT=" progressive harmonization and unification of international trade law" ID="ID_1474087004" CREATED="1496032023742" MODIFIED="1496032026402"/>
 <node TEXT="india = founding member" ID="ID_805630486" CREATED="1494904293568" MODIFIED="1494904298517"/>
-</node>
-<node TEXT="International telecommunications union" FOLDED="true" ID="ID_1544504151" CREATED="1497477865788" MODIFIED="1497477871517">
-<node TEXT="ITU, UN specialised agency" ID="ID_1145526257" CREATED="1497477871689" MODIFIED="1497477881055"/>
-<node TEXT="both public and private sector participate" ID="ID_588844570" CREATED="1497477881742" MODIFIED="1497477888712"/>
 </node>
 </node>
 <node TEXT="Sci Tech" FOLDED="true" ID="ID_952839723" CREATED="1494810978496" MODIFIED="1496055203522">
@@ -3656,27 +3623,6 @@
 </html>
 </richcontent>
 </node>
-</node>
-<node TEXT="Arctic Council" FOLDED="true" ID="ID_123075769" CREATED="1495076663144" MODIFIED="1497694694977">
-<node TEXT="8 members = Canada, US, Greenland, Finland, Norway, Sweden, Denmark, Russia," ID="ID_564809596" CREATED="1525522740757" MODIFIED="1525522770277"/>
-<node TEXT="India observer" LOCALIZED_STYLE_REF="default" ID="ID_295661303" CREATED="1525522775068" MODIFIED="1525522779090" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node ID="ID_1870830579" CREATED="1495076667986" MODIFIED="1496630405547"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      intergovernmental forum for cooperation among Arctic States <b>only</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="for environmental issues of Arctic" ID="ID_428707221" CREATED="1496630405844" MODIFIED="1496630425165"/>
 </node>
 <node TEXT="PolarGAP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1537791903" CREATED="1495076864925" MODIFIED="1525522785192" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <icon BUILTIN="idea"/>
@@ -4124,9 +4070,6 @@
 <node TEXT="eradicate hunger and poverty" ID="ID_262585492" CREATED="1496099416508" MODIFIED="1496099421160"/>
 </node>
 <node TEXT="UN agency , india founding member" ID="ID_140908436" CREATED="1496099394086" MODIFIED="1496099415483"/>
-</node>
-<node TEXT="IMFC" FOLDED="true" ID="ID_4771462" CREATED="1490361912970" MODIFIED="1490361919146">
-<node TEXT="international and monetary financial committee" ID="ID_737656888" CREATED="1490361919534" MODIFIED="1490361927967"/>
 </node>
 <node TEXT="NCRB" FOLDED="true" ID="ID_798630722" CREATED="1491633870810" MODIFIED="1491633886970">
 <node TEXT="MHA" ID="ID_1716399078" CREATED="1491633871848" MODIFIED="1491633874034"/>
@@ -5301,12 +5244,6 @@
 </node>
 <node TEXT="part 1" FOLDED="true" ID="ID_1817529046" CREATED="1495019474597" MODIFIED="1496055203525">
 <font NAME="Calibri"/>
-<node TEXT="NSG" FOLDED="true" ID="ID_1379715604" CREATED="1490935746515" MODIFIED="1497079991374">
-<node TEXT="NSG waiver = 2008" FOLDED="true" ID="ID_762608495" CREATED="1490935792015" MODIFIED="1490935796400">
-<node TEXT="can trade nuclear with NSG members" ID="ID_871099191" CREATED="1490935796515" MODIFIED="1490935803580"/>
-<node TEXT="i.e. due to NSG waiver no functional harm to india" ID="ID_1768420771" CREATED="1490935878862" MODIFIED="1490935888130"/>
-</node>
-</node>
 <node TEXT="Cochi airport" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1837069322" CREATED="1490354337148" MODIFIED="1497697361031" BACKGROUND_COLOR="#feffd6">
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
@@ -5491,12 +5428,6 @@
 <node TEXT="Myanmar refugees" ID="ID_871144192" CREATED="1552457428576" MODIFIED="1552457432520">
 <node TEXT="chin tribe&#xa;&#xa;UNHCR revoked refugee status they don&apos;t need protection , 2018" ID="ID_1903686307" CREATED="1552457432632" MODIFIED="1552457448829"/>
 </node>
-</node>
-<node TEXT="State of World&apos;s forest report" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_522061391" CREATED="1494453455419" MODIFIED="1525918952409" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="idea"/>
-<font NAME="Calibri"/>
-<node TEXT="by FAO" ID="ID_98439784" CREATED="1494453468130" MODIFIED="1494453469787"/>
-<node TEXT="every 2  yr." ID="ID_1818693460" CREATED="1494453471240" MODIFIED="1494453478456"/>
 </node>
 <node TEXT="global forest resource assessment (also)" FOLDED="true" ID="ID_1062014104" CREATED="1525918957222" MODIFIED="1525918974818">
 <node TEXT="FAO" ID="ID_1888801459" CREATED="1525918980428" MODIFIED="1525918981413"/>
@@ -5887,7 +5818,7 @@
 <node TEXT="Mekong Ganga Corporation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1568205344" CREATED="1491634219792" MODIFIED="1494909576216" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 <node TEXT="MGC" ID="ID_1070673448" CREATED="1491634225502" MODIFIED="1491634227768"/>
-<node TEXT="India + 5 South East nations" FOLDED="true" ID="ID_1657664083" CREATED="1491634230869" MODIFIED="1496790613453">
+<node TEXT="India + 5 South East nations" ID="ID_1657664083" CREATED="1491634230869" MODIFIED="1496790613453">
 <node TEXT="thailand, Myanmar, India, Laos, Cambodia, Vietnam" ID="ID_1478188076" CREATED="1491634237359" MODIFIED="1491634262065"/>
 </node>
 </node>
@@ -6392,14 +6323,6 @@
 <node TEXT="MexIn Tur BRIC" ID="ID_831229894" CREATED="1496140511200" MODIFIED="1496184566938"/>
 <node TEXT="Brazil, russia india china indonesia turkey mexico" ID="ID_24606877" CREATED="1496140520756" MODIFIED="1496140538397"/>
 </node>
-<node TEXT="CORSIA" FOLDED="true" ID="ID_1029289152" CREATED="1496213737169" MODIFIED="1496788300966">
-<icon BUILTIN="full-1"/>
-<node TEXT="2% of world CO2 by aviation" ID="ID_1514434439" CREATED="1497152513852" MODIFIED="1497152523780"/>
-<node TEXT="&quot;emission units&quot; like Carbon financing units" ID="ID_1920938158" CREATED="1497152526181" MODIFIED="1497152543385"/>
-<node TEXT="under UN (by ICAO)" ID="ID_1308901785" CREATED="1496213745052" MODIFIED="1497152507867"/>
-<node TEXT="for international flights in civil aviation" ID="ID_835159357" CREATED="1496213746662" MODIFIED="1496213755804"/>
-<node TEXT="opposed by india" ID="ID_648294719" CREATED="1496213759807" MODIFIED="1496213762713"/>
-</node>
 <node TEXT="heart of Asia (14)" FOLDED="true" ID="ID_1041147477" CREATED="1496214628806" MODIFIED="1497698935699">
 <icon BUILTIN="full-1"/>
 <node TEXT="hosted at India, Amritsar" ID="ID_843778982" CREATED="1496711580307" MODIFIED="1496711591465"/>
@@ -6451,15 +6374,6 @@
 <node TEXT="ECOMARK" FOLDED="true" ID="ID_141225987" CREATED="1496390854850" MODIFIED="1496390856455">
 <node TEXT="environment friendly mark for products" ID="ID_1044593221" CREATED="1496390856627" MODIFIED="1496390877625"/>
 <node TEXT="by BIS" ID="ID_987435094" CREATED="1496390878128" MODIFIED="1496390882356"/>
-</node>
-<node TEXT="Marrakesh treaty, 2013" FOLDED="true" ID="ID_1246381251" CREATED="1496392524679" MODIFIED="1496392542009">
-<node TEXT="books for blind" ID="ID_1600014972" CREATED="1496392528128" MODIFIED="1496392530609"/>
-<node TEXT="copyright exceptions" ID="ID_314120310" CREATED="1496392577899" MODIFIED="1496392580978"/>
-<node TEXT="sugamya pustkalya" ID="ID_989212685" CREATED="1496392586481" MODIFIED="1496392591982"/>
-<node TEXT="india - first to ratify" ID="ID_1824348212" CREATED="1496392593926" MODIFIED="1496392599639"/>
-<node TEXT="implement by WIPO via ABC (accessible book consortium)" LOCALIZED_STYLE_REF="default" ID="ID_1234045810" CREATED="1496392530880" MODIFIED="1496905539199" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
 </node>
 <node TEXT="red line campaign" FOLDED="true" ID="ID_1701572641" CREATED="1496394250640" MODIFIED="1496394253443">
 <node TEXT="against feverish use of antibiotics" ID="ID_252630024" CREATED="1496394253577" MODIFIED="1496394262835"/>
@@ -7087,10 +7001,6 @@
 <node TEXT="invited to subscribe shares ahead of IPO to boost popularity" ID="ID_674656764" CREATED="1497080401725" MODIFIED="1497080434481"/>
 <node TEXT="also invest in sovereign welath funds like NIIF" ID="ID_1715524946" CREATED="1497080485574" MODIFIED="1497080497569"/>
 </node>
-<node TEXT="international debt statistics , 2017 - World Bank" LOCALIZED_STYLE_REF="default" ID="ID_322179305" CREATED="1497094164317" MODIFIED="1497705644987" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<icon BUILTIN="full-1"/>
-<font NAME="Calibri"/>
-</node>
 <node TEXT="changthangi goat" FOLDED="true" ID="ID_1143494703" CREATED="1497543058677" MODIFIED="1497543063608">
 <node TEXT="Leh Ladakh" ID="ID_105221176" CREATED="1497543064205" MODIFIED="1497543490870"/>
 <node TEXT="Pashmina Shawl" ID="ID_377871041" CREATED="1497543490995" MODIFIED="1497543494855"/>
@@ -7424,9 +7334,6 @@
 <icon BUILTIN="full-1"/>
 <node TEXT="IMF" ID="ID_1475681155" CREATED="1497326588939" MODIFIED="1497326590033"/>
 </node>
-<node TEXT="global wage report" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1652719523" CREATED="1497232882247" MODIFIED="1497232884919">
-<node TEXT="ILO" ID="ID_1250984096" CREATED="1497232885044" MODIFIED="1497232886308"/>
-</node>
 <node TEXT="World Giving Index" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1581100315" CREATED="1488273773403" MODIFIED="1488545169653">
 <node TEXT="Charities Aid Foundation" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1248974558" CREATED="1488273788429" MODIFIED="1488545169653">
 <node TEXT="Intl. NGO" LOCALIZED_STYLE_REF="default" ID="ID_1094730312" CREATED="1488273800285" MODIFIED="1488545169653"/>
@@ -7523,28 +7430,6 @@
 </node>
 <node TEXT="World Press Freedom Index" FOLDED="true" ID="ID_1512508109" CREATED="1494404072239" MODIFIED="1494404078705">
 <node TEXT="Reporters without Borders" ID="ID_1658870230" CREATED="1494404065870" MODIFIED="1494404070535"/>
-</node>
-<node TEXT="World empoyment and social outlook report" FOLDED="true" ID="ID_19874874" CREATED="1494837699868" MODIFIED="1494837706808">
-<node TEXT="ILO" ID="ID_624291395" CREATED="1494837707654" MODIFIED="1494837708605"/>
-<node TEXT="2018 report" FOLDED="true" ID="ID_604491366" CREATED="1527157808838" MODIFIED="1527157903133">
-<icon BUILTIN="idea"/>
-<node TEXT="- 5.5% unemployment" ID="ID_1112681450" CREATED="1527157888484" MODIFIED="1527157899329"/>
-<node ID="ID_1188085178" CREATED="1527157861088" MODIFIED="1527157861088"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - continued premature deindustralisation (i.e. structural shift to service =&gt; manuf investment down)
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="- Vulnerable employment up (family contri + own account workers)" ID="ID_874201242" CREATED="1527157863114" MODIFIED="1527157888299"/>
-</node>
 </node>
 <node TEXT="Global microscope report" FOLDED="true" ID="ID_1894220829" CREATED="1494904584541" MODIFIED="1525844135448">
 <node TEXT="assess regulatory environment for financial inclusion" ID="ID_67517909" CREATED="1494904593082" MODIFIED="1494904609881"/>
@@ -8580,7 +8465,7 @@
 </node>
 <node TEXT="reasons of formation of tropical cyclone" ID="ID_407031278" CREATED="1526475043148" MODIFIED="1526475051977"/>
 </node>
-<node TEXT="IR" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
+<node TEXT="IR" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
 <font NAME="Calibri"/>
 <node TEXT="Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1034117854" CREATED="1488085350288" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
@@ -8729,12 +8614,22 @@
 </node>
 <node TEXT="India - Russia" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_831679159" CREATED="1488261780696" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
-<node TEXT="Economic" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_204361053" CREATED="1488261783916" MODIFIED="1488545169718">
+<node TEXT="Economic" LOCALIZED_STYLE_REF="default" ID="ID_204361053" CREATED="1488261783916" MODIFIED="1488545169718">
 <node TEXT="Russia largest FDI" LOCALIZED_STYLE_REF="default" ID="ID_459231178" CREATED="1488261815460" MODIFIED="1488545169718"/>
 <node TEXT="Invest in NIIF" LOCALIZED_STYLE_REF="default" ID="ID_1232394668" CREATED="1488261791952" MODIFIED="1496273181170">
 <icon BUILTIN="full-1"/>
 </node>
-<node TEXT="Defence" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1413381927" CREATED="1488261797146" MODIFIED="1488545169718">
+<node TEXT="Defence" LOCALIZED_STYLE_REF="default" ID="ID_1413381927" CREATED="1488261797146" MODIFIED="1488545169718">
+<node TEXT="co developed" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1389989878" CREATED="1557297031168" MODIFIED="1557297033538">
+<node TEXT="Sukhoi SU-30 MKI" ID="ID_130042332" CREATED="1557297033781" MODIFIED="1557297034413"/>
+<node TEXT="5th generation fighter jet" ID="ID_1287135359" CREATED="1557297041440" MODIFIED="1557297041913"/>
+<node TEXT="Brahmos" ID="ID_1544384489" CREATED="1557297042083" MODIFIED="1557297046208"/>
+</node>
+<node TEXT="purchased" ID="ID_20294211" CREATED="1557297058388" MODIFIED="1557297074306" LINK="https://www.insightsonindia.com/2018/06/14/rajya-sabha-tv-in-depth-s-400-air-defence-system/">
+<node TEXT="19th Annual Bilateral Summit :&#xa;&#xa;&#xa;s400 trimurf despite CAATSA" LOCALIZED_STYLE_REF="default" ID="ID_63627268" CREATED="1557296679278" MODIFIED="1557296714813"/>
+<node TEXT="INS Vikramaditya" LOCALIZED_STYLE_REF="default" ID="ID_233255463" CREATED="1557297062394" MODIFIED="1557297062602"/>
+<node TEXT="T-90S Bhishma, a 3rd generation Russia battle tank" LOCALIZED_STYLE_REF="default" ID="ID_428304575" CREATED="1557297068354" MODIFIED="1557297068577"/>
+</node>
 <node TEXT="Kamov-226 T helicopter" LOCALIZED_STYLE_REF="default" ID="ID_146715558" CREATED="1488261801022" MODIFIED="1488545169718"/>
 </node>
 <node TEXT="Trade" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_764461143" CREATED="1488261851087" MODIFIED="1488545169718">
@@ -8745,7 +8640,7 @@
 <node TEXT="iran Chahabar connects with russia" LOCALIZED_STYLE_REF="default" ID="ID_1217731354" CREATED="1499393699743" MODIFIED="1499393709596"/>
 </node>
 </node>
-<node TEXT="Energy" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_516243146" CREATED="1488261787186" MODIFIED="1488545169718">
+<node TEXT="Energy" LOCALIZED_STYLE_REF="default" ID="ID_516243146" CREATED="1488261787186" MODIFIED="1488545169718">
 <node TEXT="Kundankulam, nuclear energy" LOCALIZED_STYLE_REF="default" ID="ID_1685398790" CREATED="1488261836257" MODIFIED="1499393747985"/>
 </node>
 <node TEXT="Space" LOCALIZED_STYLE_REF="default" ID="ID_1288258636" CREATED="1488261841601" MODIFIED="1488545169718"/>
@@ -8809,9 +8704,82 @@
 <font NAME="Calibri"/>
 <node TEXT="opportunity :&#xa;&#xa;, energy security- nat gas, U-238, oil&#xa;, INSTC - trade&#xa;, market for educatoin and IT services&#xa;, new miliatry base in tajikistan" ID="ID_1388222322" CREATED="1547527897920" MODIFIED="1547528418213"/>
 <node TEXT="challenges :&#xa;&#xa;OBOR&#xa;, TAPI&#xa;, no connectivity&#xa;, poor defence relations" ID="ID_392324765" CREATED="1547527965968" MODIFIED="1547527993342"/>
+<node ID="ID_1110688203" CREATED="1557296011460" MODIFIED="1557296586673"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      policy done ? :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Look North policy (P narsimharao ) =&gt; Failure
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      so<font color="#ff3399">, Connect central asia policy,2012 =&gt; okayish performance </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#0033cc">PM's visit to these countries in 2015 =&gt; Relation Got a boost! </font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1560539189" CREATED="1557296282839" MODIFIED="1557296329529"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      since connectivity with each one is issue
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      so institutionalise the relation! =&gt; engage on common platform, year after year! :D
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff00cc">so india joined SCO</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="also india central asia dialogue, 2019&#xa;&#xa;samarkand , Uzbekistan" ID="ID_1978457259" CREATED="1557296330696" MODIFIED="1557296349338">
+<node TEXT="dialogue on air corridors" ID="ID_1308218143" CREATED="1557296554153" MODIFIED="1557296554153"/>
+<node TEXT="creation of a Regional Development Group for better coordination on economic and policy issues" ID="ID_1267182597" CREATED="1557296570011" MODIFIED="1557296570011"/>
+</node>
+</node>
+<node TEXT="why central asia wants to engage with india?" ID="ID_70891130" CREATED="1557296110947" MODIFIED="1557296118358">
+<node TEXT="india as buffer against chinese hegemony&#xa;&#xa;earlier, part of soviet unions, these states faced russian influence" ID="ID_1725180352" CREATED="1557296118478" MODIFIED="1557296148561"/>
+<node TEXT="also supported by USA (to limit chinese and russian influence)" ID="ID_1733289159" CREATED="1557296204904" MODIFIED="1557296224699"/>
+<node TEXT="india&apos;s investment" ID="ID_680232731" CREATED="1557296141477" MODIFIED="1557296145300"/>
+</node>
 <node TEXT="ashgabat agreement" ID="ID_796900421" CREATED="1547528023138" MODIFIED="1547528032232"/>
 </node>
-<node TEXT="india EU" ID="ID_1268611608" CREATED="1551150715269" MODIFIED="1551150717166">
+<node TEXT="india EU" FOLDED="true" ID="ID_1268611608" CREATED="1551150715269" MODIFIED="1551150717166">
 <font NAME="Calibri"/>
 <node TEXT="SME :&#xa;EU business support programme&#xa;&#xa;for people to people contact" ID="ID_1523432316" CREATED="1551150717743" MODIFIED="1551150768393" LINK="https://indianexpress.com/article/opinion/columns/india-european-union-business-partnership-trade-relations-5600571/"/>
 </node>
@@ -8819,11 +8787,12 @@
 <node TEXT="South China Sea" LOCALIZED_STYLE_REF="default" ID="ID_316452416" CREATED="1488085959430" MODIFIED="1494887616063">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="Organisations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_555659560" CREATED="1488181337149" MODIFIED="1494887616063">
+<node TEXT="Organisations" LOCALIZED_STYLE_REF="default" ID="ID_555659560" CREATED="1488181337149" MODIFIED="1494887616063">
 <font NAME="Calibri"/>
 <node TEXT="ADB" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1629169116" CREATED="1494451195011" MODIFIED="1526125990806">
 <icon BUILTIN="idea"/>
 <font NAME="Calibri"/>
+<node TEXT="headquarter Phillipines" ID="ID_801157366" CREATED="1494451244302" MODIFIED="1494451250498"/>
 <node TEXT="USA + Japan ( 15.60% ) = Highest shareholding" LOCALIZED_STYLE_REF="default" ID="ID_1850652674" CREATED="1494451198413" MODIFIED="1497237560564" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 </node>
@@ -8833,9 +8802,8 @@
 <node TEXT="also assistance to private for development" LOCALIZED_STYLE_REF="default" ID="ID_975668517" CREATED="1526125963940" MODIFIED="1526125988589" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="headquarter Phillipines" ID="ID_801157366" CREATED="1494451244302" MODIFIED="1494451250498"/>
 </node>
-<node TEXT="EU" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_303209717" CREATED="1494902414473" MODIFIED="1494902415493">
+<node TEXT="EU" LOCALIZED_STYLE_REF="default" ID="ID_303209717" CREATED="1494902414473" MODIFIED="1494902415493">
 <font NAME="Calibri"/>
 <node TEXT="History" FOLDED="true" ID="ID_1170645699" CREATED="1494902463159" MODIFIED="1494902464951">
 <node TEXT="1950 - Any country wishing to join France, germany to pool coal and steel resources" ID="ID_1020090966" CREATED="1494902432457" MODIFIED="1494902459676"/>
@@ -8913,7 +8881,7 @@
 </node>
 </node>
 </node>
-<node TEXT="EEA ( european economic area)" FOLDED="true" ID="ID_1915176569" CREATED="1494903749348" MODIFIED="1494903759542">
+<node TEXT="EEA ( european economic area)" ID="ID_1915176569" CREATED="1494903749348" MODIFIED="1494903759542">
 <node TEXT="EU + Iceland, Liechtenstein, NOrway - forming internal market" ID="ID_151449810" CREATED="1494903759777" MODIFIED="1494903782640"/>
 </node>
 </node>
@@ -8955,66 +8923,8 @@
 <node TEXT="9 yr term + no re-election" ID="ID_1209471469" CREATED="1494895734090" MODIFIED="1494895746842"/>
 </node>
 </node>
-<node TEXT="IEA&#xa;international energy agency" ID="ID_1446325645" CREATED="1495430258701" MODIFIED="1525511583767">
-<node TEXT="membership" FOLDED="true" ID="ID_1519345892" CREATED="1557211035189" MODIFIED="1557211037026">
-<node TEXT="30 members&#xa;&#xa;india = associate" ID="ID_557933574" CREATED="1557211024325" MODIFIED="1557211029926"/>
-<node TEXT="associate countries&#xa;China, India, Indonesia, Moroccoa, Singapore and Thailand" ID="ID_1150495001" CREATED="1557211014954" MODIFIED="1557211033333"/>
-</node>
-<node TEXT="autonomous intergovernmental organization" ID="ID_786300738" CREATED="1495430318361" MODIFIED="1495430319834">
-<node ID="ID_375759022" CREATED="1495430429883" MODIFIED="1525511848132"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      established in the framework of the Organization for Economic Co-operation and Development (<b><i>OECD) </i></b>in 1974 <font color="#ff3333">in wake of the 1973 oil crisis</font><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT=" four main areas of focus:" ID="ID_1262247859" CREATED="1495430340546" MODIFIED="1495430344685">
-<node TEXT="energy security&#xa; economic development environmental awareness engagement worldwide" ID="ID_865257191" CREATED="1495430345582" MODIFIED="1495430409605"/>
-</node>
-<node TEXT="to be a member, must be in OECD!! ( but if in OECD != member of IEA)" LOCALIZED_STYLE_REF="default" ID="ID_1385319590" CREATED="1496458695425" MODIFIED="1496458716542" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="world energy outlook" LOCALIZED_STYLE_REF="default" ID="ID_631754144" CREATED="1495430457086" MODIFIED="1525511790253" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="world energy investment" LOCALIZED_STYLE_REF="default" ID="ID_1192420205" CREATED="1495430462214" MODIFIED="1495430472515" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="International Smart Grid Action Network (ISGAN)" LOCALIZED_STYLE_REF="default" ID="ID_801715720" CREATED="1495430489165" MODIFIED="1497417095781" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="agreement under IEA" ID="ID_556740411" CREATED="1495430495393" MODIFIED="1495430504441"/>
-<node TEXT="india = founding member" ID="ID_1520081017" CREATED="1495430504978" MODIFIED="1495430508741"/>
-</node>
-</node>
 <node TEXT="IEF&#xa;international energy forum" ID="ID_137748164" CREATED="1525919013153" MODIFIED="1525919018966"/>
-<node TEXT="ILO" FOLDED="true" ID="ID_278735127" CREATED="1494837734111" MODIFIED="1494887616070">
-<font NAME="Calibri"/>
-<node TEXT="tripartite UN agency" ID="ID_253580795" CREATED="1494837737029" MODIFIED="1494887616071">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="India = founding member of ILO" ID="ID_1163679222" CREATED="1494837755008" MODIFIED="1494887616072">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="IMF" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_277545454" CREATED="1489484933442" MODIFIED="1494887616069">
-<font NAME="Calibri"/>
-<node TEXT="Bretton woods" ID="ID_1735192501" CREATED="1489484935466" MODIFIED="1489484955470"/>
-<node TEXT="IMFC" ID="ID_149166373" CREATED="1497325118020" MODIFIED="1497325119309"/>
-</node>
-<node TEXT="IMO" FOLDED="true" ID="ID_853214105" CREATED="1497330229704" MODIFIED="1497330230559">
-<font NAME="Calibri"/>
-<node TEXT="international maritime organisation" ID="ID_1707456586" CREATED="1497330230827" MODIFIED="1497330235065"/>
-<node TEXT="UN specialised agency for pollution by ships" ID="ID_1068755807" CREATED="1497330235292" MODIFIED="1497330248152"/>
-</node>
-<node TEXT="IORA" ID="ID_104507970" CREATED="1491631730714" MODIFIED="1525511581733">
+<node TEXT="IORA" FOLDED="true" ID="ID_104507970" CREATED="1491631730714" MODIFIED="1525511581733">
 <node TEXT="indian ocean rim association" ID="ID_858091183" CREATED="1554178011476" MODIFIED="1554178019810"/>
 <node TEXT="21 member + 7 dialogue partners" ID="ID_591604988" CREATED="1491631732322" MODIFIED="1491631746869">
 <node TEXT="Myanmar and Pak NOT members" LOCALIZED_STYLE_REF="default" ID="ID_79175471" CREATED="1496390917040" MODIFIED="1497237526325" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
@@ -9102,20 +9012,159 @@
 </node>
 </node>
 </node>
-<node TEXT="FATF" FOLDED="true" ID="ID_722660011" CREATED="1526729706157" MODIFIED="1526729707376">
-<node TEXT=" established by G7," ID="ID_1983291187" CREATED="1526729707580" MODIFIED="1527478579461"/>
-<node TEXT="grey list, black list" ID="ID_603219717" CREATED="1526729719407" MODIFIED="1526729722001"/>
-<node TEXT="applicable individual investors too, FIIs" ID="ID_294003361" CREATED="1526729722519" MODIFIED="1526729734642"/>
+<node TEXT="NPT, 1968:" ID="ID_323400566" CREATED="1557336511683" MODIFIED="1557336676242">
+<node TEXT="India, Israel, North Korea, Pakistan and South Sudan are not parties to this treaty." ID="ID_1553941068" CREATED="1557336672291" MODIFIED="1557336672291"/>
+<node TEXT="zangger committee" ID="ID_311663202" CREATED="1557374088606" MODIFIED="1557374095595">
+<node TEXT="china member" ID="ID_1424965143" CREATED="1557374096908" MODIFIED="1557374100864"/>
+<node TEXT="not to export fissionable material&#xa;&#xa;only after safeguards (Trigger LIST)" ID="ID_1581474392" CREATED="1557374101120" MODIFIED="1557374132234"/>
+</node>
+</node>
+<node TEXT="Treaty on the Prohibition of Nuclear Weapons 2017:" FOLDED="true" ID="ID_1258557592" CREATED="1557336506962" MODIFIED="1557336508243">
+<node TEXT="first multilateral legally-binding instrument for nuclear disarmament" ID="ID_1999286989" CREATED="1557336497208" MODIFIED="1557336500260"/>
+<node TEXT="nuclear weapon states + japan did not participate" ID="ID_866342343" CREATED="1557336568443" MODIFIED="1557336577536"/>
+<node TEXT="why NPT not first?&#xa;&#xa;because that&apos;s not disarmamanet" ID="ID_1214274205" CREATED="1557336513970" MODIFIED="1557336522743"/>
+</node>
+<node TEXT=" Nuclear-Weapon-Free Zone in Africa." FOLDED="true" ID="ID_1089131950" CREATED="1557373984992" MODIFIED="1557373987322">
+<node TEXT="treaty of pelindaba" ID="ID_1786818103" CREATED="1557373987489" MODIFIED="1557373992366"/>
+</node>
+<node TEXT="CTBT" FOLDED="true" ID="ID_1262374510" CREATED="1557336302972" MODIFIED="1557336304622">
+<node TEXT="india opposed" ID="ID_401843433" CREATED="1557336305374" MODIFIED="1557336450691">
+<node ID="ID_1938892770" CREATED="1557336452397" MODIFIED="1557336452397"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1. CTBT does not address complete disarmament
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_499607270" CREATED="1557336452397" MODIFIED="1557336452397"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2. discriminatory in nature with permanent UNSC members.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="entry-intoforce (EIF) clause : counrties becomes part of IMS automatically" ID="ID_898490855" CREATED="1557336431389" MODIFIED="1557336446379"/>
+</node>
+<node TEXT="multilateral treaty banning all nuclear explosions for both military and civilian purposes." ID="ID_321437516" CREATED="1557336332512" MODIFIED="1557336333117"/>
+<node TEXT="can only enter into force after it is ratified by eight countries" ID="ID_622605577" CREATED="1557336349395" MODIFIED="1557336349787">
+<node TEXT="China, Egypt, India, Iran, Israel, North Korea, Pakistan and the United States." ID="ID_803978830" CREATED="1557336371424" MODIFIED="1557336372556"/>
+</node>
+</node>
+<node TEXT="MECR&#xa;&#xa;multi lateral export control groups" FOLDED="true" ID="ID_1432216062" CREATED="1557336193049" MODIFIED="1557336202666">
+<node TEXT="    MTCR" ID="ID_1425450285" CREATED="1557336202796" MODIFIED="1557336205903">
+<node TEXT="check proliferation and UAV tech&#xa;&#xa;capable of payloads &gt;500kgs , &gt;300kms" ID="ID_660959714" CREATED="1557336248620" MODIFIED="1557336283057"/>
+</node>
+<node TEXT="all informal, india has MTCR, wassenar, australia membership" ID="ID_1653087337" CREATED="1557336284679" MODIFIED="1557336299501"/>
+<node TEXT="Wassenar" ID="ID_609056010" CREATED="1557336206139" MODIFIED="1557336208049">
+<node TEXT="dual use goods and conventional arms" ID="ID_1462286721" CREATED="1557336215734" MODIFIED="1557336220539"/>
+</node>
+<node TEXT="Australia group" ID="ID_1991368942" CREATED="1557336208205" MODIFIED="1557336210950">
+<node TEXT="Biological chemical weapons&#xa;&#xa;ABC" ID="ID_1700488808" CREATED="1557336229795" MODIFIED="1557336239843"/>
+</node>
+<node TEXT="NSG" ID="ID_732962958" CREATED="1557336211140" MODIFIED="1557336213499">
+<node TEXT="NSG waiver = 2008" FOLDED="true" ID="ID_762608495" CREATED="1490935792015" MODIFIED="1490935796400">
+<node TEXT="can trade nuclear with NSG members" ID="ID_871099191" CREATED="1490935796515" MODIFIED="1490935803580"/>
+<node TEXT="i.e. due to NSG waiver no functional harm to india" ID="ID_1768420771" CREATED="1490935878862" MODIFIED="1490935888130"/>
+</node>
+<node TEXT="48 members + Zangger committee + EU" ID="ID_395844337" CREATED="1557374246147" MODIFIED="1557374263233"/>
+</node>
+</node>
+<node TEXT="ISA" FOLDED="true" ID="ID_1963973832" CREATED="1557371610911" MODIFIED="1557371612378">
+<node TEXT="international solar alliance" ID="ID_1109011517" CREATED="1557371613363" MODIFIED="1557371616750"/>
+<node TEXT="Global Solar Atlas, WB + ISA" ID="ID_2492870" CREATED="1557371617564" MODIFIED="1557371628603"/>
 </node>
 <node TEXT="NAFTA" FOLDED="true" ID="ID_68176805" CREATED="1495148913377" MODIFIED="1525511588632">
 <node TEXT="us mexico cananda" ID="ID_967648596" CREATED="1495148914439" MODIFIED="1495148918337"/>
 </node>
-<node TEXT="OECD" LOCALIZED_STYLE_REF="default" ID="ID_1763927959" CREATED="1488617539161" MODIFIED="1494887616069">
+<node TEXT="OECD" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1763927959" CREATED="1488617539161" MODIFIED="1494887616069">
+<font NAME="Calibri"/>
+<node TEXT="IEA&#xa;international energy agency" FOLDED="true" ID="ID_1446325645" CREATED="1495430258701" MODIFIED="1525511583767">
+<node TEXT="membership" FOLDED="true" ID="ID_1519345892" CREATED="1557211035189" MODIFIED="1557211037026">
+<node TEXT="30 members&#xa;&#xa;india = associate" ID="ID_557933574" CREATED="1557211024325" MODIFIED="1557211029926"/>
+<node TEXT="associate countries&#xa;China, India, Indonesia, Moroccoa, Singapore and Thailand" ID="ID_1150495001" CREATED="1557211014954" MODIFIED="1557211033333"/>
+</node>
+<node TEXT="autonomous intergovernmental organization" ID="ID_786300738" CREATED="1495430318361" MODIFIED="1495430319834">
+<node ID="ID_375759022" CREATED="1495430429883" MODIFIED="1525511848132"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      established in the framework of the Organization for Economic Co-operation and Development (<b><i>OECD) </i></b>in 1974 <font color="#ff3333">in wake of the 1973 oil crisis</font><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT=" four main areas of focus:" ID="ID_1262247859" CREATED="1495430340546" MODIFIED="1495430344685">
+<node TEXT="energy security&#xa; economic development environmental awareness engagement worldwide" ID="ID_865257191" CREATED="1495430345582" MODIFIED="1495430409605"/>
+</node>
+<node TEXT="to be a member, must be in OECD!! ( but if in OECD != member of IEA)" LOCALIZED_STYLE_REF="default" ID="ID_1385319590" CREATED="1496458695425" MODIFIED="1496458716542" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="PCA" FOLDED="true" ID="ID_1028202684" CREATED="1496575043770" MODIFIED="1496575044498">
-<node TEXT="permanent court of arbitration" ID="ID_179826732" CREATED="1496575044751" MODIFIED="1496575049550"/>
+<node TEXT="world energy outlook" LOCALIZED_STYLE_REF="default" ID="ID_631754144" CREATED="1495430457086" MODIFIED="1525511790253" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="world energy investment" LOCALIZED_STYLE_REF="default" ID="ID_1192420205" CREATED="1495430462214" MODIFIED="1495430472515" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="International Smart Grid Action Network (ISGAN)" LOCALIZED_STYLE_REF="default" ID="ID_801715720" CREATED="1495430489165" MODIFIED="1497417095781" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node TEXT="agreement under IEA" ID="ID_556740411" CREATED="1495430495393" MODIFIED="1495430504441"/>
+<node TEXT="india = founding member" ID="ID_1520081017" CREATED="1495430504978" MODIFIED="1495430508741"/>
+</node>
+</node>
+<node TEXT="FATF" FOLDED="true" ID="ID_722660011" CREATED="1526729706157" MODIFIED="1526729707376">
+<node TEXT=" established by G7," ID="ID_1983291187" CREATED="1526729707580" MODIFIED="1527478579461"/>
+<node TEXT="grey list, black list" ID="ID_603219717" CREATED="1526729719407" MODIFIED="1526729722001">
+<node TEXT="BLACK LIST  = iran , north korea only" ID="ID_1001577278" CREATED="1557371052100" MODIFIED="1557371058551"/>
+</node>
+<node TEXT="applicable individual investors too, FIIs" ID="ID_294003361" CREATED="1526729722519" MODIFIED="1526729734642"/>
+</node>
+</node>
+<node TEXT="Arctic Council" ID="ID_827370332" CREATED="1557374303564" MODIFIED="1557374306022">
+<node ID="ID_1870830579" CREATED="1495076667986" MODIFIED="1496630405547"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      intergovernmental forum for cooperation among Arctic States <b>only</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="8 members = Canada, US, Greenland, Finland, Norway, Sweden, Denmark, Russia," ID="ID_564809596" CREATED="1525522740757" MODIFIED="1525522770277">
+<node TEXT="under Ottawa Declaration" ID="ID_1216643690" CREATED="1557374386305" MODIFIED="1557374388852"/>
+</node>
+<node TEXT="India observer" LOCALIZED_STYLE_REF="default" ID="ID_295661303" CREATED="1525522775068" MODIFIED="1525522779090" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="for environmental issues of Arctic" ID="ID_428707221" CREATED="1496630405844" MODIFIED="1496630425165"/>
+</node>
+<node TEXT="PCA&#xa;permanent court of arbitration" FOLDED="true" ID="ID_1028202684" CREATED="1496575043770" MODIFIED="1557371183929">
 <node TEXT="inter govt organisation ; not a court" ID="ID_1987775581" CREATED="1496575049702" MODIFIED="1496575056937"/>
+<node TEXT="also allows PRIVATE parties for dispute&#xa;&#xa;no sitting judge but appointed by parties themselves." ID="ID_1015200965" CREATED="1557371191866" MODIFIED="1557371213772"/>
 <node ID="ID_324447744" CREATED="1496575063493" MODIFIED="1496575075965"><richcontent TYPE="NODE">
 
 <html>
@@ -9149,6 +9198,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="HQ: Kingston Jamaica" ID="ID_1022296830" CREATED="1557375472931" MODIFIED="1557375478179"/>
 </node>
 <node ID="ID_819732699" CREATED="1495430798182" MODIFIED="1497237628749"><richcontent TYPE="NODE">
 
@@ -9186,8 +9236,35 @@
 <node TEXT="under UNDP" ID="ID_100390418" CREATED="1495769897965" MODIFIED="1495769899886"/>
 <node TEXT="working in India before first FYP ( 1949)" ID="ID_1624796261" CREATED="1495769900316" MODIFIED="1495769918531"/>
 </node>
-<node TEXT="United Nations (UN)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1755492517" CREATED="1489558384205" MODIFIED="1496749549416">
+<node TEXT="United Nations (UN)" LOCALIZED_STYLE_REF="default" ID="ID_1755492517" CREATED="1489558384205" MODIFIED="1496749549416">
 <font NAME="Calibri"/>
+<node TEXT="UNSC + UNGA" FOLDED="true" ID="ID_306529558" CREATED="1494385533241" MODIFIED="1496749549416" HGAP_QUANTITY="13.345454551129302 pt" VSHIFT_QUANTITY="11.12727263080187 pt">
+<node TEXT="elect judge of ICJ" ID="ID_1914057455" CREATED="1494385536788" MODIFIED="1494385544601"/>
+</node>
+<node TEXT="UNDP" FOLDED="true" ID="ID_1337899762" CREATED="1494567044717" MODIFIED="1494567045624">
+<node TEXT="executive body under UN" ID="ID_1028515654" CREATED="1494567046656" MODIFIED="1494567054573"/>
+<node TEXT="fund = voluntary contributions" ID="ID_1699506386" CREATED="1494567056145" MODIFIED="1494567066510"/>
+<node TEXT="help achieve SDG" ID="ID_1745124239" CREATED="1494567080018" MODIFIED="1494567082618"/>
+</node>
+<node TEXT="Principal organs of UN" ID="ID_220989208" CREATED="1557383522244" MODIFIED="1557383525992">
+<font BOLD="true"/>
+<node TEXT="UNGA" ID="ID_1733009659" CREATED="1492239479841" MODIFIED="1492239480200"/>
+<node TEXT="UNSC" FOLDED="true" ID="ID_1494746597" CREATED="1492239480833" MODIFIED="1492239481363">
+<node TEXT="5 + 10 members" ID="ID_1120323655" CREATED="1494385444490" MODIFIED="1494385452162">
+<node TEXT="10 temp (2 yr) selected by UNGA (consecutively twice)" ID="ID_1550388127" CREATED="1494385452303" MODIFIED="1557316556110"/>
+<node TEXT="5 permanent = China, France, russia, US, UK" ID="ID_557261107" CREATED="1494385483505" MODIFIED="1494385495287"/>
+</node>
+<node TEXT="collective security" FOLDED="true" ID="ID_219561891" CREATED="1557316486679" MODIFIED="1557316492446">
+<node TEXT="not selective in enemy" ID="ID_1908686151" CREATED="1557316505400" MODIFIED="1557316510411"/>
+</node>
+<node TEXT="while NATO gives&#xa;&#xa;Collective DEFENSE" ID="ID_1853584569" CREATED="1557316492776" MODIFIED="1557316499613"/>
+</node>
+<node TEXT="ECOSOC" ID="ID_1298923923" CREATED="1496749537977" MODIFIED="1496749539149">
+<node TEXT="all members elected by UNGA, 3 year term" ID="ID_1790026975" CREATED="1496749787925" MODIFIED="1557383572220"/>
+</node>
+<node TEXT="UN Trusteeship council" ID="ID_1278698746" CREATED="1557383539644" MODIFIED="1557383543074">
+<node TEXT="With the independence of Palau&#xa;&#xa;, formerly part of the Trust Territory of the Pacific Islands&#xa;&#xa;, in 1994, there are no trust territories leaving the&#xa;&#xa;Trusteeship Council without any responsibilities." ID="ID_775259664" CREATED="1557383596231" MODIFIED="1557383607588"/>
+</node>
 <node TEXT="UN secretariat" FOLDED="true" ID="ID_1758404720" CREATED="1489558500669" MODIFIED="1489558504619">
 <node TEXT="UN general Secretary" FOLDED="true" ID="ID_760682603" CREATED="1489558449958" MODIFIED="1489558457007">
 <node TEXT="5 yr term (inf.)" ID="ID_1582801855" CREATED="1489558458612" MODIFIED="1489558467623"/>
@@ -9212,16 +9289,6 @@
 </richcontent>
 </node>
 </node>
-</node>
-<node TEXT="UNGA" ID="ID_1733009659" CREATED="1492239479841" MODIFIED="1492239480200"/>
-<node TEXT="UNSC" FOLDED="true" ID="ID_1494746597" CREATED="1492239480833" MODIFIED="1492239481363">
-<node TEXT="5 + 10 members" FOLDED="true" ID="ID_1120323655" CREATED="1494385444490" MODIFIED="1494385452162">
-<node TEXT="10 temp (2 yr) selected by UNGA" ID="ID_1550388127" CREATED="1494385452303" MODIFIED="1494385463225"/>
-<node TEXT="5 permanent = China, France, russia, US, UK" ID="ID_557261107" CREATED="1494385483505" MODIFIED="1494385495287"/>
-</node>
-</node>
-<node TEXT="ECOSOC" FOLDED="true" ID="ID_1298923923" CREATED="1496749537977" MODIFIED="1496749539149">
-<node TEXT="all members by UNGA, 3 year term" ID="ID_1790026975" CREATED="1496749787925" MODIFIED="1496749794711"/>
 </node>
 <node TEXT="ICJ" FOLDED="true" ID="ID_1881313146" CREATED="1494491559379" MODIFIED="1494491560611">
 <node TEXT="international court of justice" ID="ID_867056249" CREATED="1494491561713" MODIFIED="1494491565644"/>
@@ -9262,19 +9329,210 @@
 </node>
 </node>
 </node>
-<node TEXT="UNSC + UNGA" FOLDED="true" ID="ID_306529558" CREATED="1494385533241" MODIFIED="1496749549416" HGAP_QUANTITY="13.345454551129302 pt" VSHIFT_QUANTITY="11.12727263080187 pt">
-<node TEXT="elect judge of ICJ" ID="ID_1914057455" CREATED="1494385536788" MODIFIED="1494385544601"/>
+</node>
+<node TEXT="UN Agencies" FOLDED="true" ID="ID_1181543392" CREATED="1557375858881" MODIFIED="1557383380999">
+<font BOLD="true"/>
+<node TEXT="combined treaties, conventions" FOLDED="true" ID="ID_1884052445" CREATED="1557376615303" MODIFIED="1557376620742">
+<node TEXT="codex alimentarius" ID="ID_983207509" CREATED="1525244089502" MODIFIED="1525244092619">
+<node TEXT="inter govt body estd by FAO + WHO" ID="ID_654083407" CREATED="1525244092782" MODIFIED="1525244138759"/>
+<node TEXT="to protect consumer health + fair practices in food trade" ID="ID_1100953625" CREATED="1525244139050" MODIFIED="1525244154324"/>
+<node ID="ID_1866117160" CREATED="1525244159012" MODIFIED="1525244176137"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Codex food safety standards used in <b>WTO SPS Agreement</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="FAO" ID="ID_1542521126" CREATED="1557376566553" MODIFIED="1557376951687">
+<node TEXT="State of World&apos;s forest report" LOCALIZED_STYLE_REF="default" ID="ID_522061391" CREATED="1494453455419" MODIFIED="1557376587669" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node TEXT="every 2  yr." ID="ID_1818693460" CREATED="1494453471240" MODIFIED="1494453478456"/>
+</node>
+<node TEXT="International Plant Protection Convention ( IPPC )" ID="ID_746116813" CREATED="1557376631765" MODIFIED="1557376644321"/>
+</node>
+<node TEXT="ICAO" FOLDED="true" ID="ID_1233391767" CREATED="1557376444800" MODIFIED="1557376446540">
+<node TEXT="CORSIA" FOLDED="true" ID="ID_1029289152" CREATED="1496213737169" MODIFIED="1557376453873">
+<node TEXT="2% of world CO2 by aviation" ID="ID_1514434439" CREATED="1497152513852" MODIFIED="1497152523780"/>
+<node TEXT="&quot;emission units&quot; like Carbon financing units" ID="ID_1920938158" CREATED="1497152526181" MODIFIED="1497152543385"/>
+<node TEXT="for international flights in civil aviation" ID="ID_835159357" CREATED="1496213746662" MODIFIED="1496213755804"/>
+<node TEXT="opposed by india" ID="ID_648294719" CREATED="1496213759807" MODIFIED="1557376451458">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="chicago convention on international civil aivation" ID="ID_1754204412" CREATED="1557376472970" MODIFIED="1557376482770"/>
+</node>
+<node TEXT="IMF" ID="ID_611485639" CREATED="1557376308414" MODIFIED="1557376309210"/>
+<node TEXT="universal postal union" FOLDED="true" ID="ID_1316976544" CREATED="1557376278723" MODIFIED="1557376292630">
+<node TEXT="under treaty of bern, 1874" ID="ID_1100038744" CREATED="1557376292812" MODIFIED="1557376297352"/>
+</node>
+<node TEXT="ITU&#xa;International telecommunications union" FOLDED="true" ID="ID_1071334555" CREATED="1557376127889" MODIFIED="1557376150753">
+<node TEXT="allocation of radio spectrum and satellite orbits&#xa;&#xa;&#xa;standardization and development of ICTs worldwide" ID="ID_797938908" CREATED="1557376170887" MODIFIED="1557376208986">
+<node TEXT="digital broadcasting&#xa;&#xa;3D TV&#xa;&#xa;mobile tech included" ID="ID_619960146" CREATED="1557376214708" MODIFIED="1557376228925"/>
+</node>
+<node TEXT="both public and private sector participate&#xa;&#xa;192 countries + 700 private" ID="ID_588844570" CREATED="1497477881742" MODIFIED="1557376241962"/>
+</node>
+<node TEXT="WIPO" FOLDED="true" ID="ID_1952559000" CREATED="1557376034160" MODIFIED="1557376035619">
+<node TEXT="Marrakesh treaty, 2013" ID="ID_1246381251" CREATED="1496392524679" MODIFIED="1496392542009">
+<node TEXT="books for blind" ID="ID_1600014972" CREATED="1496392528128" MODIFIED="1496392530609"/>
+<node TEXT="copyright exceptions" ID="ID_314120310" CREATED="1496392577899" MODIFIED="1496392580978"/>
+<node TEXT="sugamya pustkalya" ID="ID_989212685" CREATED="1496392586481" MODIFIED="1496392591982"/>
+<node TEXT="india - first to ratify" ID="ID_1824348212" CREATED="1496392593926" MODIFIED="1496392599639"/>
+<node TEXT="implement by WIPO via ABC (accessible book consortium)" LOCALIZED_STYLE_REF="default" ID="ID_1234045810" CREATED="1496392530880" MODIFIED="1496905539199" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+</node>
+<node TEXT="WMO" ID="ID_565810352" CREATED="1557376105825" MODIFIED="1557376106265">
+<node TEXT="IMD, Pune is regional centre" ID="ID_1706378028" CREATED="1557376116848" MODIFIED="1557376122381"/>
+</node>
+<node TEXT="IMO" ID="ID_452348606" CREATED="1557376106668" MODIFIED="1557376107636"/>
+<node TEXT="IFAD" FOLDED="true" ID="ID_1953646294" CREATED="1557375956040" MODIFIED="1557375957814">
+<node TEXT="origin  :&#xa;&#xa;by World Food Conference 1974&#xa;&#xa;after  : 1970s food crisis in Sahelian Countries of Africa" ID="ID_1502870907" CREATED="1557375968595" MODIFIED="1557375988338"/>
+</node>
+<node TEXT="UNIDO&#xa;Industrial development organisation" ID="ID_687086125" CREATED="1557375934928" MODIFIED="1557375949180"/>
+<node TEXT="UN WTO&#xa;world tourism organisation" FOLDED="true" ID="ID_1631968313" CREATED="1557375862365" MODIFIED="1557375927463">
+<node TEXT="responsible, sustainable and universally accessible tourism." ID="ID_559868525" CREATED="1557375877222" MODIFIED="1557375877222"/>
+<node TEXT="Samarkand Declaration:" FOLDED="true" ID="ID_1337613918" CREATED="1557375871416" MODIFIED="1557375915188">
+<font BOLD="true"/>
+<node TEXT="UNWTO + UNESCO" ID="ID_1118548932" CREATED="1557375895801" MODIFIED="1557375902702"/>
+<node TEXT="for Silk Road Tourism" ID="ID_122424831" CREATED="1557375910418" MODIFIED="1557375913144"/>
+</node>
+</node>
+<node TEXT="IMF" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_277545454" CREATED="1489484933442" MODIFIED="1494887616069">
+<font NAME="Calibri"/>
+<node TEXT="Bretton woods" ID="ID_1735192501" CREATED="1489484935466" MODIFIED="1489484955470"/>
+<node TEXT="IMFC" ID="ID_149166373" CREATED="1497325118020" MODIFIED="1497325119309"/>
+</node>
+<node TEXT="IMO&#xa;international maritime organisation" FOLDED="true" ID="ID_853214105" CREATED="1497330229704" MODIFIED="1557383380998">
+<font NAME="Calibri"/>
+<node TEXT="UN specialised agency for pollution by ships" ID="ID_1068755807" CREATED="1497330235292" MODIFIED="1497330248152"/>
+</node>
+<node TEXT="WHO" ID="ID_363958302" CREATED="1557383130252" MODIFIED="1557383131099">
+<node TEXT="CEPI&#xa;coalation for epidemic preparedness" FOLDED="true" ID="ID_51720946" CREATED="1496371437030" MODIFIED="1496749114245">
+<icon BUILTIN="full-1"/>
+<node TEXT="by WEF" LOCALIZED_STYLE_REF="default" ID="ID_1257801804" CREATED="1496371524215" MODIFIED="1496371541209" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="global alliance of govt, WHO, etc. for vaccine development" ID="ID_1657951798" CREATED="1496371445578" MODIFIED="1496371481105"/>
+<node TEXT="chooses from WHO list" ID="ID_286446526" CREATED="1496371483652" MODIFIED="1496371489731"/>
+<node TEXT="chosen Lassa fever, Nipah, MERS ( middle east respiratory syndrome )" ID="ID_992403964" CREATED="1496371490543" MODIFIED="1496371515994"/>
+</node>
+<node TEXT="WHO guidelines on Antibiotics classification" FOLDED="true" ID="ID_287026211" CREATED="1498409955501" MODIFIED="1498409968247">
+<node TEXT="access, watch , reserve" ID="ID_1140365185" CREATED="1498409969437" MODIFIED="1498409978226"/>
+<node ID="ID_463961517" CREATED="1498409978754" MODIFIED="1498410019138"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      good to prevent <b>antimicrobial resistance </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_885365187" CREATED="1498410031945" MODIFIED="1498410039758"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      hand WASH (<u><i>WHO?)</i></u>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="UNESCO" FOLDED="true" ID="ID_1062393706" CREATED="1495173085623" MODIFIED="1495173088671">
 <node TEXT="only one to have higher education in its mandate" ID="ID_417651053" CREATED="1495173088984" MODIFIED="1495173102530"/>
 <node TEXT="funded by both legally binding + voluntary contributions" LOCALIZED_STYLE_REF="default" ID="ID_1844221258" CREATED="1527171338061" MODIFIED="1527171374535" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
+<node TEXT="World Heritage Mission" ID="ID_1734477677" CREATED="1557377000016" MODIFIED="1557377001905"/>
+<node TEXT="MAB&#xa;man and biosphere program" FOLDED="true" ID="ID_1127278916" CREATED="1495165868812" MODIFIED="1557383079684" LINK="https://drive.google.com/open?id=1nLwGGX9f5XMjLFZoseQKF3lQt8yECPAk&amp;usp=sharing">
+<node ID="ID_486599228" CREATED="1495838455306" MODIFIED="1495838578338"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Biosphere&#160;&#160;= nature + culture protection + promote Env. conservation via <i>World Network of Biosphere Reserves</i>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="UNDP" FOLDED="true" ID="ID_1337899762" CREATED="1494567044717" MODIFIED="1494567045624">
-<node TEXT="executive body under UN" ID="ID_1028515654" CREATED="1494567046656" MODIFIED="1494567054573"/>
-<node TEXT="fund = voluntary contributions" ID="ID_1699506386" CREATED="1494567056145" MODIFIED="1494567066510"/>
-<node TEXT="help achieve SDG" ID="ID_1745124239" CREATED="1494567080018" MODIFIED="1494567082618"/>
+<node FOLDED="true" ID="ID_538021908" CREATED="1495838601678" MODIFIED="1525510356045"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      core areas can also contain <i>Sacred Groves (SG)</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="SG&#xa;, under WPA, 1972&#xa;, animals can be hunted of religious purposes&#xa;, in situ biodiversity conservation" ID="ID_760837655" CREATED="1525510314022" MODIFIED="1525510352420"/>
+</node>
+</node>
+<node TEXT="International Hydrological Programme (IHP)" ID="ID_652098153" CREATED="1557383106848" MODIFIED="1557383107148"/>
+<node TEXT="reports" ID="ID_1617166750" CREATED="1557383117082" MODIFIED="1557383118648">
+<node TEXT="Global Education Monitoring report&#xa;&#xa;, Gender Parity Index." ID="ID_512907570" CREATED="1557383118734" MODIFIED="1557383121971"/>
+</node>
+</node>
+<node TEXT="ILO" ID="ID_278735127" CREATED="1494837734111" MODIFIED="1494887616070">
+<font NAME="Calibri"/>
+<node TEXT="tripartite UN agency" ID="ID_253580795" CREATED="1494837737029" MODIFIED="1494887616071">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="India = founding member of ILO" ID="ID_1163679222" CREATED="1494837755008" MODIFIED="1494887616072">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="reports" ID="ID_185979450" CREATED="1557383398281" MODIFIED="1557383399274">
+<node TEXT="global wage report&#xa;    ILO" ID="ID_1422411957" CREATED="1557383399437" MODIFIED="1557383400075"/>
+<node TEXT="World empoyment and social outlook report" ID="ID_19874874" CREATED="1494837699868" MODIFIED="1494837706808">
+<node TEXT="2018 report" ID="ID_604491366" CREATED="1527157808838" MODIFIED="1557383453592">
+<node TEXT="- 5.5% unemployment" ID="ID_1112681450" CREATED="1527157888484" MODIFIED="1527157899329"/>
+<node ID="ID_1188085178" CREATED="1527157861088" MODIFIED="1527157861088"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - continued premature deindustralisation (i.e. structural shift to service =&gt; manuf investment down)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="- Vulnerable employment up (family contri + own account workers)" ID="ID_874201242" CREATED="1527157863114" MODIFIED="1527157888299"/>
+</node>
+</node>
+<node TEXT="World Social Protection Report" ID="ID_813238632" CREATED="1557383479582" MODIFIED="1557383479582"/>
+</node>
+</node>
 </node>
 </node>
 <node FOLDED="true" ID="ID_727407563" CREATED="1495170005584" MODIFIED="1525511620992">
@@ -9297,10 +9555,9 @@
 <node TEXT="more voice to LDC" ID="ID_1952535579" CREATED="1495170045302" MODIFIED="1495170048059"/>
 <node TEXT="india = member before freedom! (28-03-1947)" ID="ID_1452540394" CREATED="1495170051484" MODIFIED="1495170062991"/>
 </node>
-<node TEXT="WB Bretten Woods" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_202155912" CREATED="1494677886897" MODIFIED="1496704595544">
+<node TEXT="WB Bretten Woods&#xa;World Bank" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_202155912" CREATED="1494677886897" MODIFIED="1557376394029">
 <font NAME="Calibri"/>
 <node TEXT="observer @ UNDG" ID="ID_994092583" CREATED="1488616131537" MODIFIED="1488616143179"/>
-<node TEXT="World Bank" ID="ID_1981583097" CREATED="1494677887661" MODIFIED="1494677890509"/>
 <node TEXT="IFC&#xa;international finance corporation" FOLDED="true" ID="ID_1949027186" CREATED="1494677891152" MODIFIED="1525195759908">
 <node ID="ID_361904843" CREATED="1495253858820" MODIFIED="1495253858820"><richcontent TYPE="NODE">
 
@@ -9339,6 +9596,11 @@
 <node TEXT="IBRD" ID="ID_1100301431" CREATED="1494677896318" MODIFIED="1494677898077"/>
 <node TEXT="IDA" FOLDED="true" ID="ID_1951446759" CREATED="1494677940556" MODIFIED="1494677941275">
 <node TEXT="near 0 %" ID="ID_770389669" CREATED="1489484890887" MODIFIED="1489484894986"/>
+</node>
+<node TEXT="fodder" FOLDED="true" ID="ID_1086778989" CREATED="1557376406587" MODIFIED="1557376407677">
+<node TEXT="international debt statistics , 2017 - World Bank" LOCALIZED_STYLE_REF="default" ID="ID_322179305" CREATED="1497094164317" MODIFIED="1557376410497" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
 </node>
 </node>
 <node TEXT="WIPO" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1840036083" CREATED="1488871940639" MODIFIED="1494887616070">
@@ -9499,8 +9761,61 @@
 <node TEXT="TRAFFIC (with IUCN)" ID="ID_27607902" CREATED="1496396264362" MODIFIED="1496396271897"/>
 <node TEXT="Living planet report" ID="ID_1524282101" CREATED="1496396333797" MODIFIED="1496396337597"/>
 </node>
+<node TEXT="OPCW&#xa;organisation for prohibition of chemical weapons" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1852954880" CREATED="1523005322262" MODIFIED="1525845269138">
+<font NAME="Calibri"/>
+<node TEXT="not UN agency" ID="ID_742862445" CREATED="1557375362403" MODIFIED="1557375365141"/>
+<node ID="ID_1068309043" CREATED="1523005324644" MODIFIED="1557375401900"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      nobel peace prize 2013
+    </p>
+    <p>
+      <br/>
+      <b>, enforces CWC</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , outlaws production, use of stockpiles of chemical weapons
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="permanent and verifiable elimination of chemical weapons." ID="ID_1323375560" CREATED="1557375381711" MODIFIED="1557375381711"/>
 </node>
-<node TEXT="GROUPS/ Summits" LOCALIZED_STYLE_REF="default" ID="ID_60885076" CREATED="1488260115997" MODIFIED="1494887616074">
+<node TEXT="CWC&#xa;chemical weapon convention" LOCALIZED_STYLE_REF="default" ID="ID_1942255547" CREATED="1494834650603" MODIFIED="1525845356059">
+<icon BUILTIN="idea"/>
+<font NAME="Calibri"/>
+<node TEXT="India ratified in 1996" ID="ID_1505424170" CREATED="1494834657095" MODIFIED="1494834664170"/>
+<node TEXT="made NACWC" FOLDED="true" ID="ID_33400325" CREATED="1496027219912" MODIFIED="1496027229968">
+<node ID="ID_1054945220" CREATED="1496027230133" MODIFIED="1496027246871"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      national authority on CWC under <b><i>Cabinet Secretariat</i></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Israel not ratified&#xa;&#xa;Egypt , North Korea , South Sudan not signed" ID="ID_1996239960" CREATED="1557375292856" MODIFIED="1557375315465"/>
+<node TEXT="recent additions:&#xa;&#xa;Syria, 2013&#xa;Palestine, 2018" ID="ID_35154993" CREATED="1557375337153" MODIFIED="1557375349391"/>
+</node>
+</node>
+</node>
+<node TEXT="GROUPS/ Summits" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_60885076" CREATED="1488260115997" MODIFIED="1494887616074">
 <font NAME="Calibri" SIZE="10"/>
 <node TEXT="APTA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1111580589" CREATED="1552292323831" MODIFIED="1552292325362">
 <font NAME="Calibri"/>
@@ -9620,11 +9935,7 @@
 </node>
 <node TEXT="BRICS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_587552704" CREATED="1488262566538" MODIFIED="1495153324621">
 <font NAME="Calibri"/>
-<node TEXT="NDB (aka BRICS bank)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_409260621" CREATED="1488262568661" MODIFIED="1497236772322">
-<icon BUILTIN="full-1"/>
-<node TEXT="shanghai" ID="ID_169171414" CREATED="1490370909715" MODIFIED="1490370911238"/>
-<node TEXT="equal voting" ID="ID_572697201" CREATED="1491533118187" MODIFIED="1491533120953"/>
-<node LOCALIZED_STYLE_REF="default" ID="ID_460539510" CREATED="1494884795637" MODIFIED="1497236775983" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_460539510" CREATED="1494884795637" MODIFIED="1557310909266" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9632,45 +9943,106 @@
   </head>
   <body>
     <p>
-      <b>fortaleza declaration </b>led to formation of NDB
+      <b>fortaleza declaration</b>, 2014
     </p>
   </body>
 </html>
 </richcontent>
 <font NAME="Calibri"/>
+<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_409260621" CREATED="1488262568661" MODIFIED="1557310923010">
+<icon BUILTIN="full-1"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&#160;</b>led to formation of NDB (aka BRICS bank)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="HQ shanghai" ID="ID_169171414" CREATED="1490370909715" MODIFIED="1557314918904"/>
+<node TEXT="equal voting&#xa;equal share" ID="ID_572697201" CREATED="1491533118187" MODIFIED="1557314983723"/>
+<node TEXT="green bond in Reminbi currency" ID="ID_232506844" CREATED="1557314956454" MODIFIED="1557314964661"/>
 </node>
-</node>
-<node TEXT="South Africa joined in 2011" LOCALIZED_STYLE_REF="default" ID="ID_330362792" CREATED="1494884782542" MODIFIED="1494884789507"/>
-<node TEXT="Contingency Reserves" LOCALIZED_STYLE_REF="default" ID="ID_776660586" CREATED="1494884730727" MODIFIED="1506491561564">
+<node TEXT="Contingency Reserves Agency" LOCALIZED_STYLE_REF="default" ID="ID_776660586" CREATED="1494884730727" MODIFIED="1557314995881">
 <font ITALIC="true"/>
+<node TEXT="Currency Swap arrangement&#xa;&#xa;loans to deal with short term liquidity crunch" ID="ID_1332530747" CREATED="1557315020198" MODIFIED="1557315048894"/>
 </node>
-<node TEXT="Independent Rating Agency" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_213994811" CREATED="1488262576082" MODIFIED="1506491561554">
+</node>
+<node TEXT="Xiamen Summit, 2017" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_207822873" CREATED="1557310932241" MODIFIED="1557310936862" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+<node TEXT="BRICS Plus" ID="ID_914935352" CREATED="1557310937154" MODIFIED="1557310946589">
+<node TEXT="networking for head of government" ID="ID_1733657925" CREATED="1557310946979" MODIFIED="1557310951627"/>
+</node>
+<node TEXT="&#x2018;BRICS outreach to Africa" ID="ID_733411349" CREATED="1557311691869" MODIFIED="1557311692153"/>
+</node>
+<node TEXT="Johannesburg Declaration, 2018" FOLDED="true" ID="ID_1250351694" CREATED="1557310990773" MODIFIED="1557311027877">
+<node TEXT="&#x2018;BRICS in Africa: Collaboration for Inclusive Growth and Shared Prosperity in the 4 th Industrial Revolution." LOCALIZED_STYLE_REF="default" ID="ID_1092730632" CREATED="1557310982444" MODIFIED="1557310983513" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Partnership on New Industrial Revolution (PartNIR)." LOCALIZED_STYLE_REF="default" ID="ID_1365217482" CREATED="1557311039343" MODIFIED="1557311040523" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="counter terrorism" ID="ID_472984167" CREATED="1494884950603" MODIFIED="1557312172618">
+<node TEXT="favours adoption of  CCIT by UNGA" ID="ID_1910245841" CREATED="1557312210900" MODIFIED="1557312227122"/>
+</node>
+<node TEXT="Multilateral trading system" ID="ID_1575574872" CREATED="1557312173267" MODIFIED="1557312180731">
+<node TEXT="support rule based trade under WTO" ID="ID_1027202780" CREATED="1557312198301" MODIFIED="1557312205504"/>
+</node>
+<node TEXT="UN commitment" ID="ID_82584425" CREATED="1557312180897" MODIFIED="1557312196009">
+<node TEXT="support of UN as fair, just and equitable international order," ID="ID_1224329352" CREATED="1557312239262" MODIFIED="1557312254447"/>
+</node>
+<node TEXT="concerns against arms in outer space" ID="ID_695014649" CREATED="1557312265368" MODIFIED="1557312272549"/>
+</node>
+<node TEXT="signficance of BRICS" FOLDED="true" ID="ID_796641125" CREATED="1557311840231" MODIFIED="1557312351172">
+<node TEXT="5 counrties 4 continents" ID="ID_1609864198" CREATED="1557312364838" MODIFIED="1557312369376"/>
+<node TEXT="multi layered engagement :&#xa;&#xa;civil society, gov, p2p levels" ID="ID_1455458076" CREATED="1557311844345" MODIFIED="1557311913691"/>
+<node TEXT="global issues" FOLDED="true" ID="ID_412513929" CREATED="1557311854833" MODIFIED="1557312355199">
+<node TEXT="women, terrorism etc etc&#xa;IMF reforms, climate change" ID="ID_1937975999" CREATED="1557311895254" MODIFIED="1557312301031"/>
+</node>
+<node TEXT="intra regional issues&#xa;( also bilateral )" FOLDED="true" ID="ID_1002841980" CREATED="1557311856755" MODIFIED="1557312358909">
+<node TEXT="within brics" ID="ID_849796934" CREATED="1557311901513" MODIFIED="1557311903215"/>
+<node TEXT="since not geographically contiguous, linkages impo." LOCALIZED_STYLE_REF="default" ID="ID_1280829529" CREATED="1494884936828" MODIFIED="1494884946714">
+<node TEXT="people-people" ID="ID_305651767" CREATED="1494884946871" MODIFIED="1494884950117"/>
+<node TEXT="economic linkages - Trade &amp; investment" ID="ID_1271249292" CREATED="1494884950603" MODIFIED="1494884977141"/>
+</node>
+</node>
+</node>
+<node TEXT="fodder" FOLDED="true" ID="ID_1464559291" CREATED="1557312390493" MODIFIED="1557312391818">
+<node TEXT="South Africa joined in 2011" LOCALIZED_STYLE_REF="default" ID="ID_330362792" CREATED="1494884782542" MODIFIED="1494884789507"/>
+<node TEXT="5 Goals from Goa" LOCALIZED_STYLE_REF="default" ID="ID_1812307188" CREATED="1494884890906" MODIFIED="1494884893801">
+<node TEXT="v_oct 2016" ID="ID_387183933" CREATED="1494884895790" MODIFIED="1494884898705"/>
+</node>
+<node TEXT="Independent Rating Agency" LOCALIZED_STYLE_REF="default" ID="ID_213994811" CREATED="1488262576082" MODIFIED="1506491561554">
 <font ITALIC="true"/>
 <node TEXT="Free from ethical conflict seen in issuer-pays model&#xa;i.e. bonds&apos; issuer pays for rating." LOCALIZED_STYLE_REF="default" ID="ID_879729218" CREATED="1488262582786" MODIFIED="1488545169775"/>
 </node>
-<node TEXT="International Arbitration Mechanism" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_106913173" CREATED="1488539338224" MODIFIED="1506491561538">
+<node TEXT="International Arbitration Mechanism" LOCALIZED_STYLE_REF="default" ID="ID_106913173" CREATED="1488539338224" MODIFIED="1506491561538">
 <font ITALIC="true"/>
 <node TEXT="against west domination" LOCALIZED_STYLE_REF="default" ID="ID_1191155094" CREATED="1488539372452" MODIFIED="1488545169777"/>
 <node TEXT="Emerging economies repn in arbitration" LOCALIZED_STYLE_REF="default" ID="ID_1098036782" CREATED="1488539356945" MODIFIED="1488545169778"/>
 </node>
 <node TEXT="New Delhi Declaration on Education" LOCALIZED_STYLE_REF="default" ID="ID_383983986" CREATED="1488864368039" MODIFIED="1488864374469"/>
-<node TEXT="5 Goals from Goa" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1812307188" CREATED="1494884890906" MODIFIED="1494884893801">
-<node TEXT="v_oct 2016" ID="ID_387183933" CREATED="1494884895790" MODIFIED="1494884898705"/>
-</node>
-<node TEXT="since not geographically contiguous, linkages impo." LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1280829529" CREATED="1494884936828" MODIFIED="1494884946714">
-<node TEXT="people-people" ID="ID_305651767" CREATED="1494884946871" MODIFIED="1494884950117"/>
-<node TEXT="economic linkages - Trade &amp; investment" ID="ID_1271249292" CREATED="1494884950603" MODIFIED="1494884977141"/>
-</node>
-<node TEXT="BRICS media forum" FOLDED="true" ID="ID_1974406459" CREATED="1499309013201" MODIFIED="1499309015721">
+<node TEXT="BRICS media forum" ID="ID_1974406459" CREATED="1499309013201" MODIFIED="1499309015721">
 <node TEXT="for impartial non biased media, &quot;balanced reporting&quot;" ID="ID_1231885798" CREATED="1499309016693" MODIFIED="1499309029126"/>
 </node>
-<node TEXT="BRICS bank inter cooperation mechanism" FOLDED="true" ID="ID_192949231" CREATED="1495769613089" MODIFIED="1495769646579">
+<node TEXT="BRICS bank inter cooperation mechanism" ID="ID_192949231" CREATED="1495769613089" MODIFIED="1495769646579">
 <icon BUILTIN="launch"/>
 <node TEXT="india se EXIM bank" ID="ID_677542898" CREATED="1495769620236" MODIFIED="1495769624160"/>
 <node TEXT="+ other nation ke banks for economic ties + investment" ID="ID_362492695" CREATED="1495769626176" MODIFIED="1495769641487"/>
 </node>
 </node>
-<node TEXT="BTIA" LOCALIZED_STYLE_REF="default" ID="ID_795530933" CREATED="1553847965725" MODIFIED="1553847967249">
+</node>
+<node TEXT="ADB" LOCALIZED_STYLE_REF="default" ID="ID_737998973" CREATED="1557315223258" MODIFIED="1557315224247">
+<font NAME="Calibri"/>
+<node TEXT="3 types lending&#xa;&#xa;grant&#xa;debt&#xa;equity in project" ID="ID_190237928" CREATED="1557315225261" MODIFIED="1557315242868"/>
+<node TEXT="also to private sector lending" ID="ID_1242374993" CREATED="1557315246839" MODIFIED="1557315267877"/>
+</node>
+<node TEXT="BTIA" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_795530933" CREATED="1553847965725" MODIFIED="1553847967249">
 <font NAME="Calibri"/>
 <node TEXT="2007, India EU" ID="ID_1878001523" CREATED="1553847974969" MODIFIED="1553847977800"/>
 <node TEXT="IPR, Sus Dev, SPS" ID="ID_1025687175" CREATED="1553847995443" MODIFIED="1553848002119"/>
@@ -9744,8 +10116,9 @@
 </node>
 <node TEXT="NATO" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1871234825" CREATED="1495153312899" MODIFIED="1495153324637">
 <font NAME="Calibri"/>
+<node TEXT=" fonding treaty - WASHINGTON TREATY" ID="ID_1731593232" CREATED="1557372396678" MODIFIED="1557372415727"/>
 <node TEXT="join terms for&#xa;contribute to security in North Atlantic Ocean" ID="ID_1763862263" CREATED="1495153331142" MODIFIED="1497237077651"/>
-<node TEXT="MAP" FOLDED="true" ID="ID_1993094958" CREATED="1495153329545" MODIFIED="1495153330321">
+<node TEXT="MAP" ID="ID_1993094958" CREATED="1495153329545" MODIFIED="1495153330321">
 <node TEXT="advise assistance to any country willing to join" ID="ID_948733976" CREATED="1495153355150" MODIFIED="1495153363529"/>
 </node>
 </node>
@@ -9814,6 +10187,7 @@
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
 <node TEXT="2124 - 42" ID="ID_783115925" CREATED="1488867648685" MODIFIED="1488867659651" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/21-Question.pdf"/>
+<node TEXT="by ADB" ID="ID_302779068" CREATED="1557370755090" MODIFIED="1557370758417"/>
 <node TEXT="project based partnership" ID="ID_1401159111" CREATED="1489497465792" MODIFIED="1489497472934"/>
 <node TEXT="BBIN + Sri  + Myanmar + Maldives" ID="ID_882280483" CREATED="1494462799980" MODIFIED="1494462979087"/>
 </node>

@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.5">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1309,7 +1309,7 @@
 <node TEXT=" factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1617790756" CREATED="1549617287506" MODIFIED="1549617293252" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
 </node>
-<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
+<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
 <node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1530941434103">
 <font NAME="Calibri" BOLD="true"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
@@ -2169,8 +2169,8 @@
 </node>
 </node>
 </node>
-<node TEXT="International Relations" FOLDED="true" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
-<node TEXT="India and Neighbors" FOLDED="true" ID="ID_1414874769" CREATED="1522383018445" MODIFIED="1522383025555">
+<node TEXT="International Relations" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
+<node TEXT="India and Neighbors" ID="ID_1414874769" CREATED="1522383018445" MODIFIED="1522383025555">
 <node TEXT="PET SEM" FOLDED="true" ID="ID_1677716879" CREATED="1509253549725" MODIFIED="1509253552178">
 <node TEXT="people economy, trade strategic environment military" ID="ID_314291566" CREATED="1509253552366" MODIFIED="1509253571497"/>
 </node>
@@ -2257,7 +2257,7 @@
 </node>
 </node>
 <node TEXT="india = fighter aircraft in Andaman" ID="ID_1682835569" CREATED="1499067748873" MODIFIED="1499067763998"/>
-<node TEXT="Island development Agency (IDA)" ID="ID_32118052" CREATED="1501201101846" MODIFIED="1501201110190">
+<node TEXT="Island development Agency (IDA)" FOLDED="true" ID="ID_32118052" CREATED="1501201101846" MODIFIED="1501201110190">
 <node TEXT="Home Min = chair&#xa;5 andaman, 4 Lakshadweep" ID="ID_1370217387" CREATED="1525237959206" MODIFIED="1525237975443"/>
 </node>
 <node TEXT="china = geographically far + no nuclear powered vehicles" ID="ID_248619321" CREATED="1499067147544" MODIFIED="1499067162396">
@@ -2469,7 +2469,7 @@
 <node TEXT="BUddhism" ID="ID_1251053426" CREATED="1503053489480" MODIFIED="1503053491112"/>
 <node TEXT="Andaman border - thailand" ID="ID_1438022192" CREATED="1503053492512" MODIFIED="1503053503235"/>
 </node>
-<node TEXT="india US" FOLDED="true" ID="ID_1209136312" CREATED="1498839037741" MODIFIED="1498839040913">
+<node TEXT="india US" ID="ID_1209136312" CREATED="1498839037741" MODIFIED="1498839040913">
 <node TEXT="phases" FOLDED="true" ID="ID_323784907" CREATED="1498841723572" MODIFIED="1498841724617">
 <node TEXT="I (47-71)" FOLDED="true" ID="ID_1480186997" CREATED="1498841724792" MODIFIED="1498841738227">
 <node TEXT="india = mixed economic model" ID="ID_90334932" CREATED="1498841776120" MODIFIED="1498841788847"/>
@@ -2507,6 +2507,16 @@
 <node TEXT="health = 3(d) patents act" ID="ID_1624517059" CREATED="1498408798266" MODIFIED="1498408805150"/>
 <node TEXT="energy" ID="ID_405312820" CREATED="1498408933202" MODIFIED="1498408980616"/>
 </node>
+<node TEXT="comcasa" ID="ID_713123436" CREATED="1557306990963" MODIFIED="1557306992785">
+<node TEXT="legal framework for transfer of commnication security equipments" ID="ID_772212684" CREATED="1557306994266" MODIFIED="1557307009538"/>
+</node>
+<node TEXT="BECA" ID="ID_735539841" CREATED="1557307264985" MODIFIED="1557307266216"/>
+<node TEXT="STRATEGIC TRADE AUTHORISATION" ID="ID_1534095070" CREATED="1557307218654" MODIFIED="1557307224508">
+<node TEXT="ACCESS TO DUAL use techonlogies done!" ID="ID_676129192" CREATED="1557307240859" MODIFIED="1557307253869"/>
+</node>
+<node TEXT="LEMOA" ID="ID_57277045" CREATED="1557307091942" MODIFIED="1557307093185">
+<node TEXT="4 areas of coopeartion&#xa;&#xa;port calls&#xa;joint exercise&#xa;training&#xa;HADR" ID="ID_609879781" CREATED="1557307093310" MODIFIED="1557307117112"/>
+</node>
 </node>
 <node TEXT="indian ocean" ID="ID_1981285466" CREATED="1509255421071" MODIFIED="1509255422580"/>
 <node TEXT="Defence prearedness" FOLDED="true" ID="ID_1561360125" CREATED="1517363111828" MODIFIED="1517363115438">
@@ -2524,6 +2534,71 @@
 </node>
 <node TEXT="paradiplomacy" FOLDED="true" ID="ID_1367968034" CREATED="1535810281353" MODIFIED="1535810286025">
 <node TEXT="vision mains 365 IR pg. 110" ID="ID_890099780" CREATED="1535810308794" MODIFIED="1535810317764"/>
+</node>
+<node TEXT="india africa" ID="ID_1105580304" CREATED="1557301594789" MODIFIED="1557301596792">
+<node ID="ID_789993275" CREATED="1557301616202" MODIFIED="1557301628775" MAX_WIDTH="227.36169763602203 pt" MIN_WIDTH="227.36169763602203 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div>
+      <table border="1" cellpadding="0" cellspacing="0" valign="top" title="" summary="" style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; margin-left: .3333in">
+        <tr>
+          <td style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; vertical-align: top; width: 2.209in; padding-top: 4pt; padding-right: 4pt; padding-bottom: 4pt; padding-left: 4pt">
+            <p style="margin-top: 0in; margin-right: 0in; margin-bottom: 0in; margin-left: 0in; font-family: Calibri; font-size: 11.0pt">
+              AAGC
+            </p>
+          </td>
+          <td style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; vertical-align: top; width: 1.8645in; padding-top: 4pt; padding-right: 4pt; padding-bottom: 4pt; padding-left: 4pt">
+            <p style="margin-top: 0in; margin-right: 0in; margin-bottom: 0in; margin-left: 0in; font-family: Calibri; font-size: 11.0pt">
+              <span>&#160;</span>BRI
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; vertical-align: top; width: 2.209in; padding-top: 4pt; padding-right: 4pt; padding-bottom: 4pt; padding-left: 4pt">
+            <p style="margin-top: 0in; margin-right: 0in; margin-bottom: 0in; margin-left: 0in; font-family: Calibri; font-size: 11.0pt">
+              Capacity building, p2p contact
+            </p>
+          </td>
+          <td style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; vertical-align: top; width: 1.8645in; padding-top: 4pt; padding-right: 4pt; padding-bottom: 4pt; padding-left: 4pt">
+            <p style="margin-top: 0in; margin-right: 0in; margin-bottom: 0in; margin-left: 0in; font-family: Calibri; font-size: 11.0pt">
+              Infra mostly
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; vertical-align: top; width: 2.209in; padding-top: 4pt; padding-right: 4pt; padding-bottom: 4pt; padding-left: 4pt">
+            <p style="margin-top: 0in; margin-right: 0in; margin-bottom: 0in; margin-left: 0in; font-family: Calibri; font-size: 11.0pt">
+              Govt led + private
+            </p>
+          </td>
+          <td style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; vertical-align: top; width: 1.8645in; padding-top: 4pt; padding-right: 4pt; padding-bottom: 4pt; padding-left: 4pt">
+            <p style="margin-top: 0in; margin-right: 0in; margin-bottom: 0in; margin-left: 0in; font-family: Calibri; font-size: 11.0pt">
+              Gov only
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; vertical-align: top; width: 2.2284in; padding-top: 4pt; padding-right: 4pt; padding-bottom: 4pt; padding-left: 4pt">
+            <p style="margin-top: 0in; margin-right: 0in; margin-bottom: 0in; margin-left: 0in; font-family: Calibri; font-size: 11.0pt">
+              India africa japan equal partners
+            </p>
+          </td>
+          <td style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #A3A3A3; border-right-color: #A3A3A3; border-bottom-color: #A3A3A3; border-left-color: #A3A3A3; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; vertical-align: top; width: 1.9145in; padding-top: 4pt; padding-right: 4pt; padding-bottom: 4pt; padding-left: 4pt">
+            <p style="margin-top: 0in; margin-right: 0in; margin-bottom: 0in; margin-left: 0in; font-family: Calibri; font-size: 11.0pt">
+              Chinese top down approach
+            </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="Miscellaneous" FOLDED="true" ID="ID_205696417" CREATED="1530941553471" MODIFIED="1530941561003" HGAP_QUANTITY="13.345454551129302 pt" VSHIFT_QUANTITY="18.98181801725025 pt">
@@ -2829,7 +2904,7 @@
 </node>
 </node>
 </node>
-<node TEXT="gs2" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
+<node TEXT="gs2" FOLDED="true" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
 <node TEXT="Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure." FOLDED="true" ID="ID_1794554400" CREATED="1544200456978" MODIFIED="1544200577047" BACKGROUND_COLOR="#ccffcc">
 <node TEXT="Constitution" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1340862862" CREATED="1488234371502" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
@@ -11586,41 +11661,8 @@
 <node TEXT="although election choices = freedom of expression under 19_1_(a),&#xa;open ballot = reasonable restriction under 19_2" ID="ID_1435839186" CREATED="1523772498594" MODIFIED="1523772537220"/>
 </node>
 </node>
-<node TEXT="23-06" FOLDED="true" ID="ID_750253772" CREATED="1498234429891" MODIFIED="1498234432316">
-<node TEXT="WHO guidelines on Antibiotics classification" FOLDED="true" ID="ID_287026211" CREATED="1498409955501" MODIFIED="1498409968247">
-<node TEXT="access, watch , reserve" ID="ID_1140365185" CREATED="1498409969437" MODIFIED="1498409978226"/>
-<node ID="ID_463961517" CREATED="1498409978754" MODIFIED="1498410019138"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      good to prevent <b>antimicrobial resistance </b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_885365187" CREATED="1498410031945" MODIFIED="1498410039758"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      hand WASH (<u><i>WHO?)</i></u>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="24-06" FOLDED="true" ID="ID_1671996622" CREATED="1498404009357" MODIFIED="1498404012451">
-<node TEXT="city liveability index" FOLDED="true" ID="ID_1802849389" CREATED="1498404016232" MODIFIED="1498404026171">
+<node TEXT="24-06" ID="ID_1671996622" CREATED="1498404009357" MODIFIED="1498404012451">
+<node TEXT="city liveability index" ID="ID_1802849389" CREATED="1498404016232" MODIFIED="1498404026171">
 <node TEXT="MoUD" ID="ID_1477956042" CREATED="1524402653951" MODIFIED="1524402655306"/>
 <node TEXT="large cities (&gt;1mn)&#xa;quality of life assessment" FOLDED="true" ID="ID_1034900675" CREATED="1498404028156" MODIFIED="1498404055207">
 <node TEXT="health, mobility, employment, emergency, grievance redressal, pollution, cultural and ent opportunities" ID="ID_1004778443" CREATED="1498404055973" MODIFIED="1498404090556"/>
@@ -11640,29 +11682,11 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="world drug report" FOLDED="true" ID="ID_1870029184" CREATED="1498404321075" MODIFIED="1498404329795">
+<node TEXT="world drug report" ID="ID_1870029184" CREATED="1498404321075" MODIFIED="1498404329795">
 <node TEXT="by Unites nations office on drugs and crime" ID="ID_210186441" CREATED="1498404329936" MODIFIED="1498404340828"/>
 <node TEXT="drug and terror link" ID="ID_1184980941" CREATED="1498404341562" MODIFIED="1498404345407"/>
 </node>
-<node TEXT="1991 reforms" FOLDED="true" ID="ID_1608323100" CREATED="1498404649892" MODIFIED="1498404654143">
-<node TEXT="only urban, not rural" FOLDED="true" ID="ID_987170657" CREATED="1498404655284" MODIFIED="1498404881148"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font size="1">rural urban divide</font>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="monthly per capita expenditure (MPCE)&#xa;urban &gt; rural&#xa;gap still exists today" ID="ID_1297781939" CREATED="1498404669068" MODIFIED="1498404700354"/>
-<node TEXT="lack of agri growth in last decade + low investment + llow private interest" ID="ID_417282843" CREATED="1498404715700" MODIFIED="1498404739453"/>
-</node>
-</node>
-<node TEXT="Banking ombudsman Scheme, 2006" FOLDED="true" ID="ID_620226447" CREATED="1498404906074" MODIFIED="1498405162113">
+<node TEXT="Banking ombudsman Scheme, 2006" ID="ID_620226447" CREATED="1498404906074" MODIFIED="1498405162113">
 <node FOLDED="true" ID="ID_27015713" CREATED="1498405107996" MODIFIED="1498405203272"><richcontent TYPE="NODE">
 
 <html>
@@ -11698,32 +11722,6 @@
 <font BOLD="true"/>
 </node>
 </node>
-<node TEXT="RRB amendment act, 2015" FOLDED="true" ID="ID_74313931" CREATED="1498405689646" MODIFIED="1498405693959">
-<node TEXT="RRB = governed by RBI + RRB Act" ID="ID_1525817429" CREATED="1498405694225" MODIFIED="1498405700070"/>
-<node ID="ID_730522486" CREATED="1498405700476" MODIFIED="1498405759638"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      49% = private
-    </p>
-    <p>
-      51% = Union + state + <b>Sponsor Bank</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT=" if not scheduled bank then?" ID="ID_1265847271" CREATED="1498405790269" MODIFIED="1498405796068"/>
-<node TEXT="Why more Differential banks?" FOLDED="true" ID="ID_878555541" CREATED="1498407838478" MODIFIED="1498407843104">
-<node TEXT="varied operations, competition, Eco survey 2015-16 = yes," ID="ID_1826684979" CREATED="1498407843354" MODIFIED="1498407884752"/>
-<node TEXT="RRB + Cooperative  != needs for financial inclusion + credit facility" ID="ID_1447800842" CREATED="1498407884908" MODIFIED="1498407911114"/>
-</node>
-<node TEXT="private bank = ( &lt;=74% foreign holding )" ID="ID_57136223" CREATED="1498405529186" MODIFIED="1498405565395"/>
 </node>
 <node TEXT="Prelims worthy maal" FOLDED="true" ID="ID_1195031541" CREATED="1498478819254" MODIFIED="1498478822473">
 <node TEXT="Handbook of statistics on states 2016-17 = by RBI" ID="ID_796584214" CREATED="1498478825332" MODIFIED="1498478837694"/>
@@ -16871,11 +16869,44 @@
 <font BOLD="false"/>
 </node>
 </node>
-<node TEXT="RRB" FOLDED="true" ID="ID_948992649" CREATED="1553452973566" MODIFIED="1553452974465">
+<node TEXT="RRB&#xa;regional rural bansk" FOLDED="true" ID="ID_948992649" CREATED="1553452973566" MODIFIED="1557383345733">
 <font BOLD="false"/>
-<node TEXT="regional rural bansk" ID="ID_877762777" CREATED="1553452974743" MODIFIED="1553452977634"/>
 <node TEXT="statutory established une RRCB Act, 1976" ID="ID_1384478495" CREATED="1553452979031" MODIFIED="1553452989279"/>
 <node TEXT="PSL norms with Commercial bank" ID="ID_1634426105" CREATED="1553452989481" MODIFIED="1553452995118"/>
+<node TEXT="RRB amendment act, 2015" ID="ID_74313931" CREATED="1498405689646" MODIFIED="1498405693959">
+<node TEXT="RRB = governed by RBI + RRB Act" ID="ID_1525817429" CREATED="1498405694225" MODIFIED="1498405700070"/>
+<node ID="ID_730522486" CREATED="1498405700476" MODIFIED="1498405759638"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      49% = private
+    </p>
+    <p>
+      51% = Union + state + <b>Sponsor Bank</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_385309044" CREATED="1557253231790" MODIFIED="1557253243215"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Central Government, : State Government : Sponsor Bank<br/>&#160;<br/>50:15:35.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="high power committee on urban cooperative banks" FOLDED="true" ID="ID_235576278" CREATED="1553452996990" MODIFIED="1553453026657">
 <font BOLD="false"/>
@@ -17368,24 +17399,6 @@
     </p>
     <p>
       better targeting of schemes
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="codex alimentarius" FOLDED="true" ID="ID_983207509" CREATED="1525244089502" MODIFIED="1525244092619">
-<node TEXT="inter govt body estd by FAO + WHO" ID="ID_654083407" CREATED="1525244092782" MODIFIED="1525244138759"/>
-<node TEXT="to protect consumer health + fair practices in food trade" ID="ID_1100953625" CREATED="1525244139050" MODIFIED="1525244154324"/>
-<node ID="ID_1866117160" CREATED="1525244159012" MODIFIED="1525244176137"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Codex food safety standards used in <b>WTO SPS Agreement</b>
     </p>
   </body>
 </html>
@@ -18439,10 +18452,6 @@
 <node TEXT="in site crop residue management" ID="ID_1146624662" CREATED="1525844756163" MODIFIED="1525844774231"/>
 <node TEXT="by Dept Agri, Cooperation and farmers welfare" ID="ID_1563905202" CREATED="1525844776940" MODIFIED="1525844787124"/>
 </node>
-<node TEXT="RRB&#xa;regional rural banks" FOLDED="true" ID="ID_1822855669" CREATED="1525845112967" MODIFIED="1525845118306">
-<node TEXT="RRB can issue IPO" ID="ID_310398788" CREATED="1525845118857" MODIFIED="1525845120392"/>
-<node TEXT="no CAR norms" ID="ID_456301001" CREATED="1525845120953" MODIFIED="1525845124990"/>
-</node>
 <node TEXT="bharat 22" FOLDED="true" ID="ID_58699952" CREATED="1526793234527" MODIFIED="1526793237350">
 <node TEXT="ETF, by ICICI prudential" ID="ID_1765015224" CREATED="1526793237491" MODIFIED="1526793245428"/>
 </node>
@@ -19307,24 +19316,6 @@
 <node TEXT="laying of alternative communication network for defence services." ID="ID_640061757" CREATED="1554611020731" MODIFIED="1554611021929"/>
 <node TEXT="BSNL" ID="ID_1671805625" CREATED="1554611022085" MODIFIED="1554611023585"/>
 </node>
-<node TEXT="RRB" ID="ID_1180522269" CREATED="1557253221781" MODIFIED="1557253222605">
-<node TEXT="Regional Rural Banks Act, 1976." ID="ID_1507162318" CREATED="1557253225550" MODIFIED="1557253231659"/>
-<node ID="ID_385309044" CREATED="1557253231790" MODIFIED="1557253243215"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Central Government, : State Government : Sponsor Bank<br/>&#160;<br/>50:15:35.
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-</node>
 <node TEXT="SamagraShiksha Scheme?" FOLDED="true" ID="ID_1446158126" CREATED="1554611248754" MODIFIED="1554611250863">
 <node TEXT="SarvaShikshaAbhiyan" ID="ID_1061805150" CREATED="1554611241699" MODIFIED="1554611241943"/>
 <node TEXT="RashtriyaMadhyamikShikshaAbhiyan" ID="ID_1963463420" CREATED="1554611237967" MODIFIED="1554611238573"/>
@@ -19516,6 +19507,7 @@
 </node>
 <node TEXT="S400 Trimurf" FOLDED="true" ID="ID_689375247" CREATED="1554615161471" MODIFIED="1554615181027">
 <node TEXT="russian air defence system" ID="ID_1281640831" CREATED="1554615164150" MODIFIED="1554615177293"/>
+<node TEXT="simultaneously track numerous incoming objects &#x2014; all kinds of aircraft, missiles and UAVs" ID="ID_182413669" CREATED="1557296884856" MODIFIED="1557296885584"/>
 </node>
 <node TEXT="i_1" FOLDED="true" ID="ID_1376620328" CREATED="1554615641898" MODIFIED="1554615645110">
 <node TEXT="arctic greening" ID="ID_158094918" CREATED="1554615645985" MODIFIED="1554615659866"/>
@@ -19871,7 +19863,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Section 3(2)(v) of the Act" ID="ID_168968859" CREATED="1557253853334" MODIFIED="1557253855376"/>
 </node>
@@ -20208,6 +20199,19 @@
 </node>
 <node TEXT="Gir, Kankrej and Sahiwal" ID="ID_91920046" CREATED="1557162902206" MODIFIED="1557162903753">
 <node TEXT="cattle breed" ID="ID_1969225373" CREATED="1557162903901" MODIFIED="1557162906023"/>
+</node>
+</node>
+<node TEXT="Girinka Programme" ID="ID_277483673" CREATED="1557301772125" MODIFIED="1557301772833">
+<node TEXT="Social Protection scheme u" ID="ID_1325815622" CREATED="1557301776784" MODIFIED="1557301784616"/>
+<node TEXT="get cows from the government and gift the first female calf to a neighbour to promote brotherhood." ID="ID_650912055" CREATED="1557301784773" MODIFIED="1557301785251"/>
+</node>
+<node TEXT="e vidyabharti&#xa;&#xa;E aargoyabharti" FOLDED="true" ID="ID_941051617" CREATED="1557306918189" MODIFIED="1557306927390">
+<node TEXT="BY TCIL&#xa;goi completely" ID="ID_475832744" CREATED="1557306902975" MODIFIED="1557306911967"/>
+</node>
+<node TEXT="RIMPAC, 2018" ID="ID_219084882" CREATED="1557385431170" MODIFIED="1557385451642">
+<node TEXT="theme : &quot;Capable, Adaptive, Partners.&quot;" ID="ID_365688694" CREATED="1557385441248" MODIFIED="1557385447388"/>
+<node TEXT="INS Sahyadri" ID="ID_1278591350" CREATED="1557385455793" MODIFIED="1557385459930">
+<node TEXT="indegenous stealth frigate" ID="ID_1271079420" CREATED="1557385459994" MODIFIED="1557385465258"/>
 </node>
 </node>
 </node>
@@ -22618,7 +22622,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="e.g.&#xa;Kuttanad in kerala = below sea level farming" ID="ID_1974389962" CREATED="1497334479284" MODIFIED="1552454428463"/>
+<node TEXT="3 in india&#xa;&#xa;&#xa;1. Kuttanad in kerala = below sea level farming&#xa;&#xa;2. Kashmir, parampore region = saffron&#xa;&#xa;3. Koraput Odisha = loosing biodiversity due to Shifting cultivation" ID="ID_1974389962" CREATED="1497334479284" MODIFIED="1557376778379" LINK="https://www.jagranjosh.com/general-knowledge/list-of-global-agricultural-heritage-systems-giahs-sites-in-india-1510232235-1"/>
 </node>
 <node TEXT="rythu bandhu" FOLDED="true" ID="ID_1248372066" CREATED="1526654889771" MODIFIED="1531407423081">
 <font BOLD="true"/>
@@ -25162,50 +25166,6 @@
 <font NAME="Calibri"/>
 <node TEXT="hazardous chemicals" ID="ID_316405021" CREATED="1489229198807" MODIFIED="1489229202764"/>
 <node TEXT="legally binding obligations for PIC procedure (prior informed consent)" ID="ID_1209929644" CREATED="1489229203170" MODIFIED="1489229222131"/>
-</node>
-<node TEXT="CWC&#xa;chemical weapon convention" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1942255547" CREATED="1494834650603" MODIFIED="1525845356059">
-<icon BUILTIN="idea"/>
-<font NAME="Calibri"/>
-<node TEXT="India ratified in 1996" ID="ID_1505424170" CREATED="1494834657095" MODIFIED="1494834664170"/>
-<node TEXT="made NACWC" FOLDED="true" ID="ID_33400325" CREATED="1496027219912" MODIFIED="1496027229968">
-<node ID="ID_1054945220" CREATED="1496027230133" MODIFIED="1496027246871"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      national authority on CWC under <b><i>Cabinet Secretariat</i></b>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="OPCW&#xa;organisation for prohibition of chemical weapons" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1852954880" CREATED="1523005322262" MODIFIED="1525845269138">
-<font NAME="Calibri"/>
-<node ID="ID_1068309043" CREATED="1523005324644" MODIFIED="1525845278583"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      nobel peace prize 2013,
-    </p>
-    <p>
-      <b>enforces CWC,</b>
-    </p>
-    <p>
-      outlaws production, use of stockpiles of chemical weapons
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
 </node>
 <node TEXT="CMS ( Bonn)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1598289552" CREATED="1489408618961" MODIFIED="1495087034510">
 <font NAME="Calibri"/>
