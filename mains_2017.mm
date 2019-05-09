@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1309,7 +1309,7 @@
 <node TEXT=" factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)" ID="ID_1617790756" CREATED="1549617287506" MODIFIED="1549617293252" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes." ID="ID_39590021" CREATED="1545140505235" MODIFIED="1545140575695" BACKGROUND_COLOR="#ccffcc"/>
 </node>
-<node TEXT="GS2" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
+<node TEXT="GS2" FOLDED="true" POSITION="left" ID="ID_628219762" CREATED="1490333975380" MODIFIED="1530941561004">
 <node TEXT="Governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1374804875" CREATED="1488281401402" MODIFIED="1530941434103">
 <font NAME="Calibri" BOLD="true"/>
 <node TEXT="Good governance" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442171322" CREATED="1488281403059" MODIFIED="1488545169868">
@@ -2169,8 +2169,8 @@
 </node>
 </node>
 </node>
-<node TEXT="International Relations" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
-<node TEXT="India and Neighbors" ID="ID_1414874769" CREATED="1522383018445" MODIFIED="1522383025555">
+<node TEXT="International Relations" FOLDED="true" ID="ID_672499808" CREATED="1497938518656" MODIFIED="1497938522097">
+<node TEXT="India and Neighbors" FOLDED="true" ID="ID_1414874769" CREATED="1522383018445" MODIFIED="1522383025555">
 <node TEXT="PET SEM" FOLDED="true" ID="ID_1677716879" CREATED="1509253549725" MODIFIED="1509253552178">
 <node TEXT="people economy, trade strategic environment military" ID="ID_314291566" CREATED="1509253552366" MODIFIED="1509253571497"/>
 </node>
@@ -3280,7 +3280,7 @@
 </node>
 <node TEXT="not a citizen, foreign citizen accept, foreign allegiance" ID="ID_679787889" CREATED="1499267234652" MODIFIED="1499267250857"/>
 </node>
-<node TEXT="110 : Define Money Bill" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1253569979" CREATED="1488234803775" MODIFIED="1488545169502">
+<node TEXT="110 : Define Money Bill" LOCALIZED_STYLE_REF="default" ID="ID_1253569979" CREATED="1488234803775" MODIFIED="1488545169502">
 <node TEXT="CFI" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1922040354" CREATED="1488234805484" MODIFIED="1488545169502">
 <node TEXT="Custody" LOCALIZED_STYLE_REF="default" ID="ID_1815389592" CREATED="1488234843001" MODIFIED="1488545169517"/>
 <node TEXT="charged expenditure" LOCALIZED_STYLE_REF="default" ID="ID_312731203" CREATED="1488234845895" MODIFIED="1488545169517"/>
@@ -3314,7 +3314,7 @@
 </node>
 <node TEXT="negative - judicial overreach" ID="ID_272752991" CREATED="1495144017052" MODIFIED="1495144105469"/>
 </node>
-<node TEXT="165" OBJECT="java.lang.Long|165" FOLDED="true" ID="ID_882518007" CREATED="1553362110800" MODIFIED="1553362112286">
+<node TEXT="165" OBJECT="java.lang.Long|165" ID="ID_882518007" CREATED="1553362110800" MODIFIED="1553362112286">
 <node TEXT="Attorney General" ID="ID_663647131" CREATED="1553362112493" MODIFIED="1553362116960"/>
 </node>
 <node TEXT="226" OBJECT="java.lang.Long|226" FOLDED="true" ID="ID_1573549382" CREATED="1525497670718" MODIFIED="1525497672681">
@@ -3322,10 +3322,10 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node TEXT="253 : Make laws on basis of intl. treaty" FOLDED="true" ID="ID_649004263" CREATED="1537419916090" MODIFIED="1537419925085">
+<node TEXT="253 : Make laws on basis of intl. treaty" ID="ID_649004263" CREATED="1537419916090" MODIFIED="1537419925085">
 <node TEXT="example&#xa;&#xa;Right to person with disabilities act, 2016" ID="ID_1089052951" CREATED="1537419925188" MODIFIED="1537419966038"/>
 </node>
-<node TEXT="324 ECI" FOLDED="true" ID="ID_1734276487" CREATED="1553363303207" MODIFIED="1553363306743">
+<node TEXT="324 ECI" ID="ID_1734276487" CREATED="1553363303207" MODIFIED="1553363306743">
 <node TEXT="324 = superitendence control conduct elections" ID="ID_917620753" CREATED="1553363327994" MODIFIED="1553363341520">
 <font BOLD="false"/>
 </node>
@@ -3334,7 +3334,7 @@
 </node>
 </node>
 <node TEXT="FR vs DPSP" FOLDED="true" ID="ID_283318123" CREATED="1553340542059" MODIFIED="1553340543869">
-<node TEXT="SC cases :&#xa;&#xa;CA = constitutional amendment" FOLDED="true" ID="ID_502175991" CREATED="1553340544076" MODIFIED="1553340596031">
+<node TEXT="SC cases :&#xa;&#xa;CA = constitutional amendment" ID="ID_502175991" CREATED="1553340544076" MODIFIED="1553340596031">
 <node TEXT="1951  :&#xa;champakam dorairajan case&#xa;&#xa;FR &gt; DPSP.&#xa;&#xa;FR can be amended to implement DPSP&#xa;&#xa;Led to 1, 4, 7 CA" ID="ID_1360108509" CREATED="1553340549980" MODIFIED="1553340731299"/>
 <node TEXT="1967 : Golaknath&#xa;&#xa;FR = sacrosanct =&gt; can&apos;t be amended to implement DPSP&#xa;&#xa;led to 24 CA =&gt; insert article 31C" ID="ID_838812839" CREATED="1553340731832" MODIFIED="1553340784826"/>
 <node TEXT="1972 : Kesvananda Bharti&#xa;&#xa;Judicial review = basic structure =&gt; 2nd clause of 31C invalid&#xa;&#xa;DPSP &gt; FR (14,19,21)" ID="ID_904266591" CREATED="1553340786289" MODIFIED="1553340866850"/>
@@ -3364,10 +3364,10 @@
 <node TEXT="IR COehlo case, 2007 :&#xa;&#xa;9th schedule, cases in it after 1973 Kesvananda case are under judicial review" ID="ID_722682062" CREATED="1553341089726" MODIFIED="1553341124047"/>
 </node>
 </node>
-<node TEXT="other SC judgements" FOLDED="true" ID="ID_1867638439" CREATED="1553341029497" MODIFIED="1553341032522">
+<node TEXT="other SC judgements" ID="ID_1867638439" CREATED="1553341029497" MODIFIED="1553341032522">
 <node TEXT="Maneka Gandhi, 1980 :&#xa;&#xa;procedure established by law -&gt; due process of law w.r.t article 21" ID="ID_1391288740" CREATED="1553340961450" MODIFIED="1553340995141"/>
 </node>
-<node TEXT="Representative Democracy" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_639594134" CREATED="1519974692523" MODIFIED="1519974698434">
+<node TEXT="Representative Democracy" LOCALIZED_STYLE_REF="default" ID="ID_639594134" CREATED="1519974692523" MODIFIED="1519974698434">
 <node ID="ID_560271641" CREATED="1519974698598" MODIFIED="1519974725935"><richcontent TYPE="NODE">
 
 <html>
@@ -3407,7 +3407,7 @@
 <node TEXT="8 : for OCI" ID="ID_1323069895" CREATED="1553341364400" MODIFIED="1553341374709"/>
 </node>
 <node TEXT="language issue" FOLDED="true" ID="ID_1169316895" CREATED="1553361319328" MODIFIED="1553361322226">
-<node TEXT="state reorganisation history" FOLDED="true" ID="ID_1479983780" CREATED="1554611688827" MODIFIED="1554611694105">
+<node TEXT="state reorganisation history" ID="ID_1479983780" CREATED="1554611688827" MODIFIED="1554611694105">
 <node TEXT="Dhar : June 1948&#xa;&#xa;reorganise on basis of administrative convenience rather than language" ID="ID_1900155299" CREATED="1554611701978" MODIFIED="1554611721917"/>
 <node TEXT="JVP (Dec, 1948  - Apr, 1949)&#xa;&#xa;rejected language as the basis for reorganisation of states." ID="ID_913361712" CREATED="1554611634752" MODIFIED="1554611655564"/>
 <node TEXT="fazl Ali commission (Dec, 1953 - Sept,1955) ::&#xa;&#xa;broadly accepted language as state organisation&#xa;&#xa;&#xa;rejected one language one state" ID="ID_785470134" CREATED="1553361322347" MODIFIED="1554611685367"/>
@@ -4082,7 +4082,7 @@
 <node TEXT="e.g. places of worship on Public Land" LOCALIZED_STYLE_REF="default" ID="ID_1833262540" CREATED="1489467823566" MODIFIED="1514839848272"/>
 </node>
 </node>
-<node TEXT="Pluralism and Secularism" ID="ID_791556347" CREATED="1557196158058" MODIFIED="1557196163903">
+<node TEXT="Pluralism and Secularism" FOLDED="true" ID="ID_791556347" CREATED="1557196158058" MODIFIED="1557196163903">
 <node TEXT="Pluralism" FOLDED="true" ID="ID_342869978" CREATED="1557196187056" MODIFIED="1557196189752">
 <node TEXT="def -" ID="ID_1779362999" CREATED="1557196189929" MODIFIED="1557197879073">
 <node ID="ID_508152159" CREATED="1557197881119" MODIFIED="1557197881119"><richcontent TYPE="NODE">
@@ -4181,7 +4181,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Demorcacy" ID="ID_263230426" CREATED="1557197553641" MODIFIED="1557197557144">
+<node TEXT="Demorcacy" FOLDED="true" ID="ID_263230426" CREATED="1557197553641" MODIFIED="1557197557144">
 <node TEXT="gandhi = democracy&apos;s safeguard is keen sense of  independence, self respect, oneness  choosing good representative" ID="ID_1443402684" CREATED="1557197557617" MODIFIED="1557197558526"/>
 <node TEXT="Assess functioning of democracy" FOLDED="true" ID="ID_992637632" CREATED="1557197595368" MODIFIED="1557197601578">
 <node TEXT="procedural" FOLDED="true" ID="ID_729441127" CREATED="1557197604089" MODIFIED="1557197605979">
@@ -4985,7 +4985,7 @@
 </node>
 </node>
 <node TEXT="AIJS&#xa;all india judicial services" FOLDED="true" ID="ID_1776577040" CREATED="1499099509487" MODIFIED="1499099519279">
-<node TEXT="RS can reco All india Services [AIS] ( 312 )" FOLDED="true" ID="ID_912195295" CREATED="1494671590262" MODIFIED="1499099527638">
+<node TEXT="RS can reco All india Services [AIS] ( 312 )" ID="ID_912195295" CREATED="1494671590262" MODIFIED="1499099527638">
 <node TEXT="2/3 present and voting" ID="ID_1862210430" CREATED="1496531706353" MODIFIED="1496531711870"/>
 <node ID="ID_1371812057" CREATED="1496531728330" MODIFIED="1496531788582" MAX_WIDTH="169.2731573601628 pt" MIN_WIDTH="169.2731573601628 pt"><richcontent TYPE="NODE">
 
@@ -5011,12 +5011,12 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Law commission report suggest" FOLDED="true" ID="ID_1609124252" CREATED="1499099528954" MODIFIED="1499099537708">
+<node TEXT="Law commission report suggest" ID="ID_1609124252" CREATED="1499099528954" MODIFIED="1499099537708">
 <node TEXT="talent attract, proven competence, remove pendency in judiciary" ID="ID_72909664" CREATED="1499099703515" MODIFIED="1499099869888"/>
 <node TEXT="recruitment of judges impartial, independent agency" ID="ID_829083175" CREATED="1499099870253" MODIFIED="1499099880636"/>
 </node>
 <node TEXT="swaran singh committee recommendation" ID="ID_58550185" CREATED="1499099889937" MODIFIED="1499099906651"/>
-<node TEXT="cons" FOLDED="true" ID="ID_427164358" CREATED="1499099929989" MODIFIED="1499099931229">
+<node TEXT="cons" ID="ID_427164358" CREATED="1499099929989" MODIFIED="1499099931229">
 <node TEXT="career progression must be laid out clearly" ID="ID_1139820087" CREATED="1499099945769" MODIFIED="1499099956717"/>
 <node TEXT="state judicial services at disadvantage" ID="ID_175980895" CREATED="1499099964882" MODIFIED="1499099971225"/>
 <node TEXT="erosion of control of HC over subordinate judiciary" ID="ID_538635380" CREATED="1499099931471" MODIFIED="1499099944613"/>
@@ -5157,9 +5157,9 @@
 <node TEXT="&#x25cb; countering misinformation via public education, not punishment." ID="ID_309190404" CREATED="1549594957907" MODIFIED="1549708697299"/>
 <node TEXT="State is far from a politically neutral actor  - thus even if you make fake news law - it may be misused." ID="ID_1916805143" CREATED="1549594969998" MODIFIED="1549594970916"/>
 </node>
-<node TEXT="Union and Territories" FOLDED="true" ID="ID_1668789501" CREATED="1550208751638" MODIFIED="1550208757924">
+<node TEXT="Union and Territories" ID="ID_1668789501" CREATED="1550208751638" MODIFIED="1550208757924">
 <font BOLD="true"/>
-<node TEXT="1" OBJECT="java.lang.Long|1" FOLDED="true" ID="ID_331836493" CREATED="1550215687612" MODIFIED="1550215688625">
+<node TEXT="1" OBJECT="java.lang.Long|1" ID="ID_331836493" CREATED="1550215687612" MODIFIED="1550215688625">
 <node TEXT="Bharat = no other word is found adequate describe culture of people living on subcontinent" ID="ID_216367798" CREATED="1550215522711" MODIFIED="1550215540744"/>
 <node ID="ID_1171996153" CREATED="1550215547049" MODIFIED="1550215632596"><richcontent TYPE="NODE">
 
@@ -5197,16 +5197,16 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="2" OBJECT="java.lang.Long|2" FOLDED="true" ID="ID_990105015" CREATED="1550215690212" MODIFIED="1550215690747">
+<node TEXT="2" OBJECT="java.lang.Long|2" ID="ID_990105015" CREATED="1550215690212" MODIFIED="1550215690747">
 <node TEXT="admitting territory in India  [Sikkim]&#xa;&#xa;establish new state&#xa;[UT -&gt; state]" ID="ID_813326546" CREATED="1550215724682" MODIFIED="1550215762947"/>
 </node>
-<node TEXT="3" OBJECT="java.lang.Long|3" FOLDED="true" ID="ID_80418081" CREATED="1550215749482" MODIFIED="1550215750320">
+<node TEXT="3" OBJECT="java.lang.Long|3" ID="ID_80418081" CREATED="1550215749482" MODIFIED="1550215750320">
 <node TEXT="alteration of new state" ID="ID_873150800" CREATED="1550215750463" MODIFIED="1550215754820"/>
-<node TEXT="process of creation of state" FOLDED="true" ID="ID_1829395031" CREATED="1550215887496" MODIFIED="1550215894375">
+<node TEXT="process of creation of state" ID="ID_1829395031" CREATED="1550215887496" MODIFIED="1550215894375">
 <node TEXT="2 conditions&#xa;&#xa;[5Laxmi_116]" ID="ID_1028790273" CREATED="1550216092299" MODIFIED="1550216118677"/>
 </node>
 </node>
-<node TEXT="4" OBJECT="java.lang.Long|4" FOLDED="true" ID="ID_1717361971" CREATED="1550215882876" MODIFIED="1550215883064">
+<node TEXT="4" OBJECT="java.lang.Long|4" ID="ID_1717361971" CREATED="1550215882876" MODIFIED="1550215883064">
 <node ID="ID_1594124859" CREATED="1550216231688" MODIFIED="1550496826285"><richcontent TYPE="NODE">
 
 <html>
@@ -7532,7 +7532,7 @@
 <node TEXT="Nirbhaya Fund" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1872345163" CREATED="1488619139703" MODIFIED="1488619142412">
 <node TEXT="MoWCD" ID="ID_772869713" CREATED="1488619142572" MODIFIED="1488619145715"/>
 </node>
-<node TEXT="JSY" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_230755812" CREATED="1488171537589" MODIFIED="1551782700817">
+<node TEXT="JSY" LOCALIZED_STYLE_REF="default" ID="ID_230755812" CREATED="1488171537589" MODIFIED="1551782700817">
 <node TEXT="launched under NRHM, MoHFW" LOCALIZED_STYLE_REF="default" ID="ID_408375321" CREATED="1488171548622" MODIFIED="1496965025395"/>
 <node TEXT="Promote Institutional deliveries" LOCALIZED_STYLE_REF="default" ID="ID_812143647" CREATED="1488171540527" MODIFIED="1488545169798"/>
 <node TEXT="100% centre sponsored = Delivery + POST delivery" LOCALIZED_STYLE_REF="default" ID="ID_1797275680" CREATED="1488171577200" MODIFIED="1488545169803"/>
@@ -17692,33 +17692,33 @@
 <node TEXT="amendment acts&#xa;CA" FOLDED="true" ID="ID_1445679859" CREATED="1523454489565" MODIFIED="1553362758604">
 <font BOLD="true"/>
 <node TEXT="15 (4)&#xa;added via CA" ID="ID_1145093176" CREATED="1553362749494" MODIFIED="1553362755301"/>
-<node TEXT="22" OBJECT="java.lang.Long|22" FOLDED="true" ID="ID_122322888" CREATED="1524902422297" MODIFIED="1554283802780">
+<node TEXT="22" OBJECT="java.lang.Long|22" ID="ID_122322888" CREATED="1524902422297" MODIFIED="1554283802780">
 <node TEXT="244A" ID="ID_636702772" CREATED="1524902406454" MODIFIED="1524902408365"/>
 <node TEXT="tribal areas in assam" ID="ID_434929249" CREATED="1524902415668" MODIFIED="1524902420264"/>
 </node>
 <node TEXT="24" OBJECT="java.lang.Long|24" FOLDED="true" ID="ID_1028593084" CREATED="1523456242536" MODIFIED="1523456243488">
-<node TEXT="parliament can amend FR" FOLDED="true" ID="ID_513250204" CREATED="1523456236643" MODIFIED="1523456242440">
+<node TEXT="parliament can amend FR" ID="ID_513250204" CREATED="1523456236643" MODIFIED="1523456242440">
 <node TEXT="added the words &#x2015;&#xa;&#xa;amend by way of addition or variation or repeal any provision in accordance with the provisions laid down in this Article&#x2016;&#xa;&#xa;in 368" ID="ID_966612681" CREATED="1554614832265" MODIFIED="1554614844779"/>
 <node TEXT="upheld in Keshvananda bharti case" ID="ID_825532938" CREATED="1554614844963" MODIFIED="1554614857575"/>
 </node>
 <node TEXT="obligatory for President to give assent to CA bil" ID="ID_1352793462" CREATED="1553429590168" MODIFIED="1553429611370"/>
 </node>
-<node TEXT="42" OBJECT="java.lang.Long|42" FOLDED="true" ID="ID_1893059455" CREATED="1553362702717" MODIFIED="1553362703810">
+<node TEXT="42" OBJECT="java.lang.Long|42" ID="ID_1893059455" CREATED="1553362702717" MODIFIED="1553362703810">
 <node TEXT="President to act with aid and advice of PM (with CoM)&#xa;&#xa;74 (1) article" ID="ID_919997731" CREATED="1553362703958" MODIFIED="1553362741390"/>
 </node>
-<node TEXT="44" OBJECT="java.lang.Long|44" FOLDED="true" ID="ID_794816268" CREATED="1525498608644" MODIFIED="1525498610155">
+<node TEXT="44" OBJECT="java.lang.Long|44" ID="ID_794816268" CREATED="1525498608644" MODIFIED="1525498610155">
 <node TEXT="removed right to property as FR" ID="ID_622362653" CREATED="1525498618330" MODIFIED="1525498632753"/>
 <node TEXT="internal disturbance to armed rebellion" ID="ID_1151183270" CREATED="1523456214515" MODIFIED="1523456223329"/>
 </node>
-<node TEXT="52" OBJECT="java.lang.Long|52" FOLDED="true" ID="ID_1740893291" CREATED="1523454491569" MODIFIED="1523454493170">
+<node TEXT="52" OBJECT="java.lang.Long|52" ID="ID_1740893291" CREATED="1523454491569" MODIFIED="1523454493170">
 <node TEXT="tenth schedule" ID="ID_895011088" CREATED="1523454493584" MODIFIED="1523454495886"/>
 </node>
-<node TEXT="61" OBJECT="java.lang.Long|61" FOLDED="true" ID="ID_900216247" CREATED="1523454734896" MODIFIED="1553429692301">
-<node TEXT="age of election 21 -&gt; 18" FOLDED="true" ID="ID_1086153265" CREATED="1523454729536" MODIFIED="1551973256814">
+<node TEXT="61" OBJECT="java.lang.Long|61" ID="ID_900216247" CREATED="1523454734896" MODIFIED="1553429692301">
+<node TEXT="age of election 21 -&gt; 18" ID="ID_1086153265" CREATED="1523454729536" MODIFIED="1551973256814">
 <node TEXT="present day youth enlightened + need political participation early" ID="ID_1162254494" CREATED="1523454752100" MODIFIED="1523454765404"/>
 </node>
 </node>
-<node TEXT="69" OBJECT="java.lang.Long|69" FOLDED="true" ID="ID_1267248437" CREATED="1524901590678" MODIFIED="1524901592568">
+<node TEXT="69" OBJECT="java.lang.Long|69" ID="ID_1267248437" CREATED="1524901590678" MODIFIED="1524901592568">
 <node TEXT="delhi leg council" ID="ID_86398295" CREATED="1524901585604" MODIFIED="1524901590504"/>
 </node>
 <node ID="ID_971581652" CREATED="1553428389705" MODIFIED="1553429688041" LINK="#ID_739864443" TEXT_ALIGN="LEFT"><richcontent TYPE="NODE">
@@ -17738,24 +17738,24 @@
 <node TEXT="91" OBJECT="java.lang.Long|91" FOLDED="true" ID="ID_557331685" CREATED="1524901338781" MODIFIED="1524901339523">
 <node TEXT="council of ministers &lt;15%" ID="ID_235681813" CREATED="1524901345758" MODIFIED="1524901354692"/>
 </node>
-<node TEXT="92" OBJECT="java.lang.Long|92" FOLDED="true" ID="ID_1691412160" CREATED="1525506047746" MODIFIED="1525506049465">
+<node TEXT="92" OBJECT="java.lang.Long|92" ID="ID_1691412160" CREATED="1525506047746" MODIFIED="1525506049465">
 <node TEXT="BDSM to 8th schedule" FOLDED="true" ID="ID_1633996562" CREATED="1525506035523" MODIFIED="1551973286915">
 <node TEXT="bodo dogri maithili santhali" ID="ID_710901246" CREATED="1525506042458" MODIFIED="1525506047128"/>
 </node>
 </node>
-<node TEXT="97" OBJECT="java.lang.Long|97" FOLDED="true" ID="ID_453859349" CREATED="1553363047259" MODIFIED="1553429676328">
+<node TEXT="97" OBJECT="java.lang.Long|97" ID="ID_453859349" CREATED="1553363047259" MODIFIED="1553429676328">
 <node TEXT="cooperative societies&#xa;2003&#xa;article 19&#xa;, DPSP - 43 B&#xa;, Part IX_B" ID="ID_852576804" CREATED="1553363049473" MODIFIED="1554614793329"/>
 </node>
-<node TEXT="DPSP vs CA" FOLDED="true" ID="ID_743082002" CREATED="1553428302263" MODIFIED="1553428308788">
+<node TEXT="DPSP vs CA" ID="ID_743082002" CREATED="1553428302263" MODIFIED="1553428308788">
 <node TEXT="42 CA :&#xa;&#xa;39 -&gt; healthy deveopment of children&#xa;&#xa;39A -&gt; free legal aid&#xa;&#xa;43A -&gt; participation of workers in industries&#xa;&#xa;48A -&gt; protect environment" ID="ID_304150620" CREATED="1553428310464" MODIFIED="1553428376759" TEXT_ALIGN="LEFT"/>
 <node TEXT="44 CA  :&#xa;&#xa;38 (2) : Minimise inequality in status, opportunities" ID="ID_1530839174" CREATED="1553428382085" MODIFIED="1554612266583" TEXT_ALIGN="LEFT"/>
 <node TEXT="97 CA :" ID="ID_45734255" CREATED="1553428387102" MODIFIED="1553428389449" TEXT_ALIGN="LEFT"/>
 <node TEXT="86th" ID="ID_501638530" CREATED="1553428494770" MODIFIED="1553428500979" LINK="#ID_971581652" TEXT_ALIGN="LEFT"/>
 </node>
 </node>
-<node TEXT="Acts historial constitution" FOLDED="true" ID="ID_1076931394" CREATED="1553362826831" MODIFIED="1553362833807">
+<node TEXT="Acts historial constitution" ID="ID_1076931394" CREATED="1553362826831" MODIFIED="1553362833807">
 <font BOLD="true"/>
-<node TEXT="india independence act, 1947" FOLDED="true" ID="ID_294215873" CREATED="1553362833932" MODIFIED="1553362839684">
+<node TEXT="india independence act, 1947" ID="ID_294215873" CREATED="1553362833932" MODIFIED="1553362839684">
 <node TEXT="India is independent&#xa;&#xa;Abolished Secretary of state (transfer functions to )-&gt; Commonwealth secretary" ID="ID_545775874" CREATED="1553362842591" MODIFIED="1553362877554"/>
 </node>
 </node>
@@ -17770,7 +17770,7 @@
 <node TEXT="FDs" ID="ID_1148924295" CREATED="1556893671616" MODIFIED="1556893672666"/>
 </node>
 <node TEXT="cabinet vs CoM difference,  pg 247" ID="ID_1809873889" CREATED="1524902183763" MODIFIED="1524902204763"/>
-<node TEXT="iasbaba day 6" FOLDED="true" ID="ID_863877583" CREATED="1524906121939" MODIFIED="1524906124767">
+<node TEXT="iasbaba day 6" ID="ID_863877583" CREATED="1524906121939" MODIFIED="1524906124767">
 <node TEXT="president resigns, VP intimates same to Speaker LS" ID="ID_1052349885" CREATED="1524906577483" MODIFIED="1524906590054"/>
 </node>
 <node TEXT="vision 9" FOLDED="true" ID="ID_1499926194" CREATED="1525496250914" MODIFIED="1525496252459">
@@ -17952,7 +17952,7 @@
 </node>
 </node>
 </node>
-<node TEXT="FR" FOLDED="true" ID="ID_722739885" CREATED="1554611498100" MODIFIED="1554611499472">
+<node TEXT="FR" ID="ID_722739885" CREATED="1554611498100" MODIFIED="1554611499472">
 <node TEXT="17,23 against private individual" ID="ID_686603220" CREATED="1554611499601" MODIFIED="1554611507001"/>
 <node TEXT="15, 24 against private corporations" ID="ID_357022823" CREATED="1554611507180" MODIFIED="1554611521589"/>
 </node>
@@ -19878,12 +19878,12 @@
 <node TEXT="savita law" FOLDED="true" ID="ID_1069372646" CREATED="1556771018092" MODIFIED="1556771020836">
 <node TEXT="ireland ,legalist abortion based on referendum" ID="ID_472972571" CREATED="1556771020979" MODIFIED="1556771037267"/>
 </node>
-<node TEXT="IYB questions" FOLDED="true" ID="ID_953086047" CREATED="1557157319736" MODIFIED="1557157324535">
+<node TEXT="IYB questions" ID="ID_953086047" CREATED="1557157319736" MODIFIED="1557157324535">
 <node TEXT="Flood Management and Border Areas Programme (FMBAP)" ID="ID_1273858319" CREATED="1557157324875" MODIFIED="1557157325363">
 <node TEXT="assist the State Governments to protect against floods in critical areas" ID="ID_906911463" CREATED="1557157359712" MODIFIED="1557157375156"/>
 <node TEXT="throughout the country" ID="ID_1727506106" CREATED="1557157387592" MODIFIED="1557157584938"/>
 </node>
-<node TEXT="Mid-Day Meal Scheme" ID="ID_40156724" CREATED="1557157453167" MODIFIED="1557157453902">
+<node TEXT="Mid-Day Meal Scheme" FOLDED="true" ID="ID_40156724" CREATED="1557157453167" MODIFIED="1557157453902">
 <node ID="ID_673805658" CREATED="1557157476370" MODIFIED="1557157578943"><richcontent TYPE="NODE">
 
 <html>
@@ -19916,7 +19916,7 @@
 <node TEXT="100 per cent&#xa;for&#xa;&#xa;-&gt; remaining UTs&#xa;&#xa;-&gt; 90:10 for NER states&#xa;&#xa;-&gt; 3 Himalayan states&#xa;&#xa;( viz., Himachal Pradesh, Jammu and Kashmir and Uttarakhand )" ID="ID_1792350910" CREATED="1557157605440" MODIFIED="1557157642196"/>
 </node>
 </node>
-<node TEXT="IMD" ID="ID_1162613789" CREATED="1557157793481" MODIFIED="1557157794189">
+<node TEXT="IMD" FOLDED="true" ID="ID_1162613789" CREATED="1557157793481" MODIFIED="1557157794189">
 <node TEXT="MoES" ID="ID_835570828" CREATED="1557157794382" MODIFIED="1557157795887">
 <node TEXT="min earth science" ID="ID_1239847638" CREATED="1557157796001" MODIFIED="1557157799253"/>
 </node>
@@ -20019,7 +20019,7 @@
 <node TEXT="" ID="ID_859507946" CREATED="1557158818027" MODIFIED="1557158818028">
 <hook NAME="FirstGroupNode"/>
 </node>
-<node TEXT="Mihir," FOLDED="true" ID="ID_381943300" CREATED="1557158654537" MODIFIED="1557158764670">
+<node TEXT="Mihir," ID="ID_381943300" CREATED="1557158654537" MODIFIED="1557158764670">
 <node ID="ID_905945139" CREATED="1557158673117" MODIFIED="1557158694758"><richcontent TYPE="NODE">
 
 <html>
@@ -20035,7 +20035,7 @@
 </richcontent>
 </node>
 </node>
-<node FOLDED="true" ID="ID_1030872808" CREATED="1557158768127" MODIFIED="1557158768127"><richcontent TYPE="NODE">
+<node ID="ID_1030872808" CREATED="1557158768127" MODIFIED="1557158768127"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20055,7 +20055,7 @@
 <hook NAME="AlwaysUnfoldedNode"/>
 <node TEXT="weather forecasting and supercomputing" ID="ID_1888943653" CREATED="1557158818028" MODIFIED="1557158827786"/>
 </node>
-<node TEXT="National Policy on Software Products-2019?" ID="ID_1965313443" CREATED="1557158256506" MODIFIED="1557158256754">
+<node TEXT="National Policy on Software Products-2019?" FOLDED="true" ID="ID_1965313443" CREATED="1557158256506" MODIFIED="1557158256754">
 <node TEXT="objective :&#xa;&#xa;cluster-based innovation-driven&#xa;&#xa;&#xa;10,000 technology startups in the software&#xa;&#xa;&#xa;ten times software by 2025." ID="ID_1683588434" CREATED="1557158281018" MODIFIED="1557158308090"/>
 <node TEXT="NOT to software development for critical infrastructure." ID="ID_1826907983" CREATED="1557158270661" MODIFIED="1557158275125"/>
 </node>
