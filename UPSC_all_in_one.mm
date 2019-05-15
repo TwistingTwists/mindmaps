@@ -7114,9 +7114,6 @@
 </node>
 <node TEXT="v_27" FOLDED="true" ID="ID_41652474" CREATED="1497222962132" MODIFIED="1497222963945">
 <font NAME="Calibri"/>
-<node TEXT="cloud seeding =" ID="ID_371438417" CREATED="1497222964117" MODIFIED="1557826893614">
-<node TEXT="TN(1970s)&#xa;&#xa;MH, KN" ID="ID_1781680699" CREATED="1557826893850" MODIFIED="1557826906681"/>
-</node>
 <node TEXT="mahila shakti kendra" FOLDED="true" ID="ID_1143431276" CREATED="1497223077851" MODIFIED="1497223082086">
 <node TEXT="one stop for ALL services = health, digital, village level ONLY," ID="ID_825654599" CREATED="1497223084477" MODIFIED="1497223110933"/>
 </node>
@@ -8010,7 +8007,7 @@
 <node TEXT="songs by alvar saints in devtion of vishanu" ID="ID_1793090858" CREATED="1526794962396" MODIFIED="1526794969457"/>
 </node>
 </node>
-<node TEXT="UNSECO Intangible Heritage" ID="ID_1646462105" CREATED="1491720265653" MODIFIED="1552579786689" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Dec&apos;16/Vision%20CURRENT%20AFFAIRS%20DECEMBER%202016.pdf">
+<node TEXT="UNSECO Intangible Heritage" FOLDED="true" ID="ID_1646462105" CREATED="1491720265653" MODIFIED="1552579786689" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Dec&apos;16/Vision%20CURRENT%20AFFAIRS%20DECEMBER%202016.pdf">
 <font NAME="Calibri"/>
 <richcontent TYPE="DETAILS">
 
@@ -8046,8 +8043,15 @@
 </node>
 <node TEXT="Kutiyattam or koodiyattam" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_605207527" CREATED="1494911283008" MODIFIED="1496098031046" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
-<node TEXT="kerala" ID="ID_769382039" CREATED="1494911285080" MODIFIED="1494911285866"/>
-<node TEXT="sanskrit theatre" ID="ID_602260822" CREATED="1494912196746" MODIFIED="1494912200278"/>
+<node TEXT="kerala&#xa;sanskrit theatre" ID="ID_769382039" CREATED="1494911285080" MODIFIED="1557916707187"/>
+<node TEXT="characters" FOLDED="true" ID="ID_1360139255" CREATED="1557916728738" MODIFIED="1557916730928">
+<node TEXT="Sutradhar or narrator" ID="ID_1219785091" CREATED="1557916719361" MODIFIED="1557916721098"/>
+<node TEXT="Chakyaar or actor" ID="ID_1339199281" CREATED="1557916727157" MODIFIED="1557916727579"/>
+<node TEXT="Naambiyaar, the instrumentalists a" ID="ID_1117987045" CREATED="1557916739129" MODIFIED="1557916739528"/>
+<node TEXT="Naangyaar, those taking on women&apos;s roles." ID="ID_591310227" CREATED="1557916745635" MODIFIED="1557916746348">
+<node TEXT="since women not allowed to participate" ID="ID_1160664531" CREATED="1557916793969" MODIFIED="1557916802334"/>
+</node>
+</node>
 <node TEXT="2000 yrs old" ID="ID_580921288" CREATED="1495861289707" MODIFIED="1495861296472"/>
 <node TEXT="Hindu temple, upto 40 days performance" ID="ID_293585599" CREATED="1495861276328" MODIFIED="1495861284826"/>
 </node>
@@ -8533,7 +8537,7 @@
 <font NAME="Dialog"/>
 <node TEXT="quenching of  : passion, aversion, ignorance&#xa;&#xa;cessation of dukkha" ID="ID_1851578257" CREATED="1557137170443" MODIFIED="1557137199245"/>
 </node>
-<node TEXT="scriptures" FOLDED="true" ID="ID_1519377142" CREATED="1497333767743" MODIFIED="1497333772674">
+<node TEXT="scriptures" ID="ID_1519377142" CREATED="1497333767743" MODIFIED="1497333772674">
 <font NAME="Dialog"/>
 <node TEXT="avadana" ID="ID_758948962" CREATED="1526619775558" MODIFIED="1526619777402">
 <node TEXT="about past lives of bodhisattvas&#xa;&#xa;part of buddhist literature" ID="ID_442554414" CREATED="1526619777605" MODIFIED="1526619807000"/>
@@ -8542,6 +8546,13 @@
 <node TEXT="sutta pitak&#xa;&#xa;discourse" ID="ID_1641318453" CREATED="1557138626157" MODIFIED="1557138646472"/>
 <node TEXT="vinayak&#xa;&#xa;disciple" ID="ID_973974988" CREATED="1557138629492" MODIFIED="1557138641541"/>
 <node TEXT="abhidhamma&#xa;&#xa;doctrinal elaboration" ID="ID_1798425110" CREATED="1557138632548" MODIFIED="1557138651343"/>
+</node>
+<node TEXT="Dipavamasa" ID="ID_1216107189" CREATED="1557919963700" MODIFIED="1557919964526">
+<node TEXT="literally, the chronicle of the island)" ID="ID_1368253914" CREATED="1557919970081" MODIFIED="1557919970081"/>
+<node TEXT="Sri Lanka mein history of buddhism" ID="ID_1903866588" CREATED="1557919999317" MODIFIED="1557920004951"/>
+</node>
+<node TEXT="Mahavamsa (the great chronicle)" ID="ID_1479352984" CREATED="1557919976021" MODIFIED="1557919976548">
+<node TEXT="regional history of buddhism&#xa;as buddhism went beyond borders of india" ID="ID_1347519110" CREATED="1557919981633" MODIFIED="1557919998017"/>
 </node>
 </node>
 <node TEXT="Schools of thought" FOLDED="true" ID="ID_1095305726" CREATED="1494562482665" MODIFIED="1494646165142">
@@ -8602,10 +8613,10 @@
 <node TEXT="sautranikas =" ID="ID_1468254075" CREATED="1523010882002" MODIFIED="1523010901681"/>
 <node TEXT="sammitiyas" ID="ID_241063301" CREATED="1523010901795" MODIFIED="1523010905736"/>
 </node>
-<node TEXT="Mahayana&#xa;greater vehicle" FOLDED="true" ID="ID_730364418" CREATED="1494562489402" MODIFIED="1557138386669">
+<node TEXT="Mahayana&#xa;greater vehicle" ID="ID_730364418" CREATED="1494562489402" MODIFIED="1557138386669">
 <font NAME="Dialog"/>
 <node TEXT="Buddha as saviour" ID="ID_500601003" CREATED="1494562607315" MODIFIED="1494562610878"/>
-<node TEXT="Bodhisattas!" FOLDED="true" ID="ID_1176476991" CREATED="1494562627163" MODIFIED="1494562630516">
+<node TEXT="Bodhisattas!" ID="ID_1176476991" CREATED="1494562627163" MODIFIED="1494562630516">
 <node ID="ID_640972609" CREATED="1494562632391" MODIFIED="1557138577170"><richcontent TYPE="NODE">
 
 <html>
@@ -8641,6 +8652,7 @@
 </richcontent>
 </node>
 </node>
+<node TEXT="worship of images of buddha and bodhichitta" ID="ID_1089669420" CREATED="1557907314239" MODIFIED="1557907332812"/>
 <node TEXT="in 4th council" ID="ID_216953499" CREATED="1494988078003" MODIFIED="1494988085098"/>
 <node TEXT="individual traditions under Mahayana&#xa;&#xa;Zen&#xa;Pure Land&#xa;Tantric Buddhism" ID="ID_1665079293" CREATED="1557138420544" MODIFIED="1557138445470"/>
 </node>

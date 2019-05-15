@@ -13061,7 +13061,7 @@
 </node>
 <node TEXT="madras HC&#xa;&#xa;extended abortion period to 24 weeks" ID="ID_99126744" CREATED="1556439905199" MODIFIED="1556439919720"/>
 </node>
-<node TEXT="prelims 2018" FOLDED="true" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
+<node TEXT="prelims 2018" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
 <node TEXT="modern HISTORY" FOLDED="true" ID="ID_582819970" CREATED="1524239181202" MODIFIED="1553158238818">
 <font BOLD="false"/>
 <node TEXT="Inquilaab Zindabad &#x2013; Maulana Hasrat Mohani" ID="ID_1938937598" CREATED="1524133082431" MODIFIED="1524133083196"/>
@@ -13172,7 +13172,7 @@
 <node TEXT="This report became an important document used to demand and justify partition of the country." ID="ID_772149864" CREATED="1557037570125" MODIFIED="1557037570342"/>
 </node>
 </node>
-<node TEXT="sci tech" ID="ID_1137341677" CREATED="1523639775824" MODIFIED="1553158238818">
+<node TEXT="sci tech" FOLDED="true" ID="ID_1137341677" CREATED="1523639775824" MODIFIED="1553158238818">
 <font BOLD="false"/>
 <node TEXT="SPACE" FOLDED="true" ID="ID_1999024434" CREATED="1553151667176" MODIFIED="1553151668650">
 <node TEXT="SELENE&#x2019;" FOLDED="true" ID="ID_2837009" CREATED="1523033183035" MODIFIED="1523033183798">
@@ -15536,7 +15536,7 @@
 <node TEXT="india member" ID="ID_989136864" CREATED="1557590326216" MODIFIED="1557590329613"/>
 </node>
 </node>
-<node TEXT="Art n Culture" FOLDED="true" ID="ID_1316639544" CREATED="1494811025589" MODIFIED="1553158238823">
+<node TEXT="Art n Culture" ID="ID_1316639544" CREATED="1494811025589" MODIFIED="1553158238823">
 <font NAME="Calibri" BOLD="false"/>
 <node TEXT="ANCIENT" FOLDED="true" ID="ID_1100492368" CREATED="1553158168167" MODIFIED="1553158170730">
 <node TEXT="archaelogical sites" FOLDED="true" ID="ID_364948847" CREATED="1526493261077" MODIFIED="1526493264416">
@@ -15695,6 +15695,10 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="literally means &quot;street play&quot;" ID="ID_538598227" CREATED="1557916617198" MODIFIED="1557916617645"/>
+<node TEXT="annual temple festivals of Mariamman (Rain goddess)" ID="ID_137529371" CREATED="1557916624984" MODIFIED="1557916625359">
+<node TEXT="for rich harvest" ID="ID_1275405044" CREATED="1557916631533" MODIFIED="1557916634490"/>
+</node>
 <node ID="ID_999430196" CREATED="1495869265040" MODIFIED="1495869265040"><richcontent TYPE="NODE">
 
 <html>
@@ -15768,35 +15772,37 @@
 <node TEXT="mog, tripura" ID="ID_588625632" CREATED="1525843035442" MODIFIED="1525843039636"/>
 <node TEXT="welcome new yaer" ID="ID_1448100296" CREATED="1525843041542" MODIFIED="1525843044370"/>
 </node>
+<node TEXT="krishnattam" ID="ID_963188405" CREATED="1557916904168" MODIFIED="1557916917792">
+<node TEXT="lord krishna life , good over evil" ID="ID_1360467649" CREATED="1557916918615" MODIFIED="1557916925997"/>
+<node TEXT="of 17th century A.D" ID="ID_1010110345" CREATED="1557916930408" MODIFIED="1557916931009"/>
+<node TEXT="KR&lt; folk theatre" ID="ID_718650645" CREATED="1557916938079" MODIFIED="1557916942105"/>
+</node>
 </node>
 <node TEXT="nominated to UNESCO world heritage" FOLDED="true" ID="ID_1582757757" CREATED="1495413320559" MODIFIED="1495932778146">
 <node TEXT="v_mar 8.3" ID="ID_1431922023" CREATED="1495413333071" MODIFIED="1495413343273" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Current%20Affaris/Mar&apos;17/Vision%20IAS%20Current%20Affairs%20March-2017%20.pdf"/>
 </node>
 <node TEXT="mathematics" FOLDED="true" ID="ID_986717887" CREATED="1495345837955" MODIFIED="1526205204159">
 <icon BUILTIN="idea"/>
-<node TEXT="baudhyana" FOLDED="true" ID="ID_275513080" CREATED="1495345847906" MODIFIED="1495345849929">
+<node TEXT="baudhyana" ID="ID_275513080" CREATED="1495345847906" MODIFIED="1495345849929">
 <node TEXT="sulabhsutra" ID="ID_1106556306" CREATED="1495345862126" MODIFIED="1495345864196"/>
 <node TEXT="value of pi calculate" ID="ID_243922812" CREATED="1496475748388" MODIFIED="1496475751433"/>
 </node>
 <node TEXT="aryabhatta" ID="ID_220732457" CREATED="1495345850877" MODIFIED="1495345852724"/>
-<node TEXT="brahamgupta, 7th centruy" FOLDED="true" ID="ID_657164858" CREATED="1524137059452" MODIFIED="1524137082612">
+<node TEXT="brahamgupta, 7th centruy" ID="ID_657164858" CREATED="1524137059452" MODIFIED="1524137082612">
 <node TEXT="negative numbers, 0" ID="ID_924374104" CREATED="1524137046378" MODIFIED="1524137049715"/>
-<node ID="ID_1467754673" CREATED="1524137072756" MODIFIED="1524137075817"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Brahm<br/>Sputa Siddantika
-    </p>
-  </body>
-</html>
-</richcontent>
+<node TEXT="Brahm Sputa Siddantika (628 C)" ID="ID_1467754673" CREATED="1524137072756" MODIFIED="1557916378490">
+<node TEXT="astronomical instruments" ID="ID_1293315297" CREATED="1557916384016" MODIFIED="1557916384016"/>
+<node TEXT="methods of computing astronomical elements from readings taken" ID="ID_9115724" CREATED="1557916374871" MODIFIED="1557916374871"/>
+</node>
+<node TEXT="Khandakahadyaka(665 C)" ID="ID_1987158342" CREATED="1557916378797" MODIFIED="1557916379139">
+<node TEXT="The treatise contains eight chapters&#xa;&#xa;written as a response to Aryabhata&apos;s Ardharatrikapaksa." FOLDED="true" ID="ID_1583169447" CREATED="1557916400473" MODIFIED="1557916436179">
+<node TEXT="covering such topics as the longitudes of the planets, diurnal rotation, lunar and solar eclipses, risings and settings, the moon&apos;s crescentand conjunctions of the planets." ID="ID_588076812" CREATED="1557916436943" MODIFIED="1557916437647"/>
 </node>
 </node>
-<node TEXT="maha viracharya" FOLDED="true" ID="ID_1647896292" CREATED="1495345906534" MODIFIED="1525840260310">
+<node TEXT="referred to complex automatic devices called &#x201e;svayam yantras&#x201f; in his observations." ID="ID_480440062" CREATED="1557916283397" MODIFIED="1557916283876"/>
+<node TEXT="method of obtaining a cyclic quadrilateral having rational sides and to give its area." ID="ID_566778226" CREATED="1557916325750" MODIFIED="1557916325750"/>
+</node>
+<node TEXT="maha viracharya" ID="ID_1647896292" CREATED="1495345906534" MODIFIED="1525840260310">
 <node ID="ID_1049035786" CREATED="1495345923239" MODIFIED="1524137019097"><richcontent TYPE="NODE">
 
 <html>
@@ -15813,8 +15819,8 @@
 </node>
 <node TEXT="during Rashtrakuta" ID="ID_303428401" CREATED="1525840261513" MODIFIED="1525840267033"/>
 </node>
-<node TEXT="bhaskaracharya" FOLDED="true" ID="ID_172979424" CREATED="1495345843242" MODIFIED="1495345847408">
-<node TEXT="wrote Siddhant Shiromani, 12th century" FOLDED="true" ID="ID_1065269648" CREATED="1496475689682" MODIFIED="1496475739355">
+<node TEXT="bhaskaracharya" ID="ID_172979424" CREATED="1495345843242" MODIFIED="1495345847408">
+<node TEXT="wrote Siddhant Shiromani, 12th century" ID="ID_1065269648" CREATED="1496475689682" MODIFIED="1496475739355">
 <node TEXT="4 parts" ID="ID_415457274" CREATED="1496475698764" MODIFIED="1496475700942"/>
 </node>
 <node TEXT="cyclic method to solve equations&#xa;aka inverse cycle" ID="ID_487437344" CREATED="1495345870841" MODIFIED="1524137046053"/>
@@ -16517,7 +16523,7 @@
 <node TEXT="pandavani, CH&#xa;Chakkri, Kashmir&#xa;ammanaivari&lt; TN" FOLDED="true" ID="ID_1379346101" CREATED="1527494448039" MODIFIED="1527494459534">
 <node TEXT="regional music" ID="ID_397340585" CREATED="1527494460003" MODIFIED="1527494467208"/>
 </node>
-<node TEXT="MISCELLANEOUS" ID="ID_1174035393" CREATED="1524238727502" MODIFIED="1553158228329">
+<node TEXT="MISCELLANEOUS" FOLDED="true" ID="ID_1174035393" CREATED="1524238727502" MODIFIED="1553158228329">
 <font BOLD="true"/>
 <node TEXT="cheras" ID="ID_1579362474" CREATED="1524138689702" MODIFIED="1524138690641">
 <node ID="ID_1520039105" CREATED="1524138690755" MODIFIED="1524138747093"><richcontent TYPE="NODE">
@@ -16726,6 +16732,148 @@
 <node TEXT="aka Dakki or Budike." ID="ID_1695768849" CREATED="1557757988163" MODIFIED="1557757998032"/>
 <node TEXT="heritage instrument g" ID="ID_440218230" CREATED="1557757980319" MODIFIED="1557757984761"/>
 <node TEXT="goa" ID="ID_98265182" CREATED="1557757985294" MODIFIED="1557757985772"/>
+</node>
+</node>
+<node TEXT="vision test" ID="ID_222798016" CREATED="1557904313919" MODIFIED="1557904315392">
+<font BOLD="true"/>
+<node TEXT="Ther&#x12b;g&#x101;th&#x101;,&#xa;&#xa;theri gatha" FOLDED="true" ID="ID_1082433773" CREATED="1557904321491" MODIFIED="1557904325630">
+<font BOLD="false"/>
+<node TEXT="anthology of poems in the Pali language by Buddhist women nuns." ID="ID_104138730" CREATED="1557904336176" MODIFIED="1557904336176"/>
+<node TEXT="personal expression" ID="ID_1591120640" CREATED="1557904342695" MODIFIED="1557904342810">
+<font BOLD="false"/>
+</node>
+<node TEXT="xtraordinary insight they offer into the lives of women in the ancient Indian past&#x2014;and indeed, into the lives of women as such." ID="ID_1577813383" CREATED="1557904347142" MODIFIED="1557904347142"/>
+</node>
+<node TEXT="four types of instruments in natya shastra&#xa;&#xa;200 BC - 200 AD" FOLDED="true" ID="ID_194769185" CREATED="1557904391918" MODIFIED="1557904464687">
+<font BOLD="false"/>
+<node ID="ID_1564995456" CREATED="1557904411821" MODIFIED="1557904411821"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Tata Vadya or Chordophones- Stringed instruments
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_45014302" CREATED="1557904411822" MODIFIED="1557904411822"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The Sushira Vadya or Aerophones-Wind instruments
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_998492600" CREATED="1557904411824" MODIFIED="1557904411824"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The Avanaddha Vadya or Membranophones- Percussion instruments
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_184746691" CREATED="1557904411825" MODIFIED="1557904411825"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The Ghana Vadya or Idiophones- Solid instruments which do not require tuning.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="reasons for decline of Guptas" FOLDED="true" ID="ID_1245407332" CREATED="1557904544250" MODIFIED="1557904548964">
+<font BOLD="false"/>
+<node TEXT="485 AD, the Hunas occupied eastern Malwa" ID="ID_1638827366" CREATED="1557904549099" MODIFIED="1557904550505"/>
+<node TEXT="Yashodharman&#x201f;s victory over Hunas and his rule in Malwa" ID="ID_1420180117" CREATED="1557904569718" MODIFIED="1557904570157">
+<node TEXT="challenged the authority of the Guptas and set up in 532 AD a pillar of victory commemorating his conquest o" ID="ID_1640065348" CREATED="1557904583928" MODIFIED="1557904583928"/>
+</node>
+<node TEXT="Chandragupta II&#xa;&#xa;exercised indirect control over the Vakataka kingdom i" ID="ID_1050665549" CREATED="1557904601924" MODIFIED="1557904607211">
+<node TEXT="married his daughter Prabhavati to a Vakataka prince of the brahmana caste" ID="ID_861807993" CREATED="1557904616440" MODIFIED="1557904616440"/>
+<node TEXT="central india" ID="ID_1541410388" CREATED="1557904617550" MODIFIED="1557904620777"/>
+</node>
+</node>
+<node TEXT="Vedangas" FOLDED="true" ID="ID_1548036554" CREATED="1557904680191" MODIFIED="1557904683773">
+<font BOLD="false"/>
+<node ID="ID_728077865" CREATED="1557904684295" MODIFIED="1557904684295"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      are the six auxiliary disciplines
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Shiksha (Phonetics)&#xa;, Kalpa (Ritual Canon)&#xa;, Vyakaran (Grammar)&#xa;, Nirukta (explanation)&#xa;, Chhanda (Vedic meter)&#xa;, Jyotisha (Astrology)," ID="ID_1746706274" CREATED="1557904689292" MODIFIED="1557904709247"/>
+</node>
+</node>
+<node TEXT="Pallava period bronze image of seated Shiva in ardhaparyanka asana" ID="ID_580495845" CREATED="1557904733377" MODIFIED="1557904733377">
+<node ID="ID_1069422357" CREATED="1557904745048" MODIFIED="1557904756365"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      hand gesture called <b><i>achamana mudra.</i></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Lord Shiva is about to drink poison." ID="ID_1321552290" CREATED="1557904727905" MODIFIED="1557904728354">
+<font BOLD="false"/>
+</node>
+</node>
+</node>
+<node TEXT="ashtadhyayai" FOLDED="true" ID="ID_575980243" CREATED="1557910283335" MODIFIED="1557910286565">
+<node TEXT="panini 6th century BC" ID="ID_483746709" CREATED="1557910286688" MODIFIED="1557910292909"/>
+<node TEXT="Sanskrit treatise on grammar" ID="ID_128991127" CREATED="1557910298212" MODIFIED="1557910298212"/>
+<node TEXT="between usage in the spoken language and usage that is proper to the language of the sacred texts." ID="ID_1080116732" CREATED="1557910308741" MODIFIED="1557910310039">
+<font BOLD="false"/>
+</node>
+</node>
+<node TEXT="Milinda Panho&#xa;(Questions of Milinda)." FOLDED="true" ID="ID_373302363" CREATED="1557910337291" MODIFIED="1557910343749">
+<node TEXT="e Indo-Greek ruler Menander (165-145 BC) also known as Milinda" ID="ID_1542166800" CREATED="1557910352023" MODIFIED="1557910352023"/>
+<node TEXT="converted to Buddhism by Nagasena or Nagarjuna." ID="ID_244794362" CREATED="1557910358345" MODIFIED="1557910358891"/>
+<node TEXT="Nagasena&#x2018;s answers were recorded in the form of a book known as Milinda Panho" ID="ID_582841939" CREATED="1557910329562" MODIFIED="1557910330135"/>
+</node>
+<node TEXT="Charaka Samhita," FOLDED="true" ID="ID_1698233052" CREATED="1557910374544" MODIFIED="1557910375557">
+<node TEXT="100 CE" ID="ID_51824524" CREATED="1557910375618" MODIFIED="1557910379377"/>
+<node TEXT="ashtanga sthanas : sutra, nidana, vimana, sarira, endriya, chikitsa, kalpa, and siddha;" ID="ID_482690210" CREATED="1557910389531" MODIFIED="1557910390254">
+<font BOLD="false"/>
+</node>
 </node>
 </node>
 </node>
@@ -19847,7 +19995,7 @@
 </node>
 </node>
 </node>
-<node TEXT="prelims 2019" POSITION="right" ID="ID_479714722" CREATED="1551429738461" MODIFIED="1551429740990">
+<node TEXT="prelims 2019" FOLDED="true" POSITION="right" ID="ID_479714722" CREATED="1551429738461" MODIFIED="1551429740990">
 <node TEXT="NPPA brings price under control (control trade margins)" FOLDED="true" ID="ID_109359540" CREATED="1551429760156" MODIFIED="1551429772103">
 <node TEXT=" trade margin :&#xa;&#xa;difference between the price at which the manufacturers sell to trade and the price that patients pay (maximum retail price)." ID="ID_479469896" CREATED="1551429743902" MODIFIED="1551429755843"/>
 </node>
