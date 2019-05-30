@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -15369,16 +15369,6 @@
 <font NAME="Calibri" ITALIC="true"/>
 </node>
 </node>
-<node TEXT="TESS&#xa;Transiting exoplanet survey satellite" ID="ID_486217714" CREATED="1525522293375" MODIFIED="1525522304018">
-<node TEXT="successor of KEPLER" ID="ID_996855155" CREATED="1558846143092" MODIFIED="1558846149166"/>
-<node TEXT="monitor brightest stars in the sky" ID="ID_1928638967" CREATED="1525522263706" MODIFIED="1525522273808">
-<node TEXT="temporary brightness drop in planetary transits" ID="ID_1879496996" CREATED="1525522274151" MODIFIED="1525522289937"/>
-</node>
-<node TEXT="nasa" ID="ID_1910910521" CREATED="1526316333635" MODIFIED="1526316334651"/>
-</node>
-<node TEXT="JSWT&#xa;james webb space telescope" ID="ID_1564621352" CREATED="1524400920931" MODIFIED="1525615211753">
-<node TEXT="nasa + ESA + CSA" ID="ID_1775292367" CREATED="1524400923179" MODIFIED="1524400926955"/>
-</node>
 <node TEXT="insight mars lander" FOLDED="true" ID="ID_1048171843" CREATED="1525522488406" MODIFIED="1525522492249">
 <node TEXT="listen to mars quakes + interior of mars" ID="ID_1593105628" CREATED="1525522492343" MODIFIED="1525522501412"/>
 <node TEXT="land near to equator" ID="ID_1243020591" CREATED="1558846183759" MODIFIED="1558846188901">
@@ -21077,8 +21067,9 @@
 <node TEXT="Frontiers report 2018/19," ID="ID_1661264195" CREATED="1557825801465" MODIFIED="1557825802010"/>
 </node>
 <node TEXT="meets biennially" ID="ID_1983675137" CREATED="1557825669845" MODIFIED="1557825676932"/>
+<node TEXT="3rd @Nairobi, Dec 2017&#xa;&#xa;TOWARDS A POLLUTION FREE PLANET" ID="ID_439699651" CREATED="1553530525002" MODIFIED="1553530561704"/>
 </node>
-<node TEXT="State of the Global Climate in 2018." ID="ID_1399979010" CREATED="1557825898222" MODIFIED="1557825899560">
+<node TEXT="State of the Global Climate in 2018." FOLDED="true" ID="ID_1399979010" CREATED="1557825898222" MODIFIED="1557825899560">
 <node TEXT="WMO, annual" ID="ID_322237810" CREATED="1557825899668" MODIFIED="1557825902330"/>
 </node>
 <node TEXT="China was the world&#x2019;s largest natural gas importer in 2018, ahead of Japan," ID="ID_93391367" CREATED="1557826181434" MODIFIED="1557826181849">
@@ -21133,10 +21124,6 @@
 <node TEXT="Gujarat top" ID="ID_1630787670" CREATED="1557589438442" MODIFIED="1557589439518"/>
 <node TEXT="DPIIT" ID="ID_1502526152" CREATED="1557589443011" MODIFIED="1557589445107"/>
 </node>
-<node TEXT="UN environment assembly" ID="ID_1893016115" CREATED="1553530517215" MODIFIED="1557499522519">
-<icon BUILTIN="clanbomber"/>
-<node TEXT="3rd @Nairobi, Dec 2017&#xa;&#xa;TOWARDS A POLLUTION FREE PLANET" ID="ID_439699651" CREATED="1553530525002" MODIFIED="1553530561704"/>
-</node>
 <node TEXT="Disaster Risk reduction" FOLDED="true" ID="ID_1768759549" CREATED="1553151261486" MODIFIED="1553151267908">
 <node TEXT="Asian Ministerial conference on Disaster Risk Reduction, 2016" FOLDED="true" ID="ID_927320809" CREATED="1553151268070" MODIFIED="1553151284941">
 <node TEXT="adopted&#xa;&#xa;asia regional plan for implementation of sendai framework" ID="ID_1364833320" CREATED="1553151285045" MODIFIED="1553151300976"/>
@@ -21172,7 +21159,7 @@
 <node TEXT="United States and Morocco la" ID="ID_421844005" CREATED="1559132153455" MODIFIED="1559132153697"/>
 </node>
 <node TEXT="&#x2018;Solar Charkha Mission&#x2019;" FOLDED="true" ID="ID_100317361" CREATED="1559132162847" MODIFIED="1559132163347">
-<node TEXT="KVIC" ID="ID_129581546" CREATED="1559132169625" MODIFIED="1559132169951"/>
+<node TEXT="KVIC, under Min MSME" ID="ID_129581546" CREATED="1559132169625" MODIFIED="1559194749156"/>
 <node TEXT="inclusive growth by generation of employment" ID="ID_479276994" CREATED="1559132175826" MODIFIED="1559132175826"/>
 </node>
 <node TEXT="&#x2018;Spike-LR&#x2019;" FOLDED="true" ID="ID_1139852957" CREATED="1559132191922" MODIFIED="1559132194009">
@@ -21518,9 +21505,99 @@
 </node>
 <node TEXT="insights revision plan" FOLDED="true" ID="ID_1681452390" CREATED="1556079913033" MODIFIED="1556080661768">
 <node TEXT="Satellites placed in&#xa;&#xa;polar orbitshave&#xa;&#xa;an inclination of about 90 degrees to theequator&#xa;&#xa;and travels north-south over the poles at lower altitudes." ID="ID_1140174604" CREATED="1556080258414" MODIFIED="1556080272987"/>
+<node TEXT="space missions" ID="ID_295224381" CREATED="1559237155459" MODIFIED="1559237158067">
+<node TEXT="present a remarkable similarity with the ones recently obtained by the JAXA Hayabusa2 mission (Japanese mission) of another primitive asteroid, Ryugu." ID="ID_1016067962" CREATED="1559237160241" MODIFIED="1559237160241"/>
+<node TEXT="Lucy Mission" FOLDED="true" ID="ID_685833287" CREATED="1559237160241" MODIFIED="1559237247488">
+<node TEXT="   &#x2022; To be launched in 2021, it will be the&#xa;&#xa;first space mission&#xa;&#xa;to study the&#xa;&#xa;Jupiter&#x2019;s Trojan Asteroids&#xa;&#xa;and will fly by six Trojans and one Main Belt asteroid." ID="ID_1959966634" CREATED="1559237248346" MODIFIED="1559237282872">
+<node TEXT="&#x2022; Trojan Asteroids are any one of a number of asteroids that occupy a stable Lagrangian point in a planet&#x2019;s orbit around the Sun." ID="ID_1203715931" CREATED="1559237160242" MODIFIED="1559237160242"/>
+</node>
+</node>
+<node TEXT="Interstellar Mapping and Acceleration Probe (IMAP) mission" FOLDED="true" ID="ID_310550492" CREATED="1559237160243" MODIFIED="1559237288794">
+<node TEXT="understand the boundary of the heliosphere." ID="ID_1617783274" CREATED="1559237318385" MODIFIED="1559237318766">
+<node TEXT="learn about generation of cosmic rays in the heliosphere." ID="ID_658405502" CREATED="1559237289520" MODIFIED="1559237299627"/>
+</node>
+<node ID="ID_53224912" CREATED="1559237300196" MODIFIED="1559237300196"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;It is too be launched by 2024.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="nasa" ID="ID_1922684436" CREATED="1559237306297" MODIFIED="1559237307247"/>
+</node>
+<node TEXT="Kepler Mission        &#x2022;" FOLDED="true" ID="ID_1880360345" CREATED="1559237160244" MODIFIED="1559237406475">
+<node TEXT="Trappist - I" ID="ID_430945309" CREATED="1494834848353" MODIFIED="1495360218942">
+<icon BUILTIN="launch"/>
+<node TEXT="NASA kepler mission" ID="ID_825957440" CREATED="1496477234306" MODIFIED="1496477238604"/>
+<node TEXT="earth-size exoplanet by NASA&#xa;exoplanet = does not revolve around sun but some other star&apos;" ID="ID_1348493349" CREATED="1494834855374" MODIFIED="1496738853537"/>
+<node TEXT="Earth like conditions =&gt; may be habitable" ID="ID_1272549741" CREATED="1495360221123" MODIFIED="1495360228843"/>
+</node>
+<node TEXT="Kepler is a space observatory launched by NASA to discover Earth-size planets orbiting other stars. It was recently retired." ID="ID_33026113" CREATED="1559237407919" MODIFIED="1559237408174"/>
+</node>
+<node TEXT="TESS&#xa;Transiting exoplanet survey satellite" FOLDED="true" ID="ID_486217714" CREATED="1525522293375" MODIFIED="1525522304018">
+<node TEXT="successor of KEPLER&#xa;nasa" ID="ID_996855155" CREATED="1558846143092" MODIFIED="1559237476126"/>
+<node TEXT="monitor brightest stars in the sky" ID="ID_1928638967" CREATED="1525522263706" MODIFIED="1525522273808">
+<node TEXT="temporary brightness drop in planetary transits" ID="ID_1879496996" CREATED="1525522274151" MODIFIED="1525522289937"/>
+</node>
+</node>
+<node TEXT="NASA&#x2019;s original &#x201c;Great Observatories&#x201d;" ID="ID_1696082121" CREATED="1559237987674" MODIFIED="1559237988274">
+<node TEXT="Chandra X- ray Observatory" ID="ID_1647285564" CREATED="1559237160247" MODIFIED="1559237512218">
+<node TEXT="  It entered protective &#x201c;safe mode&#x201d; due to a malfunction." ID="ID_8833287" CREATED="1559237512695" MODIFIED="1559237998501"/>
+</node>
+<node TEXT="hubble space telescope" ID="ID_193755706" CREATED="1559238023847" MODIFIED="1559238036253">
+<node TEXT="NASA + ESA" ID="ID_1771299425" CREATED="1559238050427" MODIFIED="1559238054975"/>
+<node ID="ID_1984003065" CREATED="1559238055260" MODIFIED="1559238055260"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      orbit 552 km above Earth.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="(deorbited )&#xa;Compton Gamma-Ray Observatory" ID="ID_1075938976" CREATED="1559237999624" MODIFIED="1559238021192"/>
+<node TEXT="and the Spitzer Space Telescope." ID="ID_1112193511" CREATED="1559238014901" MODIFIED="1559238015624"/>
+</node>
+<node TEXT="JSWT&#xa;james webb space telescope" ID="ID_1564621352" CREATED="1524400920931" MODIFIED="1525615211753">
+<node TEXT="nasa + ESA + CSA" ID="ID_1775292367" CREATED="1524400923179" MODIFIED="1524400926955"/>
+<node TEXT="&#x2022; It will be the successor of Hubble Space Telescope and 100 times powerful than it." ID="ID_1640372165" CREATED="1559237160253" MODIFIED="1559237160253"/>
+</node>
+<node TEXT="&#x2022; It is the first major optical telescope to be placed in space." ID="ID_1922229078" CREATED="1559237160250" MODIFIED="1559237160250"/>
+<node TEXT="&#x2022; It has the ability to see in multiple wavelengths &#x2014; near infrared, visible light and near ultraviolet." ID="ID_1092056733" CREATED="1559237160251" MODIFIED="1559237160251"/>
+<node TEXT="Spectro- Photometer for the History of the Universe, Epoch of        &#x2022; It is space telescope scheduled to be launched in 2023. It is part of NASA&apos;s Explorer Program and is planned as a two-year mission with a twofold aim: to understand the evolution of the universe and how common the ingredients for life" ID="ID_524329138" CREATED="1559237160254" MODIFIED="1559237160254"/>
 <node TEXT="GSLV Mk2" FOLDED="true" ID="ID_1602538149" CREATED="1556080339180" MODIFIED="1556080383609">
-<node TEXT="5000 kg to LEO&#xa;&#xa;250 kg to GeoSTO" ID="ID_477751145" CREATED="1556080356239" MODIFIED="1556080375668"/>
+<node TEXT="5000 kg to LEO&#xa;&#xa;2500 kg to GeoSTO" ID="ID_477751145" CREATED="1556080356239" MODIFIED="1559212365128" LINK="https://www.isro.gov.in/launchers/gslv"/>
 <node TEXT="4th generation launch vehicle, a three-stage vehicle with four liquid strapon boosters." ID="ID_1416389442" CREATED="1556080385249" MODIFIED="1556080385707"/>
+</node>
+<node TEXT="GSLV Mk3" ID="ID_1380863074" CREATED="1559212430066" MODIFIED="1559212434518">
+<node TEXT=" has&#xa;&#xa;two solid strap-ons&#xa;, a core liquid booster , a cryogenic upper stage." ID="ID_1541319458" CREATED="1559212520879" MODIFIED="1559212533352">
+<node TEXT="8000 kg to LEO&#xa;&#xa;4000 Kg to GTO" ID="ID_1983547711" CREATED="1559212546206" MODIFIED="1559212567920"/>
+</node>
+</node>
+<node TEXT="GSAT 29" FOLDED="true" ID="ID_769962110" CREATED="1559212661444" MODIFIED="1559212663682">
+<node TEXT="An optical communication payload, for the first time, will be utilized for data transmission." ID="ID_54553092" CREATED="1559212663935" MODIFIED="1559212665264"/>
+<node TEXT="multi-beam, multiband communication satellite of India" ID="ID_1005962152" CREATED="1559212669736" MODIFIED="1559212670976">
+<node TEXT="enhanced I-3K bus" ID="ID_1111825" CREATED="1559212678591" MODIFIED="1559212679711"/>
+<node TEXT=" Q/V-band payload," ID="ID_1852099622" CREATED="1559212685148" MODIFIED="1559212685436"/>
+<node TEXT="Geo-stationary High Resolution Camera." ID="ID_499820198" CREATED="1559212694229" MODIFIED="1559212694658"/>
+</node>
+<node TEXT="~3500 kg&#xa;not launched by india" ID="ID_255003601" CREATED="1559237172420" MODIFIED="1559237185595"/>
+</node>
 </node>
 <node TEXT="Sun Synchronous orbit" FOLDED="true" ID="ID_682855957" CREATED="1556080282979" MODIFIED="1556080288005">
 <node TEXT="polar orbit , same place, same time" ID="ID_1701279177" CREATED="1556080288100" MODIFIED="1556080307143"/>
@@ -22178,7 +22255,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="(IOC-UNESCO) with European commission" ID="ID_1572376102" CREATED="1559060609408" MODIFIED="1559060616788"/>
@@ -22265,7 +22341,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -22290,7 +22365,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
