@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -13344,7 +13344,7 @@
 </node>
 <node TEXT="madras HC&#xa;&#xa;extended abortion period to 24 weeks" ID="ID_99126744" CREATED="1556439905199" MODIFIED="1556439919720"/>
 </node>
-<node TEXT="prelims 2018" FOLDED="true" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
+<node TEXT="prelims 2018" POSITION="right" ID="ID_1741762385" CREATED="1522214486901" MODIFIED="1522214491639">
 <node TEXT="Art n Culture" FOLDED="true" ID="ID_1316639544" CREATED="1494811025589" MODIFIED="1553158238823">
 <font NAME="Calibri" BOLD="false"/>
 <node TEXT="ANCIENT" FOLDED="true" ID="ID_1100492368" CREATED="1553158168167" MODIFIED="1553158170730">
@@ -15014,16 +15014,17 @@
 <node TEXT="modern HISTORY" FOLDED="true" ID="ID_582819970" CREATED="1524239181202" MODIFIED="1553158238818">
 <font BOLD="false"/>
 <node TEXT="Inquilaab Zindabad &#x2013; Maulana Hasrat Mohani" ID="ID_1938937598" CREATED="1524133082431" MODIFIED="1524133083196"/>
-<node TEXT="newspapers" FOLDED="true" ID="ID_1404187773" CREATED="1524241082205" MODIFIED="1524241085032">
+<node TEXT="newspapers" ID="ID_1404187773" CREATED="1524241082205" MODIFIED="1524241085032">
 <font BOLD="true"/>
-<node TEXT="swaraj" FOLDED="true" ID="ID_1867699592" CREATED="1524241085501" MODIFIED="1524241087568">
+<node TEXT="swaraj" ID="ID_1867699592" CREATED="1524241085501" MODIFIED="1524241087568">
 <node TEXT="SC bose" ID="ID_487662435" CREATED="1524241087666" MODIFIED="1524241092954"/>
 </node>
 </node>
 <node TEXT="hind swaraj" FOLDED="true" ID="ID_1296443234" CREATED="1524133157568" MODIFIED="1524133160011">
+<node TEXT="aka&#xa;indian home rule&#xa;&#xa;by Mahatma Gandhi" ID="ID_256152648" CREATED="1559404050605" MODIFIED="1559404062869"/>
 <node TEXT="self reliance + swaraj&#xa;don&apos;t want Englishtan" ID="ID_1876568490" CREATED="1524133160175" MODIFIED="1524133171193"/>
 </node>
-<node TEXT="the policy of the individualistic minimum of interference&#x201d;." FOLDED="true" ID="ID_287833875" CREATED="1524133253872" MODIFIED="1524133254216">
+<node TEXT="the policy of the individualistic minimum of interference" ID="ID_287833875" CREATED="1524133253872" MODIFIED="1559404073178">
 <node ID="ID_1306081826" CREATED="1524133401725" MODIFIED="1524133401725"><richcontent TYPE="NODE">
 
 <html>
@@ -15037,17 +15038,17 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="maulana abula kalam azad" FOLDED="true" ID="ID_1543643355" CREATED="1526793260570" MODIFIED="1526793264533">
+<node TEXT="maulana abula kalam azad" ID="ID_1543643355" CREATED="1526793260570" MODIFIED="1526793264533">
 <node TEXT="al hilal + influenced by syed ahmed khan" ID="ID_1488982269" CREATED="1526793264643" MODIFIED="1526793274706"/>
 </node>
-<node TEXT="indian society of oriental arts" FOLDED="true" ID="ID_1979310060" CREATED="1526793294334" MODIFIED="1526793298503">
-<node TEXT="calcutta bsed" ID="ID_938975945" CREATED="1526793317790" MODIFIED="1526793319706"/>
-<node TEXT="ganaendranath tagore , nanlal bose was first receipient of colar offered by scoiety" ID="ID_24695248" CREATED="1526793298675" MODIFIED="1526793316743"/>
+<node TEXT="indian society of oriental arts" ID="ID_1979310060" CREATED="1526793294334" MODIFIED="1526793298503">
+<node TEXT="calcutta based" ID="ID_938975945" CREATED="1526793317790" MODIFIED="1559404111414"/>
+<node TEXT="ganaendranath tagore , nandlal bose was first receipient of colar offered by scoiety" ID="ID_24695248" CREATED="1526793298675" MODIFIED="1559404117965"/>
 </node>
-<node TEXT="GoI, 1919" FOLDED="true" ID="ID_1308851231" CREATED="1524239288004" MODIFIED="1524239293080">
+<node TEXT="GoI, 1919" ID="ID_1308851231" CREATED="1524239288004" MODIFIED="1524239293080">
 <node TEXT="women right to vote" ID="ID_1566720102" CREATED="1524239293247" MODIFIED="1524239304158"/>
 </node>
-<node TEXT="1920 session nagpur" FOLDED="true" ID="ID_240656014" CREATED="1524239319866" MODIFIED="1524239324208">
+<node TEXT="1920 session nagpur" ID="ID_240656014" CREATED="1524239319866" MODIFIED="1524239324208">
 <node TEXT="Provincial congress committees linguistic basis org" ID="ID_1347380315" CREATED="1524239324615" MODIFIED="1524239345219"/>
 <node TEXT="non - cooperation endorsed" ID="ID_684460987" CREATED="1524239354261" MODIFIED="1524239360895"/>
 </node>
@@ -15058,21 +15059,21 @@
 <node TEXT="continuation of communal electorate." ID="ID_25717804" CREATED="1558264843299" MODIFIED="1558264843299"/>
 <node TEXT="abolition of dyarchy," ID="ID_978938471" CREATED="1558264938171" MODIFIED="1558264938171"/>
 </node>
-<node TEXT="committees of during independence freedom" ID="ID_570753631" CREATED="1558265006530" MODIFIED="1558265043859">
+<node TEXT="committees of during independence freedom" FOLDED="true" ID="ID_570753631" CREATED="1558265006530" MODIFIED="1558265043859">
 <node TEXT="Dr. Rajendra Prasad :" ID="ID_1974085191" CREATED="1558264998896" MODIFIED="1558265003318">
 <node TEXT="Food &amp; Agriculture" ID="ID_161904916" CREATED="1558265003621" MODIFIED="1558265004486"/>
 </node>
 </node>
-<node TEXT="CDM" FOLDED="true" ID="ID_310966009" CREATED="1524239457925" MODIFIED="1524239459404">
+<node TEXT="CDM" ID="ID_310966009" CREATED="1524239457925" MODIFIED="1524239459404">
 <node TEXT="c rajagopalachari = triuchipally to vedaranniyam" ID="ID_1441094637" CREATED="1524239459560" MODIFIED="1524239473183"/>
 <node TEXT="no chowkidara in zamindari areas" ID="ID_1462632450" CREATED="1524239477527" MODIFIED="1524239482286"/>
 </node>
-<node TEXT="m n roy" FOLDED="true" ID="ID_1175013135" CREATED="1524239490951" MODIFIED="1524239492452">
+<node TEXT="m n roy" ID="ID_1175013135" CREATED="1524239490951" MODIFIED="1524239492452">
 <node TEXT="vanguard, comintern, radical humanism" ID="ID_1341049844" CREATED="1524239492592" MODIFIED="1524239498750"/>
 </node>
 <node TEXT="gandhi not supporting immediate struggle in 1939. Why? (4)" ID="ID_352263861" CREATED="1524239831548" MODIFIED="1524239849549"/>
 <node TEXT="plan balkan" ID="ID_1551294620" CREATED="1524239877724" MODIFIED="1524239880322"/>
-<node TEXT="ambedakar" FOLDED="true" ID="ID_415554629" CREATED="1524239894346" MODIFIED="1524239897096">
+<node TEXT="ambedakar" ID="ID_415554629" CREATED="1524239894346" MODIFIED="1524239897096">
 <node TEXT="death = mahaparinirvan diwas" ID="ID_1713277365" CREATED="1524239897247" MODIFIED="1524239902997"/>
 <node TEXT="independent labor party founder" ID="ID_1395549425" CREATED="1524239903520" MODIFIED="1524239912357"/>
 <node TEXT="books =&#xa;pakistan / partition of india&#xa;The Annihilation of Caste" ID="ID_381169334" CREATED="1524239916044" MODIFIED="1524239935600"/>
@@ -15122,7 +15123,7 @@
 <node TEXT="political (PPP Civil)" ID="ID_1684824479" CREATED="1524240861882" MODIFIED="1524240882970"/>
 <node TEXT="agrarian (LL)" ID="ID_91500940" CREATED="1524240866367" MODIFIED="1524240871636"/>
 </node>
-<node TEXT="treaty of sagauli" FOLDED="true" ID="ID_1148812737" CREATED="1526809792871" MODIFIED="1526809826454">
+<node TEXT="treaty of sagauli" ID="ID_1148812737" CREATED="1526809792871" MODIFIED="1526809826454">
 <node TEXT="nepal" ID="ID_1877124689" CREATED="1526809826581" MODIFIED="1526809827567"/>
 </node>
 <node TEXT="gandamak = II anglo afghan war" ID="ID_279558375" CREATED="1526809851479" MODIFIED="1526809886427"/>
@@ -15130,7 +15131,7 @@
 <node TEXT="by the League&#xa;&#xa;listed cruelties suffered by Muslims in the Congress-ruled provinces." ID="ID_1074281306" CREATED="1557037553594" MODIFIED="1557037569225"/>
 <node TEXT="This report became an important document used to demand and justify partition of the country." ID="ID_772149864" CREATED="1557037570125" MODIFIED="1557037570342"/>
 </node>
-<node TEXT="indian national conference" FOLDED="true" ID="ID_662520310" CREATED="1525842867002" MODIFIED="1525842871167">
+<node TEXT="indian national conference" ID="ID_662520310" CREATED="1525842867002" MODIFIED="1525842871167">
 <node TEXT="SN Banerjee + Anandmohan Bose" ID="ID_404342940" CREATED="1525842871307" MODIFIED="1525842884331"/>
 </node>
 <node TEXT="indian social conference" ID="ID_209748912" CREATED="1525842915026" MODIFIED="1525842918432">
@@ -15140,7 +15141,7 @@
 <node TEXT="mahad satyagraha, 1927" ID="ID_519828538" CREATED="1526652632363" MODIFIED="1526652639444">
 <node TEXT="ambedakar for untouchables in maharashtra" ID="ID_1193183832" CREATED="1526652639741" MODIFIED="1526652651895"/>
 </node>
-<node TEXT="paika rebellion" FOLDED="true" ID="ID_603169622" CREATED="1495937198715" MODIFIED="1558704695332">
+<node TEXT="paika rebellion" ID="ID_603169622" CREATED="1495937198715" MODIFIED="1558704695332">
 <node ID="ID_1297273282" CREATED="1495937202278" MODIFIED="1497408791523"><richcontent TYPE="NODE">
 
 <html>
@@ -15161,7 +15162,7 @@
 </node>
 <node TEXT="east india retreats" ID="ID_99681415" CREATED="1495937329407" MODIFIED="1495937333220"/>
 </node>
-<node TEXT="INA trials" FOLDED="true" ID="ID_1846376349" CREATED="1495941677659" MODIFIED="1558704694237">
+<node TEXT="INA trials" ID="ID_1846376349" CREATED="1495941677659" MODIFIED="1558704694237">
 <node TEXT="3 mutinies = calcutta + calcutta + bombay" ID="ID_106607060" CREATED="1495941683191" MODIFIED="1495941698742"/>
 <node TEXT="communal unity witnessed =&gt; useful for communal deadlock?" ID="ID_1821882804" CREATED="1495941871844" MODIFIED="1495941894066">
 <node TEXT="no. direct and violent against authority. =&gt; only militant sections of population could take part" ID="ID_143035042" CREATED="1495941894879" MODIFIED="1495941924280"/>
@@ -15190,7 +15191,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Ancient History Irrigation systems" FOLDED="true" ID="ID_1302987516" CREATED="1558938159653" MODIFIED="1558938166628">
+<node TEXT="Ancient History Irrigation systems" ID="ID_1302987516" CREATED="1558938159653" MODIFIED="1558938166628">
 <node TEXT="ahar pyne" FOLDED="true" ID="ID_1093459963" CREATED="1526201362934" MODIFIED="1526201365544">
 <node TEXT="bihar irrigation system" ID="ID_1332575912" CREATED="1526201365642" MODIFIED="1526201369372"/>
 </node>
@@ -15199,22 +15200,22 @@
 </node>
 </node>
 </node>
-<node TEXT="sci tech" FOLDED="true" ID="ID_1137341677" CREATED="1523639775824" MODIFIED="1553158238818">
+<node TEXT="sci tech" ID="ID_1137341677" CREATED="1523639775824" MODIFIED="1553158238818">
 <font BOLD="false"/>
-<node TEXT="space" FOLDED="true" ID="ID_1896912694" CREATED="1558704824732" MODIFIED="1558704825531">
-<node TEXT="SPACE1" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1754995984" CREATED="1488274093858" MODIFIED="1558704832615">
-<node TEXT="RISAT 2B" FOLDED="true" ID="ID_371773424" CREATED="1558834474889" MODIFIED="1558834483176">
+<node TEXT="space" ID="ID_1896912694" CREATED="1558704824732" MODIFIED="1558704825531">
+<node TEXT="SPACE1" LOCALIZED_STYLE_REF="default" ID="ID_1754995984" CREATED="1488274093858" MODIFIED="1558704832615">
+<node TEXT="RISAT 2B" ID="ID_371773424" CREATED="1558834474889" MODIFIED="1558834483176">
 <node TEXT="radar imaging satellite" ID="ID_1697568999" CREATED="1558834484781" MODIFIED="1558834488428"/>
 </node>
-<node TEXT="chandrayaan 2" FOLDED="true" ID="ID_1457255642" CREATED="1558834787535" MODIFIED="1558834792345">
+<node TEXT="chandrayaan 2" ID="ID_1457255642" CREATED="1558834787535" MODIFIED="1558834792345">
 <node TEXT="orbiter&#xa;lander (vikram)&#xa;rover (Pragyan)" ID="ID_681052182" CREATED="1558834792456" MODIFIED="1558834813819"/>
 <node TEXT="findings of chandrayan 1 (8)" ID="ID_812964724" CREATED="1558835477725" MODIFIED="1558835490250" LINK="http://fullafterburner.weebly.com/next-gen-weapons/achievements-of-chandrayaan-1"/>
 </node>
 <node TEXT="emisat" ID="ID_712558921" CREATED="1558835588877" MODIFIED="1558835590457"/>
-<node TEXT="EPIC" FOLDED="true" ID="ID_71662307" CREATED="1558835968095" MODIFIED="1558835994006" LINK="https://www.thehindu.com/sci-tech/science/indian-prl-scientists-discover-an-epic-planet/article24127772.ece">
+<node TEXT="EPIC" ID="ID_71662307" CREATED="1558835968095" MODIFIED="1558835994006" LINK="https://www.thehindu.com/sci-tech/science/indian-prl-scientists-discover-an-epic-planet/article24127772.ece">
 <node TEXT="PRL-designed PARAS (PRL Advance Radial-velocity Abu-sky Search) spectrograph to measure and confirm the mass of the new planet." ID="ID_851927748" CREATED="1558835969497" MODIFIED="1558835975121"/>
 </node>
-<node TEXT="INSAT 3DR" FOLDED="true" ID="ID_1105465044" CREATED="1496393676902" MODIFIED="1496393679677">
+<node TEXT="INSAT 3DR" ID="ID_1105465044" CREATED="1496393676902" MODIFIED="1496393679677">
 <node TEXT="GTO -&gt; Geo synchronous" ID="ID_942461895" CREATED="1496393681772" MODIFIED="1496393692031"/>
 <node TEXT="using middle infrared band" ID="ID_1919684055" CREATED="1496393706626" MODIFIED="1496393712698"/>
 <node TEXT="meteorological use" ID="ID_324896032" CREATED="1496393904521" MODIFIED="1496393910666">
@@ -15456,10 +15457,10 @@
 <node TEXT="canada, china india itlay, australia, new zealand, south africa" ID="ID_416831337" CREATED="1523032988200" MODIFIED="1523033001358"/>
 <node TEXT=" large multi radio telescope project" ID="ID_511748925" CREATED="1523033011119" MODIFIED="1523033011312"/>
 </node>
-<node TEXT="australia group" FOLDED="true" ID="ID_1756306509" CREATED="1526228370225" MODIFIED="1526228373180">
+<node TEXT="australia group" ID="ID_1756306509" CREATED="1526228370225" MODIFIED="1526228373180">
 <node TEXT="catch all provision" ID="ID_942716925" CREATED="1526228375612" MODIFIED="1526228378401"/>
 </node>
-<node TEXT="superhydrophobic cotton" FOLDED="true" ID="ID_414918122" CREATED="1525196488616" MODIFIED="1525196496124">
+<node TEXT="superhydrophobic cotton" ID="ID_414918122" CREATED="1525196488616" MODIFIED="1525196496124">
 <node TEXT="adsorbing oil in air and under water" ID="ID_1169522097" CREATED="1525196496312" MODIFIED="1525196517653"/>
 </node>
 <node TEXT="open source drug discovery" ID="ID_1795203513" CREATED="1526622883613" MODIFIED="1526622887796">
@@ -15507,7 +15508,7 @@
 <node TEXT="chile, argentina, bolivia" ID="ID_1571474387" CREATED="1557823185375" MODIFIED="1557823192287"/>
 </node>
 <node TEXT="ancient type of molecule in our universe in space for the first time ever." FOLDED="true" ID="ID_1898476876" CREATED="1559131195793" MODIFIED="1559131196501">
-<node TEXT="Helium hrdrate ion" ID="ID_36268718" CREATED="1559131186727" MODIFIED="1559131188222"/>
+<node TEXT="Helium hyrdrate ion" ID="ID_36268718" CREATED="1559131186727" MODIFIED="1559404590912"/>
 <node TEXT="NASA&apos;s flying observatory SOFIA" ID="ID_481563768" CREATED="1559131332573" MODIFIED="1559131334317">
 <node TEXT="airborne astronomical observatory" ID="ID_155370252" CREATED="1559149897555" MODIFIED="1559149897555"/>
 <node TEXT="NASA + German" ID="ID_1217013113" CREATED="1559149901275" MODIFIED="1559149905390"/>
@@ -20836,7 +20837,7 @@
 </node>
 </node>
 </node>
-<node TEXT="prelims 2019" POSITION="right" ID="ID_479714722" CREATED="1551429738461" MODIFIED="1551429740990">
+<node TEXT="prelims 2019" FOLDED="true" POSITION="right" ID="ID_479714722" CREATED="1551429738461" MODIFIED="1551429740990">
 <node TEXT="NPPA brings price under control (control trade margins)" FOLDED="true" ID="ID_109359540" CREATED="1551429760156" MODIFIED="1551429772103">
 <node TEXT=" trade margin :&#xa;&#xa;difference between the price at which the manufacturers sell to trade and the price that patients pay (maximum retail price)." ID="ID_479469896" CREATED="1551429743902" MODIFIED="1551429755843"/>
 </node>
@@ -21182,14 +21183,6 @@
 <node TEXT="action across the Kigali Amendment to the Montreal Protocol, the Paris Agreement and the SDGs." ID="ID_1116968144" CREATED="1559149869928" MODIFIED="1559149871465"/>
 <node TEXT="UNEP" ID="ID_368654773" CREATED="1559149871763" MODIFIED="1559149874488"/>
 </node>
-<node TEXT="Multilateral export control regimes" FOLDED="true" ID="ID_41475877" CREATED="1559150000704" MODIFIED="1559150007724">
-<node TEXT="o &#x2018;Arms Trade Treaty (ATT)&#x2019;" ID="ID_1157983704" CREATED="1559149964927" MODIFIED="1559149965533">
-<node TEXT="multilateral treaty" ID="ID_1569195273" CREATED="1559149974001" MODIFIED="1559149982289"/>
-<node TEXT="under UN" ID="ID_1176878652" CREATED="1559149982416" MODIFIED="1559149983714"/>
-<node TEXT="monitor arms exports and ensure that weapons don&apos;t cross existing arms embargoes or end up being used for human-rights abuses, including terrorism." ID="ID_900799916" CREATED="1559149991266" MODIFIED="1559149991942"/>
-<node TEXT="india not signatory" ID="ID_332006400" CREATED="1559149995195" MODIFIED="1559149998900"/>
-</node>
-</node>
 <node TEXT="Horsley Hills&#xa;aka&#xa;Yenugulla Mallamma Konda" ID="ID_604182563" CREATED="1559150045462" MODIFIED="1559150057934">
 <node TEXT="Madanapalle taluka of Chittoor district and is about 9 miles from Madanapalle town." ID="ID_512410913" CREATED="1559150063142" MODIFIED="1559150063142"/>
 </node>
@@ -21505,7 +21498,7 @@
 </node>
 <node TEXT="insights revision plan" FOLDED="true" ID="ID_1681452390" CREATED="1556079913033" MODIFIED="1556080661768">
 <node TEXT="Satellites placed in&#xa;&#xa;polar orbitshave&#xa;&#xa;an inclination of about 90 degrees to theequator&#xa;&#xa;and travels north-south over the poles at lower altitudes." ID="ID_1140174604" CREATED="1556080258414" MODIFIED="1556080272987"/>
-<node TEXT="space missions" ID="ID_295224381" CREATED="1559237155459" MODIFIED="1559237158067">
+<node TEXT="space missions" FOLDED="true" ID="ID_295224381" CREATED="1559237155459" MODIFIED="1559237158067">
 <node TEXT="present a remarkable similarity with the ones recently obtained by the JAXA Hayabusa2 mission (Japanese mission) of another primitive asteroid, Ryugu." ID="ID_1016067962" CREATED="1559237160241" MODIFIED="1559237160241"/>
 <node TEXT="Lucy Mission" FOLDED="true" ID="ID_685833287" CREATED="1559237160241" MODIFIED="1559237247488">
 <node TEXT="   &#x2022; To be launched in 2021, it will be the&#xa;&#xa;first space mission&#xa;&#xa;to study the&#xa;&#xa;Jupiter&#x2019;s Trojan Asteroids&#xa;&#xa;and will fly by six Trojans and one Main Belt asteroid." ID="ID_1959966634" CREATED="1559237248346" MODIFIED="1559237282872">
@@ -21528,7 +21521,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="nasa" ID="ID_1922684436" CREATED="1559237306297" MODIFIED="1559237307247"/>
@@ -21551,8 +21543,9 @@
 <node TEXT="NASA&#x2019;s original &#x201c;Great Observatories&#x201d;" ID="ID_1696082121" CREATED="1559237987674" MODIFIED="1559237988274">
 <node TEXT="Chandra X- ray Observatory" ID="ID_1647285564" CREATED="1559237160247" MODIFIED="1559237512218">
 <node TEXT="  It entered protective &#x201c;safe mode&#x201d; due to a malfunction." ID="ID_8833287" CREATED="1559237512695" MODIFIED="1559237998501"/>
+<node TEXT="measuring X Ray" ID="ID_502894429" CREATED="1559273545082" MODIFIED="1559273548050"/>
 </node>
-<node TEXT="hubble space telescope" ID="ID_193755706" CREATED="1559238023847" MODIFIED="1559238036253">
+<node TEXT="hubble space telescope" FOLDED="true" ID="ID_193755706" CREATED="1559238023847" MODIFIED="1559238036253">
 <node TEXT="NASA + ESA" ID="ID_1771299425" CREATED="1559238050427" MODIFIED="1559238054975"/>
 <node ID="ID_1984003065" CREATED="1559238055260" MODIFIED="1559238055260"><richcontent TYPE="NODE">
 
@@ -21566,12 +21559,16 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
+<node TEXT="Visible spectrum" ID="ID_1933621369" CREATED="1559273549369" MODIFIED="1559273552383"/>
 </node>
-<node TEXT="(deorbited )&#xa;Compton Gamma-Ray Observatory" ID="ID_1075938976" CREATED="1559237999624" MODIFIED="1559238021192"/>
-<node TEXT="and the Spitzer Space Telescope." ID="ID_1112193511" CREATED="1559238014901" MODIFIED="1559238015624"/>
+<node TEXT="(deorbited )&#xa;Compton Gamma-Ray Observatory" FOLDED="true" ID="ID_1075938976" CREATED="1559237999624" MODIFIED="1559238021192">
+<node TEXT="Gamma ray observing universe" ID="ID_637207286" CREATED="1559273553795" MODIFIED="1559273559659"/>
+</node>
+<node TEXT="and the Spitzer Space Telescope." FOLDED="true" ID="ID_1112193511" CREATED="1559238014901" MODIFIED="1559238015624">
+<node TEXT="INfrared ray from universe" ID="ID_321441802" CREATED="1559273560520" MODIFIED="1559273566915"/>
+</node>
 </node>
 <node TEXT="JSWT&#xa;james webb space telescope" ID="ID_1564621352" CREATED="1524400920931" MODIFIED="1525615211753">
 <node TEXT="nasa + ESA + CSA" ID="ID_1775292367" CREATED="1524400923179" MODIFIED="1524400926955"/>
@@ -23990,7 +23987,7 @@
 <node TEXT="def -&#xa;self governing&#xa;, voluntary&#xa;institutions" ID="ID_1053935619" CREATED="1558851370495" MODIFIED="1558851387539"/>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1549617159419" BACKGROUND_COLOR="#fdfdd0"><richcontent TYPE="NODE">
 
 <html>
