@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -374,7 +374,10 @@
 </node>
 </node>
 <node TEXT="Zonal Councils (5+1)" LOCALIZED_STYLE_REF="default" ID="ID_330807685" CREATED="1488098050769" MODIFIED="1488545169468">
-<node TEXT="Discuss?" LOCALIZED_STYLE_REF="default" ID="ID_1572360129" CREATED="1488257758869" MODIFIED="1488545169468">
+<node TEXT="Why need Zonal councils?" LOCALIZED_STYLE_REF="default" ID="ID_939281965" CREATED="1561446749441" MODIFIED="1561446759105">
+<node TEXT="1. arrest dissent, separatism in states&#xa;&#xa;2. national integration&#xa;&#xa;3. centre state coordination&#xa;&#xa;4. cooperation among states for speedy resolution of disputes" ID="ID_1699498477" CREATED="1561446760586" MODIFIED="1561446815337"/>
+</node>
+<node TEXT="Discuss?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1572360129" CREATED="1488257758869" MODIFIED="1488545169468">
 <node TEXT="" ID="ID_678630373" CREATED="1488257876261" MODIFIED="1488257876264">
 <hook NAME="FirstGroupNode"/>
 </node>
@@ -3488,73 +3491,6 @@
 <font NAME="Calibri"/>
 <node TEXT="Polity" FOLDED="true" ID="ID_303183937" CREATED="1495168561836" MODIFIED="1496055203519">
 <font NAME="Calibri"/>
-<node TEXT="parliamentary privileges" FOLDED="true" ID="ID_330639357" CREATED="1495168597242" MODIFIED="1554355684390">
-<icon BUILTIN="flag-green"/>
-<node TEXT="misuse examples" ID="ID_1118229760" CREATED="1554269219979" MODIFIED="1554269222426">
-<node TEXT="karnataka assembly imprisonment and fine on journalist, 2017" ID="ID_1715368714" CREATED="1499772823333" MODIFIED="1554269246967"/>
-</node>
-<node TEXT="to anyone taking part in proceedings of House or Committees" FOLDED="true" ID="ID_1322335505" CREATED="1499704498633" MODIFIED="1499704515455">
-<node TEXT="but NOT president!" ID="ID_502858552" CREATED="1499704515751" MODIFIED="1499704519390"/>
-<node TEXT="yes to attorney general + Union ministers + commitee members" ID="ID_944689284" CREATED="1499704654647" MODIFIED="1499704673459"/>
-</node>
-<node TEXT="sources" FOLDED="true" ID="ID_1449653860" CREATED="1554269274297" MODIFIED="1554269275663">
-<node TEXT="105 = freedom of speech + right to publication of proceedings" ID="ID_186084107" CREATED="1499706161699" MODIFIED="1499706178839">
-<node TEXT="types (105)" ID="ID_225182870" CREATED="1554269271068" MODIFIED="1554269324767" LINK="#ID_186084107">
-<node TEXT="individual privileges" ID="ID_1731116202" CREATED="1496029598776" MODIFIED="1496029606160">
-<node TEXT="freedom of speech" ID="ID_895014412" CREATED="1496029614896" MODIFIED="1496029617237"/>
-<node TEXT="arrest ... (with caveats) only civil cases" ID="ID_1217527902" CREATED="1496029682556" MODIFIED="1496748351738"/>
-<node TEXT="exempt from jury service" ID="ID_1139830094" CREATED="1496029683932" MODIFIED="1496029689966"/>
-</node>
-<node TEXT="collective privileges of parilament" ID="ID_513514978" CREATED="1495168562913" MODIFIED="1495168571911"/>
-</node>
-</node>
-<node TEXT="194 = same as those of British House of Commons until defined by parliament" FOLDED="true" ID="ID_645506543" CREATED="1499706188571" MODIFIED="1499772719358">
-<node TEXT="on discretion of Head of the house" ID="ID_878405634" CREATED="1499706208345" MODIFIED="1499706219361"/>
-<node TEXT="not absolute power!" ID="ID_65772875" CREATED="1499772720104" MODIFIED="1499772724295"/>
-</node>
-<node TEXT="parliamentary conventions" ID="ID_1866063423" CREATED="1554269284217" MODIFIED="1554269289550"/>
-<node ID="ID_802742437" CREATED="1499772730829" MODIFIED="1554269139225"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      preamble = we the people =&gt; <font color="#0000ff">popular sovereignty </font>+ supremacy of constitution
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="unlike england, where parliament is supreme" ID="ID_1938772185" CREATED="1499772783013" MODIFIED="1499772806517"/>
-</node>
-</node>
-<node TEXT="way forward" ID="ID_224013791" CREATED="1499772816900" MODIFIED="1499772818636">
-<node ID="ID_614425286" CREATED="1499772913025" MODIFIED="1554269145446" MAX_WIDTH="158.42552882203591 pt" MIN_WIDTH="158.42552882203591 pt"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&#160;Constitution Review Commission </b>headed by Justice M.N. Venkatachaliah
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="defined + delimited privileges" ID="ID_1041194543" CREATED="1499772928567" MODIFIED="1499772935771"/>
-</node>
-</node>
-<node TEXT="random" ID="ID_1734147519" CREATED="1554355777792" MODIFIED="1554355778825">
-<node TEXT="Contempt of House" ID="ID_1211767213" CREATED="1554355692359" MODIFIED="1554355694969">
-<node TEXT="bigger term , includes Breach of Privilege" ID="ID_359107480" CREATED="1554355695914" MODIFIED="1554355708982"/>
-</node>
-<node TEXT="Breach of Privilege" ID="ID_196573627" CREATED="1554355687939" MODIFIED="1554355692228">
-<node TEXT="publish true report of House by media == OK&#xa;Except&#xa;&#xa;Secret meeting" ID="ID_1424558512" CREATED="1554355719907" MODIFIED="1554355769286"/>
-</node>
-</node>
-</node>
 <node TEXT="crossing the floor" FOLDED="true" ID="ID_694068911" CREATED="1554355833498" MODIFIED="1554355838171">
 <node TEXT="Passing between the member addressing the House and the Chair which is considered breach of Parliamentary etiquette" ID="ID_130040597" CREATED="1554355838453" MODIFIED="1554355839219"/>
 </node>
