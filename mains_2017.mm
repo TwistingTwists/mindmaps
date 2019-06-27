@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -2501,8 +2501,8 @@
 </node>
 </node>
 </node>
-<node TEXT="gs2" FOLDED="true" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
-<node TEXT="Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure." FOLDED="true" ID="ID_1794554400" CREATED="1544200456978" MODIFIED="1544200577047" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="gs2" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
+<node TEXT="Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure." ID="ID_1794554400" CREATED="1544200456978" MODIFIED="1544200577047" BACKGROUND_COLOR="#ccffcc">
 <node TEXT="Constitution" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1340862862" CREATED="1488234371502" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
 <node TEXT="14" OBJECT="java.lang.Long|14" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1719780280" CREATED="1554277758732" MODIFIED="1554277761522">
@@ -3402,8 +3402,8 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x2022; Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein." FOLDED="true" ID="ID_1222219820" CREATED="1544200456978" MODIFIED="1544200577059" BACKGROUND_COLOR="#ccffcc">
-<node TEXT="POLITY" FOLDED="true" ID="ID_262510024" CREATED="1554281136781" MODIFIED="1554281138593">
+<node TEXT="&#x2022; Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein." ID="ID_1222219820" CREATED="1544200456978" MODIFIED="1544200577059" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="POLITY" ID="ID_262510024" CREATED="1554281136781" MODIFIED="1554281138593">
 <font BOLD="true"/>
 <node TEXT="PressureGroups" FOLDED="true" ID="ID_90281836" CREATED="1522383093191" MODIFIED="1531068517776">
 <attribute_layout VALUE_WIDTH="93.75 pt"/>
@@ -3456,7 +3456,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -3638,9 +3637,9 @@
 <node TEXT="e.g. places of worship on Public Land" LOCALIZED_STYLE_REF="default" ID="ID_1833262540" CREATED="1489467823566" MODIFIED="1514839848272"/>
 </node>
 </node>
-<node TEXT="Pluralism and Secularism" FOLDED="true" ID="ID_791556347" CREATED="1557196158058" MODIFIED="1557196163903">
-<node TEXT="Pluralism" FOLDED="true" ID="ID_342869978" CREATED="1557196187056" MODIFIED="1557196189752">
-<node TEXT="def -" ID="ID_1779362999" CREATED="1557196189929" MODIFIED="1557197879073">
+<node TEXT="Pluralism and Secularism" ID="ID_791556347" CREATED="1557196158058" MODIFIED="1557196163903">
+<node TEXT="Pluralism" ID="ID_342869978" CREATED="1557196187056" MODIFIED="1557196189752">
+<node TEXT="def" ID="ID_1779362999" CREATED="1557196189929" MODIFIED="1561638597096">
 <node ID="ID_508152159" CREATED="1557197881119" MODIFIED="1557197881119"><richcontent TYPE="NODE">
 
 <html>
@@ -3699,7 +3698,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="questions for today" ID="ID_1448871785" CREATED="1557196382198" MODIFIED="1557196388992">
+<node TEXT="questions for today" FOLDED="true" ID="ID_1448871785" CREATED="1557196382198" MODIFIED="1557196388992">
 <node TEXT="How Has democracy  contributed to secularism?" ID="ID_1253993861" CREATED="1557196389253" MODIFIED="1557196401275"/>
 <node TEXT="How consistent are we in adhering to Secularism ?" ID="ID_800990509" CREATED="1557196401641" MODIFIED="1557196411501"/>
 <node TEXT="How is Plurality reflected in functions of democracy?" FOLDED="true" ID="ID_1926995354" CREATED="1557196411781" MODIFIED="1557196430083">
@@ -3859,8 +3858,10 @@
 <node TEXT="Elections in India" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_87035788" CREATED="1489405226488" MODIFIED="1530680346746">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
-<node TEXT="De criminalisation of politics" FOLDED="true" ID="ID_867137698" CREATED="1530680815145" MODIFIED="1530680825131">
-<node TEXT="34% of LS MP have criminal cases against them" ID="ID_1207489426" CREATED="1530680829397" MODIFIED="1530680843915"/>
+<node TEXT="De criminalisation of politics" ID="ID_867137698" CREATED="1530680815145" MODIFIED="1530680825131">
+<node TEXT="34% of LS MP have criminal cases against them&#xa;&#xa;Association of democratic Reforms" ID="ID_1207489426" CREATED="1530680829397" MODIFIED="1561624563830">
+<node TEXT="21% serious criminal cases" ID="ID_1983895121" CREATED="1561624566199" MODIFIED="1561624575746"/>
+</node>
 <node ID="ID_653868197" CREATED="1530680844119" MODIFIED="1530680903053"><richcontent TYPE="NODE">
 
 <html>
@@ -3875,6 +3876,11 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="NOTA :" ID="ID_769951933" CREATED="1561624661077" MODIFIED="1561624668415"/>
+<node TEXT="Section 8 , RPA 1951&#xa;: if convicted and &gt;2yrs sentence" ID="ID_1312153071" CREATED="1561624671806" MODIFIED="1561624704959"/>
+<node TEXT="102(1)&#xa;&#xa;add to grounds for disqualification" ID="ID_1070872369" CREATED="1561624705122" MODIFIED="1561624716117"/>
+<node TEXT="Public interest foundation vs union of india :&#xa;&#xa;ECI and political parties to make disclosure of candidates appearing in elections." ID="ID_1327984716" CREATED="1561624611420" MODIFIED="1561624653879"/>
+<node TEXT="SC :&#xa;&#xa;&quot;cure malignancy of criminalisation of politics&quot;&#xa;&#xa;by making law" ID="ID_1176682158" CREATED="1561624586560" MODIFIED="1561624609496"/>
 <node ID="ID_355775048" CREATED="1530680911726" MODIFIED="1530680931510"><richcontent TYPE="NODE">
 
 <html>
@@ -3891,22 +3897,22 @@
 </node>
 </node>
 <node TEXT="RPA Issues" FOLDED="true" ID="ID_1694999893" CREATED="1490502332706" MODIFIED="1530680549420">
-<node TEXT="FPTP" FOLDED="true" ID="ID_240002732" CREATED="1490031753724" MODIFIED="1490031754849">
+<node TEXT="FPTP" ID="ID_240002732" CREATED="1490031753724" MODIFIED="1490031754849">
 <node TEXT="first past the post" ID="ID_441182903" CREATED="1490031754990" MODIFIED="1490031758069"/>
-<node TEXT="discrepancy in vote share and seat share" FOLDED="true" ID="ID_1298146022" CREATED="1490031791214" MODIFIED="1490031798262">
+<node TEXT="discrepancy in vote share and seat share" ID="ID_1298146022" CREATED="1490031791214" MODIFIED="1490031798262">
 <node TEXT="votes to smaller parties = wasted" ID="ID_1450756689" CREATED="1490031807779" MODIFIED="1490031816327"/>
 </node>
 </node>
-<node TEXT="EVM" FOLDED="true" ID="ID_1218416168" CREATED="1490674566590" MODIFIED="1490674568895">
+<node TEXT="EVM" ID="ID_1218416168" CREATED="1490674566590" MODIFIED="1490674568895">
 <node TEXT="EVM standalone machines" ID="ID_738566439" CREATED="1490674570704" MODIFIED="1490674574054"/>
-<node TEXT="EVM tampering" FOLDED="true" ID="ID_292401372" CREATED="1490502319708" MODIFIED="1490502321708">
+<node TEXT="EVM tampering" ID="ID_292401372" CREATED="1490502319708" MODIFIED="1490502321708">
 <node TEXT="solution? VVPAT" ID="ID_950332512" CREATED="1490502410659" MODIFIED="1490502418061"/>
 </node>
-<node TEXT="Randomness in allocation of EVM" FOLDED="true" ID="ID_901523683" CREATED="1490674585626" MODIFIED="1490674596993">
+<node TEXT="Randomness in allocation of EVM" ID="ID_901523683" CREATED="1490674585626" MODIFIED="1490674596993">
 <node TEXT="transparency increase" ID="ID_53557394" CREATED="1490674597107" MODIFIED="1490674604621"/>
 </node>
 </node>
-<node TEXT="Paid news" FOLDED="true" ID="ID_618862863" CREATED="1508757777569" MODIFIED="1508757886750">
+<node TEXT="Paid news" ID="ID_618862863" CREATED="1508757777569" MODIFIED="1508757886750">
 <font BOLD="true"/>
 <node ID="ID_1812529767" CREATED="1526734640874" MODIFIED="1555695447601" LINK="#ID_193760375"><richcontent TYPE="NODE">
 
@@ -3930,10 +3936,10 @@
 </richcontent>
 </node>
 <node TEXT="free and fair election&#xa;, people&apos;s faith&#xa;, money power&#xa;, credibility (independence) of media?" ID="ID_352410689" CREATED="1530861091799" MODIFIED="1530861118906"/>
-<node TEXT="way fwd" FOLDED="true" ID="ID_1882776020" CREATED="1530861080390" MODIFIED="1530861082077">
+<node TEXT="way fwd" ID="ID_1882776020" CREATED="1530861080390" MODIFIED="1530861082077">
 <node TEXT="Law Commission 255th report = Make it electoral offense, RPA strengthen" ID="ID_221928127" CREATED="1508757792442" MODIFIED="1530683090419"/>
 <node TEXT="MCMC Media certification and monitoring committee" ID="ID_1498535928" CREATED="1530861049127" MODIFIED="1530861067562"/>
-<node FOLDED="true" ID="ID_454316948" CREATED="1508757834207" MODIFIED="1530683112407"><richcontent TYPE="NODE">
+<node ID="ID_454316948" CREATED="1508757834207" MODIFIED="1530683112407"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3948,8 +3954,8 @@
 </richcontent>
 <node TEXT="ECI to regulate transactions between candidates and media" ID="ID_378985721" CREATED="1508757815806" MODIFIED="1508757833851"/>
 </node>
-<node TEXT="PCI =&#xa;propaganda in favour of a candidate masquerading as&#xa;news reports or articles for a price in cash or kind as consideration" FOLDED="true" ID="ID_1400688883" CREATED="1526734608651" MODIFIED="1555694498472">
-<node TEXT="Press council of india&#xa;&#xa;PCI" FOLDED="true" ID="ID_995911276" CREATED="1554563080906" MODIFIED="1554563084931">
+<node TEXT="PCI =&#xa;propaganda in favour of a candidate masquerading as&#xa;news reports or articles for a price in cash or kind as consideration" ID="ID_1400688883" CREATED="1526734608651" MODIFIED="1555694498472">
+<node TEXT="Press council of india&#xa;&#xa;PCI" ID="ID_995911276" CREATED="1554563080906" MODIFIED="1554563084931">
 <node TEXT="quasi-judicial body" ID="ID_1222344064" CREATED="1554563085278" MODIFIED="1554563086482"/>
 <node TEXT="statutory - PCI Act, 1978" ID="ID_797445490" CREATED="1554563088378" MODIFIED="1554563099617"/>
 <node TEXT="chairman = retired SC judge" ID="ID_51933526" CREATED="1554563103796" MODIFIED="1554563110163"/>
@@ -4672,8 +4678,8 @@
 <node TEXT="amend constitution to not allow post retirement (like CAG)" ID="ID_1001824619" CREATED="1552844088413" MODIFIED="1552844155128"/>
 </node>
 </node>
-<node TEXT="Office of Profit" ID="ID_208152829" CREATED="1561434356511" MODIFIED="1561434359659">
-<node TEXT="102(1) , 191(1)" ID="ID_1515930454" CREATED="1561434359765" MODIFIED="1561434372875">
+<node TEXT="Office of Profit" FOLDED="true" ID="ID_208152829" CREATED="1561434356511" MODIFIED="1561434359659">
+<node TEXT="102(1) , 191(1)&#xa;&#xa;Disqualification Criteria" ID="ID_1515930454" CREATED="1561434359765" MODIFIED="1561638573474">
 <node TEXT="provisions" ID="ID_1687268490" CREATED="1554269436292" MODIFIED="1554269440443">
 <node TEXT="joint committee on office of profit :&#xa;&#xa;15 = 10 (LS) + 5 (RS)&#xa;&#xa;define OoP" ID="ID_1634787388" CREATED="1554269485565" MODIFIED="1554269513006"/>
 <node TEXT="SC = BOrdoloi vs Swapan Roy Case, 2001 :&#xa;&#xa;Defined OoP" ID="ID_657218294" CREATED="1554269535119" MODIFIED="1554269573557"/>
@@ -4967,7 +4973,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="why worsening situation?" FOLDED="true" ID="ID_371260058" CREATED="1550502690717" MODIFIED="1550503078345">
@@ -5174,7 +5179,7 @@
 </node>
 <node TEXT="&#x2022; Separation of powers between various organs dispute redressal mechanisms and institutions." ID="ID_443019747" CREATED="1544200456980" MODIFIED="1544200577068" BACKGROUND_COLOR="#ccffcc"/>
 <node TEXT="&#x2022; Comparison of the Indian constitutional scheme with that of other countries" ID="ID_1844385126" CREATED="1544200456982" MODIFIED="1544200577076" BACKGROUND_COLOR="#ccffcc"/>
-<node TEXT="&#x2022; Parliament and State Legislatures &#x2013; structure, functioning, conduct of business, powers &amp; privileges and issues arising out of these." ID="ID_111510816" CREATED="1544200456983" MODIFIED="1544200577085" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="&#x2022; Parliament and State Legislatures &#x2013; structure, functioning, conduct of business, powers &amp; privileges and issues arising out of these." FOLDED="true" ID="ID_111510816" CREATED="1544200456983" MODIFIED="1544200577085" BACKGROUND_COLOR="#ccffcc">
 <node TEXT="Legislations" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_300928997" CREATED="1488094076386" MODIFIED="1494887615889">
 <font NAME="Calibri"/>
 <node TEXT="COPRA, 1986" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_212585028" CREATED="1488179043829" MODIFIED="1494887615890">
@@ -6271,10 +6276,10 @@
 <node TEXT="but NOT president!" ID="ID_502858552" CREATED="1499704515751" MODIFIED="1499704519390"/>
 <node TEXT="yes to attorney general + Union ministers + commitee members" ID="ID_944689284" CREATED="1499704654647" MODIFIED="1499704673459"/>
 </node>
-<node TEXT="Committee of privileges" ID="ID_1662079849" CREATED="1561434656448" MODIFIED="1561434660304">
+<node TEXT="Committee of privileges" FOLDED="true" ID="ID_1662079849" CREATED="1561434656448" MODIFIED="1561434660304">
 <node TEXT="standing committee in each house&#xa;&#xa;investigate + reco action to Speaker /chairman" ID="ID_247822837" CREATED="1561434662664" MODIFIED="1561434686725"/>
 </node>
-<node TEXT="Privilege Motion" ID="ID_355632085" CREATED="1561434692285" MODIFIED="1561434695485">
+<node TEXT="Privilege Motion" FOLDED="true" ID="ID_355632085" CREATED="1561434692285" MODIFIED="1561434695485">
 <node TEXT=" notice moved&#xa;&#xa;, Speaker/ Chairman scrutiny&#xa;&#xa;, Refer to committee or (not =&gt; decide themselves)&#xa;&#xa;, debate on report if need be&#xa;&#xa;, Punishement by Speaker / chairman based on reco of Committee on privileges" ID="ID_546774705" CREATED="1561434695587" MODIFIED="1561434813470"/>
 </node>
 <node TEXT="way forward" FOLDED="true" ID="ID_224013791" CREATED="1499772816900" MODIFIED="1499772818636">
@@ -9098,15 +9103,16 @@
 <node TEXT="Poverty and Hunger" ID="ID_862856829" CREATED="1522382966187" MODIFIED="1522382970250"/>
 <node TEXT="republic of mob lynching" FOLDED="true" ID="ID_1163738241" CREATED="1498494894365" MODIFIED="1531989028569">
 <icon BUILTIN="flag-green"/>
-<node TEXT="e.g." FOLDED="true" ID="ID_129439412" CREATED="1531282254823" MODIFIED="1531282859871">
+<node TEXT="Lynching is a form of violence in which a mob, under the pretext of administering&#xa;&#xa;justice, executes a presumed offender." ID="ID_280964695" CREATED="1561576784342" MODIFIED="1561576785808"/>
+<node TEXT="e.g." ID="ID_129439412" CREATED="1531282254823" MODIFIED="1531282859871">
 <font BOLD="true"/>
 <node TEXT="mandasaur MP&#xa;Dhule, Maha" ID="ID_1467895498" CREATED="1531282256621" MODIFIED="1531282264203"/>
 </node>
-<node TEXT="reasons?" FOLDED="true" ID="ID_674531483" CREATED="1531282266108" MODIFIED="1531282859855">
+<node TEXT="reasons?" ID="ID_674531483" CREATED="1531282266108" MODIFIED="1531282859855">
 <font BOLD="true"/>
 <node TEXT="1. insecurity due to ineffective police&#xa;&#xa;2. cultivated Prejudice" ID="ID_1816514185" CREATED="1531282273821" MODIFIED="1531282296253"/>
 </node>
-<node TEXT="how to resolve?" FOLDED="true" ID="ID_358987149" CREATED="1531282780880" MODIFIED="1531282859840">
+<node TEXT="how to resolve?" ID="ID_358987149" CREATED="1531282780880" MODIFIED="1531282859840">
 <font BOLD="true"/>
 <node TEXT="1. Politically Condemning&#xa;&#xa;2. telangana - 500 trained officers to increase awareness against fake news&#xa;&#xa;3. WB police using twitter to avoid communal tension during EiD" ID="ID_1071135905" CREATED="1531282788725" MODIFIED="1531282848806"/>
 <node ID="ID_1944151691" CREATED="1531989032495" MODIFIED="1531989040621"><richcontent TYPE="NODE">
@@ -9145,7 +9151,6 @@
 <node TEXT="violence has a social function when law breaks down" ID="ID_1259114771" CREATED="1498494903777" MODIFIED="1498494913614"/>
 <node TEXT="crowd has a single character of thoughtlessness, irrational force - which is not breaking down, instead restoring law and order" ID="ID_883430157" CREATED="1498495771305" MODIFIED="1498495804273"/>
 </node>
-<node TEXT="" ID="ID_1134199585" CREATED="1551150692937" MODIFIED="1551150692937"/>
 </node>
 <node TEXT="Superstition" FOLDED="true" ID="ID_1692183188" CREATED="1531989777815" MODIFIED="1531989789485">
 <node ID="ID_161205719" CREATED="1531989789845" MODIFIED="1531989826917"><richcontent TYPE="NODE">
@@ -24367,7 +24372,7 @@
 <node TEXT="def -&#xa;self governing&#xa;, voluntary&#xa;institutions" ID="ID_1053935619" CREATED="1558851370495" MODIFIED="1558851387539"/>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_625183255" CREATED="1540965604018" MODIFIED="1540965649151">
 <node ID="ID_1937352887" CREATED="1540965626219" MODIFIED="1549617159419" BACKGROUND_COLOR="#fdfdd0"><richcontent TYPE="NODE">
 
 <html>
@@ -24928,7 +24933,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Long term" ID="ID_624374968" CREATED="1561485599646" MODIFIED="1561485602524">

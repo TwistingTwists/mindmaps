@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -10291,7 +10291,7 @@
 <node TEXT="geopolitical" ID="ID_930323546" CREATED="1488702765958" MODIFIED="1488702767833"/>
 </node>
 </node>
-<node TEXT="RCEP (10+6)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_373635197" CREATED="1488260125613" MODIFIED="1495153324621">
+<node TEXT="RCEP (10+6)" LOCALIZED_STYLE_REF="default" ID="ID_373635197" CREATED="1488260125613" MODIFIED="1495153324621">
 <font NAME="Calibri"/>
 <node TEXT="India, china, Aus, New Zealand, South Korea, Japan" ID="ID_1230179914" CREATED="1494386310619" MODIFIED="1494386321118"/>
 <node TEXT="useful" FOLDED="true" ID="ID_840365886" CREATED="1501196003753" MODIFIED="1501196004721">
