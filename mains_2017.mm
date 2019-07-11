@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -2046,25 +2046,26 @@
 <node TEXT="the picture of crisis" FOLDED="true" ID="ID_1550474528" CREATED="1535873078469" MODIFIED="1562314683649" BACKGROUND_COLOR="#ffcccc">
 <node TEXT="80% freshwater in agri" ID="ID_1443207871" CREATED="1535873082547" MODIFIED="1535873086767"/>
 <node TEXT="rice + sugarcane = 25% of GCA but 60% of agri water used!&#xa;&#xa;GCA = gross cropped area" ID="ID_552289099" CREATED="1535873086939" MODIFIED="1535873103785"/>
+<node TEXT="NITI aayog report&#xa;&#xa;60cr (50% india) facing high - extreme water crisis" ID="ID_131200098" CREATED="1562826428242" MODIFIED="1562826446482"/>
 <node TEXT="CGWA, 2011&#xa;&#xa;out of 6k administrative units of water, only 4500 are usable.&#xa;&#xa;=&gt; need revival =&gt; Atal Bhujal" ID="ID_750843012" CREATED="1548353127234" MODIFIED="1548353188917" LINK="#ID_1131939472"/>
 <node TEXT="israel = 200 per cu m per yr&#xa;&#xa;india 1500" ID="ID_1027041039" CREATED="1535873107974" MODIFIED="1535873118851"/>
-<node TEXT="vision 2018_11 : water use in energy generation" FOLDED="true" ID="ID_1036661728" CREATED="1562313934569" MODIFIED="1562313953284">
+<node TEXT="vision 2018_11 : water use in energy generation" ID="ID_1036661728" CREATED="1562313934569" MODIFIED="1562313953284">
 <node TEXT="85% electricity rom thermal power plants&#xa;&#xa;90% use freshwater for cooling&#xa;&#xa;40% of that located in water stressed area" FOLDED="true" ID="ID_1451250707" CREATED="1562314025353" MODIFIED="1562314055170">
 <node TEXT="WRI paper, Jan&apos;18" ID="ID_1643428903" CREATED="1562313953365" MODIFIED="1562313965769"/>
 </node>
-<node TEXT="water use for energy going up to 9% by 2050" ID="ID_591578749" CREATED="1562314076130" MODIFIED="1562314089626">
+<node TEXT="water use for energy going up to 9% by 2050" FOLDED="true" ID="ID_591578749" CREATED="1562314076130" MODIFIED="1562314089626">
 <node TEXT="CWC, 2015 report" ID="ID_1832858865" CREATED="1562314069385" MODIFIED="1562314074195"/>
 </node>
 <node TEXT="cost of groundwater = 90% because of (energy usage for pumping)" ID="ID_213780287" CREATED="1562314093509" MODIFIED="1562314112149"/>
-<node TEXT="do what?" ID="ID_452371988" CREATED="1562314118744" MODIFIED="1562314120203">
+<node TEXT="do what?" FOLDED="true" ID="ID_452371988" CREATED="1562314118744" MODIFIED="1562314120203">
 <node TEXT="cooling tech improve&#xa;&#xa;power plant efficiency (National electricity policy, 2016)&#xa;&#xa;use solar, wind as per INDC&#xa;(175 GW renewable by 2022&#xa;&#xa;, 40% non fossil 2030)" ID="ID_1713682178" CREATED="1562314120388" MODIFIED="1562314195802"/>
 </node>
 </node>
-<node TEXT="Composite Water management index" ID="ID_650411760" CREATED="1562315659346" MODIFIED="1562315665707">
+<node TEXT="Composite Water management index" FOLDED="true" ID="ID_650411760" CREATED="1562315659346" MODIFIED="1562315665707">
 <node TEXT="vision 2018_06 5.1" ID="ID_910571838" CREATED="1562315771859" MODIFIED="1562315784343"/>
 </node>
 </node>
-<node TEXT="MASALA" ID="ID_3482137" CREATED="1562316193336" MODIFIED="1562316195283">
+<node TEXT="MASALA" FOLDED="true" ID="ID_3482137" CREATED="1562316193336" MODIFIED="1562316195283">
 <node TEXT="cape town = dry town" ID="ID_1275478206" CREATED="1562316195360" MODIFIED="1562316206984"/>
 </node>
 <node TEXT="israel role" ID="ID_1713688133" CREATED="1535871430055" MODIFIED="1535871446604" LINK="#ID_1872925940"/>
@@ -2219,7 +2220,7 @@
 <node TEXT="river interlinking" ID="ID_529917310" CREATED="1562316113833" MODIFIED="1562316116579"/>
 </node>
 <node TEXT="way forward" FOLDED="true" ID="ID_1668261019" CREATED="1535873134010" MODIFIED="1562314675678" BACKGROUND_COLOR="#99ff99">
-<node FOLDED="true" ID="ID_662850617" CREATED="1562314363119" MODIFIED="1562314669429" BACKGROUND_COLOR="#99ff99"><richcontent TYPE="NODE">
+<node ID="ID_662850617" CREATED="1562314363119" MODIFIED="1562314669429" BACKGROUND_COLOR="#99ff99"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2256,10 +2257,10 @@
 </node>
 <node TEXT="Andhra Pradesh&#x2019;s online water dashboard:" ID="ID_1847747992" CREATED="1562315851824" MODIFIED="1562315852165"/>
 </node>
-<node TEXT="(CWC) with Google for water resource management and flood manamgent" ID="ID_1388781122" CREATED="1562316327878" MODIFIED="1562316345722">
+<node TEXT="(CWC) with Google for water resource management and flood manamgent" FOLDED="true" ID="ID_1388781122" CREATED="1562316327878" MODIFIED="1562316345722">
 <node TEXT="cultural exhibition&#xa;&#xa;google earth tech collab&#xa;&#xa;flood prediction system" ID="ID_1469524919" CREATED="1562316421888" MODIFIED="1562316437917"/>
 </node>
-<node TEXT="National Hydrology Project" ID="ID_546469184" CREATED="1562316406529" MODIFIED="1562316407096">
+<node TEXT="National Hydrology Project" FOLDED="true" ID="ID_546469184" CREATED="1562316406529" MODIFIED="1562316407096">
 <node TEXT="central sector scheme." ID="ID_236153546" CREATED="1562316488248" MODIFIED="1562316488248"/>
 <node TEXT="components : vision 2018_05 5.14" ID="ID_951371511" CREATED="1562316504461" MODIFIED="1562316524732">
 <node TEXT="national water informatics centre&#xa;NWIC" FOLDED="true" ID="ID_1353735360" CREATED="1554614878503" MODIFIED="1554614888604">
@@ -2774,10 +2775,10 @@
 <node TEXT="112 : annual financial statement" LOCALIZED_STYLE_REF="default" ID="ID_353787958" CREATED="1488535332214" MODIFIED="1488545169527"/>
 <node TEXT="142" OBJECT="java.lang.Long|142" FOLDED="true" ID="ID_60960600" CREATED="1491447977474" MODIFIED="1491447978323">
 <node TEXT="complete justice" ID="ID_30563860" CREATED="1491447979858" MODIFIED="1491447984259"/>
-<node TEXT="only valid for topics &apos;within SC&apos;s jurisdiction&apos;" FOLDED="true" ID="ID_1369219598" CREATED="1491448212642" MODIFIED="1491448225546">
+<node TEXT="only valid for topics &apos;within SC&apos;s jurisdiction&apos;" ID="ID_1369219598" CREATED="1491448212642" MODIFIED="1491448225546">
 <node TEXT="not a carte blanche to act upon issues" ID="ID_1009210446" CREATED="1491448244009" MODIFIED="1491448252051"/>
 </node>
-<node TEXT="positive" FOLDED="true" ID="ID_907869766" CREATED="1495144013139" MODIFIED="1495144015867">
+<node TEXT="positive" ID="ID_907869766" CREATED="1495144013139" MODIFIED="1495144015867">
 <node TEXT="Right to education" LOCALIZED_STYLE_REF="default" ID="ID_969421845" CREATED="1492492382301" MODIFIED="1495144029783" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
@@ -3697,7 +3698,7 @@
 </node>
 </node>
 <node TEXT="Criminal Justice System" FOLDED="true" ID="ID_1132330508" CREATED="1524888696432" MODIFIED="1524888701167">
-<node TEXT="Police, Prison, Court" FOLDED="true" ID="ID_445981913" CREATED="1524888878599" MODIFIED="1524888886881">
+<node TEXT="Police, Prison, Court" ID="ID_445981913" CREATED="1524888878599" MODIFIED="1524888886881">
 <node TEXT="Police Reforms" FOLDED="true" ID="ID_315369873" CREATED="1552452327350" MODIFIED="1552452329962">
 <node TEXT="Police Modernization priorities." FOLDED="true" ID="ID_1037534916" CREATED="1553566574240" MODIFIED="1553566575404">
 <node TEXT="CCTV, speed sensor, social media management (image) DNA fingerprintig" ID="ID_544944611" CREATED="1553566616350" MODIFIED="1553566635185"/>
@@ -3758,6 +3759,25 @@
 </richcontent>
 </node>
 </node>
+<node TEXT="under trials reforms" FOLDED="true" ID="ID_890954114" CREATED="1562819819699" MODIFIED="1562819823189">
+<node TEXT="short term" FOLDED="true" ID="ID_398456321" CREATED="1562819823317" MODIFIED="1562819825886">
+<node TEXT="Under trial review committee (UTRC) district level" ID="ID_1157102589" CREATED="1562819842838" MODIFIED="1562819852548"/>
+<node TEXT="LCI : &gt;7yrs release" ID="ID_1846876832" CREATED="1562819852740" MODIFIED="1562819865488"/>
+</node>
+<node TEXT="long term" FOLDED="true" ID="ID_1092615345" CREATED="1562819826069" MODIFIED="1562819827308">
+<node TEXT="infra," ID="ID_1398404492" CREATED="1562819827819" MODIFIED="1562819834916"/>
+<node TEXT="39A" ID="ID_322400405" CREATED="1562819869703" MODIFIED="1562819872081"/>
+<node TEXT="open prison" ID="ID_1014256467" CREATED="1562819835675" MODIFIED="1562819839751"/>
+</node>
+</node>
+<node TEXT="Women in Prison" FOLDED="true" ID="ID_576334714" CREATED="1562819792421" MODIFIED="1562819807727">
+<node TEXT="1/3 are 18-30 =&gt; need speical care" ID="ID_1405268375" CREATED="1562819904756" MODIFIED="1562819920984"/>
+<node TEXT="issues :&#xa;&#xa;separate acco&#xa;stigma reintegration&#xa;pre and post natal care&#xa;femal staff&#xa;Mother child ties" ID="ID_717157461" CREATED="1562819921236" MODIFIED="1562819953061"/>
+</node>
+<node TEXT="Overcrowding of prison" ID="ID_1232088073" CREATED="1562819808056" MODIFIED="1562819812838"/>
+<node TEXT="Draft National Prison Policy,&#xa;&#xa;Prison Manual, 2016" ID="ID_1440358702" CREATED="1562819960045" MODIFIED="1562819979943"/>
+<node TEXT="Anti torture legislation" ID="ID_594470534" CREATED="1562819980061" MODIFIED="1562819984952"/>
+<node TEXT="Justice Mulla Committee&#xa;National Prison Commission" ID="ID_737608890" CREATED="1562818771805" MODIFIED="1562819888668"/>
 </node>
 </node>
 <node TEXT="court reforms" ID="ID_1733793839" CREATED="1552452336193" MODIFIED="1552452339176"/>
@@ -4493,7 +4513,7 @@
 </node>
 <node TEXT="Women in judiciary" LOCALIZED_STYLE_REF="default" ID="ID_1090432905" CREATED="1488426007323" MODIFIED="1488545169532"/>
 <node TEXT="Pendency in Judiciary" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_233863063" CREATED="1492492490845" MODIFIED="1492492494855">
-<node TEXT="cases aate kahan se hain?" FOLDED="true" ID="ID_366974458" CREATED="1509112330430" MODIFIED="1509112334071">
+<node TEXT="cases aate kahan se hain?" ID="ID_366974458" CREATED="1509112330430" MODIFIED="1509112334071">
 <node TEXT="lower court to higher court =&gt; Not effective ADR" ID="ID_1806011121" CREATED="1509112334321" MODIFIED="1509112344926"/>
 <node TEXT="RTI  =&gt; PIL" ID="ID_623624449" CREATED="1509112345067" MODIFIED="1509112358882"/>
 <node TEXT="low judge to population ratio" ID="ID_748347323" CREATED="1509112363727" MODIFIED="1509112368400"/>
@@ -4502,11 +4522,12 @@
 <node TEXT="Reasons for inc. in pendency of cases?" FOLDED="true" ID="ID_503047675" CREATED="1492492495028" MODIFIED="1492492507865">
 <node TEXT="define : low judge-population ratio" ID="ID_807821537" CREATED="1492492508025" MODIFIED="1492492528215"/>
 <node TEXT="lack of IT prowess" ID="ID_1358671754" CREATED="1492492529566" MODIFIED="1492492537537"/>
+<node TEXT="witness run away" ID="ID_401889412" CREATED="1562821059493" MODIFIED="1562821065371"/>
 <node TEXT="Human resource issues" ID="ID_1892629167" CREATED="1492492539837" MODIFIED="1492492545243"/>
 <node TEXT="Specialised benches" ID="ID_371879815" CREATED="1492492574467" MODIFIED="1492492577536">
 <node TEXT="Technical expertise cases - Technical experts needed." ID="ID_1005876722" CREATED="1492492556490" MODIFIED="1492492567045"/>
 </node>
-<node TEXT="SLP&#xa;special leave petitions" ID="ID_1334715844" CREATED="1492492581005" MODIFIED="1526317176750">
+<node TEXT="SLP&#xa;special leave petitions&#xa;&#xa;(~40% cases pending in SC)" ID="ID_1334715844" CREATED="1492492581005" MODIFIED="1562821052484">
 <icon BUILTIN="idea"/>
 <node TEXT="mentioned in 136&#xa;, not a right of petitioner&#xa;, not for military cases" ID="ID_452284090" CREATED="1526317138680" MODIFIED="1526317170493"/>
 </node>
@@ -6307,9 +6328,43 @@
 </node>
 </node>
 <node TEXT="&#x2022; Salient features of the Representation of People&#x2019;s Act." ID="ID_1960118948" CREATED="1544200456985" MODIFIED="1544200577105" BACKGROUND_COLOR="#ccffcc"/>
-<node TEXT="&#x2022; Appointment to various Constitutional posts, powers, functions and responsibilities of various Constitutional Bodies." FOLDED="true" ID="ID_1653435991" CREATED="1544200456987" MODIFIED="1544200577112" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="&#x2022; Appointment to various Constitutional posts, powers, functions and responsibilities of various Constitutional Bodies." ID="ID_1653435991" CREATED="1544200456987" MODIFIED="1544200577112" BACKGROUND_COLOR="#ccffcc">
 <node TEXT="Raghuram rajan Committee on Special Category Status" FOLDED="true" ID="ID_1336281658" CREATED="1550464239972" MODIFIED="1550464254580">
 <node TEXT="allocate funds across states based on need." ID="ID_108549556" CREATED="1550464260775" MODIFIED="1550464272609"/>
+</node>
+<node TEXT="tribunalisation of justice" FOLDED="true" ID="ID_745550196" CREATED="1562823652033" MODIFIED="1562823656653">
+<node TEXT="issues" ID="ID_1663557459" CREATED="1562823660016" MODIFIED="1562823661606">
+<node TEXT="post retirement appointment =&gt; Conflict of interest" ID="ID_734105400" CREATED="1562823662236" MODIFIED="1562823677051"/>
+<node TEXT="appointment from executive =&gt; Lack of independence" ID="ID_609698389" CREATED="1562823677233" MODIFIED="1562823686978"/>
+<node TEXT="separation of powers not followed" ID="ID_1800399726" CREATED="1562823687932" MODIFIED="1562823694271"/>
+<node ID="ID_1484228988" CREATED="1562823694493" MODIFIED="1562823820372"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      bypassing HC jurisdiction
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff3333">LC Kumar Case</font>&#160;partly solved it : SC said appeal to HC first
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Pendency of courts decreased?? = NO" ID="ID_365985990" CREATED="1562823736354" MODIFIED="1562823752337"/>
+<node TEXT="Access to justice : Small business + not everywhere tribunal" ID="ID_744422643" CREATED="1562823722340" MODIFIED="1562823805118" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="Over tribunalisation :&#xa;&#xa;rationalisation done in Budget 2017-18" ID="ID_507318251" CREATED="1562823752675" MODIFIED="1562823805121" BACKGROUND_COLOR="#ccffcc"/>
+<node TEXT="Expertise?" ID="ID_1416913142" CREATED="1562823787528" MODIFIED="1562823795267">
+<icon BUILTIN="help"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="&#x2022; Statutory, regulatory and various quasi-judicial bodies" FOLDED="true" ID="ID_1992748409" CREATED="1544200456988" MODIFIED="1544200577120" BACKGROUND_COLOR="#ccffcc">
@@ -8894,7 +8949,7 @@
 <node TEXT="reservation &lt; 50%" ID="ID_139605120" CREATED="1553252541103" MODIFIED="1553309874637" LINK="#ID_1062092345"/>
 <node TEXT="reservation only for initial appointments&#xa;&#xa;&#xa;not extended to promotion" ID="ID_114432350" CREATED="1553309791684" MODIFIED="1553309804408"/>
 </node>
-<node TEXT="law overruling Indra Swahney, 1992" ID="ID_396645797" CREATED="1553309818669" MODIFIED="1553309827950">
+<node TEXT="law overruling Indra Swahney, 1992" FOLDED="true" ID="ID_396645797" CREATED="1553309818669" MODIFIED="1553309827950">
 <node TEXT="77, 81, 85 Constitutional amendment" ID="ID_813622152" CREATED="1553309828596" MODIFIED="1553309838315">
 <node ID="ID_213935942" CREATED="1562128058212" MODIFIED="1562128575202"><richcontent TYPE="NODE">
 
@@ -8955,7 +9010,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Jarnail Singh, 2018" ID="ID_131148441" CREATED="1553251959672" MODIFIED="1553251965521">
+<node TEXT="Jarnail Singh, 2018" FOLDED="true" ID="ID_131148441" CREATED="1553251959672" MODIFIED="1553251965521">
 <node TEXT="SC allowed central govt. for RiP&#xa;&#xa;in accordance with law" ID="ID_362748800" CREATED="1553252393113" MODIFIED="1553252412624"/>
 <node ID="ID_1783771067" CREATED="1553252461430" MODIFIED="1562128276109"><richcontent TYPE="NODE">
 
@@ -24744,7 +24799,7 @@
 </node>
 </node>
 </node>
-<node TEXT="misc" ID="ID_1626762228" CREATED="1531997386971" MODIFIED="1531997387898">
+<node TEXT="misc" FOLDED="true" ID="ID_1626762228" CREATED="1531997386971" MODIFIED="1531997387898">
 <node TEXT="bamboo usage&#xa;&#xa;as sipper!" ID="ID_595510525" CREATED="1531997388115" MODIFIED="1531997394708"/>
 <node TEXT="15th Finance Commission" FOLDED="true" ID="ID_1914608285" CREATED="1520846318835" MODIFIED="1520846324164">
 <node ID="ID_1348402892" CREATED="1520846324289" MODIFIED="1520846351271"><richcontent TYPE="NODE">
@@ -24932,7 +24987,7 @@
 <node TEXT="RAT HOLE MINING" FOLDED="true" ID="ID_848619656" CREATED="1526733526003" MODIFIED="1526733528081">
 <node TEXT="meghalya" ID="ID_1458819291" CREATED="1526733540562" MODIFIED="1526733543083"/>
 <node TEXT="banned by NGT for env + human life concerns" ID="ID_362993690" CREATED="1526733529814" MODIFIED="1526733536465"/>
-<node TEXT="issues" ID="ID_205471933" CREATED="1562315286259" MODIFIED="1562315288286">
+<node TEXT="issues" FOLDED="true" ID="ID_205471933" CREATED="1562315286259" MODIFIED="1562315288286">
 <node TEXT="social" ID="ID_1121937727" CREATED="1562315288409" MODIFIED="1562315289363">
 <node TEXT="child labor" ID="ID_1304300439" CREATED="1562315298788" MODIFIED="1562315312283"/>
 <node TEXT="23 - exploitation" ID="ID_781476854" CREATED="1562315336098" MODIFIED="1562315342254"/>
