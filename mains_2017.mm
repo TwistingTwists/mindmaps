@@ -4994,7 +4994,7 @@
 <node TEXT="pakistan did not observe standstill agreement and went for covert operation." ID="ID_151914011" CREATED="1550502919075" MODIFIED="1550502935717"/>
 <node TEXT="26 Oct - Instrument of accession with GoI under independence of India act, 1947&#xa;&#xa;Pandit nehru took the matter blaming pakistan as aggressor&#xa;&#xa;pak argument = India has not maintained standstill agreement&#xa;&#xa;UN listed Kashmir as disputed territory." ID="ID_283179015" CREATED="1550502936273" MODIFIED="1550503078343"/>
 </node>
-<node TEXT="370" OBJECT="java.lang.Long|370" ID="ID_1106587116" CREATED="1550503148466" MODIFIED="1550503150248">
+<node TEXT="370" OBJECT="java.lang.Long|370" FOLDED="true" ID="ID_1106587116" CREATED="1550503148466" MODIFIED="1550503150248">
 <node TEXT="JnK will be able to exercise more autonomy in comparison to other states considering&#xa;&#xa;social composition&#xa;, circumstances of accession&#xa;," ID="ID_1731679278" CREATED="1550503176953" MODIFIED="1550503221457"/>
 <node TEXT="JnK is integral part of territory of India" ID="ID_1063966874" CREATED="1550503606008" MODIFIED="1550503619605"/>
 <node TEXT="Union List : Consult JnK (not binding)&#xa;&#xa;&#xa;Concurrent + state list : Only with concurrence of JnK" ID="ID_1146684636" CREATED="1550503711890" MODIFIED="1550503736140"/>
@@ -5007,7 +5007,7 @@
 <node TEXT="with subject on Union list and concurrent list parliament can make law applicable to Jnk only with&#xa;&#xa;, consultation of state govt.&#xa;, fall within scope of subjects on which accession took place (=communication, defence foreign affairs CDFA)" ID="ID_491034117" CREATED="1550503788117" MODIFIED="1550503955324"/>
 <node TEXT="concurrence of state government is required in Union laws ,&#xa;w.r.t subjects other than CDFA" ID="ID_24256012" CREATED="1550503884083" MODIFIED="1561446866591"/>
 </node>
-<node TEXT="370(1) d" ID="ID_315280404" CREATED="1550504091021" MODIFIED="1550504096199">
+<node TEXT="370(1) d" FOLDED="true" ID="ID_315280404" CREATED="1550504091021" MODIFIED="1550504096199">
 <node ID="ID_608556274" CREATED="1550504096421" MODIFIED="1550504336542" MAX_WIDTH="190.08510240422711 pt" MIN_WIDTH="190.08510240422711 pt"><richcontent TYPE="NODE">
 
 <html>
@@ -5030,7 +5030,7 @@
 <node TEXT="356 - modified form&#xa;&#xa;National emergency - only on external grounds&#xa;&#xa;no financial emergency on JnK" ID="ID_1670850744" CREATED="1550504185453" MODIFIED="1550504248283"/>
 </node>
 </node>
-<node TEXT="multi pronged approach of GoI towards JnK ?" ID="ID_667183003" CREATED="1550507872354" MODIFIED="1550507901049">
+<node TEXT="multi pronged approach of GoI towards JnK ?" FOLDED="true" ID="ID_667183003" CREATED="1550507872354" MODIFIED="1550507901049">
 <node ID="ID_412207837" CREATED="1550507901747" MODIFIED="1550507988246"><richcontent TYPE="NODE">
 
 <html>
@@ -6355,7 +6355,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Pendency of courts decreased?? = NO" ID="ID_365985990" CREATED="1562823736354" MODIFIED="1562823752337"/>
@@ -6372,7 +6371,7 @@
 <node TEXT="RTI vs Right to privacy" FOLDED="true" ID="ID_522916855" CREATED="1548411795930" MODIFIED="1548411800566">
 <node TEXT="single institutional model :" ID="ID_1131549120" CREATED="1548411820021" MODIFIED="1548411851954"/>
 <node TEXT="NRI cannot file RTI" ID="ID_1139120202" CREATED="1552451740979" MODIFIED="1552451744501"/>
-<node TEXT="issues / controversy" FOLDED="true" ID="ID_1666120419" CREATED="1548411907414" MODIFIED="1548413067961" BACKGROUND_COLOR="#ccffcc">
+<node TEXT="issues / controversy" ID="ID_1666120419" CREATED="1548411907414" MODIFIED="1548413067961" BACKGROUND_COLOR="#ccffcc">
 <node TEXT="section 8(i) j" FOLDED="true" ID="ID_924475392" CREATED="1548411914006" MODIFIED="1548411919681">
 <node TEXT="not revealing info under RTI because PERSONAL INFORMATION&#xa;&#xa;privacy &gt; public interest" FOLDED="true" ID="ID_1827555546" CREATED="1548411920376" MODIFIED="1548412312435">
 <node ID="ID_1047412104" CREATED="1548411937356" MODIFIED="1548412072276"><richcontent TYPE="NODE">
@@ -6455,16 +6454,16 @@
 </node>
 </node>
 </node>
-<node TEXT="RTI and Privacy in&#xa;&#xa;conflict" FOLDED="true" ID="ID_1673505468" CREATED="1548411852262" MODIFIED="1548411868407">
+<node TEXT="RTI and Privacy in&#xa;&#xa;conflict" ID="ID_1673505468" CREATED="1548411852262" MODIFIED="1548411868407">
 <node TEXT="RTI = reveal info&#xa;Privacy  = hide" ID="ID_1610903602" CREATED="1548411884235" MODIFIED="1548411894392"/>
 </node>
-<node TEXT="RTI and privacy&#xa;&#xa;complement" FOLDED="true" ID="ID_1761284422" CREATED="1548411868596" MODIFIED="1548411882205">
+<node TEXT="RTI and privacy&#xa;&#xa;complement" ID="ID_1761284422" CREATED="1548411868596" MODIFIED="1548411882205">
 <node TEXT="RTI enforces privacy by revealing abuses" ID="ID_1732109101" CREATED="1548413775100" MODIFIED="1548413782089"/>
 <node TEXT="privacy law allows access to all personal information held by State" ID="ID_865153395" CREATED="1548413882116" MODIFIED="1548413893068"/>
 </node>
 <node TEXT="right to privacy = right of life" FOLDED="true" ID="ID_1503976213" CREATED="1499336009629" MODIFIED="1499336018270">
 <node TEXT="as a fundamental right" FOLDED="true" ID="ID_984709463" CREATED="1501193282139" MODIFIED="1501193284822">
-<node TEXT="SC = yes. FR! (reasonable restrictions)" FOLDED="true" ID="ID_1664196816" CREATED="1503985337007" MODIFIED="1503985353032">
+<node TEXT="SC = yes. FR! (reasonable restrictions)" ID="ID_1664196816" CREATED="1503985337007" MODIFIED="1503985353032">
 <node LOCALIZED_STYLE_REF="default" ID="ID_167431678" CREATED="1503985369288" MODIFIED="1503985445333" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
 
 <html>
@@ -6489,8 +6488,8 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="why privacy?" FOLDED="true" ID="ID_497631145" CREATED="1503985455952" MODIFIED="1503985460942">
-<node TEXT="RTI is a part of 19(1) (a)&#xa;=     act is a machinery to enforce FR" FOLDED="true" ID="ID_1581035674" CREATED="1552451711185" MODIFIED="1552451715749">
+<node TEXT="why privacy?" ID="ID_497631145" CREATED="1503985455952" MODIFIED="1503985460942">
+<node TEXT="RTI is a part of 19(1) (a)&#xa;=     act is a machinery to enforce FR" ID="ID_1581035674" CREATED="1552451711185" MODIFIED="1552451715749">
 <node LOCALIZED_STYLE_REF="default" ID="ID_351315241" CREATED="1500710210111" MODIFIED="1503985452356" BACKGROUND_COLOR="#feffd6"><richcontent TYPE="NODE">
 
 <html>
@@ -6536,7 +6535,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="swaraj = self rule" FOLDED="true" ID="ID_1956643780" CREATED="1507082118773" MODIFIED="1507082128795">
+<node TEXT="swaraj = self rule" ID="ID_1956643780" CREATED="1507082118773" MODIFIED="1507082128795">
 <node TEXT="Gandhi = self rule != only replacing british, but creating moral force to replace without violence" FOLDED="true" ID="ID_1240562808" CREATED="1507082128898" MODIFIED="1507082157649">
 <node TEXT="constitutional morality over majoritarian morality" ID="ID_18390976" CREATED="1507082286408" MODIFIED="1507082290940"/>
 </node>
@@ -9949,7 +9948,7 @@
 <node TEXT="5-8&#xa;&#xa;, no NDP (TSR Subramanium)&#xa;, learning outcomes low (ASER)" ID="ID_1723307584" CREATED="1507643043777" MODIFIED="1553145258471"/>
 </node>
 </node>
-<node TEXT="primary" FOLDED="true" ID="ID_27330243" CREATED="1520931380725" MODIFIED="1520931381993">
+<node TEXT="primary" ID="ID_27330243" CREATED="1520931380725" MODIFIED="1520931381993">
 <node TEXT="RTE act, 2009&#xa;right to education" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_627541306" CREATED="1494408277465" MODIFIED="1553145314007">
 <font NAME="Calibri"/>
 <node TEXT="perspective" FOLDED="true" ID="ID_1323816491" CREATED="1562310795269" MODIFIED="1562310797364">
@@ -10076,7 +10075,7 @@
 <node TEXT="no learning environment" ID="ID_736822031" CREATED="1507170121774" MODIFIED="1507170127524"/>
 </node>
 </node>
-<node ID="ID_1211417357" CREATED="1501652194041" MODIFIED="1562311408482" BACKGROUND_COLOR="#ffcccc"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1211417357" CREATED="1501652194041" MODIFIED="1562311408482" BACKGROUND_COLOR="#ffcccc"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10112,24 +10111,48 @@
 </node>
 <node TEXT="factors affecting quality of learning" ID="ID_1814455004" CREATED="1562311076167" MODIFIED="1562311251716" LINK="https://www.prsindia.org/billtrack/right-children-free-and-compulsory-education-second-amendment-bill-2017">
 <node TEXT="teachers :&#xa;&#xa;teacher training and appraisal&#xa;&#xa;pupil teacher ratio&#xa;&#xa;vacancies" ID="ID_1003790119" CREATED="1562311083185" MODIFIED="1562311105501"/>
-<node TEXT="School accountability :&#xa;&#xa;e.g. US No Child Left Behind Act&#xa;&#xa;if learning outcomes not achieved =&gt;&#xa;&#xa;School certificate in danger" ID="ID_1972659223" CREATED="1562311124984" MODIFIED="1562311155844">
+<node TEXT="School accountability :&#xa;&#xa;Poor readiness" FOLDED="true" ID="ID_1972659223" CREATED="1562311124984" MODIFIED="1563335462919">
 <node TEXT="by Central Advisory Board on Education (CABE, 2014) report" ID="ID_1707063117" CREATED="1562311035675" MODIFIED="1562311165831"/>
+<node TEXT="e.g. US No Child Left Behind Act&#xa;&#xa;if learning outcomes not achieved =&gt;&#xa;&#xa;School certificate in danger" ID="ID_735383853" CREATED="1563335463703" MODIFIED="1563335464208"/>
 </node>
 <node TEXT="Age appropriate learning :&#xa;&#xa;&#xa;learning level with class coordination for better integration in class" ID="ID_596016433" CREATED="1562311194799" MODIFIED="1562311214124">
 <node TEXT="unlike (as in RTE)&#xa;&#xa;class is linked to age, not learning level" ID="ID_722041486" CREATED="1562311214322" MODIFIED="1562311228579"/>
 </node>
+<node TEXT="Nutrition and health" ID="ID_1893619485" CREATED="1563335477811" MODIFIED="1563335490091" BACKGROUND_COLOR="#66ff33"/>
 </node>
 </node>
-<node TEXT=" Equity" ID="ID_1508435958" CREATED="1562311255991" MODIFIED="1562311258432">
+<node TEXT=" Equity" FOLDED="true" ID="ID_1508435958" CREATED="1562311255991" MODIFIED="1562311258432">
 <node TEXT="equity =&#xa;children educationally backwards&#xa;25 % EWS not fulfilled" ID="ID_129278573" CREATED="1501652216193" MODIFIED="1520930963541"/>
 <node TEXT="27% disabled children never went to school : UNESCO report" ID="ID_809942515" CREATED="1562311265211" MODIFIED="1562311281176"/>
 </node>
-<node TEXT="Preschool education" ID="ID_848758692" CREATED="1501652277783" MODIFIED="1501652280334">
+<node ID="ID_848758692" CREATED="1501652277783" MODIFIED="1563335539083"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Preschool education
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      =
+    </p>
+    <p style="margin-top: 5pt; margin-bottom: 12pt; font-family: consolas; font-size: 9.0pt">
+      <span>&#160;</span><span style="font-weight: bold; color: #E84C22"><b><font color="#E84C22">ECCE [Early Childhood Care and Education]</font></b></span>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="food + physical + vocal training" ID="ID_1401257724" CREATED="1501652294000" MODIFIED="1501652301993"/>
 <node TEXT="early intervention = course correction easy" ID="ID_1399028430" CREATED="1501652280598" MODIFIED="1501652293701"/>
 </node>
 </node>
-<node TEXT="WAY FORWARD" FOLDED="true" ID="ID_1485719433" CREATED="1520930349931" MODIFIED="1520930352530">
+<node TEXT="WAY FORWARD" ID="ID_1485719433" CREATED="1520930349931" MODIFIED="1520930352530">
 <node ID="ID_282169687" CREATED="1520930353387" MODIFIED="1520930367496"><richcontent TYPE="NODE">
 
 <html>
@@ -10149,7 +10172,7 @@
 <node TEXT="codification of learning outcomes (ES 2018)&#xa;&#xa;easy to implement competitive federalism&#xa;&#xa;&#xa;Saksham" ID="ID_863189803" CREATED="1520930626911" MODIFIED="1553145478930" LINK="#ID_1036272406"/>
 </node>
 </node>
-<node TEXT="SATH-E = Sustainable action for transforming human capital in education" LOCALIZED_STYLE_REF="default" ID="ID_381786719" CREATED="1522214806264" MODIFIED="1522214820972">
+<node TEXT="SATH-E = Sustainable action for transforming human capital in education" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_381786719" CREATED="1522214806264" MODIFIED="1522214820972">
 <font NAME="Calibri"/>
 <node TEXT="by NITI aayog, in selected states" ID="ID_514937250" CREATED="1524399998681" MODIFIED="1524400004614"/>
 </node>
@@ -10235,7 +10258,7 @@
 <node TEXT="ASER" FOLDED="true" ID="ID_1559262963" CREATED="1553145550269" MODIFIED="1560913759034">
 <font BOLD="true"/>
 <node TEXT="citizen led&#xa;household based&#xa;rural survey" ID="ID_1033254473" CREATED="1560911025341" MODIFIED="1560911038009"/>
-<node TEXT="aser 2017" ID="ID_1585211030" CREATED="1516305231459" MODIFIED="1516305240536">
+<node TEXT="aser 2017" FOLDED="true" ID="ID_1585211030" CREATED="1516305231459" MODIFIED="1516305240536">
 <node TEXT="RauFocus Feb_2018" ID="ID_595980226" CREATED="1560913762319" MODIFIED="1560913827260"/>
 <node TEXT="more girls have bank accounts, but boys operate them more" FOLDED="true" ID="ID_1520947088" CREATED="1516306153666" MODIFIED="1516306163750">
 <node TEXT="expectation from girls is less!" ID="ID_521885172" CREATED="1516306163958" MODIFIED="1516306169883"/>
@@ -10244,28 +10267,31 @@
 </node>
 <node TEXT="aser 2018" ID="ID_31527336" CREATED="1553145553646" MODIFIED="1553145556390">
 <node TEXT="EaR SpIN&#xa;&#xa;To P Wa" ID="ID_1184209924" CREATED="1553145557381" MODIFIED="1553145591875"/>
+<node TEXT="analysis in onenote Ultimate safari" ID="ID_1838911777" CREATED="1563335339577" MODIFIED="1563335350853"/>
 </node>
 </node>
 <node TEXT="policies" FOLDED="true" ID="ID_896122" CREATED="1553145062066" MODIFIED="1553145063614">
 <node TEXT="education policy 1986 vs NEP, 2016" FOLDED="true" ID="ID_175251335" CREATED="1498925177526" MODIFIED="1498925194895">
-<node TEXT="New Education Policy 2017 BY Kasturirangan committee" ID="ID_1657174981" CREATED="1516305973965" MODIFIED="1516305988556"/>
+<node TEXT="New Education Policy 2017 BY Kasturirangan committee" FOLDED="true" ID="ID_1657174981" CREATED="1516305973965" MODIFIED="1516305988556">
+<node TEXT="onenote&#xa;Ultimate Safari" ID="ID_835767083" CREATED="1563335318908" MODIFIED="1563335326951"/>
+</node>
 <node TEXT="LPG =&gt; today, knowledge based economy development" ID="ID_1281412649" CREATED="1498925195489" MODIFIED="1498925213439"/>
 <node TEXT="skilling important part" ID="ID_178320148" CREATED="1498925214695" MODIFIED="1498925218542"/>
-<node TEXT="inclusive" ID="ID_33674467" CREATED="1498925366222" MODIFIED="1498925368007">
+<node TEXT="inclusive" FOLDED="true" ID="ID_33674467" CREATED="1498925366222" MODIFIED="1498925368007">
 <node TEXT="PwD, gender, ethics + social harmony" ID="ID_188222768" CREATED="1498925368253" MODIFIED="1498925389176"/>
 </node>
-<node TEXT="school education" ID="ID_22938561" CREATED="1498925313914" MODIFIED="1498925316581">
+<node TEXT="school education" FOLDED="true" ID="ID_22938561" CREATED="1498925313914" MODIFIED="1498925316581">
 <node TEXT="learning outcomes" ID="ID_1015435993" CREATED="1498925316707" MODIFIED="1498925322724"/>
 <node TEXT="teacher training" ID="ID_129100675" CREATED="1498925408069" MODIFIED="1498925410546"/>
 <node TEXT="comprehensive education = ethics + NCC/NSS" ID="ID_270126193" CREATED="1498925417801" MODIFIED="1498925428390"/>
 </node>
 <node TEXT="convergence with SEQI, SWAYAM portal (MOOC), Shala Asmita" ID="ID_1396098505" CREATED="1498925322865" MODIFIED="1498925506399"/>
-<node TEXT="higher education" ID="ID_1651545353" CREATED="1498925436940" MODIFIED="1498925443269">
+<node TEXT="higher education" FOLDED="true" ID="ID_1651545353" CREATED="1498925436940" MODIFIED="1498925443269">
 <node TEXT="institutes of eminence =&gt; global presence" ID="ID_1318212955" CREATED="1498925218683" MODIFIED="1498925230848"/>
 <node TEXT="VAJRA = collaborative research international" ID="ID_759225125" CREATED="1498925509361" MODIFIED="1498925523087"/>
 </node>
 <node TEXT="HEFA = financing" ID="ID_262396546" CREATED="1498925534755" MODIFIED="1498925538840"/>
-<node TEXT="lifelong learning" ID="ID_1187576171" CREATED="1498925279129" MODIFIED="1498925280643">
+<node TEXT="lifelong learning" FOLDED="true" ID="ID_1187576171" CREATED="1498925279129" MODIFIED="1498925280643">
 <node TEXT="via SHG, NGO" ID="ID_748871102" CREATED="1498925286660" MODIFIED="1498925289064"/>
 <node TEXT="financial digital literacy" ID="ID_1632993148" CREATED="1498925292407" MODIFIED="1498925302503"/>
 <node TEXT="adult literacy" ID="ID_90973264" CREATED="1498925302803" MODIFIED="1498925306522"/>
@@ -10274,7 +10300,7 @@
 <node TEXT="RTE act, 2009" ID="ID_1138941920" CREATED="1553145065594" MODIFIED="1553145111853" LINK="#ID_627541306"/>
 </node>
 </node>
-<node TEXT="National Achievement Survey NAS 2018" ID="ID_82648310" CREATED="1516306034358" MODIFIED="1516306043171">
+<node TEXT="National Achievement Survey NAS 2018" FOLDED="true" ID="ID_82648310" CREATED="1516306034358" MODIFIED="1516306043171">
 <node TEXT="only for govt. schools" ID="ID_68755924" CREATED="1516306048571" MODIFIED="1516306052853"/>
 </node>
 <node TEXT="Health GS" LOCALIZED_STYLE_REF="default" ID="ID_1891134012" CREATED="1487759811580" MODIFIED="1562075978054" BACKGROUND_COLOR="#feffd6">
@@ -25062,8 +25088,8 @@
 <node TEXT="DIPP promote" ID="ID_1192424975" CREATED="1497501837626" MODIFIED="1497501840220"/>
 </node>
 </node>
-<node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
-<node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
+<node TEXT="Sectors of Economy" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_886779361" CREATED="1487760056809" MODIFIED="1488545169552">
+<node TEXT="Agriculture" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1551748103" CREATED="1487760071771" MODIFIED="1488545169567">
 <node TEXT="Intro" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_635115520" CREATED="1488427334339" MODIFIED="1488545169567">
 <node TEXT="demographic data/trends" FOLDED="true" ID="ID_306319748" CREATED="1495142919356" MODIFIED="1495142935258">
 <node TEXT="water use trend" FOLDED="true" ID="ID_1402918979" CREATED="1489497861158" MODIFIED="1489497863494">
@@ -26412,7 +26438,7 @@
 <node TEXT="issues :&#xa;&#xa;NWR&#xa;APMC&#xa;ECA&#xa;&#xa;Contract farming&#xa;Agri export" ID="ID_410951706" CREATED="1548047180973" MODIFIED="1548047206922"/>
 </node>
 </node>
-<node TEXT="agricultural policy" FOLDED="true" ID="ID_178570009" CREATED="1504938980557" MODIFIED="1531407416323">
+<node TEXT="agricultural policy" ID="ID_178570009" CREATED="1504938980557" MODIFIED="1531407416323">
 <font BOLD="true"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1050968256" CREATED="1528988927367" MODIFIED="1549726882517" MAX_WIDTH="146.42552882203591 pt" MIN_WIDTH="146.42552882203591 pt"><richcontent TYPE="NODE">
 
@@ -26491,8 +26517,22 @@
 </node>
 <node TEXT="Economic angle" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1750362262" CREATED="1494891233570" MODIFIED="1494891236585">
 <node TEXT="problem : agri on &apos;land on lease&apos; =&gt; access to credit NO" LOCALIZED_STYLE_REF="default" ID="ID_1796086637" CREATED="1488536718042" MODIFIED="1488545169603"/>
-<node TEXT="[tenant] access to formal credit" LOCALIZED_STYLE_REF="default" ID="ID_866956807" CREATED="1488537248579" MODIFIED="1488545169618"/>
+<node LOCALIZED_STYLE_REF="default" ID="ID_866956807" CREATED="1488537248579" MODIFIED="1563295176674"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      [tenant] access to formal credit by <i>pledging agricultural output</i>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
+</node>
+<node TEXT="settle disputes&#xa;&#xa;land tribunal" LOCALIZED_STYLE_REF="default" ID="ID_351889098" CREATED="1563295214317" MODIFIED="1563295220972"/>
 <node TEXT="e.g. kerala == land leasing stopped + small landowners abolished =&gt; No agri" LOCALIZED_STYLE_REF="default" ID="ID_512613834" CREATED="1488602195236" MODIFIED="1488602235322" BACKGROUND_COLOR="#ebe8ff"/>
 </node>
 <node TEXT="randoms" FOLDED="true" ID="ID_1232160175" CREATED="1558939629584" MODIFIED="1558939630969">
@@ -26552,7 +26592,7 @@
 </node>
 <node TEXT="allowed land owners (like rythu bandhu)&#xa;&#xa;Also tenants, agri laborers (small and margianl = 92% of all farmers in Odisha)" ID="ID_1558385074" CREATED="1548044060019" MODIFIED="1548048992696" LINK="#ID_1248372066"/>
 </node>
-<node TEXT="Agri Research" LOCALIZED_STYLE_REF="default" ID="ID_1128963783" CREATED="1489560598051" MODIFIED="1489560600728">
+<node TEXT="Agri Research" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1128963783" CREATED="1489560598051" MODIFIED="1489560600728">
 <node TEXT="Funding" ID="ID_1223191273" CREATED="1489560600993" MODIFIED="1489560603371"/>
 <node TEXT="Private partnership" FOLDED="true" ID="ID_725338011" CREATED="1489560603543" MODIFIED="1489560614902">
 <node TEXT="for enhanced research-productivity" ID="ID_1235438796" CREATED="1489560615043" MODIFIED="1489560625817"/>
