@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -5940,10 +5940,10 @@
 </node>
 <node TEXT="POWER = dhakebar in nepal to muzaffarpur in india" ID="ID_1410075793" CREATED="1495364605112" MODIFIED="1495364605112"/>
 </node>
-<node TEXT="fly ash utlisation policy" FOLDED="true" ID="ID_499272161" CREATED="1495494353676" MODIFIED="1496293785203">
-<icon BUILTIN="full-1"/>
+<node TEXT="fly ash utlisation policy" FOLDED="true" ID="ID_499272161" CREATED="1495494353676" MODIFIED="1563974846508">
 <font NAME="Calibri"/>
 <node TEXT="Maharashtra = 1" ID="ID_1591800450" CREATED="1495494361318" MODIFIED="1495494370429"/>
+<node TEXT="~63% used today (23-07-2019)" ID="ID_1806626100" CREATED="1563974812338" MODIFIED="1563974833912"/>
 <node ID="ID_25075539" CREATED="1495494381571" MODIFIED="1495494381571"><richcontent TYPE="NODE">
 
 <html>
