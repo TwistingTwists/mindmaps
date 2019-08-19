@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -135,7 +135,7 @@
 </hook>
 <font NAME="Calibri"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
-<node TEXT="Polity" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
+<node TEXT="Polity" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
 <font NAME="Calibri"/>
 <node TEXT="Laxmikanth" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1966133345" CREATED="1488094079918" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
@@ -1513,7 +1513,7 @@
 <node TEXT="Coterminus with municipalities" LOCALIZED_STYLE_REF="default" ID="ID_393563307" CREATED="1488532146267" MODIFIED="1488545169542"/>
 </node>
 </node>
-<node TEXT="Bodies of India" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1739541457" CREATED="1488864616898" MODIFIED="1495493339747">
+<node TEXT="Bodies of India" LOCALIZED_STYLE_REF="default" ID="ID_1739541457" CREATED="1488864616898" MODIFIED="1495493339747">
 <font NAME="Calibri" BOLD="false"/>
 <node TEXT="ASI" FOLDED="true" ID="ID_1694132507" CREATED="1495142268233" MODIFIED="1495142269183">
 <node TEXT="statutory under AMASR act, 1958" ID="ID_17079880" CREATED="1495142269402" MODIFIED="1499532445560"/>
@@ -1707,6 +1707,19 @@
 <node TEXT="under Dept of Revenue" ID="ID_774063249" CREATED="1497095355687" MODIFIED="1497095361275"/>
 <node TEXT="PMLA + FEMA" ID="ID_394586047" CREATED="1497079195904" MODIFIED="1549615789134"/>
 </node>
+<node TEXT="NCMEI" ID="ID_1164965610" CREATED="1565417358453" MODIFIED="1565417360452">
+<node TEXT="national commission for minority educational institutions in Indi a" ID="ID_142832265" CREATED="1565417360851" MODIFIED="1565417375062"/>
+<node TEXT="under MHRD" ID="ID_946960513" CREATED="1565417378980" MODIFIED="1565417383297"/>
+<node TEXT="initially by ordinance but, NCMEI Act, 2004 later" ID="ID_1168491066" CREATED="1565417399415" MODIFIED="1565417412574"/>
+<node TEXT="6 notified religious commuinities" ID="ID_399165926" CREATED="1565417721846" MODIFIED="1565417731019"/>
+<node TEXT="Chairman should have been a judge of High Court and must belong to a minority community." ID="ID_1085487163" CREATED="1565417422386" MODIFIED="1565417422864"/>
+<node TEXT="The Commission holds random&#xa;verification of the society/trust running a&#xa;minority educational institution in order to&#xa;enhance transparency in the decision making&#xa;of award of MSC&#xa;&#xa;Minority status certificate" ID="ID_910786251" CREATED="1565417829171" MODIFIED="1565417840960">
+<node TEXT="in consonance with Niti aayog&apos;s NGO darpan website" ID="ID_372716392" CREATED="1565417846700" MODIFIED="1565417861625"/>
+</node>
+<node TEXT="no linguistic minority" ID="ID_139767" CREATED="1565417436088" MODIFIED="1565417444879" BACKGROUND_COLOR="#ccff33">
+<font BOLD="true"/>
+</node>
+</node>
 <node TEXT="NCSC" ID="ID_440860946" CREATED="1553361907119" MODIFIED="1553361908584">
 <node TEXT="reports to President = lays in parliament&#xa;&#xa;&#xa;president forwards state portion to Governor" ID="ID_758429153" CREATED="1553361908754" MODIFIED="1553361928170"/>
 </node>
@@ -1836,7 +1849,7 @@
 <node TEXT="PIL? &#x2013; issue guidelines" ID="ID_885109201" CREATED="1495436355020" MODIFIED="1495436355020"/>
 </node>
 </node>
-<node TEXT="NHRC" ID="ID_1896479012" CREATED="1490416027761" MODIFIED="1490416028395">
+<node TEXT="NHRC" FOLDED="true" ID="ID_1896479012" CREATED="1490416027761" MODIFIED="1490416028395">
 <node TEXT="autonomous statutory" ID="ID_818117498" CREATED="1500104061705" MODIFIED="1500104067659"/>
 <node TEXT="members not necessarily judges but anyone who is HR expert" ID="ID_188092542" CREATED="1553363217088" MODIFIED="1553363230144"/>
 <node TEXT="head = retired CJI" ID="ID_1738538621" CREATED="1491744943908" MODIFIED="1491744955613"/>
@@ -2001,7 +2014,7 @@
 <node TEXT="employers&apos; organisation" ID="ID_965853544" CREATED="1490159140626" MODIFIED="1490159145857"/>
 </node>
 </node>
-<node TEXT="NPCI" ID="ID_586385371" CREATED="1549714150593" MODIFIED="1549714152867">
+<node TEXT="NPCI" FOLDED="true" ID="ID_586385371" CREATED="1549714150593" MODIFIED="1549714152867">
 <node TEXT="national payment corporation of india" ID="ID_1085109396" CREATED="1549714152993" MODIFIED="1549714160918"/>
 <node TEXT="for retail payment and settlement systems" ID="ID_66926619" CREATED="1549714161079" MODIFIED="1549714281231"/>
 <node TEXT="By RBI + IBA&#xa;&#xa;under&#xa;payment and settlement act, 2007" ID="ID_62694359" CREATED="1549714183658" MODIFIED="1549714200383"/>
@@ -3487,7 +3500,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1549262099448">
+<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1549262099448">
 <font NAME="Calibri"/>
 <node TEXT="Polity" FOLDED="true" ID="ID_303183937" CREATED="1495168561836" MODIFIED="1496055203519">
 <font NAME="Calibri"/>
@@ -3658,7 +3671,7 @@
 </node>
 <node TEXT="silviculture = replenish forests to meet diverse needs and values" ID="ID_690131947" CREATED="1497491865591" MODIFIED="1497491897685"/>
 </node>
-<node TEXT="IR" ID="ID_1868136078" CREATED="1492419335113" MODIFIED="1496055203522">
+<node TEXT="IR" FOLDED="true" ID="ID_1868136078" CREATED="1492419335113" MODIFIED="1496055203522">
 <font NAME="Calibri"/>
 <node TEXT="Brasilia declaration" ID="ID_389053405" CREATED="1491741739713" MODIFIED="1559317809692">
 <node TEXT="UN reforms including UNSC" ID="ID_1295233813" CREATED="1491741743015" MODIFIED="1491741748556"/>
@@ -7716,6 +7729,12 @@
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
 <node TEXT="pendency in courts" ID="ID_1876469504" CREATED="1497331229842" MODIFIED="1497331237349"/>
+</node>
+</node>
+<node TEXT="insights daily quiz" ID="ID_1856994196" CREATED="1565418462221" MODIFIED="1565418466168">
+<node TEXT=" UN-SPIDER." ID="ID_453901632" CREATED="1565418466588" MODIFIED="1565418467032">
+<node TEXT="space-based technologies for disaster management and emergency response." ID="ID_936980847" CREATED="1565418503122" MODIFIED="1565418503383"/>
+<node TEXT="estd under United Nations Office for Outer Space Affairs (UNOOSA)." ID="ID_714829308" CREATED="1565418495988" MODIFIED="1565418498270"/>
 </node>
 </node>
 </node>
