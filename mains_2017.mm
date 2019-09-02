@@ -7281,25 +7281,34 @@
 <node TEXT="[graph]&#xa;% of households completing 100 days!&#xa;&#xa;10.7 -&gt; 7.7 -&gt; 5.7&#xa;15 -&gt; 16-&gt; 17&#xa;&#xa;going down!" ID="ID_1927446112" CREATED="1532926014181" MODIFIED="1532926078701"/>
 </node>
 <node TEXT="evaluate sbm" ID="ID_649623964" CREATED="1537415807621" MODIFIED="1537415820997" LINK="#ID_1855222847"/>
-<node TEXT="Civil services reforms" FOLDED="true" ID="ID_1142933608" CREATED="1535799641039" MODIFIED="1535799645946">
+<node TEXT="Civil services reforms" ID="ID_1142933608" CREATED="1535799641039" MODIFIED="1535799645946">
+<node TEXT="Issues" FOLDED="true" ID="ID_1769195822" CREATED="1567237842127" MODIFIED="1567237844483">
+<node TEXT="generalist service" ID="ID_1997122281" CREATED="1567237844641" MODIFIED="1567237849447"/>
+<node TEXT="manpower less" ID="ID_485029967" CREATED="1567237850953" MODIFIED="1567237854514"/>
+</node>
+<node TEXT="solutions" ID="ID_507783813" CREATED="1567237858653" MODIFIED="1567237861972">
+<node TEXT="lateral entry" ID="ID_1304774024" CREATED="1535799655635" MODIFIED="1535799660011">
+<node TEXT="from career based approahh&#xa;&#xa;to&#xa;&#xa;position based approach" ID="ID_1560884507" CREATED="1552450718388" MODIFIED="1552450727890"/>
+<node TEXT="NITI Aayog 3 year action agenda : specialisation via lateral entry" ID="ID_546277253" CREATED="1567237797339" MODIFIED="1567237905694">
+<font BOLD="true"/>
+</node>
+</node>
 <node TEXT="baswan committee report, 2016" ID="ID_268537075" CREATED="1535799646102" MODIFIED="1566386223747">
 <node TEXT="modification of examination procedure" ID="ID_1577897970" CREATED="1535799698250" MODIFIED="1566386237511"/>
 </node>
 <node TEXT="second arc&#xa;national institut of public administration" ID="ID_1521084780" CREATED="1535799649666" MODIFIED="1535799689968"/>
-<node TEXT="lateral entry" FOLDED="true" ID="ID_1304774024" CREATED="1535799655635" MODIFIED="1535799660011">
-<node TEXT="from career based approahh&#xa;&#xa;to&#xa;&#xa;position based approach" ID="ID_1560884507" CREATED="1552450718388" MODIFIED="1552450727890"/>
-</node>
 <node TEXT="compulsory retirement" ID="ID_882344024" CREATED="1535799662417" MODIFIED="1535799664949"/>
 <node TEXT="360 degree appraisal" ID="ID_360514561" CREATED="1535799665183" MODIFIED="1535799669246"/>
 <node TEXT="Lokpal and lokayukt,&#xa;TI = corrupt bureaucracy" ID="ID_1588508754" CREATED="1535799720192" MODIFIED="1535799732053"/>
-<node TEXT="new cadres for IAS, IPS" ID="ID_257253994" CREATED="1552450747597" MODIFIED="1552450751398">
+<node TEXT="new cadres for IAS, IPS" FOLDED="true" ID="ID_257253994" CREATED="1552450747597" MODIFIED="1552450751398">
 <node TEXT="why?" ID="ID_1208782911" CREATED="1552450751540" MODIFIED="1552450753010">
 <node TEXT="ensure national integration" ID="ID_1519954483" CREATED="1552450754422" MODIFIED="1552450762010"/>
 </node>
 </node>
-<node TEXT="performance appraisal in bureaucracy" ID="ID_1334349909" CREATED="1552405127750" MODIFIED="1552405135557">
+<node TEXT="performance appraisal in bureaucracy" FOLDED="true" ID="ID_1334349909" CREATED="1552405127750" MODIFIED="1552405135557">
 <node TEXT="issues" ID="ID_1480771594" CREATED="1552450385398" MODIFIED="1552450386321">
 <node TEXT=", individual performance reviews&#xa;&#xa;, seniority based promotion&#xa;&#xa;, not appraise team work" ID="ID_611054193" CREATED="1552450386465" MODIFIED="1552450542361"/>
+</node>
 </node>
 </node>
 </node>
@@ -9982,57 +9991,6 @@
 <node TEXT="Social services = Health, Education, Human Resource" ID="ID_1505178844" CREATED="1522382940464" MODIFIED="1522382960421"/>
 <node TEXT="vulnerable sections" ID="ID_166177670" CREATED="1550928012490" MODIFIED="1550928041306" LINK="#ID_1289559853"/>
 <node TEXT="Poverty and Hunger" ID="ID_862856829" CREATED="1522382966187" MODIFIED="1522382970250"/>
-<node TEXT="republic of mob lynching" FOLDED="true" ID="ID_1163738241" CREATED="1498494894365" MODIFIED="1531989028569">
-<icon BUILTIN="flag-green"/>
-<node TEXT="Lynching is a form of violence in which a mob, under the pretext of administering&#xa;&#xa;justice, executes a presumed offender." ID="ID_280964695" CREATED="1561576784342" MODIFIED="1561576785808"/>
-<node TEXT="e.g." ID="ID_129439412" CREATED="1531282254823" MODIFIED="1531282859871">
-<font BOLD="true"/>
-<node TEXT="mandasaur MP&#xa;Dhule, Maha" ID="ID_1467895498" CREATED="1531282256621" MODIFIED="1531282264203"/>
-</node>
-<node TEXT="reasons?" ID="ID_674531483" CREATED="1531282266108" MODIFIED="1531282859855">
-<font BOLD="true"/>
-<node TEXT="1. insecurity due to ineffective police&#xa;&#xa;2. cultivated Prejudice" ID="ID_1816514185" CREATED="1531282273821" MODIFIED="1531282296253"/>
-</node>
-<node TEXT="how to resolve?" ID="ID_358987149" CREATED="1531282780880" MODIFIED="1531282859840">
-<font BOLD="true"/>
-<node TEXT="1. Politically Condemning&#xa;&#xa;2. telangana - 500 trained officers to increase awareness against fake news&#xa;&#xa;3. WB police using twitter to avoid communal tension during EiD" ID="ID_1071135905" CREATED="1531282788725" MODIFIED="1531282848806"/>
-<node ID="ID_1944151691" CREATED="1531989032495" MODIFIED="1531989040621"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Tolerance </b>promote culturally
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="way forward" FOLDED="true" ID="ID_67307710" CREATED="1531282878712" MODIFIED="1531282880915">
-<font BOLD="true"/>
-<node TEXT="active administration&#xa;&#xa;using IPC (enough laws, no new law needed) -  34, 302, 304 of IPC" ID="ID_1838330283" CREATED="1531282881009" MODIFIED="1531282904088"/>
-<node TEXT="Telangana training of police in fake news&#xa;&#xa;, MH = Police Patils to stop rumors on WhatsApp&#xa;&#xa;, ANty lynching law, manipur" ID="ID_1625601100" CREATED="1551061218515" MODIFIED="1551061255457"/>
-<node TEXT="SC tells centre to make lynching a separate offence" LOCALIZED_STYLE_REF="default" ID="ID_117068978" CREATED="1531989100906" MODIFIED="1531989113266" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="fodder" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_536867543" CREATED="1531282865619" MODIFIED="1531989078027" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="ethical issues" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1508520763" CREATED="1498496319418" MODIFIED="1531989076051" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="tolerance, non violence, human rights, human dignity" ID="ID_569928852" CREATED="1498496322831" MODIFIED="1498496489539"/>
-</node>
-<node TEXT="essay stuff" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1518608406" CREATED="1531989198382" MODIFIED="1531989201118" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="vigilante in lynching =&gt; law on ventilator (rule of law gone)" ID="ID_406569365" CREATED="1531989201856" MODIFIED="1531989221757"/>
-</node>
-<node TEXT="violence has a social function when law breaks down" ID="ID_1259114771" CREATED="1498494903777" MODIFIED="1498494913614"/>
-<node TEXT="crowd has a single character of thoughtlessness, irrational force - which is not breaking down, instead restoring law and order" ID="ID_883430157" CREATED="1498495771305" MODIFIED="1498495804273"/>
-</node>
-</node>
 <node TEXT="Superstition" FOLDED="true" ID="ID_1692183188" CREATED="1531989777815" MODIFIED="1531989789485">
 <node ID="ID_161205719" CREATED="1531989789845" MODIFIED="1531989826917"><richcontent TYPE="NODE">
 
@@ -17654,7 +17612,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="support to protected areas" ID="ID_1327112509" CREATED="1496735868371" MODIFIED="1496735872417"/>
@@ -17844,7 +17801,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="conservation of elephants" ID="ID_1804770590" CREATED="1526126504185" MODIFIED="1566791570620">
+<node TEXT="conservation of elephants" FOLDED="true" ID="ID_1804770590" CREATED="1526126504185" MODIFIED="1566791570620">
 <font BOLD="true"/>
 <node TEXT="Project Elephant" ID="ID_2111136" CREATED="1495964428636" MODIFIED="1497043998685">
 <font NAME="Calibri"/>
@@ -30168,16 +30125,16 @@
 <node TEXT="By UNGA, 68th meeting , 2013" ID="ID_1046501062" CREATED="1488595156155" MODIFIED="1488595164203"/>
 <node TEXT="2017 : Listen to young voices" ID="ID_1978205990" CREATED="1488595164500" MODIFIED="1488595722341"/>
 </node>
-<node TEXT="Waste management" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_77993129" CREATED="1490947862707" MODIFIED="1499150595541">
+<node TEXT="Waste management" LOCALIZED_STYLE_REF="default" ID="ID_77993129" CREATED="1490947862707" MODIFIED="1499150595541">
 <icon BUILTIN="flag-green"/>
 <font NAME="Calibri"/>
-<node TEXT="segregation, characterisation, treatment, handling" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1936541500" CREATED="1499142223310" MODIFIED="1519975859966">
+<node TEXT="segregation, characterisation, treatment, handling" LOCALIZED_STYLE_REF="default" ID="ID_1936541500" CREATED="1499142223310" MODIFIED="1519975859966">
 <node TEXT="segregation at source = make waste redeemable&#xa;e.g. at national park entry, 10 rs refund if empty bottle returned" ID="ID_1805868012" CREATED="1519975861808" MODIFIED="1519975890299"/>
 <node TEXT="by products from agri, domestic, industrial" ID="ID_62002834" CREATED="1499149137011" MODIFIED="1499149144371"/>
 </node>
 <node TEXT="waste types" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1165743655" CREATED="1499142122028" MODIFIED="1499142451455">
 <node TEXT="dry, wet, domestic hazardous" ID="ID_995558216" CREATED="1499142453549" MODIFIED="1499142464832"/>
-<node TEXT="waste water = india israel tech" FOLDED="true" ID="ID_466238340" CREATED="1499142127185" MODIFIED="1504930917868">
+<node TEXT="waste water = india israel tech" ID="ID_466238340" CREATED="1499142127185" MODIFIED="1504930917868">
 <node TEXT="&quot;waste water is untapped potential resource&quot;&#xa;UNWDP" FOLDED="true" ID="ID_279903956" CREATED="1490329952355" MODIFIED="1504931109334">
 <icon BUILTIN="password"/>
 <node TEXT="spending additional money on sanitation pays more in term of Human resource development" ID="ID_1593716747" CREATED="1490329968207" MODIFIED="1490330003453"/>
@@ -30193,19 +30150,24 @@
 <node TEXT="hazardous waste = Basel, Rotterdam" ID="ID_1955886860" CREATED="1499142162703" MODIFIED="1499142171110"/>
 <node TEXT="LDC used by develped nations as dumpyards" ID="ID_1356772125" CREATED="1499142178850" MODIFIED="1499142189148"/>
 </node>
-<node TEXT="regulatory setup" FOLDED="true" ID="ID_428908850" CREATED="1499142276380" MODIFIED="1499142280788">
-<node TEXT="solid waste" FOLDED="true" ID="ID_800807020" CREATED="1504934476092" MODIFIED="1532669501123">
+<node TEXT="regulatory setup" ID="ID_428908850" CREATED="1499142276380" MODIFIED="1499142280788">
+<node TEXT="solid waste" ID="ID_800807020" CREATED="1504934476092" MODIFIED="1532669501123">
 <icon BUILTIN="flag-green"/>
-<node TEXT="Solid Waste Management rules, 2016" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_442722751" CREATED="1489403812403" MODIFIED="1489403821983">
-<node TEXT="2124 - 18" ID="ID_1247284594" CREATED="1489403828699" MODIFIED="1495434071939" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf" MAX_WIDTH="59.77443503154386 pt" MIN_WIDTH="59.77443503154386 pt"/>
+<node TEXT="Solid Waste Management rules, 2016" LOCALIZED_STYLE_REF="default" ID="ID_442722751" CREATED="1489403812403" MODIFIED="1489403821983">
+<node TEXT="DNS 18-06-19" ID="ID_489699346" CREATED="1567402014700" MODIFIED="1567402026835" LINK="https://gist.github.com/TwistingTwists/5a15434c18e0f2730f83a11627bc3fd8"/>
+<node TEXT="applicable to&#xa;&#xa;institutional&#xa;&#xa;monitoring / implementation&#xa;&#xa;fine?" ID="ID_377807482" CREATED="1567402069382" MODIFIED="1567402090242"/>
 <node TEXT="applicable to urban town, industrial towns, Areas under control of Railways + airports, etc. (villages?)" ID="ID_1045371849" CREATED="1495744475569" MODIFIED="1495744504426"/>
+<node TEXT="provisions" FOLDED="true" ID="ID_320093789" CREATED="1567402153183" MODIFIED="1567402154673">
 <node TEXT="types of waste" FOLDED="true" ID="ID_281647798" CREATED="1495744510189" MODIFIED="1495744512108">
 <node TEXT="dry" ID="ID_96589485" CREATED="1495744512258" MODIFIED="1495744514221"/>
 <node TEXT="wet" ID="ID_239716824" CREATED="1495744514370" MODIFIED="1495744515084"/>
-<node TEXT="domestic hazard" FOLDED="true" ID="ID_76066231" CREATED="1495744515307" MODIFIED="1495744520711">
+<node TEXT="domestic hazard" ID="ID_76066231" CREATED="1495744515307" MODIFIED="1495744520711">
 <node TEXT="mosquito repellant, diaper, etc" ID="ID_1307929908" CREATED="1495744532799" MODIFIED="1495744543441"/>
 </node>
 </node>
+<node TEXT="landfill criteria defined" ID="ID_632117114" CREATED="1567402134149" MODIFIED="1567402139888"/>
+<node TEXT="also for waste to energy" ID="ID_1937797020" CREATED="1567402145185" MODIFIED="1567402149355"/>
+<node TEXT="central monitoring committee under Secretary MoEFCC" ID="ID_1509420316" CREATED="1567402102302" MODIFIED="1567402115779"/>
 <node TEXT="institutional waste generators =&gt; segregate and collect responsibility" FOLDED="true" ID="ID_914395067" CREATED="1495744563864" MODIFIED="1495744592976">
 <node TEXT="e.g. Hotels, market associations, event organizer" ID="ID_1815471295" CREATED="1495744593263" MODIFIED="1495744615707"/>
 </node>
@@ -30213,7 +30175,7 @@
 <font BOLD="true"/>
 </node>
 <node TEXT="CPCB directs creation of Buffer Zone" ID="ID_320988576" CREATED="1495753985846" MODIFIED="1495754010437"/>
-<node TEXT="MoEFCC" ID="ID_1418392025" CREATED="1495434761738" MODIFIED="1495434767930"/>
+</node>
 </node>
 <node TEXT="NISARGRUNA" FOLDED="true" ID="ID_307984639" CREATED="1489404087091" MODIFIED="1519711337187">
 <icon BUILTIN="flag-green"/>
@@ -30253,8 +30215,9 @@
 <node TEXT="using bio remediation and selling the waste produced" ID="ID_886925896" CREATED="1530380353466" MODIFIED="1530380361892"/>
 </node>
 <node TEXT="sewage = safai karamchari andolan" LOCALIZED_STYLE_REF="default" ID="ID_1898449817" CREATED="1504931617631" MODIFIED="1504931625307"/>
-<node TEXT="plastics" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_12049116" CREATED="1504934485554" MODIFIED="1532669479650">
+<node TEXT="plastics" LOCALIZED_STYLE_REF="default" ID="ID_12049116" CREATED="1504934485554" MODIFIED="1532669479650">
 <icon BUILTIN="flag-green"/>
+<node TEXT="Plastic Waste Management rules, 2016&#xa;&#xa;DNS 01-09-19" ID="ID_1817533516" CREATED="1567401957698" MODIFIED="1567401981940" LINK="https://gist.github.com/TwistingTwists/5a15434c18e0f2730f83a11627bc3fd8"/>
 <node TEXT="micro plastics - marine effects , from fishing, domestic products" FOLDED="true" ID="ID_1343079604" CREATED="1504934487223" MODIFIED="1504934511182">
 <node TEXT="&lt;5 mm in diameter." ID="ID_714149828" CREATED="1548867207431" MODIFIED="1548867222665"/>
 <node TEXT="(IUCN) report, microplastics are estimated to constitute up to 30% of marine litter polluting the oceans" ID="ID_1205840767" CREATED="1548867193106" MODIFIED="1548867200322"/>
@@ -30271,7 +30234,7 @@
 </node>
 <node TEXT="MSW municipal solid waste" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1669462280" CREATED="1504934560036" MODIFIED="1504934565015">
 <node TEXT="construction, sanitation, domestic, street sweeping" ID="ID_1737024558" CREATED="1504934565222" MODIFIED="1504934586553"/>
-<node TEXT="MSW mgmt rules, 2016" FOLDED="true" ID="ID_1958091825" CREATED="1504934599996" MODIFIED="1504934606302">
+<node TEXT="MSW mgmt rules, 2016" ID="ID_1958091825" CREATED="1504934599996" MODIFIED="1504934606302">
 <node TEXT="mandatory for ULB to manage waste" ID="ID_1271196656" CREATED="1504934606457" MODIFIED="1504934610808"/>
 <node TEXT="usually collection + transport. but treatment?, disposal?" ID="ID_1662450267" CREATED="1504934619939" MODIFIED="1504934640848"/>
 <node TEXT="better segregation / characterisation for processing" ID="ID_33178704" CREATED="1504934646511" MODIFIED="1504934657557"/>
@@ -30280,7 +30243,7 @@
 </node>
 <node TEXT="way forward" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_382520715" CREATED="1504934758381" MODIFIED="1504934760677">
 <node TEXT="informal sector to formal integration" ID="ID_1323739001" CREATED="1504934760793" MODIFIED="1504934765823"/>
-<node TEXT="5R by kastruirangan - Planning commission" FOLDED="true" ID="ID_1486356140" CREATED="1504934789857" MODIFIED="1519711380394">
+<node TEXT="5R by kastruirangan - Planning commission" ID="ID_1486356140" CREATED="1504934789857" MODIFIED="1519711380394">
 <icon BUILTIN="flag-green"/>
 <font BOLD="true"/>
 <node TEXT="reduce, reuse, recycle, recover, remanufacture" ID="ID_1960074540" CREATED="1504934802339" MODIFIED="1504934813766"/>
@@ -30321,8 +30284,49 @@
 </node>
 </node>
 <node TEXT="CPCB norm setting" ID="ID_1991344005" CREATED="1504931371074" MODIFIED="1504931374678"/>
+<node TEXT="Biomedical waste management rules, 2018" FOLDED="true" ID="ID_1843269086" CREATED="1526979509249" MODIFIED="1526979515531">
+<node TEXT="vision march 2018&#xa;&#xa;pdfDNS 08-06-19" ID="ID_818332063" CREATED="1526979556380" MODIFIED="1567401765827" LINK="https://drive.google.com/file/d/1JWI97n65oxHj5vK_GxCoycXTxLBGxHNL/view"/>
+<node TEXT="WHO Blue Book guidelines" ID="ID_283999941" CREATED="1526979562631" MODIFIED="1526979568038"/>
+<node ID="ID_417590672" CREATED="1526979515672" MODIFIED="1567401732673"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      no chlorine bags (phase out)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b>, ambit</b>&#160;increase to include blood bank, vaccination sites
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , pre-treat Bwaste at source and then send to common facility
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , Biomedical waste treatment facility = GPS
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
-<node TEXT="institutional setup" FOLDED="true" ID="ID_1050071543" CREATED="1499142288492" MODIFIED="1499142291320">
+<node TEXT="enforcement = SPCB or Diro millitary medicine &#xa;&#xa; MoEFCC to review implementation yearly" ID="ID_1806152860" CREATED="1567401733001" MODIFIED="1567401738032"/>
+</node>
+</node>
+<node TEXT="institutional setup" ID="ID_1050071543" CREATED="1499142288492" MODIFIED="1499142291320">
 <node TEXT="State pollution control boards (SPCB)" ID="ID_566102707" CREATED="1499142299978" MODIFIED="1499142313558"/>
 <node TEXT="MoEFCC" ID="ID_157917134" CREATED="1499142316246" MODIFIED="1499142319856"/>
 </node>
@@ -30346,9 +30350,28 @@
 <node TEXT="microbes (via aeration)" ID="ID_411112785" CREATED="1499142581406" MODIFIED="1499143245962"/>
 <node TEXT="use CSIR patents for startups =&gt; industry academic collaboration" ID="ID_261636944" CREATED="1499143252088" MODIFIED="1499143279904"/>
 </node>
+<node TEXT="news" FOLDED="true" ID="ID_83908258" CREATED="1549201365259" MODIFIED="1549201366196">
+<node TEXT="CAG report , 2017&#xa;&#xa;&#xa;ULBs do worst jobs for estimating solid waste" ID="ID_1687949682" CREATED="1549201366534" MODIFIED="1549202149449"/>
+</node>
+<node ID="ID_959118793" CREATED="1530382159719" MODIFIED="1530382188608">
+<icon BUILTIN="attach"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      waste dumping in<b><i><u>&#160;Bellandur lake, bengaluru </u></i></b>causes it to catch fire!!
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node TEXT="way forward" FOLDED="true" ID="ID_1819853031" CREATED="1499142475083" MODIFIED="1499142489773">
 <node TEXT="monetary value of waste, i.e. Rs 10 on water bottle entering Zoo, redeemable if returned empty" ID="ID_945214902" CREATED="1519711652503" MODIFIED="1519711689187"/>
-<node TEXT="water governance" FOLDED="true" ID="ID_1250454478" CREATED="1504931964780" MODIFIED="1504931967781">
+<node TEXT="water governance" ID="ID_1250454478" CREATED="1504931964780" MODIFIED="1504931967781">
 <node TEXT="mihir shah committee" ID="ID_395499178" CREATED="1504931967891" MODIFIED="1504931971067"/>
 <node TEXT="central water commission ko restructure karo" ID="ID_231708038" CREATED="1504932006832" MODIFIED="1504932019087"/>
 <node TEXT="Sanitation" ID="ID_1466453020" CREATED="1504932051184" MODIFIED="1504932253241">
@@ -30368,30 +30391,6 @@
 </node>
 <node TEXT="case of delhi = free water 20kl" ID="ID_359274146" CREATED="1504932324422" MODIFIED="1504932331329"/>
 </node>
-</node>
-<node TEXT="news" FOLDED="true" ID="ID_83908258" CREATED="1549201365259" MODIFIED="1549201366196">
-<node TEXT="CAG report , 2017&#xa;&#xa;&#xa;ULBs do worst jobs for estimating solid waste" ID="ID_1687949682" CREATED="1549201366534" MODIFIED="1549202149449"/>
-</node>
-<node TEXT="Biomedical waste management rules, 2018" FOLDED="true" ID="ID_1843269086" CREATED="1526979509249" MODIFIED="1526979515531">
-<node TEXT="vision march 2018" ID="ID_818332063" CREATED="1526979556380" MODIFIED="1526979559615"/>
-<node TEXT="WHO Blue Book guidelines" ID="ID_283999941" CREATED="1526979562631" MODIFIED="1526979568038"/>
-<node TEXT="no chlorine bags&#xa;, treat Bwaste at source&#xa;, Biomedical waste treatment facility = GPS" ID="ID_417590672" CREATED="1526979515672" MODIFIED="1526979556083"/>
-</node>
-<node ID="ID_959118793" CREATED="1530382159719" MODIFIED="1530382188608">
-<icon BUILTIN="attach"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      waste dumping in<b><i><u>&#160;Bellandur lake, bengaluru </u></i></b>causes it to catch fire!!
-    </p>
-  </body>
-</html>
-</richcontent>
 </node>
 </node>
 <node TEXT="Coastal Regulation Zone" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1597591888" CREATED="1489381652353" MODIFIED="1526979392468">
@@ -31750,8 +31749,8 @@
 </node>
 </node>
 </node>
-<node TEXT="18.        &#x2022; Challenges to internal security through communication networks&#xa;, role of media and social networking sites in internal security challenges&#xa;, basics of cyber security&#xa;, money-laundering and its prevention" FOLDED="true" ID="ID_1379390934" CREATED="1540965626274" MODIFIED="1540966003854" BACKGROUND_COLOR="#e8fefb">
-<node TEXT="leveraging soft power" FOLDED="true" ID="ID_324486997" CREATED="1532172851570" MODIFIED="1532172856006">
+<node TEXT="18.        &#x2022; Challenges to internal security through communication networks&#xa;, role of media and social networking sites in internal security challenges&#xa;, basics of cyber security&#xa;, money-laundering and its prevention" ID="ID_1379390934" CREATED="1540965626274" MODIFIED="1540966003854" BACKGROUND_COLOR="#e8fefb">
+<node TEXT="leveraging soft power" ID="ID_324486997" CREATED="1532172851570" MODIFIED="1532172856006">
 <font BOLD="true"/>
 <node ID="ID_177560582" CREATED="1532172856455" MODIFIED="1532172988282" TEXT_ALIGN="LEFT" MAX_WIDTH="147.60046992262286 pt" MIN_WIDTH="147.60046992262286 pt"><richcontent TYPE="NODE">
 
@@ -31782,12 +31781,12 @@
 </node>
 <node TEXT="Cyber Security" FOLDED="true" ID="ID_594219063" CREATED="1547697929207" MODIFIED="1547697933623">
 <node TEXT="CyberSpace : Interconnected internet ecosystem" ID="ID_1363905878" CREATED="1547697945519" MODIFIED="1547697958228"/>
-<node TEXT="India status :" FOLDED="true" ID="ID_504378746" CREATED="1547698063027" MODIFIED="1547698108180">
+<node TEXT="India status :" ID="ID_504378746" CREATED="1547698063027" MODIFIED="1547698108180">
 <node TEXT="3rd highest users in world" ID="ID_1825376154" CREATED="1547698140707" MODIFIED="1547698146868"/>
 <node TEXT="730mn new users on internet&#xa;, 75% from rural areas" ID="ID_1066477178" CREATED="1547698109238" MODIFIED="1547698110057"/>
 <node TEXT="top 5 in sending spam + affected by cyber crime" ID="ID_1613606411" CREATED="1547698110407" MODIFIED="1547698131781"/>
 </node>
-<node TEXT="aspects of cyber governance :" FOLDED="true" ID="ID_402067709" CREATED="1547698193819" MODIFIED="1547698202155">
+<node TEXT="aspects of cyber governance :" ID="ID_402067709" CREATED="1547698193819" MODIFIED="1547698202155">
 <node ID="ID_1462622420" CREATED="1547698202289" MODIFIED="1547698247049"><richcontent TYPE="NODE">
 
 <html>
@@ -31812,7 +31811,7 @@
 </richcontent>
 </node>
 <node TEXT="Data Security :&#xa;&#xa;secure communication&#xa;, data localisation&#xa;, interoperability" ID="ID_1666458251" CREATED="1547698253245" MODIFIED="1547698277109"/>
-<node TEXT="Threat mgmt :&#xa;&#xa;[show in circle]&#xa;predict the threat&#xa;, prevent&#xa;, protect&#xa;, respond" ID="ID_862481592" CREATED="1547698279776" MODIFIED="1547698401768"/>
+<node TEXT="Threat mgmt :&#xa;&#xa;[show in circle]&#xa;predict&#xa;, prevent&#xa;, protect" ID="ID_862481592" CREATED="1547698279776" MODIFIED="1567400099733"/>
 </node>
 <node TEXT="Threats :&#xa;&#xa;hacking&#xa;, espionaage&#xa;, cyber wars&#xa;," ID="ID_1139663032" CREATED="1547697958394" MODIFIED="1547697984760"/>
 <node TEXT="vulnerabilities:&#xa;&#xa;People&#xa;, Process&#xa;, technology" ID="ID_955020565" CREATED="1547697984979" MODIFIED="1547698002954"/>
@@ -31854,6 +31853,100 @@
 </node>
 <node TEXT="interconnected risk and mitigation via multi stakeholder participation" ID="ID_111434201" CREATED="1548755171354" MODIFIED="1548755184445"/>
 <node TEXT="significant financial gap for infrastructure" ID="ID_1148375434" CREATED="1548755207487" MODIFIED="1548755217761"/>
+</node>
+<node TEXT="republic of mob lynching" FOLDED="true" ID="ID_1163738241" CREATED="1498494894365" MODIFIED="1531989028569">
+<icon BUILTIN="flag-green"/>
+<node TEXT="Lynching is a form of violence in which a mob, under the pretext of administering&#xa;&#xa;justice, executes a presumed offender." FOLDED="true" ID="ID_280964695" CREATED="1561576784342" MODIFIED="1567399006485">
+<font BOLD="true"/>
+<node TEXT="however, actual reason for lynching maybe asserting identity" ID="ID_897677757" CREATED="1567399138955" MODIFIED="1567399171119">
+<font BOLD="true"/>
+</node>
+<node TEXT="e.g .in US lynching by white against black" ID="ID_521998099" CREATED="1567399175650" MODIFIED="1567399184013">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="PYQ 2017" FOLDED="true" ID="ID_1375991811" CREATED="1567398973923" MODIFIED="1567398981198">
+<node TEXT="causes" ID="ID_1777938981" CREATED="1567398990280" MODIFIED="1567398992052"/>
+<node TEXT="consequences" ID="ID_232063093" CREATED="1567398992212" MODIFIED="1567398994725"/>
+</node>
+<node TEXT="Tehseen S Poonawalla case, 2018" FOLDED="true" ID="ID_287902981" CREATED="1567398955256" MODIFIED="1567398964737">
+<node TEXT="11 point, preventive, punitive, remedial measures against lynching" ID="ID_323353101" CREATED="1567399430019" MODIFIED="1567399445632"/>
+</node>
+<node TEXT="e.g." FOLDED="true" ID="ID_129439412" CREATED="1531282254823" MODIFIED="1531282859871">
+<font BOLD="true"/>
+<node TEXT="mandasaur MP&#xa;Dhule, Maha" ID="ID_1467895498" CREATED="1531282256621" MODIFIED="1531282264203"/>
+</node>
+<node TEXT="reasons?" FOLDED="true" ID="ID_674531483" CREATED="1531282266108" MODIFIED="1531282859855">
+<font BOLD="true"/>
+<node TEXT="1. insecurity due to ineffective police&#xa;&#xa;2. cultivated Prejudice" ID="ID_1816514185" CREATED="1531282273821" MODIFIED="1531282296253"/>
+<node TEXT="asserting one&apos;s identity&#xa;&#xa;i.e. identity politics" ID="ID_293936010" CREATED="1567399495725" MODIFIED="1567399507460"/>
+</node>
+<node TEXT="how to resolve?" FOLDED="true" ID="ID_358987149" CREATED="1531282780880" MODIFIED="1531282859840">
+<font BOLD="true"/>
+<node TEXT="1. Politically Condemning&#xa;&#xa;2. telangana - 500 trained officers to increase awareness against fake news&#xa;&#xa;3. WB police using twitter to avoid communal tension during EiD" ID="ID_1071135905" CREATED="1531282788725" MODIFIED="1531282848806"/>
+<node ID="ID_1944151691" CREATED="1531989032495" MODIFIED="1531989040621"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Tolerance </b>promote culturally
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="way forward" FOLDED="true" ID="ID_67307710" CREATED="1531282878712" MODIFIED="1531282880915">
+<font BOLD="true"/>
+<node TEXT="active administration&#xa;&#xa;using IPC (enough laws, no new law needed) -  34, 302, 304 of IPC" ID="ID_1838330283" CREATED="1531282881009" MODIFIED="1531282904088"/>
+<node ID="ID_1625601100" CREATED="1551061218515" MODIFIED="1567399525282"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Telangana training of police in fake news
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      , MH = Police Patils to stop rumors on WhatsApp
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6633">, Anti lynching law, manipur</font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="compensation for victim" ID="ID_766233663" CREATED="1567399469030" MODIFIED="1567399474474"/>
+<node TEXT="SC tells centre to make lynching a separate offence" LOCALIZED_STYLE_REF="default" ID="ID_117068978" CREATED="1531989100906" MODIFIED="1531989113266" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="fodder" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_536867543" CREATED="1531282865619" MODIFIED="1531989078027" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="ethical issues" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1508520763" CREATED="1498496319418" MODIFIED="1531989076051" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="tolerance, non violence, human rights, human dignity" ID="ID_569928852" CREATED="1498496322831" MODIFIED="1498496489539"/>
+</node>
+<node TEXT="essay stuff" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1518608406" CREATED="1531989198382" MODIFIED="1531989201118" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+<node TEXT="vigilante in lynching =&gt; law on ventilator (rule of law gone)" ID="ID_406569365" CREATED="1531989201856" MODIFIED="1531989221757"/>
+</node>
+<node TEXT="violence has a social function when law breaks down" ID="ID_1259114771" CREATED="1498494903777" MODIFIED="1498494913614"/>
+<node TEXT="crowd has a single character of thoughtlessness, irrational force - which is not breaking down, instead restoring law and order" ID="ID_883430157" CREATED="1498495771305" MODIFIED="1498495804273"/>
+</node>
 </node>
 </node>
 <node TEXT="19.        Security challenges and their management in border areas;&#xa; linkages of organized crime with terrorism" FOLDED="true" ID="ID_1051362704" CREATED="1540965626276" MODIFIED="1540965966551" BACKGROUND_COLOR="#e8fefb">
