@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1574,7 +1574,7 @@
 <node TEXT="Regional offices of CBFC - nomination by central govt (without industry participation)" ID="ID_943526507" CREATED="1492164327545" MODIFIED="1492164346789"/>
 <node TEXT="all appointed by central govt" ID="ID_799264238" CREATED="1496555850165" MODIFIED="1496555855009"/>
 </node>
-<node TEXT="CBI" FOLDED="true" ID="ID_1119602901" CREATED="1492152167696" MODIFIED="1527756878282">
+<node TEXT="CBI" ID="ID_1119602901" CREATED="1492152167696" MODIFIED="1527756878282">
 <node TEXT="attached office under DoPT" LOCALIZED_STYLE_REF="default" ID="ID_436863557" CREATED="1494835877763" MODIFIED="1495254118531" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
@@ -1802,7 +1802,7 @@
 </node>
 <node TEXT="Insti of nat. importance" ID="ID_1491134687" CREATED="1490416600037" MODIFIED="1490416609226"/>
 </node>
-<node TEXT="NGT" FOLDED="true" ID="ID_321417176" CREATED="1495436196915" MODIFIED="1496196880036">
+<node TEXT="NGT" ID="ID_321417176" CREATED="1495436196915" MODIFIED="1496196880036">
 <icon BUILTIN="full-1"/>
 <node ID="ID_694945878" CREATED="1489405508030" MODIFIED="1497045743232" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf" MAX_WIDTH="77.27742662031369 pt" MIN_WIDTH="77.27742662031369 pt"><richcontent TYPE="NODE">
 
@@ -1840,7 +1840,7 @@
 <node TEXT="Indian Forest Act, 1927" ID="ID_699521031" CREATED="1495436248609" MODIFIED="1495436248609"/>
 </node>
 </node>
-<node TEXT="Reforms in NGT" FOLDED="true" ID="ID_1965765095" CREATED="1495436340005" MODIFIED="1495436340840">
+<node TEXT="Reforms in NGT" ID="ID_1965765095" CREATED="1495436340005" MODIFIED="1495436340840">
 <node TEXT="Expert?- transparent appointment" ID="ID_1932060399" CREATED="1495436355005" MODIFIED="1495436355005"/>
 <node TEXT="Resource? &#x2013; to scrutinize and review petitions and investigate the intention of petitioners" ID="ID_1486938110" CREATED="1495436355005" MODIFIED="1495436355005"/>
 <node TEXT="Legal? &#x2013; Not one interpretation of various laws." ID="ID_838678435" CREATED="1495436355005" MODIFIED="1495436355005"/>

@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1554563690233" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -2477,7 +2477,7 @@
 </node>
 </node>
 </node>
-<node TEXT="gs2" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
+<node TEXT="gs2" FOLDED="true" POSITION="left" ID="ID_1030728268" CREATED="1544200330276" MODIFIED="1544200333036">
 <node TEXT="Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure." FOLDED="true" ID="ID_1794554400" CREATED="1544200456978" MODIFIED="1544200577047" BACKGROUND_COLOR="#ccffcc">
 <node TEXT="Constitution" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1340862862" CREATED="1488234371502" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
@@ -2815,7 +2815,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="=&gt; Disqualified by Speaker / chairman of the house" ID="ID_675091071" CREATED="1572244573375" MODIFIED="1572244586704"/>
 </node>
@@ -2834,7 +2833,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="1. If submiteed resignation =&gt; can&apos;t be compelled to join proceedings of house&#xa;&#xa;=&gt; can&apos;t be forced by whip to vote" ID="ID_34738866" CREATED="1572244604137" MODIFIED="1572244635103"/>
 <node TEXT="2. SC did not intevene in deciding fixed timing for Speaker&apos;s acceptance of resignation" ID="ID_302025889" CREATED="1572244635386" MODIFIED="1572244704579"/>
@@ -2889,7 +2887,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1638415266" CREATED="1572245018011" MODIFIED="1572245048487"><richcontent TYPE="NODE">
@@ -2910,7 +2907,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="SC: Vishwanatahan vs TN case&#xa;&#xa;public allegiance to other party and voicing against one&apos;w party&#xa;&#xa;is deemed as Resignation" ID="ID_1876504383" CREATED="1572245125575" MODIFIED="1572245182950"/>
@@ -5764,7 +5760,7 @@
 <font NAME="Calibri"/>
 <node TEXT="Min. Personnel : amends 2013 bill" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_476358867" CREATED="1488533976500" MODIFIED="1488545169375">
 <node TEXT="Lokpal and Lokayukt Bill, 2013" FOLDED="true" ID="ID_958768469" CREATED="1489755651953" MODIFIED="1489755662324">
-<node TEXT="CBI director appointment" FOLDED="true" ID="ID_1383718182" CREATED="1489755667194" MODIFIED="1489755672693">
+<node TEXT="CBI director appointment" ID="ID_1383718182" CREATED="1489755667194" MODIFIED="1489755672693">
 <node TEXT="PM + LoOpp + CJI [ or a SC judge on reco of CJI ]" ID="ID_31275090" CREATED="1489755674112" MODIFIED="1489755699774"/>
 </node>
 </node>
@@ -6810,6 +6806,23 @@
 <node TEXT="focussing on education based learning outcomes&#xa;&#xa;Actionable targets" ID="ID_1437020343" CREATED="1553144733694" MODIFIED="1553144756671"/>
 </node>
 <node TEXT="niti aayog role" ID="ID_772698998" CREATED="1553144690458" MODIFIED="1553144697373" LINK="#ID_1149406011"/>
+</node>
+<node TEXT="CBI as caged parrot" ID="ID_1798948118" CREATED="1573827656657" MODIFIED="1573827950809">
+<icon BUILTIN="button_ok"/>
+<node TEXT="controversies related to independence" ID="ID_869501156" CREATED="1573827660784" MODIFIED="1573827670572">
+<node TEXT="bound to act in corruption charge : as mandated in Lalit Kumari Case of SC : mandated registration of FIR" ID="ID_1680345587" CREATED="1573828040317" MODIFIED="1573828040766"/>
+<node TEXT="1. CBI charter no legislative backing&#xa;&#xa;2. Overburdened (Aarushi talwar case of 10 yrs investigation but no conclusion)&#xa;&#xa;3." ID="ID_1184598737" CREATED="1573827670728" MODIFIED="1573827719166"/>
+<node TEXT="PCA 17(a) :  Prior sanction for investigation against senior public officials." ID="ID_1426918779" CREATED="1573828024553" MODIFIED="1573828034664"/>
+</node>
+<node TEXT="todo" ID="ID_1405211071" CREATED="1573827720832" MODIFIED="1573827723011">
+<node TEXT="CBI director appointment" ID="ID_488138057" CREATED="1573827806367" MODIFIED="1573827835879">
+<node TEXT="Vineet Narain case, SC :&#xa;&#xa;CVC, Home Secretary, DoPT secretary" ID="ID_1394165307" CREATED="1573827808967" MODIFIED="1573827971669"/>
+<node TEXT="but in Lokpal ACt, 2013" ID="ID_1373238458" CREATED="1573827823875" MODIFIED="1573827851155" LINK="#ID_1383718182"/>
+</node>
+<node TEXT="2nd ARC : Legislative backing" ID="ID_1380299099" CREATED="1573827869419" MODIFIED="1573827877649"/>
+<node TEXT="parliamentary standing committee (2007) : capacity nehancement" ID="ID_1686543540" CREATED="1573827894317" MODIFIED="1573827914933"/>
+<node TEXT="parliamenary oversight" ID="ID_174162876" CREATED="1573827936933" MODIFIED="1573827940802"/>
+</node>
 </node>
 </node>
 <node TEXT="&#x2022; Salient features of the Representation of People&#x2019;s Act." ID="ID_1960118948" CREATED="1544200456985" MODIFIED="1544200577105" BACKGROUND_COLOR="#ccffcc"/>
@@ -29096,13 +29109,42 @@
 </node>
 <node TEXT="railway" ID="ID_203183087" CREATED="1549689991607" MODIFIED="1549689992781">
 <node TEXT="Railway Reforms" FOLDED="true" ID="ID_1890727205" CREATED="1494560332584" MODIFIED="1494560338146">
-<node TEXT="HSR tech" FOLDED="true" ID="ID_751975955" CREATED="1494560366149" MODIFIED="1494560368387">
-<node TEXT="Indo-Japan Joint venture" FOLDED="true" ID="ID_1214577412" CREATED="1494560379014" MODIFIED="1499047905583">
-<node TEXT="Transfer of Technology ( TOT )" ID="ID_1525343202" CREATED="1494560464595" MODIFIED="1494560471602"/>
-<node TEXT="Skill upgradation imp to absorb tech!" ID="ID_1119667805" CREATED="1494560383852" MODIFIED="1494560392980"/>
+<node TEXT="main issues" ID="ID_663799273" CREATED="1573827353013" MODIFIED="1573827357156">
+<node TEXT="reduce rail accident" ID="ID_1647409779" CREATED="1494838051214" MODIFIED="1494838053922">
+<node TEXT="consequential rail accidents reduced by 62%" ID="ID_28325803" CREATED="1530723447506" MODIFIED="1530723457836"/>
+<node TEXT="unmanned crossings" ID="ID_350767973" CREATED="1494838055200" MODIFIED="1494838062852"/>
+<node TEXT="Coach desigsn" ID="ID_865686417" CREATED="1494838070985" MODIFIED="1494838073330"/>
+<node TEXT="Ultra sound detection of flaw in track" ID="ID_764316842" CREATED="1494838093762" MODIFIED="1494838106932"/>
+<node TEXT="heavy loading beyond prescription limits" ID="ID_878829754" CREATED="1494838124064" MODIFIED="1494838132101"/>
+<node TEXT="helpline for people to report track health" ID="ID_1777144110" CREATED="1505106365041" MODIFIED="1505106375771"/>
 </node>
-<node TEXT="Mah Ahembdabad Route" ID="ID_1569855752" CREATED="1549690048914" MODIFIED="1549690053936"/>
+<node TEXT="departmentalism in railways" ID="ID_1245019638" CREATED="1494838179679" MODIFIED="1494838204036">
+<node TEXT="Vinod Rai = unified Cadre" ID="ID_497622065" CREATED="1494838209235" MODIFIED="1494838222936"/>
+<node TEXT="Bibek Debroy Committee&#xa;&#xa;, merging cadres =&gt; resolve career progression&#xa;&#xa;, unification of performance standards" ID="ID_1115857436" CREATED="1553350270944" MODIFIED="1553350330199"/>
+<node TEXT="issues" FOLDED="true" ID="ID_154051268" CREATED="1553350350281" MODIFIED="1553350351237">
+<node TEXT="inter departmental coordination?&#xa;&#xa;unhealthy competition&#xa;&#xa;lack of team work, organisational goals compromised for narrow departmental goals" ID="ID_394132309" CREATED="1553350304617" MODIFIED="1553350379904"/>
 </node>
+</node>
+<node TEXT="IT in supply chain =&gt; efficient working + informed decisions" ID="ID_198661548" CREATED="1499047974451" MODIFIED="1499047987668"/>
+<node TEXT="privatisation in railway" FOLDED="true" ID="ID_1336685611" CREATED="1499047174801" MODIFIED="1499047178134">
+<node TEXT="private freight operations?" FOLDED="true" ID="ID_236419805" CREATED="1499047178337" MODIFIED="1499047191838">
+<node TEXT="faster cargo move + absorb new tech + standard of railway up" FOLDED="true" ID="ID_1558619226" CREATED="1499047192220" MODIFIED="1499047275796">
+<node TEXT="compete with road transport!" ID="ID_1058535527" CREATED="1499047371525" MODIFIED="1499047379798"/>
+</node>
+<node TEXT="cross subsidization to passenger fare?" ID="ID_5227246" CREATED="1499047275874" MODIFIED="1499047367477"/>
+</node>
+</node>
+<node TEXT="institutional changes" FOLDED="true" ID="ID_1992860884" CREATED="1530722118075" MODIFIED="1530722123282">
+<node TEXT="nirvan, shrestha sutra" FOLDED="true" ID="ID_175731579" CREATED="1530722123391" MODIFIED="1530722129548">
+<node TEXT="grievance, Rnd, data analysis" ID="ID_84456066" CREATED="1530722130408" MODIFIED="1530722139257"/>
+</node>
+<node TEXT="RDA" ID="ID_1516650750" CREATED="1549690169925" MODIFIED="1549690178127" LINK="#ID_1647893163"/>
+<node TEXT="IRFC&#xa;indian railway financial corporation" FOLDED="true" ID="ID_1261666863" CREATED="1523007383531" MODIFIED="1523007401611">
+<node TEXT="launched green bond at India INX" ID="ID_397148231" CREATED="1523007403642" MODIFIED="1523007409975"/>
+</node>
+</node>
+</node>
+<node TEXT="GoI done so far" FOLDED="true" ID="ID_1533622982" CREATED="1573827337186" MODIFIED="1573827343664">
 <node TEXT="Rail development Authority ( RDA )" FOLDED="true" ID="ID_1647893163" CREATED="1494560370248" MODIFIED="1494560377285">
 <node ID="ID_1637847299" CREATED="1494561545426" MODIFIED="1494561558677"><richcontent TYPE="NODE">
 
@@ -29135,39 +29177,15 @@
 </node>
 <node TEXT="not policy making and financial decisions for railways!" ID="ID_1541586250" CREATED="1499047740330" MODIFIED="1499047750216"/>
 </node>
-<node TEXT="reduce rail accident" FOLDED="true" ID="ID_1647409779" CREATED="1494838051214" MODIFIED="1494838053922">
-<node TEXT="consequential rail accidents reduced by 62%" ID="ID_28325803" CREATED="1530723447506" MODIFIED="1530723457836"/>
-<node TEXT="unmanned crossings" ID="ID_350767973" CREATED="1494838055200" MODIFIED="1494838062852"/>
-<node TEXT="Coach desigsn" ID="ID_865686417" CREATED="1494838070985" MODIFIED="1494838073330"/>
-<node TEXT="Ultra sound detection of flaw in track" ID="ID_764316842" CREATED="1494838093762" MODIFIED="1494838106932"/>
-<node TEXT="heavy loading beyond prescription limits" ID="ID_878829754" CREATED="1494838124064" MODIFIED="1494838132101"/>
-<node TEXT="helpline for people to report track health" ID="ID_1777144110" CREATED="1505106365041" MODIFIED="1505106375771"/>
+<node TEXT="HSR tech" FOLDED="true" ID="ID_751975955" CREATED="1494560366149" MODIFIED="1494560368387">
+<node TEXT="Indo-Japan Joint venture" ID="ID_1214577412" CREATED="1494560379014" MODIFIED="1499047905583">
+<node TEXT="Transfer of Technology ( TOT )" ID="ID_1525343202" CREATED="1494560464595" MODIFIED="1494560471602"/>
+<node TEXT="Skill upgradation imp to absorb tech!" ID="ID_1119667805" CREATED="1494560383852" MODIFIED="1494560392980"/>
 </node>
-<node TEXT="departmentalism in railways" FOLDED="true" ID="ID_1245019638" CREATED="1494838179679" MODIFIED="1494838204036">
-<node TEXT="Vinod Rai = unified Cadre" ID="ID_497622065" CREATED="1494838209235" MODIFIED="1494838222936"/>
-<node TEXT="Bibek Debroy Committee&#xa;&#xa;, merging cadres =&gt; resolve career progression&#xa;&#xa;, unification of performance standards" ID="ID_1115857436" CREATED="1553350270944" MODIFIED="1553350330199"/>
-<node TEXT="issues" FOLDED="true" ID="ID_154051268" CREATED="1553350350281" MODIFIED="1553350351237">
-<node TEXT="inter departmental coordination?&#xa;&#xa;unhealthy competition&#xa;&#xa;lack of team work, organisational goals compromised for narrow departmental goals" ID="ID_394132309" CREATED="1553350304617" MODIFIED="1553350379904"/>
+<node TEXT="Mah Ahembdabad Route" ID="ID_1569855752" CREATED="1549690048914" MODIFIED="1549690053936"/>
 </node>
 </node>
-<node TEXT="IT in supply chain =&gt; efficient working + informed decisions" ID="ID_198661548" CREATED="1499047974451" MODIFIED="1499047987668"/>
-<node TEXT="privatisation in railway" FOLDED="true" ID="ID_1336685611" CREATED="1499047174801" MODIFIED="1499047178134">
-<node TEXT="private freight operations?" FOLDED="true" ID="ID_236419805" CREATED="1499047178337" MODIFIED="1499047191838">
-<node TEXT="faster cargo move + absorb new tech + standard of railway up" FOLDED="true" ID="ID_1558619226" CREATED="1499047192220" MODIFIED="1499047275796">
-<node TEXT="compete with road transport!" ID="ID_1058535527" CREATED="1499047371525" MODIFIED="1499047379798"/>
-</node>
-<node TEXT="cross subsidization to passenger fare?" ID="ID_5227246" CREATED="1499047275874" MODIFIED="1499047367477"/>
-</node>
-</node>
-<node TEXT="institutional changes" FOLDED="true" ID="ID_1992860884" CREATED="1530722118075" MODIFIED="1530722123282">
-<node TEXT="nirvan, shrestha sutra" FOLDED="true" ID="ID_175731579" CREATED="1530722123391" MODIFIED="1530722129548">
-<node TEXT="grievance, Rnd, data analysis" ID="ID_84456066" CREATED="1530722130408" MODIFIED="1530722139257"/>
-</node>
-<node TEXT="RDA" ID="ID_1516650750" CREATED="1549690169925" MODIFIED="1549690178127" LINK="#ID_1647893163"/>
-<node TEXT="IRFC&#xa;indian railway financial corporation" FOLDED="true" ID="ID_1261666863" CREATED="1523007383531" MODIFIED="1523007401611">
-<node TEXT="launched green bond at India INX" ID="ID_397148231" CREATED="1523007403642" MODIFIED="1523007409975"/>
-</node>
-</node>
+<node TEXT="way forward" FOLDED="true" ID="ID_583677896" CREATED="1573827368909" MODIFIED="1573827370621">
 <node TEXT="anil kakodkar on railway safety" FOLDED="true" ID="ID_1934930913" CREATED="1530723542820" MODIFIED="1530723752079">
 <font BOLD="true"/>
 <node TEXT="rail safety authority" ID="ID_188835062" CREATED="1530723725142" MODIFIED="1530723730690"/>
@@ -29176,6 +29194,7 @@
 <node TEXT="research design standard organisation" ID="ID_1519724873" CREATED="1530723584929" MODIFIED="1530723595401"/>
 </node>
 <node TEXT="bibek debroy and Anil Kaodkar committee reports" ID="ID_775793252" CREATED="1505106388994" MODIFIED="1505106405419"/>
+</node>
 </node>
 <node TEXT="schemes" FOLDED="true" ID="ID_421565783" CREATED="1549690002347" MODIFIED="1549690004048">
 <node TEXT="Special Freight Train Operation Scheme" FOLDED="true" ID="ID_787863672" CREATED="1494387288487" MODIFIED="1494387296357">
@@ -31264,7 +31283,7 @@
 <node TEXT="NGT judgements and cases" FOLDED="true" ID="ID_155069361" CREATED="1565959401264" MODIFIED="1565966670688">
 <node TEXT="Art of Living Festival and Yamuna Food Plain:" ID="ID_1079843189" CREATED="1565966684266" MODIFIED="1565966684746"/>
 <node TEXT="Capital ban on old vehicles" ID="ID_191428193" CREATED="1565966699974" MODIFIED="1565966700207"/>
-<node TEXT="Ganga&#xa;&#xa;rejuvenation" FOLDED="true" ID="ID_1964625874" CREATED="1565966703403" MODIFIED="1565966703773">
+<node TEXT="Ganga&#xa;&#xa;rejuvenation" ID="ID_1964625874" CREATED="1565966703403" MODIFIED="1565966703773">
 <node TEXT="Haridwar Unnao Stretch&#xa;&#xa;No development zone upto 100 m" ID="ID_897804321" CREATED="1565966704164" MODIFIED="1565966725312"/>
 </node>
 <node TEXT=". Ban on Plastic Bags: 2017 Delhi" ID="ID_1975531375" CREATED="1565966731561" MODIFIED="1565966750427"/>
