@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -137,7 +137,7 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_BRANCHES"/>
 <node TEXT="Polity" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1303619428" CREATED="1487759674009" MODIFIED="1494887615887" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-22.499999329447768 pt">
 <font NAME="Calibri"/>
-<node TEXT="Laxmikanth" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1966133345" CREATED="1488094079918" MODIFIED="1494887616050">
+<node TEXT="Laxmikanth" LOCALIZED_STYLE_REF="default" ID="ID_1966133345" CREATED="1488094079918" MODIFIED="1494887616050">
 <font NAME="Calibri"/>
 <node TEXT="8. DPSP" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_587865921" CREATED="1490036318688" MODIFIED="1509014051727">
 <icon BUILTIN="flag-green"/>
@@ -1057,13 +1057,13 @@
 </node>
 <node TEXT="34. Panchayati Raj" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_447542373" CREATED="1492235376033" MODIFIED="1497043983558">
 <font NAME="Calibri"/>
-<node TEXT="Nyaya Panchayat" FOLDED="true" ID="ID_901410373" CREATED="1492235181433" MODIFIED="1492235186315">
+<node TEXT="Nyaya Panchayat" ID="ID_901410373" CREATED="1492235181433" MODIFIED="1492235186315">
 <node TEXT="i_16 - 34" ID="ID_1374195798" CREATED="1492235186430" MODIFIED="1496738325155"/>
-<node TEXT="L M SInghvi Committee mentioned it!" FOLDED="true" ID="ID_1731100557" CREATED="1492235190496" MODIFIED="1492235198895">
+<node TEXT="L M SInghvi Committee mentioned it!" ID="ID_1731100557" CREATED="1492235190496" MODIFIED="1492235198895">
 <node TEXT="for cluster of villages" ID="ID_1165257036" CREATED="1492235208693" MODIFIED="1492235211599"/>
 </node>
 </node>
-<node TEXT="Gram Nyayalaya" ID="ID_595678529" CREATED="1496738328702" MODIFIED="1496738334125">
+<node TEXT="Gram Nyayalaya" FOLDED="true" ID="ID_595678529" CREATED="1496738328702" MODIFIED="1496738334125">
 <node TEXT="Gram Nyayalaya Act, 2009" ID="ID_922262449" CREATED="1581952987673" MODIFIED="1581952992703"/>
 <node TEXT="Both Civil and Criminal Jurisdiction" ID="ID_704665716" CREATED="1581953016739" MODIFIED="1581953035851"/>
 <node ID="ID_1308223554" CREATED="1496738345595" MODIFIED="1496738372949"><richcontent TYPE="NODE">
@@ -1081,6 +1081,14 @@
 </richcontent>
 </node>
 </node>
+<node TEXT="243C (5) - panchayat at the village level shall be elected in such manner as the Legislature of a State may, by law, provide;" ID="ID_117841644" CREATED="1582911224897" MODIFIED="1582911256082"/>
+<node TEXT="243M (2) Not applicable to areas" ID="ID_1176456501" CREATED="1582911544333" MODIFIED="1582912273466">
+<node TEXT="Nagaland, meghalya mizoram" ID="ID_1574817289" CREATED="1582911556182" MODIFIED="1582911564953"/>
+<node TEXT="hill areas of manipur" ID="ID_1682510030" CREATED="1582911565115" MODIFIED="1582911569214"/>
+<node TEXT="6 schedule areas" ID="ID_55715909" CREATED="1582912298994" MODIFIED="1582912304823"/>
+<node TEXT="darjeeling&#xa;&#xa;gorkhaland territorial council" ID="ID_1228944367" CREATED="1582911569458" MODIFIED="1582912282254"/>
+</node>
+<node TEXT="243O&#xa;&#xa;bar by courts in electoral matters" ID="ID_727612606" CREATED="1582911596313" MODIFIED="1582911606558"/>
 <node TEXT="73rd amendment" FOLDED="true" ID="ID_885404168" CREATED="1492235389950" MODIFIED="1492235392224">
 <node TEXT="fullfill 40 DPSP" ID="ID_629110351" CREATED="1492235392337" MODIFIED="1492235398402"/>
 <node TEXT="Compulsory provision" FOLDED="true" ID="ID_1790138562" CREATED="1492235452803" MODIFIED="1492235456073">
@@ -1094,20 +1102,6 @@
   <body>
     <p>
       direct election to <b><i>all </i></b>seats in panchayat
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_730730070" CREATED="1496535646182" MODIFIED="1496535674177"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>indirect </b>election of <b>chairperson </b>of panchayat
     </p>
   </body>
 </html>
@@ -1173,20 +1167,52 @@
 </node>
 </node>
 </node>
-<node TEXT="37. Scheduled and Tribal Areas" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_25340720" CREATED="1496963008850" MODIFIED="1525497749697">
+<node TEXT="35. Municipalities" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1678473924" CREATED="1582911987328" MODIFIED="1582911994949">
 <font NAME="Calibri"/>
-<node TEXT="Scheduled areas" FOLDED="true" ID="ID_14531100" CREATED="1496963016012" MODIFIED="1496963019356">
+<node TEXT="8 types" FOLDED="true" ID="ID_818116419" CREATED="1582912326986" MODIFIED="1582912329603">
+<node TEXT="Town area committee" FOLDED="true" ID="ID_1446402017" CREATED="1582911995279" MODIFIED="1582911999769">
+<node TEXT="needs separate act of state legislature" ID="ID_1104321975" CREATED="1582911999882" MODIFIED="1582912015478"/>
+</node>
+<node TEXT="notified area committee" FOLDED="true" ID="ID_1765888210" CREATED="1582912019789" MODIFIED="1582912025408">
+<node ID="ID_58327693" CREATED="1582912027146" MODIFIED="1582912052229"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      fast developing area,<br/><br/><br/>notification via gazette of state govt.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="lord mayo - financial decentralisation" ID="ID_239481408" CREATED="1582912334194" MODIFIED="1582912339681"/>
+</node>
+<node TEXT="37. Scheduled and Tribal Areas" LOCALIZED_STYLE_REF="default" ID="ID_25340720" CREATED="1496963008850" MODIFIED="1525497749697">
+<font NAME="Calibri"/>
+<node TEXT="Scheduled areas 5th schedule" ID="ID_14531100" CREATED="1496963016012" MODIFIED="1582912637462">
 <node TEXT="5th schedule" ID="ID_1209898227" CREATED="1496963038195" MODIFIED="1496963040244"/>
-<node TEXT="declare by president" FOLDED="true" ID="ID_1357479692" CREATED="1496963024359" MODIFIED="1496963030438">
+<node TEXT="declare by president" ID="ID_1357479692" CREATED="1496963024359" MODIFIED="1496963030438">
 <node TEXT="increase / decrease with assent of president" ID="ID_622502325" CREATED="1496963049348" MODIFIED="1496963057302"/>
 </node>
-<node TEXT="governor = law applicable to scheduled area" FOLDED="true" ID="ID_1197862925" CREATED="1496963117590" MODIFIED="1496963125278">
+<node TEXT="governor = law applicable to scheduled area" ID="ID_1197862925" CREATED="1496963117590" MODIFIED="1496963125278">
 <node TEXT="for good governance, peace" ID="ID_1006470513" CREATED="1496963125419" MODIFIED="1496963128857"/>
 <node TEXT="with assent of president" ID="ID_164817052" CREATED="1496963131571" MODIFIED="1496963144703"/>
 </node>
 <node TEXT="a commission to report administration of schedules areas =&gt; Constitution says president to make!" ID="ID_1565924864" CREATED="1496963212089" MODIFIED="1496963235893"/>
+<node TEXT="TAC without 5th schedule areas" ID="ID_1580210602" CREATED="1582912146393" MODIFIED="1582912154262"/>
+<node TEXT="assam has&#xa;&#xa;5 schedule + 6 schedule areas + some areas outside both (normal districts)" ID="ID_791358741" CREATED="1582912158272" MODIFIED="1582912432902"/>
+<node TEXT="karbi anglong district&#xa;- split in two parts NOT contiguous district" ID="ID_435178186" CREATED="1582912343883" MODIFIED="1582912363639"/>
+<node TEXT="sadar hills&#xa;&#xa;Gokhaland Hills (via state act)" ID="ID_1836545043" CREATED="1582912097702" MODIFIED="1582912143418">
+<node TEXT="have autonomous district councils but not in 6th schedule  (lesser powers)" ID="ID_1865016968" CREATED="1582912117320" MODIFIED="1582912136924"/>
 </node>
-<node TEXT="Tribal Areas" FOLDED="true" ID="ID_1082717101" CREATED="1496963019700" MODIFIED="1496963021468">
+</node>
+<node TEXT="Tribal Areas 6th schedule" FOLDED="true" ID="ID_1082717101" CREATED="1496963019700" MODIFIED="1582912632758">
 <node ID="ID_1375564672" CREATED="1496963263165" MODIFIED="1496963297306"><richcontent TYPE="NODE">
 
 <html>
@@ -1202,14 +1228,16 @@
 </richcontent>
 </node>
 <node TEXT="organise + reorganise = governor" ID="ID_219766478" CREATED="1496963301682" MODIFIED="1496963316639"/>
-<node TEXT="district council = nominated + elected" FOLDED="true" ID="ID_1174791085" CREATED="1496963380886" MODIFIED="1496963391159">
+<node TEXT="district council = nominated + elected" ID="ID_1174791085" CREATED="1496963380886" MODIFIED="1496963391159">
 <node TEXT="nominated = on pleasure of governor" ID="ID_1555209710" CREATED="1496963391315" MODIFIED="1496963398785"/>
 <node TEXT="elected = 5 yrs (unless dissolved)" ID="ID_888179739" CREATED="1496963399208" MODIFIED="1496963407381"/>
 </node>
-<node TEXT="primary school, money lending etc rules = by district council" FOLDED="true" ID="ID_488951665" CREATED="1496963483061" MODIFIED="1496963499097">
-<node TEXT="assent of governor" ID="ID_1101909901" CREATED="1496963499222" MODIFIED="1496963504208"/>
+<node TEXT="assent of governor" ID="ID_1101909901" CREATED="1496963499222" MODIFIED="1496963504208">
+<node TEXT="primary school, money lending etc rules = by district council" ID="ID_488951665" CREATED="1496963483061" MODIFIED="1496963499097"/>
 </node>
-<node TEXT="taxing, land revenue = district council - no governor assent needed" ID="ID_1843172467" CREATED="1526192146621" MODIFIED="1526192164996"/>
+<node TEXT="no governor assent needed" ID="ID_688029377" CREATED="1582912721715" MODIFIED="1582912722346">
+<node TEXT="taxing, land revenue = district council -" ID="ID_1843172467" CREATED="1526192146621" MODIFIED="1582912721024"/>
+</node>
 </node>
 </node>
 <node TEXT="38. ECI" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1965153912" CREATED="1489082989584" MODIFIED="1525497749699">
@@ -1516,7 +1544,7 @@
 <node TEXT="Coterminus with municipalities" LOCALIZED_STYLE_REF="default" ID="ID_393563307" CREATED="1488532146267" MODIFIED="1488545169542"/>
 </node>
 </node>
-<node TEXT="Bodies of India" LOCALIZED_STYLE_REF="default" ID="ID_1739541457" CREATED="1488864616898" MODIFIED="1495493339747">
+<node TEXT="Bodies of India" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1739541457" CREATED="1488864616898" MODIFIED="1495493339747">
 <font NAME="Calibri" BOLD="false"/>
 <node TEXT="ASI" ID="ID_1694132507" CREATED="1495142268233" MODIFIED="1495142269183">
 <node TEXT="statutory under AMASR act, 1958" ID="ID_17079880" CREATED="1495142269402" MODIFIED="1499532445560"/>
@@ -7064,7 +7092,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
