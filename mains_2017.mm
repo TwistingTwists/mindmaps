@@ -2813,7 +2813,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -3026,8 +3025,7 @@
 <node TEXT="281" OBJECT="java.lang.Long|281" LOCALIZED_STYLE_REF="default" ID="ID_488855520" CREATED="1491454150159" MODIFIED="1491454163027" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/Laxmikanth%20iOS%20Sync%20Folder/Indian%20Polity%20-%20M.Laxmikanth.pdf"/>
 </node>
 <node TEXT="112 : annual financial statement" LOCALIZED_STYLE_REF="default" ID="ID_353787958" CREATED="1488535332214" MODIFIED="1488545169527"/>
-<node TEXT="142" OBJECT="java.lang.Long|142" FOLDED="true" ID="ID_60960600" CREATED="1491447977474" MODIFIED="1491447978323">
-<node TEXT="complete justice" ID="ID_30563860" CREATED="1491447979858" MODIFIED="1491447984259"/>
+<node TEXT="142&#xa;complete justice" FOLDED="true" ID="ID_60960600" CREATED="1491447977474" MODIFIED="1587049335735">
 <node TEXT="only valid for topics &apos;within SC&apos;s jurisdiction&apos;" ID="ID_1369219598" CREATED="1491448212642" MODIFIED="1491448225546">
 <node TEXT="not a carte blanche to act upon issues" ID="ID_1009210446" CREATED="1491448244009" MODIFIED="1491448252051"/>
 </node>
@@ -3041,6 +3039,7 @@
 <node TEXT="automobile emission, 2G spectrum allocation" ID="ID_868710693" CREATED="1498887184779" MODIFIED="1498887205460"/>
 </node>
 <node TEXT="negative - judicial overreach" ID="ID_272752991" CREATED="1495144017052" MODIFIED="1495144105469"/>
+<node TEXT="Curative Petition owes origin to this" ID="ID_1687283093" CREATED="1587049309284" MODIFIED="1587049317587"/>
 </node>
 <node TEXT="165" OBJECT="java.lang.Long|165" ID="ID_882518007" CREATED="1553362110800" MODIFIED="1553362112286">
 <node TEXT="Attorney General" ID="ID_663647131" CREATED="1553362112493" MODIFIED="1553362116960"/>
@@ -7764,7 +7763,7 @@
 <node TEXT="socio cultural problems in SHG development" ID="ID_650656146" CREATED="1546885135705" MODIFIED="1546885157849"/>
 </node>
 </node>
-<node FOLDED="true" ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1585543590607" BACKGROUND_COLOR="#ccccff"><richcontent TYPE="NODE">
+<node ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1585543590607" BACKGROUND_COLOR="#ccccff"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8588,7 +8587,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -12484,10 +12482,11 @@
 </html>
 </richcontent>
 <node TEXT="India is 3rd most obese" ID="ID_109563310" CREATED="1516868877378" MODIFIED="1516868887430"/>
-<node TEXT="FSSAI - awareness about Trans Fats" ID="ID_234718610" CREATED="1544200722054" MODIFIED="1544200729473">
+<node TEXT="WHO REPLACE to keep trans fats low" ID="ID_604665165" CREATED="1586777898388" MODIFIED="1586777908945"/>
+<node TEXT="FSSAI - awareness about Trans Fats" FOLDED="true" ID="ID_234718610" CREATED="1544200722054" MODIFIED="1544200729473">
+<node TEXT="TPC &lt;25%" ID="ID_214634466" CREATED="1586777924852" MODIFIED="1586777929764"/>
 <node TEXT="Food Safety and Standards Regulations,&#xa;FSSAI 2011" ID="ID_471212812" CREATED="1586611641628" MODIFIED="1586611744808">
 <node TEXT="include 2% limit on trans-fats for fats, oils and &#x201c;all food products&#x201d;." ID="ID_522518885" CREATED="1586611647903" MODIFIED="1586611648353"/>
-</node>
 <node ID="ID_1261342739" CREATED="1586611660509" MODIFIED="1586611759669"><richcontent TYPE="NODE">
 
 <html>
@@ -12508,12 +12507,12 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
 </node>
-<node ID="ID_1572467990" CREATED="1509014109460" MODIFIED="1514030088180"><richcontent TYPE="NODE">
+</node>
+<node FOLDED="true" ID="ID_1572467990" CREATED="1509014109460" MODIFIED="1514030088180"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12529,7 +12528,7 @@
 <node TEXT="malnutrition =&gt;  NHP 2017" ID="ID_49138199" CREATED="1509014112188" MODIFIED="1514030025087"/>
 <node TEXT="mid day meal, ICDS, PDS for nutritous food" ID="ID_866479098" CREATED="1509014126278" MODIFIED="1509014139705"/>
 </node>
-<node TEXT="hidden hunger" ID="ID_1194320261" CREATED="1586611866565" MODIFIED="1586611869857">
+<node TEXT="hidden hunger" FOLDED="true" ID="ID_1194320261" CREATED="1586611866565" MODIFIED="1586611869857">
 <font BOLD="true"/>
 <node TEXT="Food fortification" ID="ID_1318780914" CREATED="1499066028208" MODIFIED="1499066032649">
 <node TEXT="def&#xa;&#xa;nutrient security without changing eating habits" ID="ID_299906094" CREATED="1499066066976" MODIFIED="1586609916342">
@@ -17159,7 +17158,7 @@
 <node TEXT="of Chittor , Vicotiral memorial hall displayed her painting on International women&apos;s day 2020" ID="ID_207674698" CREATED="1583820204082" MODIFIED="1583820230478"/>
 </node>
 </node>
-<node TEXT="sci tech" ID="ID_1137341677" CREATED="1523639775824" MODIFIED="1553158238818">
+<node TEXT="sci tech" FOLDED="true" ID="ID_1137341677" CREATED="1523639775824" MODIFIED="1553158238818">
 <font BOLD="false"/>
 <node TEXT="Hydroxy Cholorquinine" ID="ID_1901281808" CREATED="1586608747492" MODIFIED="1586608753493">
 <node TEXT="lupus, Arthiritis , Malaria" ID="ID_1067845749" CREATED="1586608753599" MODIFIED="1586608765469">
@@ -17505,7 +17504,7 @@
 </node>
 <node TEXT="ENVIRONMENT ECOLOGY" FOLDED="true" ID="ID_1836817442" CREATED="1523329884299" MODIFIED="1553159191292">
 <font BOLD="false"/>
-<node TEXT="Flora and fauna" LOCALIZED_STYLE_REF="default" ID="ID_272666086" CREATED="1552287304909" MODIFIED="1552287314286" BACKGROUND_COLOR="#feffd6">
+<node TEXT="Flora and fauna" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_272666086" CREATED="1552287304909" MODIFIED="1552287314286" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri" ITALIC="true"/>
 <node TEXT="Aquatic Rhabdops" ID="ID_394432154" CREATED="1522575882378" MODIFIED="1522575883399">
 <node TEXT="non venomous snake, endemic to Western ghat" ID="ID_1556583154" CREATED="1522575883555" MODIFIED="1522575891752"/>
@@ -18744,6 +18743,124 @@
 </node>
 <node TEXT="order of conservation sites" FOLDED="true" ID="ID_424054188" CREATED="1555336971510" MODIFIED="1555336983579">
 <node TEXT="wildlife sanctuaries &gt; national parks &gt; conservation reserves &gt; community reserves" ID="ID_545222240" CREATED="1555336985589" MODIFIED="1555337004033"/>
+</node>
+<node TEXT="energy" FOLDED="true" ID="ID_1963564851" CREATED="1557823902021" MODIFIED="1558979701410">
+<icon BUILTIN="idea"/>
+<font BOLD="true"/>
+<node TEXT="ICAP" FOLDED="true" ID="ID_1788051235" CREATED="1557823620480" MODIFIED="1557823621617">
+<node TEXT="india cooling action plan 2018 -  2038" ID="ID_642072861" CREATED="1557823622624" MODIFIED="1557823634238"/>
+<node TEXT="by MoEFCC" ID="ID_423741279" CREATED="1557823645680" MODIFIED="1557823647890"/>
+<node TEXT="to fight ozone layer depletion adhering to the Montreal Protocol." ID="ID_556054418" CREATED="1557823724134" MODIFIED="1557823737249" BACKGROUND_COLOR="#ff99cc"/>
+<node TEXT="key targets" ID="ID_1707150512" CREATED="1557823648032" MODIFIED="1557823651859">
+<node TEXT="reduce cooling demand across all sectors by 20- 25%&#xa;&#xa;by 2038" ID="ID_1628721261" CREATED="1557823652032" MODIFIED="1557823667964"/>
+<node TEXT="efrigerant demand by 25% to 30% by 203738," ID="ID_1834361002" CREATED="1557823675546" MODIFIED="1557823675779"/>
+<node TEXT="cooling energy requirements by 25% to 40% by 2037-38," ID="ID_1656175552" CREATED="1557823679190" MODIFIED="1557823679384"/>
+<node TEXT="RnD" ID="ID_1438467488" CREATED="1557823688584" MODIFIED="1557823706284">
+<node TEXT="&#x201c;cooling and related areas&#x201d; as a thrust area of research under national S&amp;T Programme," ID="ID_1364316285" CREATED="1557823689494" MODIFIED="1557823689494"/>
+</node>
+<node TEXT="Training and certification" ID="ID_1655147179" CREATED="1557823695124" MODIFIED="1557823695124">
+<node TEXT="100,000 servicing sector technicians by 2022-23, synergizing with Skill India Mission" ID="ID_1501370625" CREATED="1557823701540" MODIFIED="1557823701540"/>
+</node>
+</node>
+</node>
+<node TEXT="The Cool Coalition" FOLDED="true" ID="ID_1576598645" CREATED="1557823785892" MODIFIED="1557823786128">
+<node TEXT="First Global Conference on Synergies between the 2030 Agenda and Paris Agreement in Copenhagen, Denmark." ID="ID_215775781" CREATED="1557823794593" MODIFIED="1557823794593"/>
+<node TEXT="led by UN Environment" ID="ID_1965870492" CREATED="1557823807317" MODIFIED="1557823807317"/>
+<node TEXT="Sustainable Energy for All (SEforALL)." ID="ID_1560215560" CREATED="1557823820787" MODIFIED="1557823820787"/>
+</node>
+<node TEXT="The Energy Progress Report" FOLDED="true" ID="ID_806040570" CREATED="1557253097185" MODIFIED="1557253097500">
+<node TEXT="global dashboard on progress towards Sustainable Development Goal (SDG)." ID="ID_1798530708" CREATED="1557253165575" MODIFIED="1557253165859"/>
+<node TEXT="SDG7  IRENA IEA UNSD WHO" ID="ID_893951854" CREATED="1557253139646" MODIFIED="1557253150523"/>
+</node>
+<node TEXT="OzonAction" ID="ID_297117081" CREATED="1557588868431" MODIFIED="1557588869074">
+<node TEXT="(UNEP)" ID="ID_1682001637" CREATED="1557588874661" MODIFIED="1557588874661"/>
+<node TEXT="supports developing countries in the Montreal protocol implementation" ID="ID_185602447" CREATED="1557588899799" MODIFIED="1557588912552"/>
+</node>
+<node TEXT="UNNATEE" ID="ID_108187364" CREATED="1557823303446" MODIFIED="1557823892440">
+<node TEXT="(UNLOCKING NATIONAL ENERGY EFFICIENCY POTENTIAL)" ID="ID_1386990497" CREATED="1557823307345" MODIFIED="1557823892439"/>
+<node TEXT="developing an energy efficient nation (2017-2031)." ID="ID_1657048466" CREATED="1557823366241" MODIFIED="1557823373290"/>
+<node TEXT="Implementation Strategy" ID="ID_1933434120" CREATED="1557823378692" MODIFIED="1557823379154">
+<node TEXT="BAIT" ID="ID_1067762206" CREATED="1557823386030" MODIFIED="1557823388019">
+<node TEXT="Buildings&#xa;&#xa;green building code" ID="ID_1583395912" CREATED="1557823388302" MODIFIED="1557823429685"/>
+<node TEXT="agriculture&#xa;&#xa;Agro clean tech under National clean fund" ID="ID_686368330" CREATED="1557823394114" MODIFIED="1557823423915"/>
+<node TEXT="industry&#xa;&#xa;PAT Scheme" ID="ID_925972390" CREATED="1557823396278" MODIFIED="1557823407708"/>
+<node TEXT="transport&#xa;&#xa;FAME II" ID="ID_396619168" CREATED="1557823398548" MODIFIED="1557823404462"/>
+</node>
+<node TEXT="regulations" ID="ID_1795775041" CREATED="1557823451145" MODIFIED="1557823453552"/>
+<node TEXT="institutions" ID="ID_655572624" CREATED="1557823454761" MODIFIED="1557823457352"/>
+<node TEXT="finance" ID="ID_381482959" CREATED="1557823466356" MODIFIED="1557823467448">
+<node TEXT="energy conservation bonds&#xa;&#xa;energy savings insurance" ID="ID_607443145" CREATED="1557823467482" MODIFIED="1557823483881"/>
+</node>
+<node TEXT="set state wise targets" ID="ID_1294606053" CREATED="1557823498643" MODIFIED="1557823502338"/>
+</node>
+</node>
+<node TEXT="star labelling programe" FOLDED="true" ID="ID_1598961184" CREATED="1553530446089" MODIFIED="1553530450104">
+<node TEXT="by BEE" ID="ID_625897798" CREATED="1557823232362" MODIFIED="1557823236388"/>
+<node TEXT="appliances" ID="ID_189829996" CREATED="1585653961807" MODIFIED="1585653964859">
+<node TEXT="now for microwave and washing machine (including water efficiency)" ID="ID_700970605" CREATED="1553530450358" MODIFIED="1585653974732" BACKGROUND_COLOR="#ffff99"/>
+<node TEXT="voluntary appliances" ID="ID_1702686430" CREATED="1557823253602" MODIFIED="1557823260628">
+<node TEXT="ceiling fans&#xa;&#xa;agricultural pump sets&#xa;computers" ID="ID_610376785" CREATED="1557823260690" MODIFIED="1585653948190"/>
+</node>
+<node TEXT="mandatory appliance" ID="ID_1785073014" CREATED="1557823270991" MODIFIED="1557823275308">
+<node TEXT="AC, TV, Lamps, Fridge" ID="ID_886781375" CREATED="1557823275420" MODIFIED="1557823286365"/>
+</node>
+<node TEXT="Distributional transformers&#xa;&#xa;LPG stoves" ID="ID_1655359562" CREATED="1585653950041" MODIFIED="1585653960596"/>
+</node>
+<node TEXT="2 types :&#xa;&#xa;BIG  : also calculate yearly savings, e.g. refrigerator&#xa;&#xa;SMALL : CFL" ID="ID_1377116210" CREATED="1553530464387" MODIFIED="1553530505647"/>
+</node>
+<node TEXT="national mission on transformation mobility and battery storage" ID="ID_655161272" CREATED="1557823573860" MODIFIED="1557823583176">
+<node TEXT="inter-ministerial steering committee, chaired by CEO, NITI Aayog" ID="ID_1924347624" CREATED="1557823590025" MODIFIED="1557823590789"/>
+<node TEXT="objective" FOLDED="true" ID="ID_476985722" CREATED="1557823607764" MODIFIED="1557823608993">
+<node TEXT="export competitive integrated batteries and cell-manufacturing Giga plants in India." ID="ID_1885460294" CREATED="1557823595264" MODIFIED="1557823595264"/>
+<node TEXT="localise    entire Electric vehicle value chain and finalise its details." ID="ID_1218349964" CREATED="1557823595429" MODIFIED="1557823602203"/>
+</node>
+<node TEXT="fodder" ID="ID_502067509" CREATED="1587174044051" MODIFIED="1587174045769">
+<node TEXT="most Li reserves in Bolivian pleateau" ID="ID_827082768" CREATED="1587174045902" MODIFIED="1587174063725"/>
+<node TEXT="Li triangle - Bolivia Argentia chile" ID="ID_1812420017" CREATED="1587174068483" MODIFIED="1587174080184"/>
+<node TEXT="chile is largest producer of Li&#xa;&#xa;Bolivia has largest reserves of Li" ID="ID_1073171652" CREATED="1587174081591" MODIFIED="1587174099172"/>
+<node ID="ID_259714683" CREATED="1587174099353" MODIFIED="1587174136992"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      India imports most of <b><font color="#ff6666">Li Batteries </font></b>from Japan, South KOREA China
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="RECs&#xa;renewable energy certificate" ID="ID_850201458" CREATED="1557824109511" MODIFIED="1557824176532">
+<node TEXT="certifies bearer own 1 MwH of electricity generated renewably" ID="ID_1547987823" CREATED="1557824150289" MODIFIED="1557824165373"/>
+<node TEXT="under MNRE" ID="ID_211562988" CREATED="1557824126723" MODIFIED="1557824129980"/>
+<node TEXT="can be traded under IEX, PXIL" ID="ID_1146331485" CREATED="1557824118642" MODIFIED="1557824125016"/>
+<node TEXT="promote generation of RE within country" ID="ID_97925630" CREATED="1557824135284" MODIFIED="1557824144249"/>
+<node TEXT="PAT vs REC difference&#xa;&#xa;pt365_2019 vision updateed" ID="ID_1563698290" CREATED="1557823967912" MODIFIED="1557823977861"/>
+</node>
+<node TEXT="SEAD initiative" ID="ID_753299996" CREATED="1585654131713" MODIFIED="1585654132119">
+<node TEXT="only 18 participating" ID="ID_1173332906" CREATED="1585654132662" MODIFIED="1585654137621"/>
+<node TEXT="voluntary collaboration among governments" ID="ID_155926943" CREATED="1585654141586" MODIFIED="1585654141878">
+<node TEXT="f energy efficient appliances worldwide by Clean Energy Ministerial." ID="ID_1462459736" CREATED="1585654147446" MODIFIED="1585654147792"/>
+</node>
+</node>
+<node TEXT="&apos;Energy-efficient&apos; Railway station" FOLDED="true" ID="ID_1649868531" CREATED="1557158573637" MODIFIED="1557497661038">
+<icon BUILTIN="idea"/>
+<node TEXT="Kacheguda Railway Station" ID="ID_1697612178" CREATED="1557158583186" MODIFIED="1557158583186"/>
+<node TEXT="Hyderabad city of Telengana" ID="ID_460933618" CREATED="1557158603170" MODIFIED="1557158603170"/>
+<node TEXT="100% energy efficiency" ID="ID_234408891" CREATED="1557158594577" MODIFIED="1557158603022"/>
+<node TEXT="built in 1916 by the Nizam&#x2018;s Guaranteed State Railway during the reign of Mir Osman Ali Khan, the seventh Nizam" ID="ID_1848798947" CREATED="1557158615722" MODIFIED="1557158616000"/>
+</node>
+<node TEXT="Energy efficiency scale up programme" FOLDED="true" ID="ID_39692354" CREATED="1557552413949" MODIFIED="1557552422778">
+<node TEXT="residential and public sectors" ID="ID_185703024" CREATED="1557552439481" MODIFIED="1557552440043"/>
+<node TEXT="enhance its access to commercial financing." ID="ID_726295013" CREATED="1557552446321" MODIFIED="1557552447305"/>
+<node TEXT="under EESL" ID="ID_593673987" CREATED="1557552470320" MODIFIED="1557552473700"/>
+<node TEXT="scalable investments in public street lighting;" ID="ID_472354218" CREATED="1557552463759" MODIFIED="1557552464049"/>
+</node>
 </node>
 </node>
 <node TEXT="Geography" FOLDED="true" ID="ID_24166292" CREATED="1490945390147" MODIFIED="1496055203518">
@@ -20086,7 +20203,7 @@
 <node TEXT="india member" ID="ID_989136864" CREATED="1557590326216" MODIFIED="1557590329613"/>
 </node>
 </node>
-<node TEXT="economy" FOLDED="true" ID="ID_1841231292" CREATED="1524238708456" MODIFIED="1553158238824">
+<node TEXT="economy" ID="ID_1841231292" CREATED="1524238708456" MODIFIED="1553158238824">
 <font BOLD="false"/>
 <node TEXT="Graded Surveillance Measure&#x2019;" FOLDED="true" ID="ID_1434883403" CREATED="1522575791549" MODIFIED="1522575798022">
 <node TEXT="SEBI for market integrity&#xa;shell companies" ID="ID_367729737" CREATED="1522575798194" MODIFIED="1525496139935"/>
@@ -20821,6 +20938,92 @@
 <node TEXT="manuf of tobacco , cigar" ID="ID_299439886" CREATED="1496102653273" MODIFIED="1496102660036"/>
 <node TEXT="if private investment not allowed =&gt; FDI not allowed&#xa;&#xa;atomic energy + railway" ID="ID_225306163" CREATED="1496102668978" MODIFIED="1496102685612"/>
 </node>
+<node TEXT="Economics" ID="ID_92183222" CREATED="1494811043464" MODIFIED="1496055203521">
+<font NAME="Calibri"/>
+<node TEXT="Scheduled drugs" ID="ID_1548694271" CREATED="1491902347097" MODIFIED="1491902351066">
+<node TEXT="H1" ID="ID_1210053706" CREATED="1491902351508" MODIFIED="1491902352608">
+<node TEXT="antibiotic" ID="ID_415003604" CREATED="1491902356527" MODIFIED="1491902358942"/>
+<node TEXT=" preserve copy for 3 yrs" ID="ID_1390181341" CREATED="1491902362754" MODIFIED="1491902380163"/>
+</node>
+<node TEXT="H" ID="ID_292756730" CREATED="1491902352763" MODIFIED="1491902353312">
+<node TEXT="prescription" ID="ID_1146678114" CREATED="1491902417141" MODIFIED="1491902419283"/>
+</node>
+<node TEXT="X" ID="ID_1713096947" CREATED="1491902354322" MODIFIED="1491902354662">
+<node TEXT="H + narcotics" ID="ID_657434605" CREATED="1491902390697" MODIFIED="1491902438246"/>
+<node TEXT=" preserve copy for 3 yrs" ID="ID_771171412" CREATED="1491902362754" MODIFIED="1491902380163"/>
+</node>
+</node>
+<node TEXT="Gross Domestic Capital Formation" ID="ID_1850823742" CREATED="1491713886484" MODIFIED="1495098883949">
+<node TEXT="creation of durable infra or economic assets" ID="ID_1679840403" CREATED="1495098889658" MODIFIED="1495098904648"/>
+</node>
+<node TEXT="Infrastructure investment trust&#xa;InvIT" ID="ID_1073157773" CREATED="1494396858152" MODIFIED="1526097495595">
+<icon BUILTIN="idea"/>
+<node TEXT="fund by SEBI&#xa;&#xa;for infrastructure investment" ID="ID_728050095" CREATED="1494396865918" MODIFIED="1587185139328">
+<node TEXT="the Indian Trust Act, 1882 and&#xa;&#xa;SEBI (Infrastructure Investment Trusts) Regulations, 2014" ID="ID_634242506" CREATED="1587185172553" MODIFIED="1587185180739"/>
+</node>
+<node TEXT="individual + institutional investors" ID="ID_1334396860" CREATED="1587185140705" MODIFIED="1587185150025"/>
+<node TEXT="90% of funds to investors every 6 months" ID="ID_667423212" CREATED="1499046657161" MODIFIED="1499046667084"/>
+<node TEXT="short term CGT = 15%&#xa;long term no CGT" ID="ID_1175145781" CREATED="1499046670178" MODIFIED="1499046681446"/>
+<node TEXT="@vagaries of Stock market" ID="ID_1395790719" CREATED="1494396878449" MODIFIED="1494396883887">
+<node TEXT="i.e. not risk free!" ID="ID_671082857" CREATED="1494396884043" MODIFIED="1494396888182"/>
+</node>
+</node>
+<node TEXT="FCNR accounts" ID="ID_895824369" CREATED="1490670572037" MODIFIED="1526801790898">
+<icon BUILTIN="idea"/>
+<node TEXT="Foreign Currency Non resident account" ID="ID_207292384" CREATED="1491733949339" MODIFIED="1496029794987"/>
+<node TEXT="Only FD" LOCALIZED_STYLE_REF="default" ID="ID_1603264046" CREATED="1491734673487" MODIFIED="1497694263447" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="Jointly  with other NRIs = ok&#xa;Overseas corporate bodies can open too" ID="ID_265394617" CREATED="1491734677957" MODIFIED="1526801807535"/>
+<node TEXT="Exemption from Income tax laws" LOCALIZED_STYLE_REF="default" ID="ID_1272803532" CREATED="1491734690587" MODIFIED="1495021399439" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="Agricultural income" ID="ID_1027527426" CREATED="1494398042310" MODIFIED="1559317653536">
+<node TEXT="define acc. to IT Act" ID="ID_1252331788" CREATED="1494398049608" MODIFIED="1496030736833">
+<node TEXT="revenue from land" ID="ID_1505601727" CREATED="1494398055467" MODIFIED="1494398059232"/>
+<node TEXT="buildings on land" ID="ID_1959051888" CREATED="1494398059810" MODIFIED="1494398062022"/>
+<node TEXT="income through agri on land" ID="ID_1288110534" CREATED="1494398064717" MODIFIED="1494398069389"/>
+</node>
+<node TEXT="exempt from total income for tax calculation" ID="ID_862766749" CREATED="1494398071476" MODIFIED="1494398080498"/>
+<node TEXT="state may impose some tax on plantations!" LOCALIZED_STYLE_REF="default" ID="ID_132217788" CREATED="1494398081522" MODIFIED="1496310141747" BACKGROUND_COLOR="#feffd6">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="eSign" ID="ID_409502830" CREATED="1494453543172" MODIFIED="1497234750584">
+<node TEXT="digital certi signature" ID="ID_657599663" CREATED="1494453544754" MODIFIED="1494453577112"/>
+<node TEXT="legally recognised" ID="ID_966144768" CREATED="1494453558815" MODIFIED="1494453560896">
+<node TEXT="IT act 2000 has provision" ID="ID_970461710" CREATED="1494453561052" MODIFIED="1494453566187"/>
+</node>
+</node>
+<node TEXT="Financial sector legislative reform committee&#xa;FSLRC" ID="ID_1663927506" CREATED="1496661240300" MODIFIED="1497694312344">
+<icon BUILTIN="full-1"/>
+<node TEXT="Justice,&#xa;BN Krishna" ID="ID_369712170" CREATED="1496661255891" MODIFIED="1496661260477"/>
+<node TEXT="to suggest institutionalisation of arbitration mechanism in India" ID="ID_1604400469" CREATED="1496710794547" MODIFIED="1496710815581"/>
+</node>
+<node TEXT=" &#x2018;Minimum Reserve System&#x2019;" ID="ID_1777961422" CREATED="1527155739217" MODIFIED="1527155739897">
+<node ID="ID_1544312543" CREATED="1527155747345" MODIFIED="1527155747345"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">reserve of gold and foreign securities and is empowered to issue currency to any extent</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="&#x201c;Business beyond Borders&#x201d; is the theme" ID="ID_1000852058" CREATED="1527155869000" MODIFIED="1527155869271">
+<node TEXT="The SME International Convention &#x2013; 2018." ID="ID_1242409610" CREATED="1527155874288" MODIFIED="1527155874678"/>
+<node TEXT="trade opportunities in India for International Entrepreneurs." ID="ID_119824151" CREATED="1527155894595" MODIFIED="1527155894884"/>
+<node TEXT="NSIC + MSME + KVIC + Coir Board&#xa;&#xa;NSIC + national small industries corporation" ID="ID_293907287" CREATED="1527155901710" MODIFIED="1527155923064"/>
+</node>
+<node TEXT="ISO 27001" ID="ID_1365557484" CREATED="1527155961788" MODIFIED="1527155967066">
+<node TEXT="information security" ID="ID_1226662684" CREATED="1527155967231" MODIFIED="1527155975086"/>
+</node>
+</node>
 </node>
 <node TEXT="schemes" FOLDED="true" ID="ID_1793300457" CREATED="1523033053850" MODIFIED="1553158238825">
 <font BOLD="false"/>
@@ -21081,7 +21284,7 @@
 <node TEXT="mahila kisan sashaktikaran pariyojna" FOLDED="true" ID="ID_1689999027" CREATED="1489572601880" MODIFIED="1489572618656">
 <node TEXT="was under NRLM" ID="ID_772264135" CREATED="1489572619321" MODIFIED="1489572624004"/>
 </node>
-<node TEXT="NRLM" FOLDED="true" ID="ID_445818393" CREATED="1490274438458" MODIFIED="1490274441047">
+<node TEXT="NRLM" ID="ID_445818393" CREATED="1490274438458" MODIFIED="1490274441047">
 <node TEXT="objective" ID="ID_1453281176" CREATED="1496057100998" MODIFIED="1496057103345">
 <node TEXT="rural youth self emplyment, skill dev" ID="ID_235094849" CREATED="1496057107348" MODIFIED="1496057147027"/>
 <node TEXT="to check migration!!" LOCALIZED_STYLE_REF="default" ID="ID_1165229642" CREATED="1496057156545" MODIFIED="1523338320565" BACKGROUND_COLOR="#feffd6">
@@ -21089,7 +21292,7 @@
 </node>
 </node>
 <node TEXT="rope in at least on women to SHG network" ID="ID_605140736" CREATED="1526095831331" MODIFIED="1526095839827"/>
-<node TEXT="SVEP&#xa;start up village entrepreneurship" ID="ID_1897740042" CREATED="1490274442282" MODIFIED="1496288406902">
+<node TEXT="SVEP&#xa;start up village entrepreneurship" FOLDED="true" ID="ID_1897740042" CREATED="1490274442282" MODIFIED="1496288406902">
 <node TEXT="2129 - 19" ID="ID_689993273" CREATED="1490274465524" MODIFIED="1490274488782" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/26-Question.pdf"/>
 <node TEXT="MoRD" ID="ID_633760471" CREATED="1494447354132" MODIFIED="1494447361244"/>
 <node TEXT="loans through self help groups" ID="ID_900697212" CREATED="1494447365964" MODIFIED="1494447370694"/>
@@ -23152,6 +23355,30 @@
 <node TEXT="under WADA" ID="ID_183878768" CREATED="1585904040458" MODIFIED="1585904043409"/>
 </node>
 </node>
+<node TEXT="Global geoparks neetwork" ID="ID_1862969825" CREATED="1587178806948" MODIFIED="1587178811138">
+<node TEXT="Global Geoparks Network (GGN)" FOLDED="true" ID="ID_1370579591" CREATED="1587178818394" MODIFIED="1587178819135">
+<node TEXT="legally constituted not-for-profit organisation. Its membership is obligatory for UNESCO Global Geoparks." ID="ID_1384918134" CREATED="1587178822604" MODIFIED="1587178822991"/>
+</node>
+<node TEXT="single, unified geographical areas" ID="ID_1375111835" CREATED="1587178829814" MODIFIED="1587178830420"/>
+<node TEXT="india proposed&#xa;&#xa;by GSI" ID="ID_981022203" CREATED="1587178875511" MODIFIED="1587178980706">
+<node TEXT="Lonar Lake in Maharashtra" FOLDED="true" ID="ID_1089806788" CREATED="1587178900816" MODIFIED="1587178901207">
+<node TEXT="world&apos;s oldest meteoric crater f" ID="ID_237523797" CREATED="1587178904596" MODIFIED="1587178905098"/>
+<node TEXT="only one formed in basalt rock." ID="ID_1764483434" CREATED="1587178912138" MODIFIED="1587178912587"/>
+<node TEXT="salt water lake" ID="ID_1459402025" CREATED="1587178916040" MODIFIED="1587178916316"/>
+<node TEXT="declared a national geo-heritage site in 1979." ID="ID_1396265754" CREATED="1587178919583" MODIFIED="1587178919914"/>
+</node>
+<node TEXT="Mary&#x2019;s Island KNR&#xa;Malpe Beach in Karnataka" ID="ID_1874858747" CREATED="1587178879379" MODIFIED="1587178938922">
+<node TEXT="declared a national geo-heritage site in 1975." ID="ID_908266935" CREATED="1587178939404" MODIFIED="1587178941195"/>
+<node TEXT="mosaic of basaltic rocks&#xa;an island off Udupi." ID="ID_475780633" CREATED="1587178944741" MODIFIED="1587178951204"/>
+<node TEXT="88-million-yearold f" ID="ID_1521658758" CREATED="1587178955136" MODIFIED="1587178955447">
+<node TEXT="when Greater India broke away from Madagascar" ID="ID_45920644" CREATED="1587178961712" MODIFIED="1587178961712"/>
+</node>
+</node>
+</node>
+<node TEXT="must have a dedicated website" ID="ID_1291213255" CREATED="1587178840011" MODIFIED="1587178840472"/>
+<node TEXT="corporate identity," ID="ID_633588219" CREATED="1587178844639" MODIFIED="1587178844802"/>
+<node TEXT="comprehensive management plan, protection plans, finance, and partnerships for it to be accepte" ID="ID_900430408" CREATED="1587178849924" MODIFIED="1587178850350"/>
+</node>
 </node>
 </node>
 <node TEXT="prelims 2019" FOLDED="true" POSITION="right" ID="ID_479714722" CREATED="1551429738461" MODIFIED="1551429740990">
@@ -23255,104 +23482,6 @@
 </node>
 <node TEXT="MCA 21" FOLDED="true" ID="ID_318972139" CREATED="1552646694904" MODIFIED="1552646698673">
 <node TEXT="e-governance, 2006 : advance filing of corporate accounts to calculate national accounts" ID="ID_77830466" CREATED="1552646698739" MODIFIED="1552646740148"/>
-</node>
-<node TEXT="energy" FOLDED="true" ID="ID_1963564851" CREATED="1557823902021" MODIFIED="1558979701410">
-<icon BUILTIN="idea"/>
-<font BOLD="true"/>
-<node TEXT="ICAP" FOLDED="true" ID="ID_1788051235" CREATED="1557823620480" MODIFIED="1557823621617">
-<node TEXT="india cooling action plan 2018 -  2038" ID="ID_642072861" CREATED="1557823622624" MODIFIED="1557823634238"/>
-<node TEXT="by MoEFCC" ID="ID_423741279" CREATED="1557823645680" MODIFIED="1557823647890"/>
-<node TEXT="to fight ozone layer depletion adhering to the Montreal Protocol." ID="ID_556054418" CREATED="1557823724134" MODIFIED="1557823737249" BACKGROUND_COLOR="#ff99cc"/>
-<node TEXT="key targets" ID="ID_1707150512" CREATED="1557823648032" MODIFIED="1557823651859">
-<node TEXT="reduce cooling demand across all sectors by 20- 25%&#xa;&#xa;by 2038" ID="ID_1628721261" CREATED="1557823652032" MODIFIED="1557823667964"/>
-<node TEXT="efrigerant demand by 25% to 30% by 203738," ID="ID_1834361002" CREATED="1557823675546" MODIFIED="1557823675779"/>
-<node TEXT="cooling energy requirements by 25% to 40% by 2037-38," ID="ID_1656175552" CREATED="1557823679190" MODIFIED="1557823679384"/>
-<node TEXT="RnD" ID="ID_1438467488" CREATED="1557823688584" MODIFIED="1557823706284">
-<node TEXT="&#x201c;cooling and related areas&#x201d; as a thrust area of research under national S&amp;T Programme," ID="ID_1364316285" CREATED="1557823689494" MODIFIED="1557823689494"/>
-</node>
-<node TEXT="Training and certification" ID="ID_1655147179" CREATED="1557823695124" MODIFIED="1557823695124">
-<node TEXT="100,000 servicing sector technicians by 2022-23, synergizing with Skill India Mission" ID="ID_1501370625" CREATED="1557823701540" MODIFIED="1557823701540"/>
-</node>
-</node>
-</node>
-<node TEXT="The Cool Coalition" FOLDED="true" ID="ID_1576598645" CREATED="1557823785892" MODIFIED="1557823786128">
-<node TEXT="First Global Conference on Synergies between the 2030 Agenda and Paris Agreement in Copenhagen, Denmark." ID="ID_215775781" CREATED="1557823794593" MODIFIED="1557823794593"/>
-<node TEXT="led by UN Environment" ID="ID_1965870492" CREATED="1557823807317" MODIFIED="1557823807317"/>
-<node TEXT="Sustainable Energy for All (SEforALL)." ID="ID_1560215560" CREATED="1557823820787" MODIFIED="1557823820787"/>
-</node>
-<node TEXT="The Energy Progress Report" FOLDED="true" ID="ID_806040570" CREATED="1557253097185" MODIFIED="1557253097500">
-<node TEXT="global dashboard on progress towards Sustainable Development Goal (SDG)." ID="ID_1798530708" CREATED="1557253165575" MODIFIED="1557253165859"/>
-<node TEXT="SDG7  IRENA IEA UNSD WHO" ID="ID_893951854" CREATED="1557253139646" MODIFIED="1557253150523"/>
-</node>
-<node TEXT="OzonAction" FOLDED="true" ID="ID_297117081" CREATED="1557588868431" MODIFIED="1557588869074">
-<node TEXT="(UNEP)" ID="ID_1682001637" CREATED="1557588874661" MODIFIED="1557588874661"/>
-<node TEXT="supports developing countries in the Montreal protocol implementation" ID="ID_185602447" CREATED="1557588899799" MODIFIED="1557588912552"/>
-</node>
-<node TEXT="UNNATEE" FOLDED="true" ID="ID_108187364" CREATED="1557823303446" MODIFIED="1557823892440">
-<node TEXT="(UNLOCKING NATIONAL ENERGY EFFICIENCY POTENTIAL)" ID="ID_1386990497" CREATED="1557823307345" MODIFIED="1557823892439"/>
-<node TEXT="developing an energy efficient nation (2017-2031)." ID="ID_1657048466" CREATED="1557823366241" MODIFIED="1557823373290"/>
-<node TEXT="Implementation Strategy" FOLDED="true" ID="ID_1933434120" CREATED="1557823378692" MODIFIED="1557823379154">
-<node TEXT="BAIT" FOLDED="true" ID="ID_1067762206" CREATED="1557823386030" MODIFIED="1557823388019">
-<node TEXT="Buildings&#xa;&#xa;green building code" ID="ID_1583395912" CREATED="1557823388302" MODIFIED="1557823429685"/>
-<node TEXT="agriculture&#xa;&#xa;Agro clean tech under National clean fund" ID="ID_686368330" CREATED="1557823394114" MODIFIED="1557823423915"/>
-<node TEXT="industry&#xa;&#xa;PAT Scheme" ID="ID_925972390" CREATED="1557823396278" MODIFIED="1557823407708"/>
-<node TEXT="transport&#xa;&#xa;FAME II" ID="ID_396619168" CREATED="1557823398548" MODIFIED="1557823404462"/>
-</node>
-<node TEXT="regulations" ID="ID_1795775041" CREATED="1557823451145" MODIFIED="1557823453552"/>
-<node TEXT="institutions" ID="ID_655572624" CREATED="1557823454761" MODIFIED="1557823457352"/>
-<node TEXT="finance" FOLDED="true" ID="ID_381482959" CREATED="1557823466356" MODIFIED="1557823467448">
-<node TEXT="energy conservation bonds&#xa;&#xa;energy savings insurance" ID="ID_607443145" CREATED="1557823467482" MODIFIED="1557823483881"/>
-</node>
-<node TEXT="set state wise targets" ID="ID_1294606053" CREATED="1557823498643" MODIFIED="1557823502338"/>
-</node>
-</node>
-<node TEXT="star labelling programe" FOLDED="true" ID="ID_1598961184" CREATED="1553530446089" MODIFIED="1553530450104">
-<node TEXT="by BEE" ID="ID_625897798" CREATED="1557823232362" MODIFIED="1557823236388"/>
-<node TEXT="appliances" ID="ID_189829996" CREATED="1585653961807" MODIFIED="1585653964859">
-<node TEXT="now for microwave and washing machine (including water efficiency)" ID="ID_700970605" CREATED="1553530450358" MODIFIED="1585653974732" BACKGROUND_COLOR="#ffff99"/>
-<node TEXT="voluntary appliances" ID="ID_1702686430" CREATED="1557823253602" MODIFIED="1557823260628">
-<node TEXT="ceiling fans&#xa;&#xa;agricultural pump sets&#xa;computers" ID="ID_610376785" CREATED="1557823260690" MODIFIED="1585653948190"/>
-</node>
-<node TEXT="mandatory appliance" FOLDED="true" ID="ID_1785073014" CREATED="1557823270991" MODIFIED="1557823275308">
-<node TEXT="AC, TV, Lamps, Fridge" ID="ID_886781375" CREATED="1557823275420" MODIFIED="1557823286365"/>
-</node>
-<node TEXT="Distributional transformers&#xa;&#xa;LPG stoves" ID="ID_1655359562" CREATED="1585653950041" MODIFIED="1585653960596"/>
-</node>
-<node TEXT="2 types :&#xa;&#xa;BIG  : also calculate yearly savings, e.g. refrigerator&#xa;&#xa;SMALL : CFL" ID="ID_1377116210" CREATED="1553530464387" MODIFIED="1553530505647"/>
-</node>
-<node TEXT="national mission on transformation mobility and battery storage" FOLDED="true" ID="ID_655161272" CREATED="1557823573860" MODIFIED="1557823583176">
-<node TEXT="inter-ministerial steering committee, chaired by CEO, NITI Aayog" ID="ID_1924347624" CREATED="1557823590025" MODIFIED="1557823590789"/>
-<node TEXT="objective" ID="ID_476985722" CREATED="1557823607764" MODIFIED="1557823608993">
-<node TEXT="export competitive integrated batteries and cell-manufacturing Giga plants in India." ID="ID_1885460294" CREATED="1557823595264" MODIFIED="1557823595264"/>
-<node TEXT="localise    entire Electric vehicle value chain and finalise its details." ID="ID_1218349964" CREATED="1557823595429" MODIFIED="1557823602203"/>
-</node>
-</node>
-<node TEXT="RECs&#xa;renewable energy certificate" ID="ID_850201458" CREATED="1557824109511" MODIFIED="1557824176532">
-<node TEXT="certifies bearer own 1 MwH of electricity generated renewably" ID="ID_1547987823" CREATED="1557824150289" MODIFIED="1557824165373"/>
-<node TEXT="under MNRE" ID="ID_211562988" CREATED="1557824126723" MODIFIED="1557824129980"/>
-<node TEXT="can be traded under IEX, PXIL" ID="ID_1146331485" CREATED="1557824118642" MODIFIED="1557824125016"/>
-<node TEXT="promote generation of RE within country" ID="ID_97925630" CREATED="1557824135284" MODIFIED="1557824144249"/>
-<node TEXT="PAT vs REC difference&#xa;&#xa;pt365_2019 vision updateed" ID="ID_1563698290" CREATED="1557823967912" MODIFIED="1557823977861"/>
-</node>
-<node TEXT="SEAD initiative" ID="ID_753299996" CREATED="1585654131713" MODIFIED="1585654132119">
-<node TEXT="only 18 participating" ID="ID_1173332906" CREATED="1585654132662" MODIFIED="1585654137621"/>
-<node TEXT="voluntary collaboration among governments" ID="ID_155926943" CREATED="1585654141586" MODIFIED="1585654141878">
-<node TEXT="f energy efficient appliances worldwide by Clean Energy Ministerial." ID="ID_1462459736" CREATED="1585654147446" MODIFIED="1585654147792"/>
-</node>
-</node>
-<node TEXT="&apos;Energy-efficient&apos; Railway station" FOLDED="true" ID="ID_1649868531" CREATED="1557158573637" MODIFIED="1557497661038">
-<icon BUILTIN="idea"/>
-<node TEXT="Kacheguda Railway Station" ID="ID_1697612178" CREATED="1557158583186" MODIFIED="1557158583186"/>
-<node TEXT="Hyderabad city of Telengana" ID="ID_460933618" CREATED="1557158603170" MODIFIED="1557158603170"/>
-<node TEXT="100% energy efficiency" ID="ID_234408891" CREATED="1557158594577" MODIFIED="1557158603022"/>
-<node TEXT="built in 1916 by the Nizam&#x2018;s Guaranteed State Railway during the reign of Mir Osman Ali Khan, the seventh Nizam" ID="ID_1848798947" CREATED="1557158615722" MODIFIED="1557158616000"/>
-</node>
-<node TEXT="Energy efficiency scale up programme" FOLDED="true" ID="ID_39692354" CREATED="1557552413949" MODIFIED="1557552422778">
-<node TEXT="residential and public sectors" ID="ID_185703024" CREATED="1557552439481" MODIFIED="1557552440043"/>
-<node TEXT="enhance its access to commercial financing." ID="ID_726295013" CREATED="1557552446321" MODIFIED="1557552447305"/>
-<node TEXT="under EESL" ID="ID_593673987" CREATED="1557552470320" MODIFIED="1557552473700"/>
-<node TEXT="scalable investments in public street lighting;" ID="ID_472354218" CREATED="1557552463759" MODIFIED="1557552464049"/>
-</node>
 </node>
 <node TEXT="Peatlands" FOLDED="true" ID="ID_260214106" CREATED="1557824986489" MODIFIED="1557824988192">
 <node TEXT="Peats" FOLDED="true" ID="ID_1841762553" CREATED="1557824661618" MODIFIED="1557824662984">
@@ -30061,7 +30190,7 @@
 </node>
 <node TEXT="Conservation&#xa;&#xa;, environmental pollution and degradation&#xa;&#xa;, environmental impact assessment" FOLDED="true" ID="ID_1001929645" CREATED="1540965626266" MODIFIED="1549617210772" BACKGROUND_COLOR="#fefede">
 <node TEXT="Soil Biodiversity under threat" ID="ID_646840830" CREATED="1540966063178" MODIFIED="1540966078828" LINK="https://www.thehindu.com/sci-tech/energy-and-environment/wwf-sees-grave-danger-to-indias-soil-biodiversity/article25372875.ece"/>
-<node TEXT="Env Eco" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1369492587" CREATED="1487759687723" MODIFIED="1526619988981" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="12.7499996200204 pt" TEXT_ALIGN="CENTER">
+<node TEXT="Env Eco" LOCALIZED_STYLE_REF="default" ID="ID_1369492587" CREATED="1487759687723" MODIFIED="1526619988981" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="12.7499996200204 pt" TEXT_ALIGN="CENTER">
 <font NAME="Calibri"/>
 <node TEXT="Basic Concepts" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_615390420" CREATED="1495803103579" MODIFIED="1533554943368">
 <font NAME="Calibri"/>
@@ -30365,6 +30494,15 @@
 </node>
 <node TEXT="UNCCD" LOCALIZED_STYLE_REF="default" ID="ID_531980561" CREATED="1495087047833" MODIFIED="1495087048633">
 <font NAME="Calibri"/>
+<node TEXT="sole legally binding international agreement" ID="ID_1424914293" CREATED="1587188906638" MODIFIED="1587188906638">
+<node TEXT="linking environment and development to sustainable land management a" LOCALIZED_STYLE_REF="default" ID="ID_1694444649" CREATED="1587188912440" MODIFIED="1587188913314">
+<font NAME="Calibri"/>
+</node>
+<node TEXT="desertification" LOCALIZED_STYLE_REF="default" ID="ID_1342156808" CREATED="1587188920470" MODIFIED="1587188920990">
+<font NAME="Calibri"/>
+</node>
+</node>
+<node TEXT="10 year strategy 2008-2018" ID="ID_907596357" CREATED="1587188951849" MODIFIED="1587188958338"/>
 </node>
 <node TEXT="CBD" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_98512147" CREATED="1489228587900" MODIFIED="1495087042524" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
@@ -31884,6 +32022,17 @@
 <node TEXT="Constituional Articles related to env [2126 - 77 ]" ID="ID_625968203" CREATED="1489410441630" MODIFIED="1497043998654" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf">
 <font NAME="Calibri"/>
 </node>
+<node TEXT="reducing fossil fuel emission" ID="ID_262867095" CREATED="1587189610832" MODIFIED="1587189616248">
+<font NAME="Calibri"/>
+<node TEXT="CAFE" ID="ID_575230398" CREATED="1587189617118" MODIFIED="1587189620731">
+<node TEXT="    corporate average fuel efficiency" ID="ID_1767846538" CREATED="1587189620867" MODIFIED="1587189628730"/>
+<node TEXT="Dept of heavy industries" ID="ID_837428621" CREATED="1587189634045" MODIFIED="1587189642927"/>
+<node TEXT="cut down CO2 by 2017" ID="ID_792521434" CREATED="1587189644033" MODIFIED="1587189653258">
+<node TEXT="&gt;=10%&#xa;2017 - 2021" ID="ID_628963870" CREATED="1587189725910" MODIFIED="1587189739605"/>
+<node TEXT="&gt;=30%&#xa;fuel efficient&#xa;from 2022" ID="ID_1338747409" CREATED="1587189718631" MODIFIED="1587189751514"/>
+</node>
+</node>
+</node>
 <node TEXT="SDG" FOLDED="true" ID="ID_1755378318" CREATED="1489576313117" MODIFIED="1526619988965">
 <font NAME="Calibri"/>
 <node TEXT="Facts remember" FOLDED="true" ID="ID_1911971522" CREATED="1491234532506" MODIFIED="1494562214040">
@@ -31903,12 +32052,12 @@
 <node TEXT="MDG" ID="ID_1605743455" CREATED="1489576315590" MODIFIED="1497043998669">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="PARIVESH" ID="ID_1256004641" CREATED="1534309031419" MODIFIED="1534309034014">
+<node TEXT="PARIVESH" FOLDED="true" ID="ID_1256004641" CREATED="1534309031419" MODIFIED="1534309034014">
 <font NAME="Calibri"/>
 <node TEXT="pro active and responsive facilitation by interactive virtuous and environmental single window hub" ID="ID_1270635238" CREATED="1534309034123" MODIFIED="1534309068034"/>
 <node TEXT="env&#xa;, forest wildlife&#xa;, CRZ clearances,&#xa;&#xa;all under one hood" ID="ID_81105387" CREATED="1534309070957" MODIFIED="1558266255350"/>
 </node>
-<node TEXT="Land degradation" ID="ID_396736736" CREATED="1569128847696" MODIFIED="1569128850919">
+<node TEXT="Land degradation" FOLDED="true" ID="ID_396736736" CREATED="1569128847696" MODIFIED="1569128850919">
 <font NAME="Calibri"/>
 <node TEXT="status" ID="ID_1151354373" CREATED="1569128857521" MODIFIED="1569128858727">
 <node TEXT="Desertification and Land Degradation of Selected Districts of India : by SAC, ISRO&#xa;&#xa;&#xa; -&gt; ~30% land is undergoing degradation" ID="ID_424439967" CREATED="1569128851063" MODIFIED="1569128857141"/>
@@ -31918,13 +32067,15 @@
 <node TEXT="submission to UNCCD : 26 mn hectare land save target" ID="ID_83134384" CREATED="1569128867900" MODIFIED="1569128884962"/>
 <node TEXT="Bonn Challenge" FOLDED="true" ID="ID_249674098" CREATED="1569128945069" MODIFIED="1569128948148">
 <node TEXT="Forest landscape restoration approach (FLR) Approach" ID="ID_371823333" CREATED="1569129138428" MODIFIED="1569129153236">
-<node TEXT="multi functional landscape to balance ecology with human needs" ID="ID_51580402" CREATED="1569129161513" MODIFIED="1569129173459"/>
+<node TEXT="ecologically functional landscape to balance ecology with human needs" ID="ID_51580402" CREATED="1569129161513" MODIFIED="1587189118055"/>
+<node TEXT="enhancing human well being across deforested landscape" ID="ID_1258252975" CREATED="1587189118180" MODIFIED="1587189129546"/>
 </node>
+<node TEXT="13(2020) +8 (2030)&#xa;mn hectare&#xa;restoration" ID="ID_1130369474" CREATED="1587189023273" MODIFIED="1587189061229"/>
 </node>
 <node TEXT="importance of LDN" FOLDED="true" ID="ID_1301064489" CREATED="1569129019417" MODIFIED="1569129022128">
 <node TEXT="LDN emerged at Rio+20 UN conf on Sus Dev" ID="ID_357932098" CREATED="1569129037703" MODIFIED="1569129050812"/>
 <node TEXT="paradigm shift in land management&#xa;&#xa; counterbalances the expected loss of productive land with the recovery of degraded areas" ID="ID_57411242" CREATED="1569129069836" MODIFIED="1569129093218"/>
-<node TEXT="UNCCD&apos;s statement" ID="ID_1608258782" CREATED="1569128967491" MODIFIED="1569128971383">
+<node TEXT="UNCCD&apos;s statement" FOLDED="true" ID="ID_1608258782" CREATED="1569128967491" MODIFIED="1569128971383">
 <node TEXT="re-establishing land&#x2019;s productivity&#xa;&#xa;by ensuring land degradation neutrality&#xa;(LDN) is&#xa;&#xa;key to promoting peace,&#xa;achieving development&#xa;&#xa;and mitigating climate change impacts." ID="ID_249222951" CREATED="1569128971947" MODIFIED="1569129014697"/>
 </node>
 <node TEXT="SDG - 15" ID="ID_437984435" CREATED="1569129054371" MODIFIED="1569129056484"/>

@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.5">
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
     <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
@@ -3590,89 +3590,6 @@
 </node>
 </node>
 <node TEXT="e-governance meeting DARPG : , &#x2018;Technology for accelerating Development&#x2019; motto" ID="ID_42750112" CREATED="1519606411180" MODIFIED="1519606425398"/>
-</node>
-<node TEXT="Economics" FOLDED="true" ID="ID_92183222" CREATED="1494811043464" MODIFIED="1496055203521">
-<font NAME="Calibri"/>
-<node TEXT="Scheduled drugs" ID="ID_1548694271" CREATED="1491902347097" MODIFIED="1491902351066">
-<node TEXT="H1" ID="ID_1210053706" CREATED="1491902351508" MODIFIED="1491902352608">
-<node TEXT="antibiotic" ID="ID_415003604" CREATED="1491902356527" MODIFIED="1491902358942"/>
-<node TEXT=" preserve copy for 3 yrs" ID="ID_1390181341" CREATED="1491902362754" MODIFIED="1491902380163"/>
-</node>
-<node TEXT="H" ID="ID_292756730" CREATED="1491902352763" MODIFIED="1491902353312">
-<node TEXT="prescription" ID="ID_1146678114" CREATED="1491902417141" MODIFIED="1491902419283"/>
-</node>
-<node TEXT="X" ID="ID_1713096947" CREATED="1491902354322" MODIFIED="1491902354662">
-<node TEXT="H + narcotics" ID="ID_657434605" CREATED="1491902390697" MODIFIED="1491902438246"/>
-<node TEXT=" preserve copy for 3 yrs" ID="ID_771171412" CREATED="1491902362754" MODIFIED="1491902380163"/>
-</node>
-</node>
-<node TEXT="Gross Domestic Capital Formation" ID="ID_1850823742" CREATED="1491713886484" MODIFIED="1495098883949">
-<node TEXT="creation of durable infra or economic assets" ID="ID_1679840403" CREATED="1495098889658" MODIFIED="1495098904648"/>
-</node>
-<node TEXT="Infrastructure investment trust&#xa;InvIT" ID="ID_1073157773" CREATED="1494396858152" MODIFIED="1526097495595">
-<icon BUILTIN="idea"/>
-<node TEXT="fund by SEBI for infrastructure investment" ID="ID_728050095" CREATED="1494396865918" MODIFIED="1494396876819"/>
-<node TEXT="90% of funds to investors every 6 months" ID="ID_667423212" CREATED="1499046657161" MODIFIED="1499046667084"/>
-<node TEXT="short term CGT = 15%&#xa;long term no CGT" ID="ID_1175145781" CREATED="1499046670178" MODIFIED="1499046681446"/>
-<node TEXT="@vagaries of Stock market" ID="ID_1395790719" CREATED="1494396878449" MODIFIED="1494396883887">
-<node TEXT="i.e. not risk free!" ID="ID_671082857" CREATED="1494396884043" MODIFIED="1494396888182"/>
-</node>
-</node>
-<node TEXT="FCNR accounts" ID="ID_895824369" CREATED="1490670572037" MODIFIED="1526801790898">
-<icon BUILTIN="idea"/>
-<node TEXT="Foreign Currency Non resident account" ID="ID_207292384" CREATED="1491733949339" MODIFIED="1496029794987"/>
-<node TEXT="Only FD" LOCALIZED_STYLE_REF="default" ID="ID_1603264046" CREATED="1491734673487" MODIFIED="1497694263447" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="Jointly  with other NRIs = ok&#xa;Overseas corporate bodies can open too" ID="ID_265394617" CREATED="1491734677957" MODIFIED="1526801807535"/>
-<node TEXT="Exemption from Income tax laws" LOCALIZED_STYLE_REF="default" ID="ID_1272803532" CREATED="1491734690587" MODIFIED="1495021399439" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="Agricultural income" ID="ID_1027527426" CREATED="1494398042310" MODIFIED="1559317653536">
-<node TEXT="define acc. to IT Act" ID="ID_1252331788" CREATED="1494398049608" MODIFIED="1496030736833">
-<node TEXT="revenue from land" ID="ID_1505601727" CREATED="1494398055467" MODIFIED="1494398059232"/>
-<node TEXT="buildings on land" ID="ID_1959051888" CREATED="1494398059810" MODIFIED="1494398062022"/>
-<node TEXT="income through agri on land" ID="ID_1288110534" CREATED="1494398064717" MODIFIED="1494398069389"/>
-</node>
-<node TEXT="exempt from total income for tax calculation" ID="ID_862766749" CREATED="1494398071476" MODIFIED="1494398080498"/>
-<node TEXT="state may impose some tax on plantations!" LOCALIZED_STYLE_REF="default" ID="ID_132217788" CREATED="1494398081522" MODIFIED="1496310141747" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-<node TEXT="eSign" ID="ID_409502830" CREATED="1494453543172" MODIFIED="1497234750584">
-<node TEXT="digital certi signature" ID="ID_657599663" CREATED="1494453544754" MODIFIED="1494453577112"/>
-<node TEXT="legally recognised" ID="ID_966144768" CREATED="1494453558815" MODIFIED="1494453560896">
-<node TEXT="IT act 2000 has provision" ID="ID_970461710" CREATED="1494453561052" MODIFIED="1494453566187"/>
-</node>
-</node>
-<node TEXT="Financial sector legislative reform committee&#xa;FSLRC" ID="ID_1663927506" CREATED="1496661240300" MODIFIED="1497694312344">
-<icon BUILTIN="full-1"/>
-<node TEXT="Justice,&#xa;BN Krishna" ID="ID_369712170" CREATED="1496661255891" MODIFIED="1496661260477"/>
-<node TEXT="to suggest institutionalisation of arbitration mechanism in India" ID="ID_1604400469" CREATED="1496710794547" MODIFIED="1496710815581"/>
-</node>
-<node TEXT=" &#x2018;Minimum Reserve System&#x2019;" ID="ID_1777961422" CREATED="1527155739217" MODIFIED="1527155739897">
-<node ID="ID_1544312543" CREATED="1527155747345" MODIFIED="1527155747345"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">reserve of gold and foreign securities and is empowered to issue currency to any extent</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="&#x201c;Business beyond Borders&#x201d; is the theme" ID="ID_1000852058" CREATED="1527155869000" MODIFIED="1527155869271">
-<node TEXT="The SME International Convention &#x2013; 2018." ID="ID_1242409610" CREATED="1527155874288" MODIFIED="1527155874678"/>
-<node TEXT="trade opportunities in India for International Entrepreneurs." ID="ID_119824151" CREATED="1527155894595" MODIFIED="1527155894884"/>
-<node TEXT="NSIC + MSME + KVIC + Coir Board&#xa;&#xa;NSIC + national small industries corporation" ID="ID_293907287" CREATED="1527155901710" MODIFIED="1527155923064"/>
-</node>
-<node TEXT="ISO 27001" ID="ID_1365557484" CREATED="1527155961788" MODIFIED="1527155967066">
-<node TEXT="information security" ID="ID_1226662684" CREATED="1527155967231" MODIFIED="1527155975086"/>
-</node>
 </node>
 <node TEXT="Env Eco" FOLDED="true" ID="ID_1752209541" CREATED="1490947951833" MODIFIED="1496055203521">
 <font NAME="Calibri"/>
@@ -9021,7 +8938,7 @@
 </node>
 <node TEXT="reasons of formation of tropical cyclone" ID="ID_407031278" CREATED="1526475043148" MODIFIED="1526475051977"/>
 </node>
-<node TEXT="IR" LOCALIZED_STYLE_REF="default" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
+<node TEXT="IR" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="left" ID="ID_1182737680" CREATED="1488084868336" MODIFIED="1494887616061">
 <font NAME="Calibri"/>
 <node TEXT="Security" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1034117854" CREATED="1488085350288" MODIFIED="1494887616062">
 <font NAME="Calibri"/>
@@ -11752,7 +11669,7 @@
 <node TEXT="revivalist, opposed Syed Ahmed khan, Liberal interpret islam" ID="ID_329231614" CREATED="1526972029245" MODIFIED="1526972041749"/>
 </node>
 </node>
-<node TEXT="Sabhas/associations" ID="ID_763349057" CREATED="1495364029571" MODIFIED="1558087262577">
+<node TEXT="Sabhas/associations" FOLDED="true" ID="ID_763349057" CREATED="1495364029571" MODIFIED="1558087262577">
 <font BOLD="true"/>
 <node TEXT="Bangabhasha Prakasika Sabha" FOLDED="true" ID="ID_1563376803" CREATED="1558087381647" MODIFIED="1558087382127">
 <node TEXT="1836, Associates of RM Roy" ID="ID_33854797" CREATED="1558087382980" MODIFIED="1558087398167"/>
@@ -11919,7 +11836,11 @@
 </node>
 </node>
 </node>
-<node TEXT="Lords and contributions" FOLDED="true" ID="ID_1309573505" CREATED="1524126958936" MODIFIED="1524126964372">
+<node TEXT="Alburqurque" FOLDED="true" ID="ID_1334708057" CREATED="1586951579248" MODIFIED="1586951583379">
+<node TEXT="abolished Sati During his rule 15___" ID="ID_313083664" CREATED="1586951583597" MODIFIED="1586951595727"/>
+<node TEXT="portuguese governor" ID="ID_1451444441" CREATED="1586951601018" MODIFIED="1586951606679"/>
+</node>
+<node TEXT="Lords and contributions" ID="ID_1309573505" CREATED="1524126958936" MODIFIED="1524126964372">
 <node TEXT="bentick" FOLDED="true" ID="ID_161996035" CREATED="1524126964573" MODIFIED="1524126966103">
 <node ID="ID_296119459" CREATED="1524126966235" MODIFIED="1524126992068"><richcontent TYPE="NODE">
 
@@ -11942,7 +11863,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="landsowne" FOLDED="true" ID="ID_1085835443" CREATED="1524127382812" MODIFIED="1524127386555">
+<node TEXT="landsowne" ID="ID_1085835443" CREATED="1524127382812" MODIFIED="1524127386555">
 <node TEXT="durand commission" ID="ID_599840364" CREATED="1524127387026" MODIFIED="1524127389765"/>
 </node>
 </node>
