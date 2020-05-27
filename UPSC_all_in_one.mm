@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -10558,9 +10558,9 @@
 <node TEXT="AIFTA" LOCALIZED_STYLE_REF="default" ID="ID_1340323271" CREATED="1488260553996" MODIFIED="1495153324621" LINK="#ID_582114642">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="BRICS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_587552704" CREATED="1488262566538" MODIFIED="1495153324621">
+<node TEXT="BRICS" LOCALIZED_STYLE_REF="default" ID="ID_587552704" CREATED="1488262566538" MODIFIED="1495153324621">
 <font NAME="Calibri"/>
-<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_460539510" CREATED="1494884795637" MODIFIED="1557310909266" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="default" ID="ID_460539510" CREATED="1494884795637" MODIFIED="1557310909266" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10574,7 +10574,7 @@
 </html>
 </richcontent>
 <font NAME="Calibri"/>
-<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_409260621" CREATED="1488262568661" MODIFIED="1557310923010">
+<node LOCALIZED_STYLE_REF="default" ID="ID_409260621" CREATED="1488262568661" MODIFIED="1557310923010">
 <icon BUILTIN="full-1"/>
 <richcontent TYPE="NODE">
 
@@ -10592,6 +10592,7 @@
 <node TEXT="HQ shanghai" ID="ID_169171414" CREATED="1490370909715" MODIFIED="1557314918904"/>
 <node TEXT="equal voting&#xa;equal share" ID="ID_572697201" CREATED="1491533118187" MODIFIED="1557314983723"/>
 <node TEXT="green bond in Reminbi currency" ID="ID_232506844" CREATED="1557314956454" MODIFIED="1557314964661"/>
+<node TEXT="share of the BRICS nations &gt;= 55% of voting power." ID="ID_1134708" CREATED="1590612291293" MODIFIED="1590612304773"/>
 </node>
 <node TEXT="Contingency Reserves Agency" LOCALIZED_STYLE_REF="default" ID="ID_776660586" CREATED="1494884730727" MODIFIED="1557314995881">
 <font ITALIC="true"/>
@@ -10637,25 +10638,36 @@
 </node>
 </node>
 </node>
+<node TEXT="Issues with BRICS" FOLDED="true" ID="ID_338177742" CREATED="1590612340227" MODIFIED="1590612343309">
+<node TEXT="2019_11_2.6" ID="ID_102003714" CREATED="1590612405276" MODIFIED="1590612414066"/>
+<node TEXT="Commonality?" ID="ID_1506327393" CREATED="1590612414665" MODIFIED="1590612431853"/>
+<node TEXT="Common geo political agenda?&#xa;&#xa;Brasilia Declaration - Talk of shared interests (often interpreted in narrow national interest context)" ID="ID_477188027" CREATED="1590612432430" MODIFIED="1590612484108"/>
+<node TEXT="still ousiders in global financial system" ID="ID_1721635394" CREATED="1590612500081" MODIFIED="1590612507298"/>
+<node TEXT="intra BRICS trade LOW (15% only)" ID="ID_234805907" CREATED="1590612507485" MODIFIED="1590612517551"/>
+</node>
+<node TEXT="Way fwd" ID="ID_976980393" CREATED="1590612539791" MODIFIED="1590612542079">
+<node TEXT="permanent secretariat" ID="ID_1932003596" CREATED="1590612651421" MODIFIED="1590612656567"/>
+<node TEXT="rather than intergovernmental format,&#xa;&#xa;HOld in FORUM FORMAT" ID="ID_915641923" CREATED="1590612663448" MODIFIED="1590612680440"/>
+</node>
 <node TEXT="fodder" FOLDED="true" ID="ID_1464559291" CREATED="1557312390493" MODIFIED="1557312391818">
 <node TEXT="South Africa joined in 2011" LOCALIZED_STYLE_REF="default" ID="ID_330362792" CREATED="1494884782542" MODIFIED="1494884789507"/>
 <node TEXT="5 Goals from Goa" LOCALIZED_STYLE_REF="default" ID="ID_1812307188" CREATED="1494884890906" MODIFIED="1494884893801">
 <node TEXT="v_oct 2016" ID="ID_387183933" CREATED="1494884895790" MODIFIED="1494884898705"/>
 </node>
-<node TEXT="Independent Rating Agency" LOCALIZED_STYLE_REF="default" ID="ID_213994811" CREATED="1488262576082" MODIFIED="1506491561554">
+<node TEXT="Independent Rating Agency" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_213994811" CREATED="1488262576082" MODIFIED="1506491561554">
 <font ITALIC="true"/>
 <node TEXT="Free from ethical conflict seen in issuer-pays model&#xa;i.e. bonds&apos; issuer pays for rating." LOCALIZED_STYLE_REF="default" ID="ID_879729218" CREATED="1488262582786" MODIFIED="1488545169775"/>
 </node>
-<node TEXT="International Arbitration Mechanism" LOCALIZED_STYLE_REF="default" ID="ID_106913173" CREATED="1488539338224" MODIFIED="1506491561538">
+<node TEXT="International Arbitration Mechanism" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_106913173" CREATED="1488539338224" MODIFIED="1506491561538">
 <font ITALIC="true"/>
 <node TEXT="against west domination" LOCALIZED_STYLE_REF="default" ID="ID_1191155094" CREATED="1488539372452" MODIFIED="1488545169777"/>
 <node TEXT="Emerging economies repn in arbitration" LOCALIZED_STYLE_REF="default" ID="ID_1098036782" CREATED="1488539356945" MODIFIED="1488545169778"/>
 </node>
 <node TEXT="New Delhi Declaration on Education" LOCALIZED_STYLE_REF="default" ID="ID_383983986" CREATED="1488864368039" MODIFIED="1488864374469"/>
-<node TEXT="BRICS media forum" ID="ID_1974406459" CREATED="1499309013201" MODIFIED="1499309015721">
+<node TEXT="BRICS media forum" FOLDED="true" ID="ID_1974406459" CREATED="1499309013201" MODIFIED="1499309015721">
 <node TEXT="for impartial non biased media, &quot;balanced reporting&quot;" ID="ID_1231885798" CREATED="1499309016693" MODIFIED="1499309029126"/>
 </node>
-<node TEXT="BRICS bank inter cooperation mechanism" ID="ID_192949231" CREATED="1495769613089" MODIFIED="1495769646579">
+<node TEXT="BRICS bank inter cooperation mechanism" FOLDED="true" ID="ID_192949231" CREATED="1495769613089" MODIFIED="1495769646579">
 <icon BUILTIN="launch"/>
 <node TEXT="india se EXIM bank" ID="ID_677542898" CREATED="1495769620236" MODIFIED="1495769624160"/>
 <node TEXT="+ other nation ke banks for economic ties + investment" ID="ID_362492695" CREATED="1495769626176" MODIFIED="1495769641487"/>
