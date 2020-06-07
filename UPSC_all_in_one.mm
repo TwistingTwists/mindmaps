@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -1672,7 +1672,7 @@
 </node>
 </node>
 </node>
-<node TEXT="CDSCO" FOLDED="true" ID="ID_365968054" CREATED="1497942438579" MODIFIED="1497942442626">
+<node TEXT="CDSCO" ID="ID_365968054" CREATED="1497942438579" MODIFIED="1497942442626">
 <node TEXT="pharmaceutical drug control&#xa;under MoHFW" ID="ID_921583399" CREATED="1497942442985" MODIFIED="1497942456358"/>
 </node>
 <node TEXT="Central council of local govt." FOLDED="true" ID="ID_406243273" CREATED="1526183672198" MODIFIED="1526183675881">
@@ -6157,36 +6157,6 @@
   </head>
   <body>
     <span class="fontstyle0">Agricultural and Processed Food<br/>Products Export Development Authority Act, 1985</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Indian Pharmacopoeia Commission&#xa;( IPC )" FOLDED="true" ID="ID_561237041" CREATED="1495340443427" MODIFIED="1495496711229">
-<node TEXT="autonomous under Min Health" ID="ID_426618430" CREATED="1495340530993" MODIFIED="1495340539848"/>
-<node TEXT="set drug standards" ID="ID_1832583283" CREATED="1495340543789" MODIFIED="1495340548889"/>
-<node ID="ID_977908149" CREATED="1495340570909" MODIFIED="1495340592601"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      set to become the first <font size="3">WHO </font>Collaborating Centre for<br/>Safety of Medicines and Vaccines in the South-East Asia Region<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_775030086" CREATED="1495340609112" MODIFIED="1495340609112"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">rational use of generic<br/>medicines by publishing National<br/>Formulary of India</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
   </body>
 </html>
 </richcontent>

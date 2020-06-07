@@ -11356,8 +11356,7 @@
 <node TEXT="Public education" LOCALIZED_STYLE_REF="default" ID="ID_1170085288" CREATED="1488272065441" MODIFIED="1488545169838"/>
 </node>
 </node>
-<node TEXT="Kala Azar&#xa;Black Fever, Dumdum Fever, Visceral Leishmansiasis (VL)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_853943116" CREATED="1488596611052" MODIFIED="1525681262603">
-<icon BUILTIN="help"/>
+<node TEXT="Kala Azar&#xa;Black Fever, Dumdum Fever, Visceral Leishmansiasis (VL)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_853943116" CREATED="1488596611052" MODIFIED="1591497773802">
 <node TEXT="both tropical and temperate regions" ID="ID_77158645" CREATED="1497312883533" MODIFIED="1497312888350"/>
 <node TEXT="endemic to India" LOCALIZED_STYLE_REF="default" ID="ID_1925764196" CREATED="1523772922060" MODIFIED="1523772954883" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
@@ -11407,12 +11406,52 @@
 </node>
 </node>
 <node TEXT="NTD" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1696064141" CREATED="1488619054924" MODIFIED="1488619056243">
-<node TEXT="by WHO" ID="ID_196446666" CREATED="1488619056408" MODIFIED="1488619058420"/>
+<node TEXT="by WHO" ID="ID_196446666" CREATED="1488619056408" MODIFIED="1488619058420">
+<node TEXT="why focus on NTD?" ID="ID_1265125234" CREATED="1591497287736" MODIFIED="1591497311102">
+<node TEXT="affect more than 1 bn people and cost developing&#xa;economies billions of dollars every year." ID="ID_1074815354" CREATED="1591497311869" MODIFIED="1591497319899"/>
+<node TEXT="poverty SDG," ID="ID_38425177" CREATED="1591497320046" MODIFIED="1591497330624"/>
+<node TEXT="living in poverty and close contact to animals are most affected&#xa;&#xa;&#xa;Yet least researched" ID="ID_1669180474" CREATED="1591497330784" MODIFIED="1591497358319"/>
+</node>
+</node>
+<node TEXT="def - 2019_10_7.11" FOLDED="true" ID="ID_915113068" CREATED="1591497187855" MODIFIED="1591497200089">
+<node TEXT="neglected in the pharmaceutical industry&#x2019;s research" FOLDED="true" ID="ID_266289054" CREATED="1591497238402" MODIFIED="1591497240293">
+<node TEXT="Why neglected ?&#xa;&#xa;&#xa;limited geographical incidence&#xa;&#xa;+ no profit" ID="ID_944924262" CREATED="1591497258864" MODIFIED="1591497273081"/>
+</node>
+<node ID="ID_757202778" CREATED="1591497200674" MODIFIED="1591497220676"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">diverse</font></b>&#160;group of <b>communicable</b>&#160;diseases that prevail in
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b>tropical</b>&#160;and subtropical conditions in 149 countries.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 <node TEXT="Dengue" ID="ID_1914173909" CREATED="1495782829052" MODIFIED="1495782830342"/>
+<node TEXT="Visceral Leishmaniasis (Kala-Azar)" ID="ID_1198443141" CREATED="1591497453214" MODIFIED="1591497993014" LINK="#ID_853943116">
+<node TEXT="fatal in 95% cases, if left untreated" ID="ID_1911245188" CREATED="1591497494430" MODIFIED="1591497506377"/>
+</node>
 <node TEXT="Chikungunya" LOCALIZED_STYLE_REF="default" ID="ID_587842502" CREATED="1488271683133" MODIFIED="1488545169833"/>
 <node TEXT="Lymphatic filariasis/ elephantiasis," ID="ID_760179551" CREATED="1560911735519" MODIFIED="1560911833203">
+<node TEXT="transmission" ID="ID_74413889" CREATED="1591498163244" MODIFIED="1591498165670">
+<node TEXT="all mosquitoes like Culex, Anopheles, and Aedes." ID="ID_65183513" CREATED="1591498165949" MODIFIED="1591498170936"/>
+</node>
+<node TEXT="WHO - second most common cause of long-term disability after mental illness" ID="ID_1690767625" CREATED="1591498270031" MODIFIED="1591498279188"/>
 <node TEXT="steps by gov" ID="ID_902996270" CREATED="1560911757841" MODIFIED="1560911762008">
-<node TEXT="eradicate filariasis by 2020." ID="ID_671666580" CREATED="1560911762491" MODIFIED="1560911766753"/>
+<node TEXT="eradicate filariasis by 2020.&#xa;&#xa;WHO reco" ID="ID_671666580" CREATED="1560911762491" MODIFIED="1591498303929"/>
+<node TEXT="first country in southeast Asia to adopt a drug regime to prevent LF." ID="ID_1938975696" CREATED="1591498202795" MODIFIED="1591498204428"/>
 <node TEXT="National Filaria Control Programme" ID="ID_1425840699" CREATED="1560911772599" MODIFIED="1560911773810"/>
 <node TEXT="&quot;Hathipaon Mukt Bharat&quot;" ID="ID_223971924" CREATED="1560911791529" MODIFIED="1560911791891">
 <node TEXT="preventive medication to rhigh risk communities" ID="ID_156544123" CREATED="1560911802631" MODIFIED="1560911809535"/>
@@ -11420,10 +11459,44 @@
 </node>
 </node>
 <node TEXT="MAP [image]" ID="ID_1568652962" CREATED="1560911888794" MODIFIED="1560912563292" LINK="https://telegra.ph/Filariasis-06-19"/>
-<node TEXT="WHO 3 drug regimen" ID="ID_1139942387" CREATED="1560911847960" MODIFIED="1560911851277">
+<node TEXT="twin pillar approach" ID="ID_1226826832" CREATED="1591498214802" MODIFIED="1591498218404">
+<node ID="ID_1139942387" CREATED="1560911847960" MODIFIED="1591498227417"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      WHO <font color="#3333ff">3 drug regimen</font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="(ivermectin, diethylcarbamazine&#xa;&#xa;and albendazole)" ID="ID_1444019344" CREATED="1560911855200" MODIFIED="1560911856337"/>
 </node>
-<node TEXT="Mass Drug Administration was introduced by WHO." ID="ID_1657363490" CREATED="1560911866622" MODIFIED="1560911870606"/>
+<node ID="ID_1657363490" CREATED="1560911866622" MODIFIED="1591498239017"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#3333ff">Mass Drug Administration was introduced by WHO.</font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="way forward" FOLDED="true" ID="ID_1571648318" CREATED="1591498104577" MODIFIED="1591498106355">
+<node TEXT="policy for drug development&#xa;&#xa;PPP" ID="ID_96114171" CREATED="1591498109875" MODIFIED="1591498123361"/>
+<node TEXT="biomedical regulator" ID="ID_1894989546" CREATED="1591498124880" MODIFIED="1591498127205"/>
+<node TEXT="rare disease policy" ID="ID_764552667" CREATED="1591498130617" MODIFIED="1591498135583"/>
 </node>
 </node>
 <node TEXT="Rubella" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_84802799" CREATED="1488691939078" MODIFIED="1488691955886" LINK="../../../E:/archived/Downloads/UPSC%20REVISION%20for%202017/unacademy-dl/images/Q_Mar_1/16.jpeg">
@@ -11538,6 +11611,151 @@
 </node>
 </node>
 </node>
+<node TEXT="Pharmaceutical Sector issues" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1149703562" CREATED="1591498588993" MODIFIED="1591502150314" BACKGROUND_COLOR="#ffcc99">
+<node TEXT="Issues with Drug pricing control&#xa;&#xa;DPCO, 2013" FOLDED="true" ID="ID_744886970" CREATED="1591501108341" MODIFIED="1591501120239">
+<node TEXT="market based pricing mechanism in DPCO, 2013&#xa;&#xa;&#xa;2019_02_3.20" FOLDED="true" ID="ID_1245158506" CREATED="1591501037309" MODIFIED="1591501084059">
+<node TEXT="earlier&#xa;&#xa;&#xa;based on the costs involved in manufacturing a medicine along with reasonable profit margins." ID="ID_1515161949" CREATED="1591501055564" MODIFIED="1591501057366"/>
+<node TEXT="reason for shift" ID="ID_1638443413" CREATED="1591501095490" MODIFIED="1591501097991"/>
+</node>
+<node TEXT="reduced supply of Essential medicines (EM)" ID="ID_1531534335" CREATED="1591501138443" MODIFIED="1591501188868">
+<node TEXT="Furoped (a life-saving drug for children with heart ailments)&#xa;&#xa;almost 40%" ID="ID_65326939" CREATED="1591501136275" MODIFIED="1591501263520"/>
+</node>
+<node TEXT="NPPA" FOLDED="true" ID="ID_109359540" CREATED="1551429760156" MODIFIED="1591501952471">
+<node TEXT=" trade margin :&#xa;&#xa;difference between &#xa;&#xa;manufacturers sell to trade and&#xa;&#xa;patients pay (maximum retail price)." ID="ID_479469896" CREATED="1551429743902" MODIFIED="1591501985882">
+<node TEXT="used to bring price under control" ID="ID_1158899043" CREATED="1591501954735" MODIFIED="1591501959187"/>
+</node>
+<node TEXT="functions" ID="ID_682251675" CREATED="1591501855675" MODIFIED="1591501856813">
+<node TEXT="recover amounts overcharged&#xa;&#xa;by manufacturers for the controlled drugs from the consumers." ID="ID_76529306" CREATED="1591501851833" MODIFIED="1591501878048"/>
+<node TEXT="enforce DPCO, 2013" ID="ID_1439382953" CREATED="1591501882845" MODIFIED="1591501887876"/>
+<node ID="ID_1339996738" CREATED="1591501897420" MODIFIED="1591501907351"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff3333">fix/revise</font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;the controlled bulk drugs prices
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1564990570" CREATED="1591501915204" MODIFIED="1591501924576"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;monitor the prices of <font color="#ff00cc">decontrolled </font>drugs
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Min Chemicals" ID="ID_40660408" CREATED="1591502023102" MODIFIED="1591502026192"/>
+</node>
+<node TEXT="non-essential medicine NEM&#xa;&#xa;control?" ID="ID_418763907" CREATED="1591501272754" MODIFIED="1591501285873">
+<node TEXT="not by NPPA" ID="ID_994249833" CREATED="1591501287938" MODIFIED="1591501291181"/>
+</node>
+<node TEXT="nexus between pharma companies and hospitals" ID="ID_351632419" CREATED="1591501296867" MODIFIED="1591501304302"/>
+<node TEXT="reco of Parliamentary Standing Committee ON&#xa;&#xa;Pricing w.r.t. DPCO, 2013" ID="ID_240795670" CREATED="1591501309763" MODIFIED="1591501326442">
+<node TEXT="NPPA have full time experts to reivew NLEM periodically" ID="ID_1931589436" CREATED="1591501434133" MODIFIED="1591501443183"/>
+<node TEXT="stringent quality control" ID="ID_460775281" CREATED="1591501443347" MODIFIED="1591501448050"/>
+<node TEXT="generic drugs and PMBJP" ID="ID_1608340383" CREATED="1591501448201" MODIFIED="1591501472141"/>
+</node>
+</node>
+<node TEXT="pharmacovigilance" FOLDED="true" ID="ID_1545728868" CREATED="1591501521478" MODIFIED="1591501522065">
+<node TEXT="science and activities relating to the&#xa;&#xa; detection, assessment, understanding and prevention&#xa;&#xa;of adverse effects&#xa;&#xa;or any other drug-related problem." ID="ID_74739556" CREATED="1591501527193" MODIFIED="1591501534701"/>
+<node TEXT="pharmacovigilance of AYUSH Drugs. Scheme by Min Ayush" ID="ID_559132047" CREATED="1591501552312" MODIFIED="1591501557416"/>
+<node TEXT="Indian Pharmacopoeia Commission&#xa;( IPC )" FOLDED="true" ID="ID_561237041" CREATED="1495340443427" MODIFIED="1495496711229">
+<node TEXT="autonomous under MoHFW" ID="ID_426618430" CREATED="1495340530993" MODIFIED="1591501608404"/>
+<node TEXT="set drug standards" ID="ID_1832583283" CREATED="1495340543789" MODIFIED="1495340548889"/>
+<node ID="ID_977908149" CREATED="1495340570909" MODIFIED="1495340592601"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      set to become the first <font size="3">WHO </font>Collaborating Centre for<br/>Safety of Medicines and Vaccines in the South-East Asia Region<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_775030086" CREATED="1495340609112" MODIFIED="1591501602252"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      rational use of generic<br/>medicines by publishing National<br/>Formulary of India<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Coordinate Adverse Drug Reports (ADR)" ID="ID_156541901" CREATED="1591501617634" MODIFIED="1591501626023"/>
+</node>
+</node>
+<node TEXT="CDSCO" ID="ID_1187773748" CREATED="1527494511257" MODIFIED="1527494513882">
+<node TEXT="MoHFW" ID="ID_1494797532" CREATED="1527494527633" MODIFIED="1527494534391"/>
+<node TEXT="indian pharmaceuticals medical devices regulation" ID="ID_1930763320" CREATED="1527494515554" MODIFIED="1527494527367"/>
+<node TEXT="Drugs and Cosmetics Act, 1940" ID="ID_467668902" CREATED="1591502263907" MODIFIED="1591502325724"/>
+</node>
+</node>
+<node TEXT="medical devices&#xa;&#xa;2020_02_7.6 for more" FOLDED="true" ID="ID_1290802586" CREATED="1591502039393" MODIFIED="1591502544713">
+<node TEXT="facts" FOLDED="true" ID="ID_1962236033" CREATED="1591506483960" MODIFIED="1591506485381">
+<node TEXT="India depends on imports up to an extent of 85% of total domestic demand of medical devices." ID="ID_70504401" CREATED="1591505836834" MODIFIED="1591505838831"/>
+<node TEXT="regulated under Drug and Cosmetic Act, 1940" ID="ID_785789746" CREATED="1591502434784" MODIFIED="1591502441818"/>
+<node TEXT="manufacture, import and sale control by CDSCO" ID="ID_1273315255" CREATED="1591502360252" MODIFIED="1591502364928"/>
+</node>
+<node TEXT="all medical equipment would qualify as &#x201c;drugs&#x201d; wef 01/04/2020" ID="ID_1589252481" CREATED="1591502340891" MODIFIED="1591502348106"/>
+<node TEXT="GoI Promotion steps&#xa;&#xa;2020_03_7.4" FOLDED="true" ID="ID_1275532317" CREATED="1591506360594" MODIFIED="1591506463239">
+<node TEXT="Promotion of Medical Device Parks:" ID="ID_967400193" CREATED="1591506364265" MODIFIED="1591506365039"/>
+<node TEXT="Production Linked Incentive Scheme&#xa;&#xa;domestic manuf of medical devices" ID="ID_186937127" CREATED="1591506373030" MODIFIED="1591506381980"/>
+<node TEXT="3 mega Bulk Drug (aka API) parks in India" ID="ID_125819946" CREATED="1591506392527" MODIFIED="1591506400674">
+<node TEXT="3k cr for 5 yrs" ID="ID_654677351" CREATED="1591506447941" MODIFIED="1591506451827"/>
+</node>
+</node>
+<node TEXT="significance of regulation of this sector" FOLDED="true" ID="ID_898786960" CREATED="1591506503709" MODIFIED="1591506519978">
+<node TEXT="stents, fault implants, Consumer rights" ID="ID_1523290112" CREATED="1591506547804" MODIFIED="1591506555672"/>
+<node TEXT="economy of scale and domestic manuf" ID="ID_1770616441" CREATED="1591506556591" MODIFIED="1591506568544"/>
+<node TEXT="china import dependence" ID="ID_416578621" CREATED="1591506568719" MODIFIED="1591506572779"/>
+<node TEXT="affordable healthcare and self-reliance in healthcare" ID="ID_1232628717" CREATED="1591506578379" MODIFIED="1591506585703"/>
+</node>
+<node TEXT="way forward" FOLDED="true" ID="ID_1543052174" CREATED="1591502448404" MODIFIED="1591502450584">
+<node TEXT="Medical Devices Amendment Rules, 2020 (amending 2017 rules)" ID="ID_97843341" CREATED="1591502382552" MODIFIED="1591502387694"/>
+<node TEXT="Medical devices draft bill 2019&#xa;&#xa;&#xa;separate legislation" ID="ID_1196275370" CREATED="1591502408704" MODIFIED="1591502458720"/>
+</node>
+</node>
+<node TEXT="Why will it grow in near future and Promises for India ?" FOLDED="true" ID="ID_1693326963" CREATED="1591506228527" MODIFIED="1591506242628">
+<node TEXT="Demand side" FOLDED="true" ID="ID_1128424953" CREATED="1591506242776" MODIFIED="1591506245556">
+<node TEXT="patient increase" ID="ID_757575960" CREATED="1591506328198" MODIFIED="1591506328814"/>
+<node TEXT="medical infra needed" ID="ID_959403636" CREATED="1591506335789" MODIFIED="1591506339051"/>
+</node>
+<node TEXT="supply side" FOLDED="true" ID="ID_1206363145" CREATED="1591506245704" MODIFIED="1591506247282">
+<node TEXT=", talent pool&#xa;, cost effective&#xa;, potential for medical devices&#xa;, patent" ID="ID_1191078485" CREATED="1591506265619" MODIFIED="1591506326909"/>
+<node TEXT="70% of india&apos;s market is generic drugs ! yeay!" ID="ID_1829053790" CREATED="1591506247462" MODIFIED="1591506260580"/>
+</node>
+</node>
+</node>
 <node TEXT="Indices" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1369962473" CREATED="1488178973825" MODIFIED="1495409096998">
 <node TEXT="" ID="ID_1403658149" CREATED="1495409080774" MODIFIED="1495409080776">
 <hook NAME="FirstGroupNode"/>
@@ -11578,7 +11796,8 @@
 <node TEXT="all in HDR (Human development report)" ID="ID_1825839259" CREATED="1495409080777" MODIFIED="1495409091380"/>
 </node>
 </node>
-<node TEXT="GFATM" LOCALIZED_STYLE_REF="default" ID="ID_1283830500" CREATED="1489129912265" MODIFIED="1495340192427">
+<node TEXT="PRE 2020" FOLDED="true" ID="ID_1691832783" CREATED="1591502096432" MODIFIED="1591502100641">
+<node TEXT="GFATM" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1283830500" CREATED="1489129912265" MODIFIED="1495340192427">
 <icon BUILTIN="launch"/>
 <richcontent TYPE="DETAILS">
 
@@ -11609,6 +11828,7 @@
   </body>
 </html>
 </richcontent>
+</node>
 </node>
 </node>
 <node TEXT="Policies /schemes" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1287603073" CREATED="1487759811580" MODIFIED="1525674741976">
@@ -11917,10 +12137,11 @@
 <node TEXT="distinction between services, using public infrastructure for private gains, selecting few districts =&gt; ineuqality increase" ID="ID_1179130089" CREATED="1509014597699" MODIFIED="1509014633625"/>
 </node>
 </node>
-<node TEXT="traditional medicine systems" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1845928496" CREATED="1551429508841" MODIFIED="1551429513637">
+<node TEXT="traditional medicine systems" LOCALIZED_STYLE_REF="default" ID="ID_1845928496" CREATED="1551429508841" MODIFIED="1551429513637">
 <node TEXT="WHO guidelines on YOGA as part of traditional healing systems&#xa;2014-2023" ID="ID_412797086" CREATED="1551429513709" MODIFIED="1551429534121">
 <node TEXT="3 objectives:&#xa;&#xa;, knowledge base + national policy&#xa;&#xa;, safety via regulation&#xa;&#xa;, promotion of Universal health systems" ID="ID_642002763" CREATED="1551429535499" MODIFIED="1551429575158"/>
 </node>
+<node TEXT="regulatory 2020_03_7.5" ID="ID_1479165512" CREATED="1591506627057" MODIFIED="1591506644849"/>
 </node>
 <node TEXT="Tobacco" FOLDED="true" ID="ID_1483396599" CREATED="1525674726377" MODIFIED="1525674728394">
 <node TEXT="FCTC" ID="ID_278606915" CREATED="1494908971700" MODIFIED="1497043998716">
@@ -11996,6 +12217,37 @@
 <node TEXT="self-sampling for human papillomavirus (HPV)" ID="ID_1500687477" CREATED="1562076099504" MODIFIED="1562076099854"/>
 <node TEXT="(HIV) self-testing" ID="ID_1751341492" CREATED="1562076085401" MODIFIED="1562076085818"/>
 <node TEXT="self-&#xa;&#xa;management of medical abortion." ID="ID_223337294" CREATED="1562076089496" MODIFIED="1562076089997"/>
+</node>
+</node>
+<node TEXT="Generic Drugs" FOLDED="true" ID="ID_981182264" CREATED="1591505703330" MODIFIED="1591505705594">
+<node TEXT="india ranks 3rd worldwide for production by volume and 13th by value." ID="ID_234217825" CREATED="1591505705773" MODIFIED="1591505712044"/>
+<node TEXT="100% FDI allowed" ID="ID_510944337" CREATED="1591505722426" MODIFIED="1591505729748"/>
+<node TEXT="API issue" FOLDED="true" ID="ID_1859739937" CREATED="1591505787440" MODIFIED="1591505789656">
+<node TEXT="70% of India&#x2019;s API imported from China" ID="ID_1406675553" CREATED="1591505789826" MODIFIED="1591505795262"/>
+</node>
+<node TEXT="&#x2018;Pharma Vision 2020" FOLDED="true" ID="ID_1562994406" CREATED="1591505740634" MODIFIED="1591505741398">
+<node TEXT="Dept of Pharmaceuticals under min chemicals" ID="ID_779243370" CREATED="1591505742181" MODIFIED="1591505751303"/>
+<node TEXT="to enable end-2-end drug discovery in India" ID="ID_1629031966" CREATED="1591505753902" MODIFIED="1591505773111"/>
+</node>
+</node>
+<node TEXT="UHC Universal health coverage" ID="ID_1763511605" CREATED="1591502127974" MODIFIED="1591502135204">
+<node TEXT="UNGA stressed need for UHC" ID="ID_1160894523" CREATED="1591502170025" MODIFIED="1591502175908"/>
+</node>
+<node TEXT="Telemedicine Role" FOLDED="true" ID="ID_1623743124" CREATED="1591505237352" MODIFIED="1591505241167">
+<node TEXT="WHO def&#xa;&#xa;using ICT for&#xa;&#xa;Diagnosis&#xa;Treatment Prevention of&#xa;&#xa;disease and injuries" ID="ID_1751896821" CREATED="1591505289438" MODIFIED="1591505315468"/>
+<node TEXT="Guidelines by MoHFW&#xa;&#xa;2020_03_7.2" FOLDED="true" ID="ID_1141641110" CREATED="1591505244112" MODIFIED="1591505264610">
+<node TEXT="(RMPs) under the Indian Medical Council Act 1956&#xa;&#xa;Can do telemedicine" ID="ID_168202873" CREATED="1591505620344" MODIFIED="1591505626849"/>
+<node TEXT="not anonymous consultation" ID="ID_1433978079" CREATED="1591505633345" MODIFIED="1591505637967"/>
+<node TEXT="certain drugs that cannot be prescribed via telemedicine" ID="ID_1543130803" CREATED="1591505645211" MODIFIED="1591505651973"/>
+</node>
+<node TEXT="advantages" ID="ID_1720479445" CREATED="1591505327139" MODIFIED="1591505329663"/>
+<node TEXT="challenges" FOLDED="true" ID="ID_1228128780" CREATED="1591505330043" MODIFIED="1591505331585">
+<node TEXT="supporting health infra&#xa;&#xa;Diagnostic tests?&#xa;&#xa;Blood report etc?" ID="ID_16916288" CREATED="1591505417626" MODIFIED="1591505442196"/>
+<node TEXT="net speed?" ID="ID_780815747" CREATED="1591505442751" MODIFIED="1591505452577"/>
+<node TEXT="privacy issues" ID="ID_1775104256" CREATED="1591505452855" MODIFIED="1591505455428"/>
+</node>
+<node TEXT="way fwd" FOLDED="true" ID="ID_267189035" CREATED="1591505331883" MODIFIED="1591505333197">
+<node TEXT="augment with delivery of medicines and blood bottles via drone (UK)" ID="ID_1208907000" CREATED="1591505584650" MODIFIED="1591505599410"/>
 </node>
 </node>
 <node TEXT="Health Literacy" FOLDED="true" ID="ID_116012017" CREATED="1554437485755" MODIFIED="1554437490480">
@@ -22475,10 +22727,6 @@
 <node TEXT="Day Zero" ID="ID_1399127684" CREATED="1527494222031" MODIFIED="1527494225748">
 <node TEXT="Cape town to tightly use water" ID="ID_425988314" CREATED="1527494229326" MODIFIED="1527494245649"/>
 </node>
-<node TEXT="CDSCO" ID="ID_1187773748" CREATED="1527494511257" MODIFIED="1527494513882">
-<node TEXT="indian pharmaceuticals medical devices regulation" ID="ID_1930763320" CREATED="1527494515554" MODIFIED="1527494527367"/>
-<node TEXT="MoHFW" ID="ID_1494797532" CREATED="1527494527633" MODIFIED="1527494534391"/>
-</node>
 <node TEXT="lytton" ID="ID_348756754" CREATED="1527494793226" MODIFIED="1527494794415">
 <node TEXT="exclusively for india statutory civil services" ID="ID_1814087398" CREATED="1527494794587" MODIFIED="1527494802325"/>
 </node>
@@ -23532,9 +23780,6 @@
 </node>
 </node>
 <node TEXT="prelims 2019" FOLDED="true" POSITION="right" ID="ID_479714722" CREATED="1551429738461" MODIFIED="1551429740990">
-<node TEXT="NPPA brings price under control (control trade margins)" FOLDED="true" ID="ID_109359540" CREATED="1551429760156" MODIFIED="1551429772103">
-<node TEXT=" trade margin :&#xa;&#xa;difference between the price at which the manufacturers sell to trade and the price that patients pay (maximum retail price)." ID="ID_479469896" CREATED="1551429743902" MODIFIED="1551429755843"/>
-</node>
 <node TEXT="Indian rhino vision 2020" FOLDED="true" ID="ID_1236608905" CREATED="1555337082900" MODIFIED="1555337083645">
 <node TEXT="aims to increase the total rhino population in Assam to 3000 by 2020" ID="ID_1488204592" CREATED="1555337140108" MODIFIED="1555337140566"/>
 <node FOLDED="true" ID="ID_619705441" CREATED="1555337090320" MODIFIED="1555337124306"><richcontent TYPE="NODE">
