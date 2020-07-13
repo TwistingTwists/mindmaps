@@ -1,7 +1,7 @@
-<map version="freeplane 1.7.0">
+<map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="2.0">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_note_icons="true" fit_to_viewport="false;"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -229,6 +229,9 @@
 <node TEXT="state govt. does not obey union govt. 256,257" FOLDED="true" ID="ID_668206941" CREATED="1500339152652" MODIFIED="1500339466158">
 <node TEXT="by invoking 355 : Union govt. duty to protect state from external aggression and internal disturbance" ID="ID_977373013" CREATED="1500339476914" MODIFIED="1500339584549"/>
 </node>
+<node TEXT="356 has to be approved by both houses LS+ RS&#xa;&#xa;within 6 mo" ID="ID_1242295842" CREATED="1594626599790" MODIFIED="1594626619892">
+<node TEXT="can be extended, 6 mo at a time, for 3 years" ID="ID_1023618037" CREATED="1594626620187" MODIFIED="1594626629919"/>
+</node>
 </node>
 </node>
 <node TEXT="on state&apos;s request (&gt;=2)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1750849804" CREATED="1488094126738" MODIFIED="1488545169433">
@@ -443,7 +446,7 @@
 </node>
 </node>
 <node TEXT="Mutual recognition of public arts, record &amp; judicial proceedings." LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_358574342" CREATED="1488097956085" MODIFIED="1488545169492">
-<node TEXT=" &#x201c;Full Faith and Credit&#x201d; clause" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_614592700" CREATED="1488098994159" MODIFIED="1488545169492">
+<node TEXT=" “Full Faith and Credit” clause" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_614592700" CREATED="1488098994159" MODIFIED="1488545169492">
 <node TEXT="orders of civil courts in any part of India are capable of execution&#xa;anywhere within India" LOCALIZED_STYLE_REF="default" ID="ID_1597302043" CREATED="1488099004114" MODIFIED="1492073417608"><richcontent TYPE="DETAILS">
 
 <html>
@@ -1933,11 +1936,11 @@
 </node>
 <node TEXT="Reforms in NGT" ID="ID_1965765095" CREATED="1495436340005" MODIFIED="1495436340840">
 <node TEXT="Expert?- transparent appointment" ID="ID_1932060399" CREATED="1495436355005" MODIFIED="1495436355005"/>
-<node TEXT="Resource? &#x2013; to scrutinize and review petitions and investigate the intention of petitioners" ID="ID_1486938110" CREATED="1495436355005" MODIFIED="1495436355005"/>
-<node TEXT="Legal? &#x2013; Not one interpretation of various laws." ID="ID_838678435" CREATED="1495436355005" MODIFIED="1495436355005"/>
-<node TEXT="Legal? &#x2013; Lesser laws on noise and radioactive pollution" ID="ID_379074776" CREATED="1495436355015" MODIFIED="1495436355015"/>
-<node TEXT="Pollution Control board? &#x2013; marshalling of local agencies for efficient implementation" ID="ID_1393155315" CREATED="1495436355015" MODIFIED="1495436355015"/>
-<node TEXT="PIL? &#x2013; issue guidelines" ID="ID_885109201" CREATED="1495436355020" MODIFIED="1495436355020"/>
+<node TEXT="Resource? – to scrutinize and review petitions and investigate the intention of petitioners" ID="ID_1486938110" CREATED="1495436355005" MODIFIED="1495436355005"/>
+<node TEXT="Legal? – Not one interpretation of various laws." ID="ID_838678435" CREATED="1495436355005" MODIFIED="1495436355005"/>
+<node TEXT="Legal? – Lesser laws on noise and radioactive pollution" ID="ID_379074776" CREATED="1495436355015" MODIFIED="1495436355015"/>
+<node TEXT="Pollution Control board? – marshalling of local agencies for efficient implementation" ID="ID_1393155315" CREATED="1495436355015" MODIFIED="1495436355015"/>
+<node TEXT="PIL? – issue guidelines" ID="ID_885109201" CREATED="1495436355020" MODIFIED="1495436355020"/>
 </node>
 </node>
 <node TEXT="NHRC" ID="ID_1896479012" CREATED="1490416027761" MODIFIED="1490416028395">
@@ -3094,7 +3097,7 @@
 </richcontent>
 </node>
 <node TEXT="diesel electric attack submarines" ID="ID_201639592" CREATED="1497964728741" MODIFIED="1497964737498"/>
-<node TEXT="&#x201c;air independent propulsion system&#x201d;" ID="ID_1497114275" CREATED="1495424070379" MODIFIED="1495424074313">
+<node TEXT="“air independent propulsion system”" ID="ID_1497114275" CREATED="1495424070379" MODIFIED="1495424074313">
 <node TEXT="to allow submarine stay&#xa;underwater for longer duration." ID="ID_1970933612" CREATED="1495424077658" MODIFIED="1495424079451"/>
 </node>
 <node TEXT="INS Kalvari" ID="ID_1040956314" CREATED="1495423921040" MODIFIED="1495423928774">
@@ -3216,7 +3219,7 @@
 <node TEXT="coastal patrolling" ID="ID_59368211" CREATED="1495166034588" MODIFIED="1495166043061"/>
 </node>
 <node TEXT="eyeROV Tuna" FOLDED="true" ID="ID_826375578" CREATED="1558849062312" MODIFIED="1558849066822">
-<node TEXT="India&#x2019;s first Underwater Drone" ID="ID_1202652213" CREATED="1558849070852" MODIFIED="1558849072357"/>
+<node TEXT="India’s first Underwater Drone" ID="ID_1202652213" CREATED="1558849070852" MODIFIED="1558849072357"/>
 </node>
 </node>
 <node TEXT="defence exercises" FOLDED="true" ID="ID_931426555" CREATED="1492239516846" MODIFIED="1495141700575">
@@ -3523,7 +3526,7 @@
 </node>
 <node TEXT="S400 Trimurf" FOLDED="true" ID="ID_689375247" CREATED="1554615161471" MODIFIED="1554615181027">
 <node TEXT="russian air defence system&#xa;&#xa;LONG RANGE&#xa;surface to air" ID="ID_1281640831" CREATED="1554615164150" MODIFIED="1557680974598"/>
-<node TEXT="simultaneously track numerous incoming objects &#x2014; all kinds of aircraft, missiles and UAVs" ID="ID_182413669" CREATED="1557296884856" MODIFIED="1557296885584"/>
+<node TEXT="simultaneously track numerous incoming objects — all kinds of aircraft, missiles and UAVs" ID="ID_182413669" CREATED="1557296884856" MODIFIED="1557296885584"/>
 </node>
 <node TEXT="Shaurya" ID="ID_1690047876" CREATED="1557680975465" MODIFIED="1557680977478">
 <node TEXT="Short range ballistic missile" ID="ID_1157163198" CREATED="1557680977844" MODIFIED="1557680989796"/>
@@ -3648,7 +3651,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="e-governance meeting DARPG : , &#x2018;Technology for accelerating Development&#x2019; motto" ID="ID_42750112" CREATED="1519606411180" MODIFIED="1519606425398"/>
+<node TEXT="e-governance meeting DARPG : , ‘Technology for accelerating Development’ motto" ID="ID_42750112" CREATED="1519606411180" MODIFIED="1519606425398"/>
 </node>
 <node TEXT="Env Eco" FOLDED="true" ID="ID_1752209541" CREATED="1490947951833" MODIFIED="1496055203521">
 <font NAME="Calibri"/>
@@ -3928,7 +3931,7 @@
 <node TEXT="AJ Paulraj committee" ID="ID_1329143094" CREATED="1556121079305" MODIFIED="1556121084011">
 <node TEXT="5G telecom services" ID="ID_718308960" CREATED="1556121087533" MODIFIED="1556121091041">
 <node TEXT="Free bandwidth during a fixed time frame for trials" ID="ID_1501691399" CREATED="1556121120407" MODIFIED="1556121121011"/>
-<node TEXT="Promulgation of regulatory guidelines by March, 2019&#xa;&#xa;o Fiscal support for trials, equipment makers&#x2018; capital expenditure.&#xa;&#xa;o Special attention for Economically Weaker Sections (EWS)." ID="ID_98599103" CREATED="1556121127349" MODIFIED="1556121137754"/>
+<node TEXT="Promulgation of regulatory guidelines by March, 2019&#xa;&#xa;o Fiscal support for trials, equipment makers‘ capital expenditure.&#xa;&#xa;o Special attention for Economically Weaker Sections (EWS)." ID="ID_98599103" CREATED="1556121127349" MODIFIED="1556121137754"/>
 </node>
 </node>
 <node TEXT="Santosh Hedge" FOLDED="true" ID="ID_1914471466" CREATED="1495148226019" MODIFIED="1499335427742">
@@ -4104,7 +4107,7 @@
 </node>
 <node TEXT="ONLY LS" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1281492536" CREATED="1526127594701" MODIFIED="1526127597585" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
-<node TEXT="Committee on Private Members&#x2019; Bills and Resolutions" ID="ID_1168534785" CREATED="1526127598801" MODIFIED="1554268996980" LINK="#ID_871002890"/>
+<node TEXT="Committee on Private Members’ Bills and Resolutions" ID="ID_1168534785" CREATED="1526127598801" MODIFIED="1554268996980" LINK="#ID_871002890"/>
 <node TEXT="Committee on Absence of Members" ID="ID_161367433" CREATED="1526127629262" MODIFIED="1526127629571"/>
 <node TEXT="Rules Committee" ID="ID_838221289" CREATED="1526127640099" MODIFIED="1526127640507"/>
 </node>
@@ -4266,7 +4269,7 @@
 <node TEXT="kerala" ID="ID_198990825" CREATED="1491534530377" MODIFIED="1491534532971"/>
 <node TEXT="elephant tail catching" ID="ID_461439972" CREATED="1491534533315" MODIFIED="1491534537407"/>
 </node>
-<node TEXT="Chenani &#x2013; Nashri Tunnel" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_580178571" CREATED="1491534452335" MODIFIED="1495021399446" BACKGROUND_COLOR="#feffd6">
+<node TEXT="Chenani – Nashri Tunnel" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_580178571" CREATED="1491534452335" MODIFIED="1495021399446" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 <node TEXT="aka Patnitop Tunnel" ID="ID_1478305449" CREATED="1492074909041" MODIFIED="1492074916051"/>
 <node TEXT="longest road tunnel" ID="ID_1276819035" CREATED="1491534459117" MODIFIED="1491534463196"/>
@@ -4951,7 +4954,7 @@
 <node TEXT="kerala first state to become smoke free!" ID="ID_1145865844" CREATED="1549710130546" MODIFIED="1549710140495"/>
 <node TEXT="National Rural Economic Transformation Project&#xa;&#xa;(NRETP)" FOLDED="true" ID="ID_149224469" CREATED="1557157881085" MODIFIED="1557157894124">
 <node TEXT="under (DAY-NRLM)" ID="ID_635469055" CREATED="1557157920534" MODIFIED="1557157922998">
-<node TEXT="Deendayal Antyodaya Yojana &#x2013; National Rural Livelihoods Mission" ID="ID_681202225" CREATED="1557157928437" MODIFIED="1557157929173"/>
+<node TEXT="Deendayal Antyodaya Yojana – National Rural Livelihoods Mission" ID="ID_681202225" CREATED="1557157928437" MODIFIED="1557157929173"/>
 </node>
 <node TEXT="aided by WB" ID="ID_1121957522" CREATED="1557157934879" MODIFIED="1557157959986"/>
 <node ID="ID_1234022381" CREATED="1557157960633" MODIFIED="1557158017409"><richcontent TYPE="NODE">
@@ -5585,9 +5588,9 @@
 <node TEXT="Manu Needhi Cholan or Elara" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_998354475" CREATED="1491534656550" MODIFIED="1494909576238" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 <node TEXT="perfect judge" ID="ID_1394274005" CREATED="1491534658550" MODIFIED="1491534663215"/>
-<node TEXT="nobody is above the law and all are equal&#x201d;" ID="ID_1575394234" CREATED="1491534668391" MODIFIED="1491534669518"/>
+<node TEXT="nobody is above the law and all are equal”" ID="ID_1575394234" CREATED="1491534668391" MODIFIED="1491534669518"/>
 </node>
-<node TEXT="Scientific Ballooning was started in India during the 1950&#x2019;s by Dr. Homi J. Bhabha" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_875861569" CREATED="1491534866629" MODIFIED="1494909576227" BACKGROUND_COLOR="#feffd6">
+<node TEXT="Scientific Ballooning was started in India during the 1950’s by Dr. Homi J. Bhabha" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_875861569" CREATED="1491534866629" MODIFIED="1494909576227" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 <node TEXT="by TIFR under DAE" ID="ID_731924021" CREATED="1491534876606" MODIFIED="1491534880378"/>
 <node TEXT="measure vertical wind profiles" ID="ID_916694141" CREATED="1491534890259" MODIFIED="1491534893228"/>
@@ -5799,7 +5802,7 @@
 </richcontent>
 </node>
 <node TEXT="Yanadi Tribe - Andhra Pradesh" ID="ID_767572751" CREATED="1559061158084" MODIFIED="1559061158084"/>
-<node TEXT="3. Kurichiya tribe &#x2013; Kerala" ID="ID_1830752949" CREATED="1559061158084" MODIFIED="1559061158084"/>
+<node TEXT="3. Kurichiya tribe – Kerala" ID="ID_1830752949" CREATED="1559061158084" MODIFIED="1559061158084"/>
 </node>
 </node>
 <node TEXT="global forest resource assessment (also)" FOLDED="true" ID="ID_1062014104" CREATED="1525918957222" MODIFIED="1525918974818">
@@ -7608,7 +7611,7 @@
 <icon BUILTIN="idea"/>
 <node TEXT="UNEP" ID="ID_55854883" CREATED="1490351250933" MODIFIED="1490351251980"/>
 <node TEXT="GEO-6, 2019" ID="ID_1390920304" CREATED="1557825604252" MODIFIED="1557825627287">
-<node TEXT="theme &#x201c;healthy planet, healthy people&#x201d;" ID="ID_1497150389" CREATED="1557825602884" MODIFIED="1557825618780"/>
+<node TEXT="theme “healthy planet, healthy people”" ID="ID_1497150389" CREATED="1557825602884" MODIFIED="1557825618780"/>
 </node>
 </node>
 <node TEXT="Network readiness" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1430353557" CREATED="1494891836529" MODIFIED="1494891856345">
@@ -8438,7 +8441,7 @@
 <node TEXT="conceptual formulations of nature of existence as experienced by spiritual being" ID="ID_835184576" CREATED="1586434832013" MODIFIED="1586434852046">
 <node TEXT="who out of compassion makes this truth known to humanity" ID="ID_1921749163" CREATED="1586434862047" MODIFIED="1586434871830"/>
 </node>
-<node TEXT="Prat&#x12b;tyasamutp&#x101;da" ID="ID_1311485325" CREATED="1586434920984" MODIFIED="1586434922584">
+<node TEXT="Pratītyasamutpāda" ID="ID_1311485325" CREATED="1586434920984" MODIFIED="1586434922584">
 <node TEXT="aka Paticca-samuppada" ID="ID_515632403" CREATED="1586434944289" MODIFIED="1586434945733"/>
 <node TEXT=" dependent origination = all dharmas (&quot;phenomena&quot;) arise in dependence upon other dharmas" ID="ID_860129150" CREATED="1586434960732" MODIFIED="1586435138618">
 <node TEXT="&quot;if this exists, that exists; if this ceases to exist, that also ceases to exist&quot;" ID="ID_1265107988" CREATED="1586434969605" MODIFIED="1586434970603"/>
@@ -8447,11 +8450,11 @@
 </node>
 <node TEXT="vows of buddhism" FOLDED="true" ID="ID_1383883268" CREATED="1591626631534" MODIFIED="1591626634580">
 <font NAME="Dialog"/>
-<node TEXT="Whereas the Pr&#x101;timok&#x1e63;a vows cease at death, the Bodhisattva vow extends into future lives." ID="ID_561959546" CREATED="1591626663085" MODIFIED="1591626667414">
-<node TEXT=" Prati =&quot;towards&quot;&#xa;&#xa;mok&#x1e63;a =&quot;liberation&quot; from cyclic existence" ID="ID_1095404024" CREATED="1591626684620" MODIFIED="1591626697832"/>
+<node TEXT="Whereas the Prātimokṣa vows cease at death, the Bodhisattva vow extends into future lives." ID="ID_561959546" CREATED="1591626663085" MODIFIED="1591626667414">
+<node TEXT=" Prati =&quot;towards&quot;&#xa;&#xa;mokṣa =&quot;liberation&quot; from cyclic existence" ID="ID_1095404024" CREATED="1591626684620" MODIFIED="1591626697832"/>
 </node>
 <node TEXT="Prajnaparamita&#xa;&#xa;lists six perfections" ID="ID_1775013948" CREATED="1591626757195" MODIFIED="1591626777040">
-<node TEXT=" praj&#xf1;&#x101; &quot;wisdom&quot; with p&#x101;ramit&#x101; &quot;perfection&quot;." ID="ID_1495849992" CREATED="1591626750859" MODIFIED="1591626751611"/>
+<node TEXT=" prajñā &quot;wisdom&quot; with pāramitā &quot;perfection&quot;." ID="ID_1495849992" CREATED="1591626750859" MODIFIED="1591626751611"/>
 <node ID="ID_1501611720" CREATED="1591626821801" MODIFIED="1591626950225" MAX_WIDTH="248.29786718048203 pt" MIN_WIDTH="248.29786718048203 pt"><richcontent TYPE="NODE">
 
 <html>
@@ -8763,7 +8766,7 @@
 <node TEXT="mainly kashmir" ID="ID_158097601" CREATED="1586419304600" MODIFIED="1586419309610"/>
 </node>
 <node TEXT=" liberal mahasanghika (aka sarvastivada)&#xa;&#xa;=&#xa;all dharmas exist in the past, present and future, the &quot;three times&quot;" ID="ID_1236749295" CREATED="1586419264606" MODIFIED="1586419289687">
-<node TEXT="believer of sarvastivada  = Sarv&#x101;stiv&#x101;din" ID="ID_1267680047" CREATED="1586419121898" MODIFIED="1586419170265"/>
+<node TEXT="believer of sarvastivada  = Sarvāstivādin" ID="ID_1267680047" CREATED="1586419121898" MODIFIED="1586419170265"/>
 <node TEXT="near magadha" ID="ID_1560392961" CREATED="1586419299811" MODIFIED="1586419303723"/>
 </node>
 </node>
@@ -8867,7 +8870,7 @@
 <node TEXT="Milinda Panho&#xa;(Questions of Milinda)." FOLDED="true" ID="ID_373302363" CREATED="1557910337291" MODIFIED="1557910343749">
 <node TEXT=" Indo-Greek ruler Menander (165-145 BC) also known as Milinda" ID="ID_1542166800" CREATED="1557910352023" MODIFIED="1591616986937"/>
 <node TEXT="converted to Buddhism by Nagasena or Nagarjuna." ID="ID_244794362" CREATED="1557910358345" MODIFIED="1557910358891"/>
-<node TEXT="Nagasena&#x2018;s answers were recorded in the form of a book known as Milinda Panho" ID="ID_582841939" CREATED="1557910329562" MODIFIED="1557910330135"/>
+<node TEXT="Nagasena‘s answers were recorded in the form of a book known as Milinda Panho" ID="ID_582841939" CREATED="1557910329562" MODIFIED="1557910330135"/>
 </node>
 </node>
 <node TEXT="Jainism" FOLDED="true" ID="ID_126528454" CREATED="1495855834404" MODIFIED="1557141301656">
@@ -9645,14 +9648,14 @@
 <node TEXT="Biological chemical weapons&#xa;&#xa;ABC" ID="ID_1700488808" CREATED="1557336229795" MODIFIED="1557336239843"/>
 </node>
 <node TEXT="NSG" FOLDED="true" ID="ID_732962958" CREATED="1557336211140" MODIFIED="1557336213499">
-<node TEXT="originally known as &#x201c;London Club&quot;" ID="ID_476015719" CREATED="1585893303721" MODIFIED="1585893308018"/>
+<node TEXT="originally known as “London Club&quot;" ID="ID_476015719" CREATED="1585893303721" MODIFIED="1585893308018"/>
 <node TEXT="formed 1974, after India&apos;s Smiling Buddha (Pokhran-I ) nuclear test" ID="ID_1482301540" CREATED="1585893376148" MODIFIED="1585893500557"/>
 <node TEXT="india has NSG waiver = 2008" ID="ID_762608495" CREATED="1490935792015" MODIFIED="1585892888092">
 <node TEXT="can trade nuclear with NSG members" ID="ID_871099191" CREATED="1490935796515" MODIFIED="1490935803580"/>
 <node TEXT="i.e. due to NSG waiver no functional harm to india" ID="ID_1768420771" CREATED="1490935878862" MODIFIED="1490935888130"/>
 </node>
 <node TEXT="48 members + Zangger committee + EU" ID="ID_395844337" CREATED="1557374246147" MODIFIED="1557374263233">
-<node TEXT="adopted the original Zangger Committee&#x2019;s Trigger List as an annex to the Guidelines" ID="ID_984604065" CREATED="1585893366822" MODIFIED="1585893369258"/>
+<node TEXT="adopted the original Zangger Committee’s Trigger List as an annex to the Guidelines" ID="ID_984604065" CREATED="1585893366822" MODIFIED="1585893369258"/>
 </node>
 </node>
 <node TEXT="CTBT" FOLDED="true" ID="ID_1262374510" CREATED="1557336302972" MODIFIED="1557336304622">
@@ -9691,7 +9694,7 @@
 <node TEXT="banning all&#xa;&#xa;nuclear explosions&#xa;&#xa;for both military and civilian purposes." ID="ID_321437516" CREATED="1557336332512" MODIFIED="1585892916781"/>
 <node TEXT="CTBT will enter into force when all 44 Annex 2 States have ratified the Treaty" FOLDED="true" ID="ID_622605577" CREATED="1557336349395" MODIFIED="1585902532162">
 <node TEXT=" Egypt, India, Iran, Israel, North Korea, Pakistan&#xa;&#xa;China  USA signed but not ratified" ID="ID_803978830" CREATED="1557336371424" MODIFIED="1585902576404"/>
-<node TEXT="&#x201c;Annex 2&#x201d; countries were compiled based on the information from IAEA on countries that possessed nuclear research and/or power reactors in 1996." ID="ID_1008775089" CREATED="1585902540226" MODIFIED="1585902543407"/>
+<node TEXT="“Annex 2” countries were compiled based on the information from IAEA on countries that possessed nuclear research and/or power reactors in 1996." ID="ID_1008775089" CREATED="1585902540226" MODIFIED="1585902543407"/>
 </node>
 <node TEXT="Global Verification Regime," FOLDED="true" ID="ID_302337022" CREATED="1585902611857" MODIFIED="1585902612489">
 <node TEXT="CTBTO is an independent international&#xa;&#xa;organisation&#xa;&#xa;and&#xa;&#xa;has&#xa;&#xa;a&#xa;&#xa;cooperative&#xa;&#xa;mechanism with the United Nations" ID="ID_1574571250" CREATED="1585902626276" MODIFIED="1585902626676"/>
@@ -9740,7 +9743,7 @@
 </node>
 <node TEXT="More countries have ratified the NPT than any other arms limitation and disarmament agreement." ID="ID_1270200163" CREATED="1585902870500" MODIFIED="1585902871018"/>
 </node>
-<node TEXT="o &#x2018;Arms Trade Treaty (ATT)&#x2019;" FOLDED="true" ID="ID_1157983704" CREATED="1559149964927" MODIFIED="1559149965533">
+<node TEXT="o ‘Arms Trade Treaty (ATT)’" FOLDED="true" ID="ID_1157983704" CREATED="1559149964927" MODIFIED="1559149965533">
 <node TEXT="multilateral treaty" ID="ID_1569195273" CREATED="1559149974001" MODIFIED="1559149982289"/>
 <node TEXT="under UN" ID="ID_1176878652" CREATED="1559149982416" MODIFIED="1559149983714"/>
 <node TEXT="monitor arms exports and ensure that weapons don&apos;t cross existing arms embargoes or end up being used for human-rights abuses, including terrorism." ID="ID_900799916" CREATED="1559149991266" MODIFIED="1559149991942"/>
@@ -10679,10 +10682,10 @@
 <node TEXT="BRICS Plus" ID="ID_914935352" CREATED="1557310937154" MODIFIED="1557310946589">
 <node TEXT="networking for head of government" ID="ID_1733657925" CREATED="1557310946979" MODIFIED="1557310951627"/>
 </node>
-<node TEXT="&#x2018;BRICS outreach to Africa" ID="ID_733411349" CREATED="1557311691869" MODIFIED="1557311692153"/>
+<node TEXT="‘BRICS outreach to Africa" ID="ID_733411349" CREATED="1557311691869" MODIFIED="1557311692153"/>
 </node>
 <node TEXT="Johannesburg Declaration, 2018" FOLDED="true" ID="ID_1250351694" CREATED="1557310990773" MODIFIED="1557311027877">
-<node TEXT="&#x2018;BRICS in Africa: Collaboration for Inclusive Growth and Shared Prosperity in the 4 th Industrial Revolution." LOCALIZED_STYLE_REF="default" ID="ID_1092730632" CREATED="1557310982444" MODIFIED="1557310983513" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
+<node TEXT="‘BRICS in Africa: Collaboration for Inclusive Growth and Shared Prosperity in the 4 th Industrial Revolution." LOCALIZED_STYLE_REF="default" ID="ID_1092730632" CREATED="1557310982444" MODIFIED="1557310983513" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
 <font NAME="Calibri"/>
 </node>
 <node TEXT="Partnership on New Industrial Revolution (PartNIR)." LOCALIZED_STYLE_REF="default" ID="ID_1365217482" CREATED="1557311039343" MODIFIED="1557311040523" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
@@ -10881,7 +10884,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="&#x2018;Joint Appeal to Youth&#x2019;" ID="ID_81982676" CREATED="1557253051721" MODIFIED="1557253051982">
+<node TEXT="‘Joint Appeal to Youth’" ID="ID_81982676" CREATED="1557253051721" MODIFIED="1557253051982">
 <node TEXT="SCO" ID="ID_1837487271" CREATED="1557253060075" MODIFIED="1557253060997"/>
 <node TEXT="against terror" ID="ID_162648897" CREATED="1557253064255" MODIFIED="1557253066129"/>
 </node>
@@ -10895,7 +10898,7 @@
 <node TEXT="work on additive manufacturing, automation" ID="ID_758443189" CREATED="1562730203991" MODIFIED="1562730207434"/>
 </node>
 <node TEXT="India and Africa" FOLDED="true" ID="ID_1949273436" CREATED="1562730291599" MODIFIED="1562730295743">
-<node TEXT="India as Africa&#x2019;s third largest trading partner." ID="ID_1975091283" CREATED="1562730295909" MODIFIED="1562730375018"/>
+<node TEXT="India as Africa’s third largest trading partner." ID="ID_1975091283" CREATED="1562730295909" MODIFIED="1562730375018"/>
 <node TEXT="India and Africa can negotiate for an India-African FTA." ID="ID_1702700938" CREATED="1562730430203" MODIFIED="1562730430642">
 <node TEXT="more formalised and transparent" ID="ID_696937209" CREATED="1562730375188" MODIFIED="1562730375475"/>
 </node>
@@ -11789,7 +11792,7 @@
 <node TEXT="Bangabhasha Prakasika Sabha" FOLDED="true" ID="ID_1563376803" CREATED="1558087381647" MODIFIED="1558087382127">
 <node TEXT="1836, Associates of RM Roy" ID="ID_33854797" CREATED="1558087382980" MODIFIED="1558087398167"/>
 </node>
-<node TEXT="Zamindari Association (Bengal Landholder&#x2018;s Society)" FOLDED="true" ID="ID_1390086697" CREATED="1558087404425" MODIFIED="1558087404818">
+<node TEXT="Zamindari Association (Bengal Landholder‘s Society)" FOLDED="true" ID="ID_1390086697" CREATED="1558087404425" MODIFIED="1558087404818">
 <node TEXT="1836 by Prasanna Kumar&#xa;Tagore, Dwarkanath Tagore and Radhakant Deb." ID="ID_840650080" CREATED="1558087413067" MODIFIED="1558087415695"/>
 </node>
 <node TEXT="British India Society" FOLDED="true" ID="ID_843958996" CREATED="1558087439594" MODIFIED="1558087440118">
@@ -11798,7 +11801,7 @@
 </node>
 </node>
 <node TEXT="British India Association" FOLDED="true" ID="ID_1366739095" CREATED="1558087463032" MODIFIED="1558087463485">
-<node TEXT="Bengal Landholder&#x2018;s Society and British India Society merged" ID="ID_1288928152" CREATED="1558087471806" MODIFIED="1558087471806"/>
+<node TEXT="Bengal Landholder‘s Society and British India Society merged" ID="ID_1288928152" CREATED="1558087471806" MODIFIED="1558087471806"/>
 <node TEXT="1851." ID="ID_681690095" CREATED="1558087479738" MODIFIED="1558087479738"/>
 </node>
 <node TEXT="The Indian League" FOLDED="true" ID="ID_53569835" CREATED="1495364035135" MODIFIED="1495364037858">
