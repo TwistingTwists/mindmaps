@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="2.0">
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_note_icons="true" fit_to_viewport="false;"/>
 
 <map_styles>
@@ -11475,7 +11475,7 @@
 </node>
 </node>
 </node>
-<node TEXT="History" FOLDED="true" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
+<node TEXT="History" POSITION="left" ID="ID_626392299" CREATED="1492167597376" MODIFIED="1494887616082">
 <font NAME="Calibri"/>
 <node TEXT="Modern History" FOLDED="true" ID="ID_1728381134" CREATED="1492167601191" MODIFIED="1492167605578">
 <node TEXT="Peasant movements" FOLDED="true" ID="ID_659844323" CREATED="1492167605844" MODIFIED="1526810416286">
@@ -11699,7 +11699,7 @@
 <node TEXT="modified =&gt; Preamble" ID="ID_1225508076" CREATED="1526316646916" MODIFIED="1526316654195"/>
 <node TEXT="forms philosophy of constitutional structure" ID="ID_1835389566" CREATED="1526316670190" MODIFIED="1526316691894"/>
 </node>
-<node TEXT="swatantrata party" FOLDED="true" ID="ID_1719526829" CREATED="1524124008606" MODIFIED="1524124015705">
+<node TEXT="swatantrata party" ID="ID_1719526829" CREATED="1524124008606" MODIFIED="1524124015705">
 <node TEXT="c rajgopalachari&#xa;1959" ID="ID_1326476131" CREATED="1524124015859" MODIFIED="1524124032879"/>
 <node TEXT="classic liberal principles, free enterprise" ID="ID_1778658810" CREATED="1524124035349" MODIFIED="1524124046814"/>
 </node>
