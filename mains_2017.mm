@@ -7955,7 +7955,7 @@
 <node TEXT="socio cultural problems in SHG development" ID="ID_650656146" CREATED="1546885135705" MODIFIED="1546885157849"/>
 </node>
 </node>
-<node ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1585543590607" BACKGROUND_COLOR="#ccccff"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1289559853" CREATED="1544200456991" MODIFIED="1585543590607" BACKGROUND_COLOR="#ccccff"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7992,7 +7992,7 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Betterment of vulnerable sections" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1522382917507">
+<node TEXT="Betterment of vulnerable sections" FOLDED="true" ID="ID_1196243776" CREATED="1497938515271" MODIFIED="1522382917507">
 <node TEXT="children" FOLDED="true" ID="ID_1782340994" CREATED="1507641586177" MODIFIED="1507641587865">
 <node TEXT="template" LOCALIZED_STYLE_REF="default" ID="ID_1571444574" CREATED="1560583955607" MODIFIED="1560583958284">
 <font NAME="Calibri" BOLD="true"/>
@@ -10829,7 +10829,7 @@
 </node>
 </node>
 <node TEXT="Development + management of&#xa;&#xa;Social Sector/Services :&#xa;&#xa;&#xa;, Health&#xa;, Education&#xa;, Human Resources" FOLDED="true" ID="ID_125618532" CREATED="1544200456993" MODIFIED="1553145043587" BACKGROUND_COLOR="#ccccff">
-<node TEXT="education" ID="ID_351763480" CREATED="1507079546938" MODIFIED="1507079548403">
+<node TEXT="education" FOLDED="true" ID="ID_351763480" CREATED="1507079546938" MODIFIED="1507079548403">
 <node TEXT="aims" FOLDED="true" ID="ID_1672749925" CREATED="1507079548556" MODIFIED="1507079550686">
 <node ID="ID_711874563" CREATED="1507079550824" MODIFIED="1553145183723"><richcontent TYPE="NODE">
 
@@ -11719,11 +11719,11 @@
 </node>
 <node TEXT="Pharmaceutical Sector issues" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1149703562" CREATED="1591498588993" MODIFIED="1591502150314" BACKGROUND_COLOR="#ffcc99">
 <node TEXT="Issues with Drug pricing control&#xa;&#xa;DPCO, 2013" FOLDED="true" ID="ID_744886970" CREATED="1591501108341" MODIFIED="1591501120239">
-<node TEXT="market based pricing mechanism in DPCO, 2013&#xa;&#xa;&#xa;2019_02_3.20" FOLDED="true" ID="ID_1245158506" CREATED="1591501037309" MODIFIED="1591501084059">
+<node TEXT="market based pricing mechanism in DPCO, 2013&#xa;&#xa;&#xa;2019_02_3.20" ID="ID_1245158506" CREATED="1591501037309" MODIFIED="1591501084059">
 <node TEXT="earlier&#xa;&#xa;&#xa;based on the costs involved in manufacturing a medicine along with reasonable profit margins." ID="ID_1515161949" CREATED="1591501055564" MODIFIED="1591501057366"/>
 <node TEXT="reason for shift" ID="ID_1638443413" CREATED="1591501095490" MODIFIED="1591501097991"/>
 </node>
-<node TEXT="reduced supply of Essential medicines (EM)" ID="ID_1531534335" CREATED="1591501138443" MODIFIED="1591501188868">
+<node TEXT="reduced supply of Essential medicines (EM)" FOLDED="true" ID="ID_1531534335" CREATED="1591501138443" MODIFIED="1591501188868">
 <node TEXT="Furoped (a life-saving drug for children with heart ailments)&#xa;&#xa;almost 40%" ID="ID_65326939" CREATED="1591501136275" MODIFIED="1591501263520"/>
 </node>
 <node TEXT="NPPA" FOLDED="true" ID="ID_109359540" CREATED="1551429760156" MODIFIED="1591501952471">
@@ -11835,7 +11835,7 @@
 <node TEXT="GoI Promotion steps&#xa;&#xa;2020_03_7.4" FOLDED="true" ID="ID_1275532317" CREATED="1591506360594" MODIFIED="1591506463239">
 <node TEXT="Promotion of Medical Device Parks:" ID="ID_967400193" CREATED="1591506364265" MODIFIED="1591506365039"/>
 <node TEXT="Production Linked Incentive Scheme&#xa;&#xa;domestic manuf of medical devices" ID="ID_186937127" CREATED="1591506373030" MODIFIED="1591506381980"/>
-<node TEXT="3 mega Bulk Drug (aka API) parks in India" ID="ID_125819946" CREATED="1591506392527" MODIFIED="1591506400674">
+<node TEXT="3 mega Bulk Drug (aka API) parks in India" FOLDED="true" ID="ID_125819946" CREATED="1591506392527" MODIFIED="1591506400674">
 <node TEXT="3k cr for 5 yrs" ID="ID_654677351" CREATED="1591506447941" MODIFIED="1591506451827"/>
 </node>
 </node>
@@ -12242,7 +12242,7 @@
 <node TEXT="distinction between services, using public infrastructure for private gains, selecting few districts =&gt; ineuqality increase" ID="ID_1179130089" CREATED="1509014597699" MODIFIED="1509014633625"/>
 </node>
 </node>
-<node TEXT="traditional medicine systems" LOCALIZED_STYLE_REF="default" ID="ID_1845928496" CREATED="1551429508841" MODIFIED="1551429513637">
+<node TEXT="traditional medicine systems" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1845928496" CREATED="1551429508841" MODIFIED="1551429513637">
 <node TEXT="WHO guidelines on YOGA as part of traditional healing systems&#xa;2014-2023" ID="ID_412797086" CREATED="1551429513709" MODIFIED="1551429534121">
 <node TEXT="3 objectives:&#xa;&#xa;, knowledge base + national policy&#xa;&#xa;, safety via regulation&#xa;&#xa;, promotion of Universal health systems" ID="ID_642002763" CREATED="1551429535499" MODIFIED="1551429575158"/>
 </node>
@@ -12312,7 +12312,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="methods of extending health to all" ID="ID_997985392" CREATED="1585543799261" MODIFIED="1585543820602" BACKGROUND_COLOR="#ff9999">
+<node TEXT="methods of extending health to all" FOLDED="true" ID="ID_997985392" CREATED="1585543799261" MODIFIED="1585543820602" BACKGROUND_COLOR="#ff9999">
 <font BOLD="true" ITALIC="true"/>
 <node TEXT="WHO guidelines on self care" FOLDED="true" ID="ID_364030902" CREATED="1562075988360" MODIFIED="1585544138115">
 <node TEXT="for&#xa;&#xa;autonomy&#xa;&#xa;self efficacy&#xa;engagement in health for caregivers" ID="ID_200398381" CREATED="1562075993664" MODIFIED="1562076014670"/>
@@ -12335,7 +12335,7 @@
 <node TEXT="to enable end-2-end drug discovery in India" ID="ID_1629031966" CREATED="1591505753902" MODIFIED="1591505773111"/>
 </node>
 </node>
-<node TEXT="UHC Universal health coverage" ID="ID_1763511605" CREATED="1591502127974" MODIFIED="1591502135204">
+<node TEXT="UHC Universal health coverage" FOLDED="true" ID="ID_1763511605" CREATED="1591502127974" MODIFIED="1591502135204">
 <node TEXT="UNGA stressed need for UHC" ID="ID_1160894523" CREATED="1591502170025" MODIFIED="1591502175908"/>
 </node>
 <node TEXT="Telemedicine Role" FOLDED="true" ID="ID_1623743124" CREATED="1591505237352" MODIFIED="1591505241167">
@@ -12406,7 +12406,7 @@
 <node TEXT="QCI?" ID="ID_1777314599" CREATED="1585543919513" MODIFIED="1585543921153"/>
 </node>
 <node TEXT="diagnostic services @rural PHC" ID="ID_1687586207" CREATED="1489853207577" MODIFIED="1489853215616"/>
-<node TEXT="Digital Health initiative" ID="ID_998788830" CREATED="1490332209761" MODIFIED="1490332217056">
+<node TEXT="Digital Health initiative" FOLDED="true" ID="ID_998788830" CREATED="1490332209761" MODIFIED="1490332217056">
 <node TEXT="eVIN&#xa;electronic vaccine network" LOCALIZED_STYLE_REF="default" ID="ID_486992953" CREATED="1494401469253" MODIFIED="1525681060418">
 <icon BUILTIN="idea"/>
 <node TEXT="MoHFW" LOCALIZED_STYLE_REF="default" ID="ID_787511571" CREATED="1494401515321" MODIFIED="1496375761628" BACKGROUND_COLOR="#feffd6">
@@ -12418,7 +12418,7 @@
 <node TEXT="UIP" ID="ID_200105693" CREATED="1494446416688" MODIFIED="1494446419096"/>
 </node>
 </node>
-<node TEXT="National Health standards agency" ID="ID_977912862" CREATED="1490332246747" MODIFIED="1490332254640">
+<node TEXT="National Health standards agency" FOLDED="true" ID="ID_977912862" CREATED="1490332246747" MODIFIED="1490332254640">
 <node TEXT="for Empirical data" ID="ID_1862533452" CREATED="1490332239301" MODIFIED="1490332268528"/>
 </node>
 <node TEXT="NUHM&#xa;national urban health mission" ID="ID_1989270958" CREATED="1490332277010" MODIFIED="1499986788309"/>
@@ -24143,7 +24143,7 @@
 <node TEXT="strategyic for bimstec + look east asia policy" ID="ID_791460208" CREATED="1595904659841" MODIFIED="1595904672314"/>
 </node>
 <node TEXT=" recently completed 720 MW&#xa;&#xa; Mangdechhu HydroElectric Power Project" ID="ID_1938063001" CREATED="1595904684984" MODIFIED="1595904689458"/>
-<node TEXT="international comparison programme&#xa;&#xa;2020_06_v" ID="ID_1385807055" CREATED="1552292466163" MODIFIED="1595905474563">
+<node TEXT="international comparison programme&#xa;&#xa;2020_06_v" FOLDED="true" ID="ID_1385807055" CREATED="1552292466163" MODIFIED="1595905474563">
 <node TEXT="WB , under UN Statistical commission" ID="ID_1426881108" CREATED="1552292472608" MODIFIED="1552292501427"/>
 <node TEXT="NEXT ICP for 2021" ID="ID_107248209" CREATED="1595905409062" MODIFIED="1595905412224"/>
 <node TEXT="compares GDP and publishes&#xa;&#xa;PPP + PLIs (price level indices)" ID="ID_1261119072" CREATED="1552292501859" MODIFIED="1595904810781">
@@ -24157,25 +24157,43 @@
 <node TEXT="20.83% of regional GDP" ID="ID_1058485392" CREATED="1595905459375" MODIFIED="1595905459959"/>
 </node>
 </node>
-<node TEXT="Gynandromorphism" ID="ID_1749564124" CREATED="1595944693714" MODIFIED="1595944695537">
+<node TEXT="Gynandromorphism" FOLDED="true" ID="ID_1749564124" CREATED="1595944693714" MODIFIED="1595944695537">
 <node TEXT="male + female in same" ID="ID_1959920307" CREATED="1595944702955" MODIFIED="1595944707419"/>
 <node TEXT="insects, spiders, crustaceans, and other arthropods as well as in birds" ID="ID_16882935" CREATED="1595944712603" MODIFIED="1595944712847"/>
 </node>
-<node TEXT="Parens patriae" ID="ID_300720988" CREATED="1595945958585" MODIFIED="1595945959150">
+<node TEXT="Parens patriae" FOLDED="true" ID="ID_300720988" CREATED="1595945958585" MODIFIED="1595945959150">
 <node TEXT="Means &quot;parent of his or her country”." ID="ID_637947764" CREATED="1595945963490" MODIFIED="1595945963786"/>
 <node TEXT="the power of the state to act as guardian for those who are unable to care for themselves, (children or disabled )" ID="ID_1088507034" CREATED="1595945983141" MODIFIED="1595945983570"/>
 </node>
-<node TEXT="Res Sub Judice" ID="ID_1801128802" CREATED="1595945988240" MODIFIED="1595945988576">
+<node TEXT="Res Sub Judice" FOLDED="true" ID="ID_1801128802" CREATED="1595945988240" MODIFIED="1595945988576">
 <node TEXT="Sub-judice means under judgement." ID="ID_1488065796" CREATED="1595945996179" MODIFIED="1595945996556"/>
 <node TEXT=" Means the matter/case is being considered by the court/judge." ID="ID_1453776505" CREATED="1595946006459" MODIFIED="1595946006860"/>
 <node TEXT="prevent parallel adjudication by courts on same cause of action and subjects" ID="ID_1582691232" CREATED="1595946023085" MODIFIED="1595946042006"/>
 </node>
-<node TEXT="Res Judicata" ID="ID_1089644515" CREATED="1595946047826" MODIFIED="1595946048092">
+<node TEXT="Res Judicata" FOLDED="true" ID="ID_1089644515" CREATED="1595946047826" MODIFIED="1595946048092">
 <node TEXT="once adjudicated, cannot be re-adjudicated" ID="ID_1261156847" CREATED="1595946064637" MODIFIED="1595946065445"/>
 <node TEXT=" three principles" ID="ID_1635032713" CREATED="1595946073945" MODIFIED="1595946074243">
 <node TEXT="no double jeopardy" ID="ID_935368532" CREATED="1595946089153" MODIFIED="1595946093179"/>
 <node TEXT=" in the interest of the state that there should be an end to a litigation" ID="ID_1609784098" CREATED="1595946107408" MODIFIED="1595946107706"/>
 <node TEXT=" judicial decision must be accepted as correct" ID="ID_223974872" CREATED="1595946111320" MODIFIED="1595946111586"/>
+</node>
+</node>
+<node TEXT="excipient" FOLDED="true" ID="ID_937149965" CREATED="1595958207965" MODIFIED="1595958208883">
+<node TEXT="for long-term stabilization" ID="ID_277533904" CREATED="1595958214096" MODIFIED="1595958232237">
+<node TEXT="of drug, used alongside API" ID="ID_428226499" CREATED="1595958233529" MODIFIED="1595958239916"/>
+</node>
+</node>
+<node TEXT="Dare to Dream 2.0" FOLDED="true" ID="ID_1018778268" CREATED="1595958322462" MODIFIED="1595958322852">
+<node TEXT="by DRDO&#xa;&#xa;innovation startups" ID="ID_243082953" CREATED="1595958331124" MODIFIED="1595958342963">
+<node TEXT="kalam anniversary" ID="ID_1612841866" CREATED="1595958343323" MODIFIED="1595958347010"/>
+</node>
+</node>
+<node TEXT="Mausam" FOLDED="true" ID="ID_1653764829" CREATED="1595958436802" MODIFIED="1595958438970">
+<node TEXT="app by IMD" ID="ID_1905727233" CREATED="1595958439091" MODIFIED="1595958442211"/>
+</node>
+<node TEXT="Tuting-Tidding Suture Zone (TTSZ):" FOLDED="true" ID="ID_1936197272" CREATED="1595958468277" MODIFIED="1595958469033">
+<node TEXT=" part of the Eastern Himalaya" FOLDED="true" ID="ID_511115250" CREATED="1595958497290" MODIFIED="1595958497890">
+<node TEXT=" sharp southward bend and connects with the Indo-Burma Range." ID="ID_574601614" CREATED="1595958492168" MODIFIED="1595958492539"/>
 </node>
 </node>
 </node>
@@ -29958,7 +29976,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1853988970" CREATED="1595945860004" MODIFIED="1595945860004"><richcontent TYPE="NODE">
@@ -29973,7 +29990,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_713674113" CREATED="1595945860008" MODIFIED="1595945860008"><richcontent TYPE="NODE">
@@ -29988,7 +30004,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -30005,7 +30020,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="CSO RBI provide relevant data for macro economic variables" ID="ID_1934685423" CREATED="1595945897351" MODIFIED="1595945897904"/>
@@ -30021,7 +30035,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>

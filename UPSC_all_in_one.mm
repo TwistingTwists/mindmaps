@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="1.5">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_note_icons="true" fit_to_viewport="false;"/>
 
 <map_styles>
@@ -4752,7 +4752,7 @@
 <node TEXT="by ASI + outsourced" ID="ID_696218909" CREATED="1490374210338" MODIFIED="1490374216251"/>
 </node>
 </node>
-<node TEXT="Mausam" FOLDED="true" ID="ID_125038724" CREATED="1490409633983" MODIFIED="1527778531550">
+<node TEXT="Mausam" ID="ID_125038724" CREATED="1490409633983" MODIFIED="1527778531550">
 <icon BUILTIN="idea"/>
 <node TEXT="MinCul" ID="ID_532637758" CREATED="1490409635062" MODIFIED="1490409637406"/>
 <node TEXT="understand how the knowledge and manipulation of the monsoon winds has shaped interactions&#xa;across the Indian Ocean&#xa;&#xa;and led to the spread of shared knowledge systems, traditions, technologies and ideas&#xa;along maritime routes" ID="ID_1037286342" CREATED="1527778515220" MODIFIED="1527778527888"/>
