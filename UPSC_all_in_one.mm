@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="2.0">
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_note_icons="true" fit_to_viewport="false;"/>
 
 <map_styles>
@@ -1438,7 +1438,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1549262099448">
+<node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1549262099448">
 <font NAME="Calibri"/>
 <node TEXT="Polity" FOLDED="true" ID="ID_303183937" CREATED="1495168561836" MODIFIED="1496055203519">
 <font NAME="Calibri"/>
@@ -4516,7 +4516,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Art n Culture" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1481922316" CREATED="1488692725015" MODIFIED="1551633849585" BACKGROUND_COLOR="#ff9999">
+<node TEXT="Art n Culture" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1481922316" CREATED="1488692725015" MODIFIED="1551633849585" BACKGROUND_COLOR="#ff9999">
 <font NAME="Calibri"/>
 <node TEXT="Guru Ravidas" ID="ID_265148931" CREATED="1551428167867" MODIFIED="1551428179035">
 <font NAME="Calibri"/>
@@ -4689,7 +4689,7 @@
 <node TEXT="new year, 21 march" ID="ID_182658315" CREATED="1495861922163" MODIFIED="1495861928902"/>
 </node>
 </node>
-<node TEXT="Philosophy" ID="ID_956818106" CREATED="1495365258416" MODIFIED="1497043998716">
+<node TEXT="Philosophy" FOLDED="true" ID="ID_956818106" CREATED="1495365258416" MODIFIED="1497043998716">
 <icon BUILTIN="full-1"/>
 <font NAME="Calibri"/>
 <node TEXT="orthodox (6)" FOLDED="true" ID="ID_20494832" CREATED="1526792039914" MODIFIED="1557813484675">
