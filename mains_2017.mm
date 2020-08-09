@@ -19120,8 +19120,12 @@
 </node>
 </node>
 </node>
-<node TEXT="Humayun Tomb" FOLDED="true" ID="ID_442310562" CREATED="1495937967519" MODIFIED="1495937972832">
+<node TEXT="Humayun Tomb" FOLDED="true" ID="ID_442310562" CREATED="1495937967519" MODIFIED="1596953507130">
+<icon BUILTIN="bookmark"/>
+<node TEXT="see nitin raisinghania for more details" ID="ID_1309666828" CREATED="1596953537945" MODIFIED="1596953544579"/>
 <node TEXT="earliest double dome, indo islamic&#xa;, inverted lotus&#xa;, red sandstone + white marble" ID="ID_1762522741" CREATED="1495937988209" MODIFIED="1527321958354"/>
+<node TEXT="first char bagh" ID="ID_132772413" CREATED="1596953515614" MODIFIED="1596953518220"/>
+<node TEXT="Commissioned by Haji begum (w/o HUmayun)" ID="ID_361409660" CREATED="1596953523557" MODIFIED="1596953531936"/>
 <node TEXT="arab sarai = guest house (built by Akbar)" ID="ID_372671534" CREATED="1495938201273" MODIFIED="1495938210759"/>
 <node TEXT="image" ID="ID_62025224" CREATED="1495938014510" MODIFIED="1495938089755">
 <hook URI="../../../../E:/archived/Downloads/UPSC%20REVISION%20for%202017/unacademy-dl/art%20n%20culture/humanyun%20tomb.png" SIZE="1.0" NAME="ExternalObject"/>
@@ -19286,7 +19290,8 @@
 </node>
 </node>
 <node TEXT="LITERATURE" ID="ID_295644004" CREATED="1553157894572" MODIFIED="1553157897318">
-<node TEXT="Dara Shikoh" FOLDED="true" ID="ID_585331895" CREATED="1495942464155" MODIFIED="1527397695512">
+<node TEXT="Dara Shikoh" FOLDED="true" ID="ID_585331895" CREATED="1495942464155" MODIFIED="1596953486227">
+<icon BUILTIN="bookmark"/>
 <node TEXT="eldest son of Shah Jahan" ID="ID_230589264" CREATED="1495942467015" MODIFIED="1495942473438"/>
 <node ID="ID_1201059609" CREATED="1495942474969" MODIFIED="1496022371924"><richcontent TYPE="NODE">
 
@@ -19712,6 +19717,11 @@
 <font BOLD="true"/>
 </node>
 <node TEXT="tax based on land measurement + average produce of land" ID="ID_1836959566" CREATED="1526794412781" MODIFIED="1526794424714"/>
+</node>
+<node TEXT="grand trunk road" FOLDED="true" ID="ID_1790234133" CREATED="1596957277708" MODIFIED="1596957315586" LINK="https://www.youtube.com/watch?v=Z0JTYchj9DM">
+<font BOLD="true"/>
+<node TEXT="FIRST information system by sher shah suri - on horseback - GT road" ID="ID_473934632" CREATED="1596957282139" MODIFIED="1596957286327"/>
+<node TEXT="connecting dhaka to peshawar" ID="ID_1673927295" CREATED="1596957303691" MODIFIED="1596957310802"/>
 </node>
 </node>
 <node TEXT="makaravilakku" FOLDED="true" ID="ID_272607601" CREATED="1546588994823" MODIFIED="1552578672469">
@@ -20325,6 +20335,88 @@
 </node>
 <node TEXT="Yanadi Tribe - Andhra Pradesh" ID="ID_767572751" CREATED="1559061158084" MODIFIED="1559061158084"/>
 <node TEXT="3. Kurichiya tribe – Kerala" ID="ID_1830752949" CREATED="1559061158084" MODIFIED="1559061158084"/>
+</node>
+</node>
+<node TEXT="Stamps of India" FOLDED="true" ID="ID_1333097041" CREATED="1596957376597" MODIFIED="1596959442910" LINK="https://www.youtube.com/watch?v=Z0JTYchj9DM">
+<icon BUILTIN="bookmark"/>
+<node TEXT="robert clive = set up groundwork for british postal system" FOLDED="true" ID="ID_70207399" CREATED="1596957382655" MODIFIED="1596957410486">
+<node TEXT="Dak system started with that" ID="ID_698740041" CREATED="1596957420104" MODIFIED="1596957423758"/>
+<node TEXT="official communication ONLY" ID="ID_1762312997" CREATED="1596957426719" MODIFIED="1596957430617"/>
+<node TEXT="not for the public" ID="ID_1313657393" CREATED="1596957430752" MODIFIED="1596957433053"/>
+</node>
+<node TEXT="warren hastings" FOLDED="true" ID="ID_1731212218" CREATED="1596957434112" MODIFIED="1596957436155">
+<node TEXT="set up post office in kolkata" ID="ID_1373435707" CREATED="1596957436325" MODIFIED="1596957446890">
+<node TEXT="which found permanent place at Calcutat GPO, 1868" ID="ID_1959438105" CREATED="1596957451553" MODIFIED="1596957465460"/>
+</node>
+</node>
+<node TEXT="1835 Bentick" FOLDED="true" ID="ID_1969345319" CREATED="1596957495559" MODIFIED="1596957497649">
+<node TEXT="changes in postal system" ID="ID_1463674420" CREATED="1596957499044" MODIFIED="1596957503276"/>
+<node TEXT="rate per mile was his innovatino" ID="ID_648065838" CREATED="1596957504922" MODIFIED="1596957508944"/>
+<node TEXT="only PAID letters. NO unpaid letters" ID="ID_981306105" CREATED="1596957601653" MODIFIED="1596957616587" LINK="#ID_1174466443"/>
+<node TEXT="two types" ID="ID_117092043" CREATED="1596957511099" MODIFIED="1596957512284">
+<node TEXT="unpaid letter to the person" FOLDED="true" ID="ID_1174466443" CREATED="1596957522828" MODIFIED="1596957596804">
+<node ID="ID_62470087" CREATED="1596957597523" MODIFIED="1596957597523"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      , if letter reaches , postman collects the money
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="but misused&#xa;&#xa;as contents read and returned =&gt; :(" ID="ID_1716014951" CREATED="1596957562245" MODIFIED="1596957574392"/>
+</node>
+<node TEXT="other?" ID="ID_9694660" CREATED="1596957578776" MODIFIED="1596957581538"/>
+</node>
+</node>
+<node TEXT="Penny Black" FOLDED="true" ID="ID_612603927" CREATED="1596957627310" MODIFIED="1596957629672">
+<node TEXT="as the first stamp" ID="ID_1882422581" CREATED="1596957633376" MODIFIED="1596957635853">
+<node TEXT="based on weight" ID="ID_504672805" CREATED="1596957663925" MODIFIED="1596957666358"/>
+</node>
+<node TEXT="licking the back of queen :p&#xa;&#xa;because saliva se stick karo" ID="ID_1257949502" CREATED="1596957650097" MODIFIED="1596957660387"/>
+</node>
+<node TEXT="sindh dawks" FOLDED="true" ID="ID_866467308" CREATED="1596957704997" MODIFIED="1596957706712">
+<node TEXT="by Provincial commissioner called&#xa;&#xa;sir bartle Frere" ID="ID_1974206108" CREATED="1596957708052" MODIFIED="1596957723609"/>
+<node TEXT="stamps" ID="ID_1860012701" CREATED="1596957728377" MODIFIED="1596957748772"/>
+</node>
+<node TEXT="junagarh was first princely state to start postal service in country" ID="ID_839601867" CREATED="1596958434719" MODIFIED="1596958450006"/>
+<node TEXT="1911 india = first country to carry mails by air" ID="ID_794623733" CREATED="1596958592390" MODIFIED="1596958602107"/>
+<node TEXT="1934 - first parachute delivery" ID="ID_363491071" CREATED="1596958642265" MODIFIED="1596958646375"/>
+<node TEXT="1947 - 3 stamps at independence" FOLDED="true" ID="ID_854578287" CREATED="1596958776499" MODIFIED="1596958782198">
+<node TEXT="indian flag, ashoka stambh, dedicated to Indian air services" ID="ID_1277501832" CREATED="1596958782296" MODIFIED="1596958792300"/>
+</node>
+<node TEXT="dakghar" FOLDED="true" ID="ID_906146757" CREATED="1596958961633" MODIFIED="1596958963248">
+<node TEXT="rabindra nath tagore play" ID="ID_1681745576" CREATED="1596958958159" MODIFIED="1596958961523"/>
+</node>
+<node TEXT="new stamps fo today" ID="ID_601996313" CREATED="1596959380439" MODIFIED="1596959383759">
+<node TEXT="2500 Buddha jayanti stamp" ID="ID_802694802" CREATED="1596959023235" MODIFIED="1596959092608"/>
+<node TEXT="Joint issue stamps with other countries" FOLDED="true" ID="ID_905487274" CREATED="1596959175723" MODIFIED="1596959181711">
+<node TEXT="indo japan" ID="ID_1766525764" CREATED="1596959115064" MODIFIED="1596959124808">
+<node TEXT="faces masks  - theatre forms on stamps" ID="ID_1933588519" CREATED="1596959134787" MODIFIED="1596959142333"/>
+</node>
+<node TEXT="indis mexico" ID="ID_67912508" CREATED="1596959148732" MODIFIED="1596959151004">
+<node TEXT="folk dances" ID="ID_996003775" CREATED="1596959151104" MODIFIED="1596959156383"/>
+</node>
+<node TEXT="india france" FOLDED="true" ID="ID_1338616444" CREATED="1596959157512" MODIFIED="1596959163017">
+<node TEXT="national birds" ID="ID_351524002" CREATED="1596959167084" MODIFIED="1596959172350"/>
+</node>
+<node TEXT="indo china" FOLDED="true" ID="ID_1077300224" CREATED="1596959124994" MODIFIED="1596959129363">
+<node TEXT="pagodas on stamps" ID="ID_1384241969" CREATED="1596959129494" MODIFIED="1596959132890"/>
+</node>
+</node>
+<node TEXT="Thematic stamps" FOLDED="true" ID="ID_1157348561" CREATED="1596959264389" MODIFIED="1596959266814">
+<node TEXT="bollywood, asian games, cricket, music" ID="ID_1863268352" CREATED="1596959266971" MODIFIED="1596959276830"/>
+</node>
+<node TEXT="stamp on stamp - souvenir sheets" FOLDED="true" ID="ID_608884500" CREATED="1596959327330" MODIFIED="1596959333642">
+<node TEXT="mahatma gandhi dual stamps on stamps&#xa;&#xa;one on when he died 1948&#xa;another 1969 - 2nd october" ID="ID_1491553489" CREATED="1596959333845" MODIFIED="1596959362006"/>
+</node>
+<node TEXT="Commemorative stamps" ID="ID_916180055" CREATED="1596959374074" MODIFIED="1596959378580"/>
 </node>
 </node>
 </node>
@@ -21909,7 +22001,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -22432,7 +22523,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Geography" FOLDED="true" ID="ID_24166292" CREATED="1490945390147" MODIFIED="1496055203518">
+<node TEXT="Geography" ID="ID_24166292" CREATED="1490945390147" MODIFIED="1496055203518">
 <font NAME="Calibri"/>
 <node TEXT="NATIONAL PARKS / SANCTUARIES" FOLDED="true" ID="ID_305678942" CREATED="1490671229147" MODIFIED="1553159171260">
 <font NAME="Calibri"/>
@@ -22922,11 +23013,6 @@
 <node TEXT="largest volcano region" FOLDED="true" ID="ID_905615016" CREATED="1525509176100" MODIFIED="1525509183970">
 <node TEXT="antarctica," ID="ID_1874435130" CREATED="1525509184048" MODIFIED="1525509215238"/>
 </node>
-<node TEXT="zozila pass tunnel" FOLDED="true" ID="ID_907319604" CREATED="1525523830588" MODIFIED="1525523834500">
-<node TEXT="asia longest bi directional tunnel" ID="ID_237128413" CREATED="1525523834657" MODIFIED="1525523843962"/>
-<node TEXT="min road" ID="ID_1709673056" CREATED="1525523845059" MODIFIED="1525523848919"/>
-<node TEXT="srinagar, leh kargil connect" ID="ID_866897162" CREATED="1525523849357" MODIFIED="1525523852748"/>
-</node>
 <node TEXT="hope island = andhra" ID="ID_1327910754" CREATED="1526619072405" MODIFIED="1526619075531"/>
 <node TEXT="lake titicaca" FOLDED="true" ID="ID_1322343613" CREATED="1552292542331" MODIFIED="1552292544978">
 <node TEXT="highest navigable lake" ID="ID_1595790949" CREATED="1552292545233" MODIFIED="1552292549615"/>
@@ -22977,6 +23063,12 @@
 <node TEXT="Kallakkadal - formally approved UNESCO, 2012" ID="ID_753389155" CREATED="1526994126165" MODIFIED="1526994136871"/>
 </node>
 <node TEXT="RIMES" ID="ID_1630724284" CREATED="1526994210901" MODIFIED="1526994213042"/>
+<node TEXT="Nathpa Jhakri Dam" FOLDED="true" ID="ID_971364613" CREATED="1596954025490" MODIFIED="1596954028861">
+<icon BUILTIN="bookmark"/>
+<node TEXT="on Bhabha khad river" ID="ID_994629772" CREATED="1596954062646" MODIFIED="1596954068478">
+<node TEXT="tributary to satluj" ID="ID_1085581407" CREATED="1596954068580" MODIFIED="1596954072534"/>
+</node>
+</node>
 <node TEXT="solar minima:" FOLDED="true" ID="ID_1653074667" CREATED="1526644078149" MODIFIED="1526644079167">
 <node ID="ID_1004393951" CREATED="1526644083662" MODIFIED="1526644092007"><richcontent TYPE="NODE">
 
@@ -23051,6 +23143,17 @@
 <node TEXT="Superimposed drainage" FOLDED="true" ID="ID_72256931" CREATED="1496994148494" MODIFIED="1496994153038">
 <node TEXT="maintain the same course and remains unaffected even after cutting through the soft rocks =&gt; discordant structure!" ID="ID_1883120231" CREATED="1496994144192" MODIFIED="1496994147487"/>
 <node TEXT="e.g. Chambal, subarnrekha, damodar" ID="ID_238607327" CREATED="1496994157888" MODIFIED="1496994165826"/>
+</node>
+<node TEXT="zozila pass tunnel" ID="ID_907319604" CREATED="1525523830588" MODIFIED="1525523834500">
+<node TEXT="asia longest bi directional tunnel" ID="ID_237128413" CREATED="1525523834657" MODIFIED="1525523843962"/>
+<node TEXT="MoRTH" ID="ID_475096414" CREATED="1596953848933" MODIFIED="1596953850618"/>
+<node TEXT="srinagar, leh kargil connect" ID="ID_866897162" CREATED="1525523849357" MODIFIED="1525523852748"/>
+</node>
+<node TEXT="palakkad ghat" ID="ID_200659650" CREATED="1596953595379" MODIFIED="1596953628007">
+<icon BUILTIN="bookmark"/>
+<node TEXT="aka pal ghat" ID="ID_158051302" CREATED="1596953601239" MODIFIED="1596953603853"/>
+<node TEXT="between Nilgiri (north) and anamalai (south)" ID="ID_1248421862" CREATED="1596953604789" MODIFIED="1596953787048"/>
+<node TEXT="bahrat puzah river&#xa;&#xa;aka neelah river&#xa;&#xa;originates in Palakkad gap" ID="ID_1016433674" CREATED="1596953616041" MODIFIED="1596953714630"/>
 </node>
 </node>
 <node TEXT="map type" FOLDED="true" ID="ID_1857282730" CREATED="1523033044582" MODIFIED="1553158238815">
@@ -23585,8 +23688,8 @@
 </node>
 </node>
 <node TEXT="vision : Laterite soil for Brick making" ID="ID_638287912" CREATED="1496994338544" MODIFIED="1496994344795"/>
-<node TEXT="bridges famous" FOLDED="true" ID="ID_1269749132" CREATED="1596790473048" MODIFIED="1596790476397">
-<node TEXT="diffo bridge" FOLDED="true" ID="ID_435301500" CREATED="1592289231249" MODIFIED="1592289234103">
+<node TEXT="bridges famous" ID="ID_1269749132" CREATED="1596790473048" MODIFIED="1596790476397">
+<node TEXT="diffo bridge" ID="ID_435301500" CREATED="1592289231249" MODIFIED="1592289234103">
 <node TEXT="between dibang and lohit, Arunachal" ID="ID_528387055" CREATED="1592289234308" MODIFIED="1592289240866"/>
 <node TEXT="on diffo river" ID="ID_981559869" CREATED="1592289245122" MODIFIED="1592289247515"/>
 <node TEXT="by BRO" ID="ID_1686707701" CREATED="1592289247690" MODIFIED="1592289249438"/>
@@ -23627,7 +23730,7 @@
 <node TEXT="NW 6" FOLDED="true" ID="ID_1170186577" CREATED="1496109942325" MODIFIED="1496109946186">
 <node TEXT="barak river, manipur" ID="ID_1302090127" CREATED="1496109948004" MODIFIED="1496109953497"/>
 </node>
-<node TEXT="Jal Marg Vikas" FOLDED="true" ID="ID_1998386711" CREATED="1494407888504" MODIFIED="1497234498444">
+<node TEXT="Jal Marg Vikas" ID="ID_1998386711" CREATED="1494407888504" MODIFIED="1497234498444">
 <icon BUILTIN="full-1"/>
 <node ID="ID_1574570363" CREATED="1494407893377" MODIFIED="1522997099774"><richcontent TYPE="NODE">
 
@@ -23669,7 +23772,7 @@
 <node TEXT="MISCELLANEOUS" FOLDED="true" ID="ID_1347402539" CREATED="1553159377837" MODIFIED="1553159380950">
 <node TEXT="ROR project" FOLDED="true" ID="ID_1962058054" CREATED="1490945639750" MODIFIED="1526742744269">
 <font NAME="Calibri"/>
-<node TEXT="run of the river project" FOLDED="true" ID="ID_1447253398" CREATED="1490945641189" MODIFIED="1490945644214">
+<node TEXT="run of the river project" ID="ID_1447253398" CREATED="1490945641189" MODIFIED="1490945644214">
 <node TEXT="no storage of water to generate electricity" ID="ID_1537485407" CREATED="1490945644410" MODIFIED="1490945651195"/>
 </node>
 <node TEXT="e.g. Ratle and Kishanganga" ID="ID_1168486796" CREATED="1495429081557" MODIFIED="1495429092117"/>
@@ -23686,7 +23789,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="Tendu amaltas, bel khair" FOLDED="true" ID="ID_462907601" CREATED="1496995279344" MODIFIED="1497043998716">
+<node TEXT="Tendu amaltas, bel khair" ID="ID_462907601" CREATED="1496995279344" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
 <node TEXT="dry deciduous forests" ID="ID_1912740401" CREATED="1496995286349" MODIFIED="1496995291379"/>
 </node>
@@ -23816,7 +23919,7 @@
 </node>
 </node>
 <node TEXT="epidemic + biological = MoHFW&#xa;&#xa;Drought = MoES&#xa;&#xa;CHemical = MoEFCC" ID="ID_1889701213" CREATED="1527506727924" MODIFIED="1527506754070"/>
-<node TEXT="GI tags" ID="ID_1685954971" CREATED="1558243651429" MODIFIED="1596814507213">
+<node TEXT="GI tags" FOLDED="true" ID="ID_1685954971" CREATED="1558243651429" MODIFIED="1596814507213">
 <icon BUILTIN="bookmark"/>
 <node TEXT="Telangana" FOLDED="true" ID="ID_630123787" CREATED="1558243658184" MODIFIED="1558243658184">
 <node TEXT="Narayanpet Handloom Sarees" ID="ID_1397363283" CREATED="1558243653050" MODIFIED="1558243653605"/>
@@ -28877,9 +28980,27 @@
 <icon BUILTIN="bookmark"/>
 </node>
 </node>
-<node TEXT="IAEA" FOLDED="true" ID="ID_1500118673" CREATED="1495235949897" MODIFIED="1495235951631">
-<node TEXT="not under UN" ID="ID_1033172138" CREATED="1523640286471" MODIFIED="1523640288338"/>
+<node TEXT="IAEA" FOLDED="true" ID="ID_1500118673" CREATED="1495235949897" MODIFIED="1596954217561">
+<icon BUILTIN="bookmark"/>
+<node TEXT="estd 1957" ID="ID_1695719691" CREATED="1596954225141" MODIFIED="1596954227715"/>
+<node TEXT="3 roles" FOLDED="true" ID="ID_98017171" CREATED="1596955058555" MODIFIED="1596955061238">
+<node TEXT="peaceful uses of nuclear energy" ID="ID_1943141269" CREATED="1596955062849" MODIFIED="1596955070580"/>
+<node TEXT="nuclear safety and security for civilian use of radioactive materials" ID="ID_1659036544" CREATED="1596955078706" MODIFIED="1596955087357"/>
+<node TEXT="verifying in more than 900 civilian facilities ; no nuclear weapon" ID="ID_1287381744" CREATED="1596955097726" MODIFIED="1596955109213"/>
+</node>
+<node TEXT="not a party to NPT" FOLDED="true" ID="ID_1549826124" CREATED="1596955121845" MODIFIED="1596955127296">
+<node TEXT="but specific roles" ID="ID_1137925292" CREATED="1596955137384" MODIFIED="1596955138382">
+<node TEXT="international safeguards inspectorate" ID="ID_620898415" CREATED="1596955142668" MODIFIED="1596955143368"/>
+<node TEXT="channel for transferring peaceful applications of nuclear tech" ID="ID_1067892117" CREATED="1596955148023" MODIFIED="1596955151935"/>
+</node>
+</node>
+<node TEXT="additional protocol NPT" ID="ID_398753474" CREATED="1596954236585" MODIFIED="1596955798181" LINK="#ID_1925847476">
+<node TEXT="for civilian reactors under IAEA surveillance" ID="ID_75492932" CREATED="1596954246372" MODIFIED="1596954260562"/>
+</node>
+<node TEXT="not under UN" FOLDED="true" ID="ID_1033172138" CREATED="1523640286471" MODIFIED="1523640288338">
+<node TEXT="integrated with UN via its own treaty “The Statute of the IAEA”." ID="ID_585573427" CREATED="1596955012959" MODIFIED="1596955036479"/>
 <node TEXT="reports to UNGA + UNSC both" ID="ID_948099130" CREATED="1495235958210" MODIFIED="1495235969774"/>
+</node>
 <node TEXT="LEU&#xa;low enriched uranium" FOLDED="true" ID="ID_26347378" CREATED="1523640291823" MODIFIED="1523640308126">
 <icon BUILTIN="idea"/>
 <node ID="ID_1753653339" CREATED="1523640326924" MODIFIED="1523640326924"><richcontent TYPE="NODE">
@@ -29155,14 +29276,66 @@
 <node TEXT="CTBTO is an independent international&#xa;&#xa;organisation&#xa;&#xa;and&#xa;&#xa;has&#xa;&#xa;a&#xa;&#xa;cooperative&#xa;&#xa;mechanism with the United Nations" ID="ID_1574571250" CREATED="1585902626276" MODIFIED="1585902626676"/>
 </node>
 </node>
-<node TEXT="NPT, 1968:" FOLDED="true" ID="ID_323400566" CREATED="1557336511683" MODIFIED="1557336676242">
-<node TEXT="India&#xa;, Israel&#xa;, North Korea&#xa;, Pakistan&#xa;and South Sudan&#xa;&#xa;are not&#xa;&#xa;parties to this treaty." ID="ID_1553941068" CREATED="1557336672291" MODIFIED="1585893116887"/>
-<node TEXT="defines nuclear weapon states as = those tested devices before 1967" FOLDED="true" ID="ID_1384462663" CREATED="1585893127670" MODIFIED="1585893148087">
+<node TEXT="NPT, 1970: (50 years in 2020)" FOLDED="true" ID="ID_323400566" CREATED="1557336511683" MODIFIED="1596956150947">
+<icon BUILTIN="bookmark"/>
+<node TEXT="membership" FOLDED="true" ID="ID_1088518362" CREATED="1596955535577" MODIFIED="1596955714651">
+<node TEXT="are members" ID="ID_1736948923" CREATED="1596955539752" MODIFIED="1596955544258">
+<node TEXT="defines nuclear weapon states as = those tested devices before 1967" ID="ID_1384462663" CREATED="1585893127670" MODIFIED="1585893148087">
 <node TEXT="india can never be one" ID="ID_1628858310" CREATED="1585893148212" MODIFIED="1585893153436"/>
+<node TEXT="Basically, P5 states" ID="ID_1573036661" CREATED="1596955447721" MODIFIED="1596955454175"/>
 </node>
-<node TEXT="no fixed timeline of disarmament" FOLDED="true" ID="ID_471995768" CREATED="1585893166522" MODIFIED="1585893173605">
-<node TEXT="entered in force in 1970 but&#xa;&#xa;On 11 May 1995, the Treaty was extended indefinitely." ID="ID_121700620" CREATED="1585902799568" MODIFIED="1585902812721"/>
+<node TEXT="ALL EXCEPT not members (N5 )" ID="ID_1397712684" CREATED="1596955676078" MODIFIED="1596955684262"/>
 </node>
+<node TEXT="NOT members" FOLDED="true" ID="ID_1359862309" CREATED="1596955545221" MODIFIED="1596955547002">
+<node ID="ID_1553941068" CREATED="1557336672291" MODIFIED="1596955439819"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      India
+    </p>
+    <p>
+      , Israel
+    </p>
+    <p>
+      , North Korea
+    </p>
+    <p>
+      , Pakistan
+    </p>
+    <p>
+      and South Sudan
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      are <b><font color="#ff6633">not</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      parties to this treaty.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="zangger committee" FOLDED="true" ID="ID_311663202" CREATED="1557374088606" MODIFIED="1557374095595">
+<node TEXT="china member" ID="ID_1424965143" CREATED="1557374096908" MODIFIED="1559319023393">
+<font BOLD="true"/>
+</node>
+<node TEXT="not to export fissionable material&#xa;&#xa;only after safeguards&#xa;&#xa;(Trigger LIST)" ID="ID_1581474392" CREATED="1557374101120" MODIFIED="1596955477651"/>
+<node TEXT="coordinate on nuclear export issues." ID="ID_1251582986" CREATED="1585893041544" MODIFIED="1585893043587"/>
+</node>
+<node TEXT="success of NPT?" FOLDED="true" ID="ID_1485007340" CREATED="1596955563007" MODIFIED="1596955565864">
 <node ID="ID_1921209846" CREATED="1585902774353" MODIFIED="1585902785130"><richcontent TYPE="NODE">
 
 <html>
@@ -29189,14 +29362,44 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="zangger committee" FOLDED="true" ID="ID_311663202" CREATED="1557374088606" MODIFIED="1557374095595">
-<node TEXT="china member" ID="ID_1424965143" CREATED="1557374096908" MODIFIED="1559319023393">
-<font BOLD="true"/>
+<node TEXT="reduction in nucelar war heads since 1970s" FOLDED="true" ID="ID_1731284164" CREATED="1596955720957" MODIFIED="1596955746611">
+<node TEXT="now, 14 k of which russia and USA have 12k" ID="ID_1865165499" CREATED="1596955747080" MODIFIED="1596955747494"/>
 </node>
-<node TEXT="not to export fissionable material&#xa;&#xa;only after safeguards (Trigger LIST)" ID="ID_1581474392" CREATED="1557374101120" MODIFIED="1557374132234"/>
-<node TEXT="coordinate on nuclear export issues." ID="ID_1251582986" CREATED="1585893041544" MODIFIED="1585893043587"/>
-</node>
+<node TEXT="all countries except N5 are members" FOLDED="true" ID="ID_610479726" CREATED="1596955591904" MODIFIED="1596955613781" LINK="#ID_1553941068">
 <node TEXT="More countries have ratified the NPT than any other arms limitation and disarmament agreement." ID="ID_1270200163" CREATED="1585902870500" MODIFIED="1585902871018"/>
+<node TEXT="channel for transferring peaceful applications" ID="ID_1516975828" CREATED="1596955627010" MODIFIED="1596955627010"/>
+</node>
+<node TEXT="additional protocol to NPT" ID="ID_1925847476" CREATED="1596954236585" MODIFIED="1596955840190" COLOR="#ff6633">
+<node TEXT="for civilian reactors under IAEA surveillance" ID="ID_595692679" CREATED="1596954246372" MODIFIED="1596954260562"/>
+<node TEXT="used in JCPOA" ID="ID_496170523" CREATED="1596955810745" MODIFIED="1596955823940" COLOR="#ff3399"/>
+</node>
+<node TEXT="creating NFWZ" ID="ID_987176785" CREATED="1596955856633" MODIFIED="1596955861267" COLOR="#ff6633">
+<node TEXT="nuclear free weapon zones" ID="ID_1826469823" CREATED="1596955861379" MODIFIED="1596955865400"/>
+</node>
+</node>
+<node TEXT="concerns with NPT" FOLDED="true" ID="ID_1340457435" CREATED="1596955566336" MODIFIED="1596955570532">
+<node TEXT="no fixed timeline of disarmament" FOLDED="true" ID="ID_471995768" CREATED="1585893166522" MODIFIED="1585893173605">
+<node TEXT="entered in force in 1970 but&#xa;&#xa;On 11 May 1995, the Treaty was extended indefinitely." ID="ID_121700620" CREATED="1585902799568" MODIFIED="1585902812721"/>
+</node>
+<node TEXT="JCPOA US withdrawal" ID="ID_116757255" CREATED="1596955892895" MODIFIED="1596955897883"/>
+<node TEXT="unable to prevent non-signatories" ID="ID_1400997287" CREATED="1596955919501" MODIFIED="1596955920064">
+<node TEXT="India, Israel, and Pakistan" ID="ID_1405152163" CREATED="1596955924285" MODIFIED="1596955924285"/>
+</node>
+<node TEXT="no sanctions for violators or for withdrawal from the treaty." ID="ID_1285191982" CREATED="1596955957559" MODIFIED="1596955964865"/>
+</node>
+<node TEXT="way ahead" FOLDED="true" ID="ID_122957306" CREATED="1596955885829" MODIFIED="1596955889406">
+<node TEXT="US - russia&#xa;&#xa;New START to 2026" ID="ID_195489922" CREATED="1596956036108" MODIFIED="1596956043894">
+<node TEXT="but open skies treaty = US withdraw" ID="ID_1609365607" CREATED="1596956044534" MODIFIED="1596956051338"/>
+</node>
+<node TEXT="new Treaty on the prohibition of Nuclear Weapons adopted in 2017:" ID="ID_1192623050" CREATED="1596956061440" MODIFIED="1596956063127"/>
+</node>
+<node TEXT="india&apos;s stand on NPT" ID="ID_565660480" CREATED="1596956082191" MODIFIED="1596956086263">
+<node TEXT="refused to join the treaty" FOLDED="true" ID="ID_997095115" CREATED="1596956091358" MODIFIED="1596956093317">
+<node TEXT="discriminatory because of its grouping" ID="ID_618789915" CREATED="1596956101257" MODIFIED="1596956101257"/>
+</node>
+<node TEXT="india;s unblemished record on non-proliferation" ID="ID_1584327558" CREATED="1596956114351" MODIFIED="1596956121778"/>
+<node TEXT="divided the world into “nuclear haves” and “nuclear have-nots’" ID="ID_535729930" CREATED="1596956080337" MODIFIED="1596956081935"/>
+</node>
 </node>
 <node TEXT="o ‘Arms Trade Treaty (ATT)’" FOLDED="true" ID="ID_1157983704" CREATED="1559149964927" MODIFIED="1559149965533">
 <node TEXT="multilateral treaty" ID="ID_1569195273" CREATED="1559149974001" MODIFIED="1559149982289"/>
@@ -30891,7 +31094,12 @@
 </node>
 <node TEXT="IOC" FOLDED="true" ID="ID_1922404275" CREATED="1596701666417" MODIFIED="1596701668300">
 <node TEXT="indian ocean commission" ID="ID_1618065837" CREATED="1596701668410" MODIFIED="1596701671578"/>
-<node TEXT="5 countries" ID="ID_18911853" CREATED="1596701673091" MODIFIED="1596701675364"/>
+<node TEXT="created via Port-Louis Declaration in 1982." FOLDED="true" ID="ID_1332642632" CREATED="1596956185808" MODIFIED="1596956196533">
+<node TEXT="institutionalised by Seychelles, 1984 Victoria Agreement." ID="ID_1351509440" CREATED="1596956203835" MODIFIED="1596956219094"/>
+</node>
+<node TEXT="5 countries" ID="ID_18911853" CREATED="1596701673091" MODIFIED="1596701675364">
+<node TEXT="Comoros, madagascar, seychelles, mauritius reunion" ID="ID_1087248432" CREATED="1596956228045" MODIFIED="1596956245132"/>
+</node>
 <node TEXT="india observer status" ID="ID_704969474" CREATED="1596701720468" MODIFIED="1596701723828"/>
 <node TEXT="HQ - mauritius" ID="ID_313443401" CREATED="1596701732285" MODIFIED="1596701735737"/>
 </node>
@@ -33285,7 +33493,7 @@
 </node>
 </node>
 </node>
-<node TEXT="GS3" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1531407028667" LINK="http://mrunal.org/2017/11/dl-upsc-mains-gs3-2017.html#49">
+<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1531407028667" LINK="http://mrunal.org/2017/11/dl-upsc-mains-gs3-2017.html#49">
 <node TEXT="2017 mains" FOLDED="true" ID="ID_180616381" CREATED="1519604337394" MODIFIED="1519604339879">
 <node FOLDED="true" ID="ID_123910175" CREATED="1519604340521" MODIFIED="1583252813865" MAX_WIDTH="150.7659545093708 pt" MIN_WIDTH="150.7659545093708 pt"><richcontent TYPE="NODE">
 
