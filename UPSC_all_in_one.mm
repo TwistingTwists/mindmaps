@@ -3449,11 +3449,8 @@
 <node TEXT="cheeked macaque" FOLDED="true" ID="ID_97927217" CREATED="1497545540735" MODIFIED="1497545549750">
 <node TEXT="Arunachal" ID="ID_1447919605" CREATED="1497545550046" MODIFIED="1497545555497"/>
 </node>
-<node TEXT="solifluction" FOLDED="true" ID="ID_827558736" CREATED="1497543507290" MODIFIED="1497543521285">
+<node TEXT="solifluction" ID="ID_827558736" CREATED="1497543507290" MODIFIED="1497543521285">
 <node TEXT="freezing and thawing" ID="ID_703112173" CREATED="1497543521691" MODIFIED="1497543528489"/>
-</node>
-<node TEXT="forest action plan, 2016-2020" FOLDED="true" ID="ID_1188162444" CREATED="1497540719805" MODIFIED="1497540726308">
-<node TEXT="WB group" ID="ID_1817541313" CREATED="1497540727152" MODIFIED="1497540730872"/>
 </node>
 <node TEXT="Fraser Commission" ID="ID_1534576740" CREATED="1497543579455" MODIFIED="1497543593735">
 <node TEXT="reforms in police" ID="ID_1506542413" CREATED="1497543583904" MODIFIED="1497543586248"/>
@@ -3974,7 +3971,7 @@
 <node TEXT="II" ID="ID_221799328" CREATED="1495867534312" MODIFIED="1495867534976"/>
 <node TEXT="III" ID="ID_1087285634" CREATED="1495867535265" MODIFIED="1495867536110"/>
 </node>
-<node TEXT="nalanda" ID="ID_11279483" CREATED="1489412074510" MODIFIED="1497043998716">
+<node TEXT="nalanda" FOLDED="true" ID="ID_11279483" CREATED="1489412074510" MODIFIED="1497043998716">
 <font NAME="Calibri"/>
 <node TEXT="Gupta Empire @Harsha, Kannauj, 400-500" ID="ID_1812688325" CREATED="1489412077261" MODIFIED="1489412114152"/>
 <node TEXT="@magadha" ID="ID_147195123" CREATED="1495497056485" MODIFIED="1495497059266"/>
@@ -4416,8 +4413,8 @@
 </node>
 </node>
 </node>
-<node TEXT="non orthodox" ID="ID_889486504" CREATED="1526792043259" MODIFIED="1526792045558">
-<node TEXT="Charvaka aka Lokayata aka materialists" ID="ID_1449937200" CREATED="1495365261507" MODIFIED="1497066965270">
+<node TEXT="non orthodox" FOLDED="true" ID="ID_889486504" CREATED="1526792043259" MODIFIED="1526792045558">
+<node TEXT="Charvaka aka Lokayata aka materialists" FOLDED="true" ID="ID_1449937200" CREATED="1495365261507" MODIFIED="1497066965270">
 <node FOLDED="true" ID="ID_928274153" CREATED="1495365328992" MODIFIED="1495365328992"><richcontent TYPE="NODE">
 
 <html>
@@ -4683,10 +4680,11 @@
 <node TEXT="The five initials, viz. A+A+A+U+M are taken as forming the Aum syllable." ID="ID_1864858107" CREATED="1591627130617" MODIFIED="1591627138169"/>
 </node>
 </node>
-<node TEXT="scriptures" FOLDED="true" ID="ID_1519377142" CREATED="1497333767743" MODIFIED="1497333772674">
+<node TEXT="scriptures" FOLDED="true" ID="ID_1519377142" CREATED="1497333767743" MODIFIED="1597504455774">
+<icon BUILTIN="bookmark"/>
 <font NAME="Dialog"/>
-<node TEXT="pitakas" FOLDED="true" ID="ID_208235755" CREATED="1557138622723" MODIFIED="1557138626032">
-<node TEXT="sutta pitak&#xa;&#xa;discourse&#xa;( divided into 5 Nikayas / Groups)" ID="ID_1641318453" CREATED="1557138626157" MODIFIED="1558086649460">
+<node TEXT="pitakas&#xa;&#xa;Canonical literature" ID="ID_208235755" CREATED="1557138622723" MODIFIED="1597504282668">
+<node TEXT="sutta pitak&#xa;&#xa;discourse&#xa;( divided into 5 Nikayas / Groups)" FOLDED="true" ID="ID_1641318453" CREATED="1557138626157" MODIFIED="1558086649460">
 <node TEXT="Digha (Long) Nikaya," ID="ID_219740536" CREATED="1558086583013" MODIFIED="1558086583013">
 <node TEXT="a collection of long sermons ascribed to the Buddha." ID="ID_1703470966" CREATED="1558086583013" MODIFIED="1558086605903"/>
 </node>
@@ -4719,15 +4717,32 @@
 <node TEXT="vinayak&#xa;&#xa;disciple" ID="ID_973974988" CREATED="1557138629492" MODIFIED="1557138641541"/>
 <node TEXT="abhidhamma&#xa;&#xa;doctrinal elaboration" ID="ID_1798425110" CREATED="1557138632548" MODIFIED="1557138651343"/>
 </node>
-<node TEXT="avadana" ID="ID_758948962" CREATED="1526619775558" MODIFIED="1526619777402">
+<node TEXT="avadana" FOLDED="true" ID="ID_758948962" CREATED="1526619775558" MODIFIED="1526619777402">
 <node TEXT="about past lives of bodhisattvas&#xa;&#xa;part of buddhist literature" ID="ID_442554414" CREATED="1526619777605" MODIFIED="1526619807000"/>
 </node>
-<node TEXT="Dipavamasa" ID="ID_1216107189" CREATED="1557919963700" MODIFIED="1557919964526">
+<node TEXT="Dipavamasa / dipavamsa" FOLDED="true" ID="ID_1216107189" CREATED="1557919963700" MODIFIED="1597503213224">
 <node TEXT="literally, the chronicle of the island)" ID="ID_1368253914" CREATED="1557919970081" MODIFIED="1557919970081"/>
+<node TEXT="3rd - 4th century AD" ID="ID_1444814380" CREATED="1597503225572" MODIFIED="1597503231973"/>
 <node TEXT="Sri Lanka mein history of buddhism" ID="ID_1903866588" CREATED="1557919999317" MODIFIED="1557920004951"/>
+<node TEXT="PALI literature" ID="ID_679693045" CREATED="1597503243649" MODIFIED="1597503245738"/>
+<node TEXT="associating Piyadasi with Ashoka." FOLDED="true" ID="ID_614549089" CREATED="1597503258198" MODIFIED="1597503258840">
+<node TEXT="1837, George Turnour discovered Sri Lankan manuscripts (Dipavamsa, or &quot;Island Chronicle&quot;) associating" ID="ID_1133954361" CREATED="1597503274782" MODIFIED="1597503274782"/>
 </node>
-<node TEXT="Mahavamsa (the great chronicle)" ID="ID_1479352984" CREATED="1557919976021" MODIFIED="1557919976548">
+</node>
+<node TEXT="Mahavamsa (the great chronicle)" FOLDED="true" ID="ID_1479352984" CREATED="1557919976021" MODIFIED="1557919976548">
 <node TEXT="regional history of buddhism&#xa;as buddhism went beyond borders of india" ID="ID_1347519110" CREATED="1557919981633" MODIFIED="1557919998017"/>
+</node>
+<node TEXT="sanskrit books" FOLDED="true" ID="ID_1011284941" CREATED="1597504290431" MODIFIED="1597504446683" BACKGROUND_COLOR="#ff99ff">
+<node TEXT="BUddhacharita" ID="ID_478490374" CREATED="1597504294204" MODIFIED="1597504299672">
+<node TEXT="ashwaghosh" ID="ID_441329494" CREATED="1597504300138" MODIFIED="1597504302210"/>
+</node>
+<node TEXT="sariputta Parakarna" ID="ID_1789638479" CREATED="1597504332674" MODIFIED="1597504343288">
+<node TEXT="ashwaghosh" ID="ID_886826788" CREATED="1597504343615" MODIFIED="1597504345220"/>
+</node>
+<node TEXT="Lalitavistara Sūtra" ID="ID_780499034" CREATED="1597504370668" MODIFIED="1597504373911">
+<node TEXT=" Sanskrit Mahayana Buddhist sutra" ID="ID_1795683249" CREATED="1597504379867" MODIFIED="1597504380552"/>
+<node TEXT="story from Tushita until his first sermon at Deer Park near Varanasi" ID="ID_1990045937" CREATED="1597504394119" MODIFIED="1597504411589"/>
+</node>
 </node>
 </node>
 <node TEXT="Schools of thought" FOLDED="true" ID="ID_1095305726" CREATED="1494562482665" MODIFIED="1494646165142">
@@ -5009,9 +5024,9 @@
 <node TEXT="Nagasena‘s answers were recorded in the form of a book known as Milinda Panho" ID="ID_582841939" CREATED="1557910329562" MODIFIED="1557910330135"/>
 </node>
 </node>
-<node TEXT="Jainism" FOLDED="true" ID="ID_126528454" CREATED="1495855834404" MODIFIED="1557141301656">
+<node TEXT="Jainism" ID="ID_126528454" CREATED="1495855834404" MODIFIED="1557141301656">
 <font NAME="Calibri"/>
-<node ID="ID_1426608140" CREATED="1495866982438" MODIFIED="1495867018022"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1426608140" CREATED="1495866982438" MODIFIED="1495867018022"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5024,13 +5039,28 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="karma = yes&#xa;asceticism + penance are needed to free oneself from Karma cycle" ID="ID_557306172" CREATED="1497075694004" MODIFIED="1497075728923">
+<node TEXT="karma = yes&#xa;&#xa;freedom from karma cycle, how?&#xa;= asceticism + penance" ID="ID_557306172" CREATED="1497075694004" MODIFIED="1597505221391">
 <icon BUILTIN="idea"/>
 </node>
 <node TEXT="everything is ANIMATE = has a soul" ID="ID_828129019" CREATED="1497075731001" MODIFIED="1497075740408"/>
 <node TEXT="did not condemn varna system, rebirth believed (?&gt;&gt;)" ID="ID_1514669516" CREATED="1523014446976" MODIFIED="1523014467726"/>
 </node>
 <node TEXT="Mahavira = 24th tirthankar&#xa;Rishabha = 1st tirthankar" ID="ID_1184306642" CREATED="1496974330491" MODIFIED="1496974344952"/>
+<node TEXT="gomateshwara statue" FOLDED="true" ID="ID_447876538" CREATED="1497061542995" MODIFIED="1497061549957">
+<node TEXT="@shravanbelagola, karnataka" ID="ID_1138574339" CREATED="1497061550379" MODIFIED="1497061557740"/>
+<node TEXT="standings statue, 981 AD" ID="ID_1273150193" CREATED="1497061558146" MODIFIED="1497061618616">
+<hook URI="Gommateshvara_Bahubali_978-993_AD..jpg" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+<node TEXT="kayotsarga&#xa;    standing / sitting meditation" ID="ID_1407054465" CREATED="1524139325753" MODIFIED="1524139328659"/>
+</node>
+<node TEXT="Parasparopagraho Jīvānām = motto of jainism" FOLDED="true" ID="ID_1477235116" CREATED="1597504768901" MODIFIED="1597504819389">
+<node TEXT="परस्परोपग्रहो जीवानाम्" ID="ID_1638858561" CREATED="1597504774282" MODIFIED="1597504775084"/>
+<node TEXT=" &quot;Souls render service to one another&quot;" ID="ID_15558503" CREATED="1597504781368" MODIFIED="1597504782035"/>
+<node TEXT="motto is inscribed in Devanagari script at the base of the symbol of Jainism" ID="ID_1105115316" CREATED="1597504809931" MODIFIED="1597504814889"/>
+<node TEXT="the symbol" ID="ID_691470783" CREATED="1597504912024" MODIFIED="1597505096632">
+<hook URI="JainEmblem.svg" SIZE="0.71343637" NAME="ExternalObject"/>
+</node>
+</node>
 <node TEXT="2 councils" FOLDED="true" ID="ID_969192551" CREATED="1495867040182" MODIFIED="1495867042327">
 <node TEXT="Patliputra, 300 BC&#xa;Chandragupta Maurya&#xa;compile 12 Angas" ID="ID_1119521060" CREATED="1495867042679" MODIFIED="1495867083723"/>
 <node TEXT="Vallabhi, 512 AD&#xa;...&#xa;&#xa;Division into&#xa;- Digambar (direction are their clothes)&#xa;- svetambar (magadh and north india)&#xa;&#xa;Final complete 12 Angas + 12 upangas" ID="ID_1622533980" CREATED="1495867052139" MODIFIED="1559103427575"/>
@@ -5059,6 +5089,43 @@
 </richcontent>
 </node>
 <node TEXT="follow vratas in constraints = Anuvrata" ID="ID_921944462" CREATED="1495855928865" MODIFIED="1495855944258"/>
+</node>
+<node TEXT="Basadi" FOLDED="true" ID="ID_911160100" CREATED="1496728638736" MODIFIED="1496728640118">
+<node ID="ID_66148631" CREATED="1496728640764" MODIFIED="1496728640764"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <span class="fontstyle0">place of residence of Jain monks</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="both Jainism + buddhism have principles from Upanishads" ID="ID_1016332325" CREATED="1497061666233" MODIFIED="1597505260438" BACKGROUND_COLOR="#ffccff"/>
+<node FOLDED="true" ID="ID_1267913494" CREATED="1526792983686" MODIFIED="1526793000550"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      about judgement - syavada (<b><i><u>somehow</u></i></b>)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Saptbhanginaya - 7 types of judgement&#xa;&#xa;, [ not uncertainty in judgement but its conditional character ]" ID="ID_1969681272" CREATED="1526793001471" MODIFIED="1526793013175"/>
+</node>
+<node TEXT="Nyayavada or Anek_antavada&#xa;&#xa;or Syayvada" FOLDED="true" ID="ID_1216292667" CREATED="1527866349711" MODIFIED="1559103020437">
+<node TEXT="six blind men trying to describe elephant" ID="ID_831254600" CREATED="1527866384621" MODIFIED="1527866397803">
+<node TEXT="no absolute truth&#xa;&#xa;Truth cannot be known from one viewpoint" ID="ID_517060955" CREATED="1559103022628" MODIFIED="1559103037813"/>
+<node TEXT="not absolute reality&#xa;&#xa;perceived differently" ID="ID_1260850919" CREATED="1559103047386" MODIFIED="1559103059468"/>
+</node>
+<node TEXT="similar to ptatiya samutpada" ID="ID_1431857953" CREATED="1559103148095" MODIFIED="1559103165496" LINK="#ID_1642786167"/>
 </node>
 <node TEXT="Sallekhnana aka Santhara" FOLDED="true" ID="ID_474154472" CREATED="1495855982197" MODIFIED="1495855990113">
 <node ID="ID_1573020780" CREATED="1495856022508" MODIFIED="1495856057424"><richcontent TYPE="NODE">
@@ -5102,49 +5169,35 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Basadi" ID="ID_911160100" CREATED="1496728638736" MODIFIED="1496728640118">
-<node ID="ID_66148631" CREATED="1496728640764" MODIFIED="1496728640764"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">place of residence of Jain monks</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
+<node TEXT="LIterature" FOLDED="true" ID="ID_1261440662" CREATED="1597504512578" MODIFIED="1597505191963" BACKGROUND_COLOR="#ff99ff">
+<node TEXT="Prakrit bOoks" ID="ID_1592730483" CREATED="1597504517861" MODIFIED="1597504520182">
+<node TEXT="purva" ID="ID_479427336" CREATED="1597505146641" MODIFIED="1597505148257"/>
+<node TEXT="anga, upanga, agma, mulsutra, bhagwati sutra, chedab sutra" ID="ID_521470012" CREATED="1597505148447" MODIFIED="1597505177351"/>
+</node>
+<node TEXT="sanskrit books" ID="ID_1660404068" CREATED="1597504522633" MODIFIED="1597504524938">
+<node TEXT="prapanch katha" FOLDED="true" ID="ID_1816141756" CREATED="1597504530612" MODIFIED="1597504533257">
+<node TEXT="by Siddharishi" ID="ID_1439209169" CREATED="1597504536730" MODIFIED="1597504540163"/>
+</node>
+<node TEXT=" Tattvartha Sutra (sutra = dighama)" ID="ID_1262372233" CREATED="1597504578963" MODIFIED="1597504589384">
+<node TEXT="200 - 500 AD" ID="ID_615699256" CREATED="1597504692703" MODIFIED="1597504695176"/>
+<node TEXT=" tattva =&quot;reality, truth&quot;&#xa;&#xa;artha =&quot;nature, meaning&quot;&#xa;&#xa;meaning &quot;nature of reality&quot;." ID="ID_1775148263" CREATED="1597504706357" MODIFIED="1597504724006"/>
+<node TEXT=" mention of four right sentiments" FOLDED="true" ID="ID_1966815026" CREATED="1597504602261" MODIFIED="1597504602647">
+<node TEXT="Maitri," FOLDED="true" ID="ID_1994124826" CREATED="1597504606694" MODIFIED="1597504607084">
+<node TEXT="Benevolence towards all living beings" ID="ID_999452758" CREATED="1597504623776" MODIFIED="1597504624473"/>
+</node>
+<node TEXT="pramoda" FOLDED="true" ID="ID_1372697617" CREATED="1597504608908" MODIFIED="1597504609337">
+<node TEXT="joy at the sight of the virtuous," ID="ID_759890418" CREATED="1597504640876" MODIFIED="1597504641230"/>
+</node>
+<node TEXT="karunya" FOLDED="true" ID="ID_1539563505" CREATED="1597504611003" MODIFIED="1597504611485">
+<node TEXT=" compassion and sympathy for the afflicted," ID="ID_1292181814" CREATED="1597504644872" MODIFIED="1597504645603"/>
+</node>
+<node TEXT="madhyastha" FOLDED="true" ID="ID_972313492" CREATED="1597504613745" MODIFIED="1597504614150">
+<node TEXT="tolerance towards the insolent and ill-behaved." ID="ID_387367258" CREATED="1597504652499" MODIFIED="1597504652881"/>
 </node>
 </node>
-<node TEXT="gomateshwara statue" FOLDED="true" ID="ID_447876538" CREATED="1497061542995" MODIFIED="1497061549957">
-<node TEXT="@shravanbelagola, karnataka" ID="ID_1138574339" CREATED="1497061550379" MODIFIED="1497061557740"/>
-<node TEXT="standings statue, 981 AD" ID="ID_1273150193" CREATED="1497061558146" MODIFIED="1497061618616">
-<hook URI="Gommateshvara_Bahubali_978-993_AD..jpg" SIZE="1.0" NAME="ExternalObject"/>
+<node TEXT=" by Acharya Umaswami (Umaswami)" ID="ID_368286612" CREATED="1597504686689" MODIFIED="1597504687088"/>
 </node>
-<node TEXT="kayotsarga&#xa;    standing / sitting meditation" ID="ID_1407054465" CREATED="1524139325753" MODIFIED="1524139328659"/>
 </node>
-<node TEXT="both Jainism + buddhism have principles from Upanishads" ID="ID_1016332325" CREATED="1497061666233" MODIFIED="1497061688741"/>
-<node FOLDED="true" ID="ID_1267913494" CREATED="1526792983686" MODIFIED="1526793000550"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      about judgement - syavada (<b><i><u>somehow</u></i></b>)
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Saptbhanginaya - 7 types of judgement&#xa;&#xa;, [ not uncertainty in judgement but its conditional character ]" ID="ID_1969681272" CREATED="1526793001471" MODIFIED="1526793013175"/>
-</node>
-<node TEXT="Nyayavada or Anek_antavada&#xa;&#xa;or Syayvada" ID="ID_1216292667" CREATED="1527866349711" MODIFIED="1559103020437">
-<node TEXT="six blind men trying to describe elephant" ID="ID_831254600" CREATED="1527866384621" MODIFIED="1527866397803">
-<node TEXT="no absolute truth&#xa;&#xa;Truth cannot be known from one viewpoint" ID="ID_517060955" CREATED="1559103022628" MODIFIED="1559103037813"/>
-<node TEXT="not absolute reality&#xa;&#xa;perceived differently" ID="ID_1260850919" CREATED="1559103047386" MODIFIED="1559103059468"/>
-</node>
-<node TEXT="similar to ptatiya samutpada" ID="ID_1431857953" CREATED="1559103148095" MODIFIED="1559103165496" LINK="#ID_1642786167"/>
 </node>
 </node>
 </node>
