@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.75">
+<node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1495500719103" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_note_icons="true" fit_to_viewport="false;"/>
 
 <map_styles>
@@ -621,836 +621,15 @@
 </node>
 </node>
 </node>
-<node TEXT="Sci-Tech" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_14206091" CREATED="1487759691934" MODIFIED="1494887616058">
-<font NAME="Calibri"/>
-<node TEXT="Defence" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1182767909" CREATED="1489479056638" MODIFIED="1525499142173">
-<node TEXT="procurement" ID="ID_717491335" CREATED="1526620284290" MODIFIED="1526620287713">
-<node TEXT="rafale = france&#xa;Sukhoi = russia&#xa;Phalcon Airborne warning system = israel" ID="ID_373734075" CREATED="1526620287916" MODIFIED="1526620312904"/>
-</node>
-<node TEXT="Missiles and weapon systems" FOLDED="true" ID="ID_1297264090" CREATED="1495168418984" MODIFIED="1495168429676">
-<node TEXT="SWATHI - weapon location" FOLDED="true" ID="ID_1590302052" CREATED="1489479058199" MODIFIED="1489479067679">
-<node TEXT="DRDO" ID="ID_1018473567" CREATED="1489479067804" MODIFIED="1489479069420"/>
-<node TEXT="50 kms range" ID="ID_818983899" CREATED="1495340891066" MODIFIED="1495340892399"/>
-</node>
-<node TEXT="SRSAM" FOLDED="true" ID="ID_1370097214" CREATED="1557680574649" MODIFIED="1557680575970">
-<node TEXT="AKASH, TRISHUL, MAITRI" ID="ID_882776837" CREATED="1557680577284" MODIFIED="1557680649486"/>
-</node>
-<node TEXT="Nirbhay" FOLDED="true" ID="ID_1150530122" CREATED="1495168452182" MODIFIED="1495168453738">
-<node TEXT="subsonic cruise&#xa;&#xa;&lt;100kms&#xa;&#xa;low altitude&#xa;100m" ID="ID_1730960427" CREATED="1495168455186" MODIFIED="1557680498717"/>
-<node TEXT="conventional as well as nuclear war-head." ID="ID_1708489862" CREATED="1558255513708" MODIFIED="1558255513898"/>
-<node TEXT="DRDO scrapped after repeated failures" ID="ID_1386713103" CREATED="1557680507704" MODIFIED="1557680515710"/>
-</node>
-<node TEXT="BrahMos" FOLDED="true" ID="ID_228475378" CREATED="1494399927101" MODIFIED="1494399951775">
-<icon BUILTIN="idea"/>
-<node TEXT="supersonic cruise" ID="ID_1933235633" CREATED="1494399929136" MODIFIED="1557680701361"/>
-<node TEXT="named after Brahamputra of India and Moskva of Russia" ID="ID_1539768779" CREATED="1557680708930" MODIFIED="1557680722274"/>
-<node TEXT="450Kms" ID="ID_247727283" CREATED="1494399933862" MODIFIED="1494399934768"/>
-<node TEXT="tested @Andaman" ID="ID_1448154639" CREATED="1494399936274" MODIFIED="1494399943861"/>
-<node TEXT="Brahmos 2.0" FOLDED="true" ID="ID_277702763" CREATED="1557680732054" MODIFIED="1557680735598">
-<node TEXT="Hypersonic cruise&#xa;&#xa;7-8 mach" ID="ID_888804690" CREATED="1557680735873" MODIFIED="1557680743833"/>
-<node TEXT="After MTCR in 2016,&#xa;&#xa;&gt;600kms above missile!" ID="ID_1165555877" CREATED="1557680748867" MODIFIED="1557680763682"/>
-</node>
-</node>
-<node TEXT="passenger drone" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_201419737" CREATED="1490416830077" MODIFIED="1525499079334" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="ehang 184" ID="ID_1270030410" CREATED="1490416843186" MODIFIED="1496108524755"/>
-<node TEXT="electricity only" ID="ID_792302662" CREATED="1496108543744" MODIFIED="1496108546259"/>
-</node>
-<node TEXT="guardian drone" LOCALIZED_STYLE_REF="default" ID="ID_710504793" CREATED="1489479130912" MODIFIED="1489479135112" BACKGROUND_COLOR="#ffe8e8"/>
-<node TEXT="M777" FOLDED="true" ID="ID_1636473004" CREATED="1495141728655" MODIFIED="1499394291674">
-<node TEXT="artillery guns&#xa;govt to govt deal , India-US" ID="ID_56524003" CREATED="1495141916390" MODIFIED="1495141936871"/>
-<node TEXT="modular design =&gt; useful at narrow treacherous terrain" ID="ID_8981485" CREATED="1495142080254" MODIFIED="1495142100359"/>
-<node TEXT="ORIGINALLY from england!  (assembled in USA)" ID="ID_660187030" CREATED="1495405231967" MODIFIED="1495405246161"/>
-</node>
-<node TEXT="Maitri" FOLDED="true" ID="ID_1251131820" CREATED="1557681659825" MODIFIED="1557681661915">
-<node TEXT="QRSAM , DRDO + FRance" ID="ID_1362521411" CREATED="1557681662287" MODIFIED="1557681667782"/>
-</node>
-<node TEXT="SPYDer" FOLDED="true" ID="ID_310276653" CREATED="1557681674093" MODIFIED="1557681675346">
-<node TEXT="lsurface to air python and derby missile system" ID="ID_142980654" CREATED="1557681675466" MODIFIED="1557681681902"/>
-<node TEXT="low level QRSAM (15 kms)" ID="ID_359618981" CREATED="1557681682053" MODIFIED="1557681689707"/>
-</node>
-<node TEXT="Barak-8" FOLDED="true" ID="ID_1466395964" CREATED="1496971211222" MODIFIED="1496971213566">
-<node TEXT="MRSAM" ID="ID_978446573" CREATED="1557680640843" MODIFIED="1557680642368"/>
-<node TEXT="nuclear, ballistic, india israel" ID="ID_930943116" CREATED="1496971213772" MODIFIED="1496971221054"/>
-<node TEXT="lightning 8 in Hebrew" ID="ID_428102472" CREATED="1496971226945" MODIFIED="1496971230972"/>
-</node>
-</node>
-<node TEXT="IGMDP&#xa;&#xa;integrated guided  missile development programme" FOLDED="true" ID="ID_1489369099" CREATED="1557679231299" MODIFIED="1557679258274">
-<node TEXT="PATAN missiles" ID="ID_1551889351" CREATED="1557679261514" MODIFIED="1557679267278">
-<node TEXT="Prithvi" FOLDED="true" ID="ID_421721446" CREATED="1489479138026" MODIFIED="1489479170473">
-<node TEXT="Prithvi I" ID="ID_1107322723" CREATED="1557679353279" MODIFIED="1557679358320">
-<node TEXT="150 kms&#xa;, 1000 kg&#xa;, in service since 1994&#xa;, being replaced by PRAHAAR" ID="ID_95692158" CREATED="1557679409782" MODIFIED="1585457741648" TEXT_ALIGN="LEFT"/>
-</node>
-<node TEXT="Prithvi II" ID="ID_1948481081" CREATED="1557679358555" MODIFIED="1557679361800">
-<node TEXT=" 250 km&#xa;, 500-750kg&#xa;&#xa;, air force" ID="ID_26093580" CREATED="1557679391723" MODIFIED="1585457741654" TEXT_ALIGN="LEFT"/>
-</node>
-<node TEXT="Prithvi III" ID="ID_74398295" CREATED="1557679361971" MODIFIED="1557679363734">
-<node TEXT="aka Dhanush&#xa;&#xa;navy version , 350Kms&#xa;&#xa;both in navy + army" ID="ID_27004153" CREATED="1557679366143" MODIFIED="1557679386795"/>
-</node>
-<node TEXT="Ashwin" ID="ID_1366717287" CREATED="1489479171240" MODIFIED="1489479173298"/>
-</node>
-<node TEXT="Agni" FOLDED="true" ID="ID_1958896398" CREATED="1557679281372" MODIFIED="1557679282463">
-<node TEXT="after its success, agni was removed from IGMDP" ID="ID_1646018427" CREATED="1557679629282" MODIFIED="1557679638413"/>
-<node TEXT="long range nuclear capable" ID="ID_1262182929" CREATED="1557679460200" MODIFIED="1557679464737"/>
-<node TEXT="Agni I" FOLDED="true" ID="ID_371482493" CREATED="1557679472415" MODIFIED="1557679475372">
-<node TEXT="MRBM&#xa;&#xa;700-900 km&#xa;, 1200 kg&#xa;two stage" ID="ID_1423489878" CREATED="1557679529063" MODIFIED="1557679543758"/>
-</node>
-<node TEXT="Agni II" FOLDED="true" ID="ID_631362585" CREATED="1557679472415" MODIFIED="1557679487287">
-<node TEXT="MRBM&#xa;&#xa;two stage&#xa;&#xa;as credible deterrence against china pak" ID="ID_236891539" CREATED="1557679547153" MODIFIED="1557679567536"/>
-</node>
-<node TEXT="Agni III" FOLDED="true" ID="ID_433534554" CREATED="1557679472415" MODIFIED="1557679489901">
-<node TEXT="IRBM" ID="ID_1750803926" CREATED="1557679577989" MODIFIED="1557679582083"/>
-</node>
-<node TEXT="Agni IV" FOLDED="true" ID="ID_1758325113" CREATED="1557679472415" MODIFIED="1557679492247">
-<node TEXT="IRBM&#xa;&#xa;two stage solid fuelled" ID="ID_199740989" CREATED="1557679585236" MODIFIED="1557679600228"/>
-<node TEXT="indegenous tech :&#xa;&#xa;rocket motor + ring laser gyro" ID="ID_1908649521" CREATED="1557679602744" MODIFIED="1557679618218"/>
-</node>
-<node TEXT="Agni V" FOLDED="true" ID="ID_1273993042" CREATED="1496106363782" MODIFIED="1557679501840">
-<node TEXT="MIRV tech&#xa;&#xa;multiple independently targetable re-entry vehicle" ID="ID_1491903967" CREATED="1557679651371" MODIFIED="1557679668559"/>
-<node TEXT="ballistics + 5k kms + ICBM&#xa;3 stage solid rocket" ID="ID_1514730503" CREATED="1496106368633" MODIFIED="1557681467120"/>
-</node>
-<node TEXT="summary" FOLDED="true" ID="ID_1082300838" CREATED="1557679674890" MODIFIED="1557679676870">
-<node ID="ID_769379355" CREATED="1557679881979" MODIFIED="1557679899960"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <table border="0" cellpadding="0" cellspacing="0" width="362" style="width: 271pt">
-      <col width="87" style="width: 65pt"/>
-      <col width="101" style="width: 76pt"/>
-      <col width="87" span="2" style="width: 65pt"/>
-      
-
-      <tr height="21" style="height: 16.0pt">
-        <td height="21" class="xl65" width="87" style="height: 16.0pt; width: 65pt; font-size: 8.0pt; color: black; font-weight: 700; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: 1.0pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          series
-        </td>
-        <td class="xl65" width="101" style="width: 76pt; font-size: 8.0pt; color: black; font-weight: 700; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: 1.0pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          range (KM)
-        </td>
-        <td class="xl65" width="87" style="width: 65pt; font-size: 8.0pt; color: black; font-weight: 700; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: 1.0pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          type
-        </td>
-        <td class="xl65" width="87" style="width: 65pt; font-size: 8.0pt; color: black; font-weight: 700; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: 1.0pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          unique
-        </td>
-      </tr>
-      <tr height="21" style="height: 16.0pt">
-        <td height="21" class="xl65" style="height: 16.0pt; font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          AGNI I<span>&#160;</span>
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          700-900
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          MRBM
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          two stage
-        </td>
-      </tr>
-      <tr height="21" style="height: 16.0pt">
-        <td height="21" class="xl65" style="height: 16.0pt; font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          AGNI II
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          2000-2500
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          MRBM
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          as credile deterrence against china pak<span>&#160;</span>
-        </td>
-      </tr>
-      <tr height="21" style="height: 16.0pt">
-        <td height="21" class="xl65" style="height: 16.0pt; font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          AGNI III<span>&#160;</span>
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          3500-5000
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          IRBM<span>&#160;</span>
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          
-        </td>
-      </tr>
-      <tr height="21" style="height: 16.0pt">
-        <td height="21" class="xl65" style="height: 16.0pt; font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          AGNI IV
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          3000-4000
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          IRBM<span>&#160;</span>
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          two stage solid fuel<span>&#160;</span>
-        </td>
-      </tr>
-      <tr height="21" style="height: 16.0pt">
-        <td height="21" class="xl65" style="height: 16.0pt; font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          AGNI V
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          5000-5500
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          ICBM
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt; background-color: #EDEDED; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null">
-          MIRV tech<span>&#160;</span>
-        </td>
-      </tr>
-      <tr height="21" style="height: 16.0pt">
-        <td height="21" class="xl65" style="height: 16.0pt; font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          AGNI VI
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          8000-10000
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          ICBM
-        </td>
-        <td class="xl65" style="font-size: 8.0pt; color: black; font-weight: 400; text-decoration: none; font-family: Calibri, sans-serif; border-top-color: #A5A5A5; border-top-style: solid; border-top-width: .5pt; border-right-color: #A5A5A5; border-right-style: solid; border-right-width: .5pt; border-bottom-color: #A5A5A5; border-bottom-style: solid; border-bottom-width: .5pt; border-left-color: #A5A5A5; border-left-style: solid; border-left-width: .5pt">
-          MIRV tech<span>&#160;</span>
-        </td>
-      </tr>
-    </table>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="Trishul" FOLDED="true" ID="ID_380732352" CREATED="1557679344317" MODIFIED="1557679345818">
-<node TEXT="QRSAM" ID="ID_269131924" CREATED="1557681523816" MODIFIED="1557681526090"/>
-</node>
-<node TEXT="Aakash" FOLDED="true" ID="ID_93214434" CREATED="1557679312526" MODIFIED="1557679316047">
-<node TEXT="supersonic surface to air" ID="ID_196910927" CREATED="1557681492794" MODIFIED="1557681499183"/>
-<node TEXT="fully atuomated" ID="ID_248724515" CREATED="1557681505581" MODIFIED="1557681507567"/>
-</node>
-<node TEXT="Nag" FOLDED="true" ID="ID_143895086" CREATED="1499394295941" MODIFIED="1499394296880">
-<node TEXT="anti tank, fire-forget," ID="ID_54261124" CREATED="1499394297033" MODIFIED="1499394312913"/>
-<node TEXT="DRDO" ID="ID_1672302657" CREATED="1499394314398" MODIFIED="1499394315676"/>
-<node TEXT="HELINA : helicopter launched Nag" ID="ID_1706725885" CREATED="1557680537035" MODIFIED="1557680545732"/>
-</node>
-</node>
-</node>
-<node TEXT="Navy" FOLDED="true" ID="ID_672372423" CREATED="1490502778004" MODIFIED="1597310170253">
-<icon BUILTIN="bookmark"/>
-<node TEXT="Project 15" LOCALIZED_STYLE_REF="default" ID="ID_580241247" CREATED="1558848862695" MODIFIED="1585457165203" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node ID="ID_1945809739" CREATED="1558848867124" MODIFIED="1558848867124"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Delhi Class destroyers
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT=" guided-missile destroyers" ID="ID_42362900" CREATED="1558848904917" MODIFIED="1558848905201"/>
-</node>
-<node TEXT="INS Delhi, INS Mysore, INS Mumbai" ID="ID_1006700008" CREATED="1558848875238" MODIFIED="1558848875629"/>
-</node>
-<node TEXT="Project 15A" ID="ID_1053221580" CREATED="1558848881340" MODIFIED="1558848881676">
-<node TEXT=" Kolkata Class Destroyer" ID="ID_1738053602" CREATED="1558848885291" MODIFIED="1558848886271">
-<node TEXT="stealth guided missile destroyers" ID="ID_523070343" CREATED="1558848895464" MODIFIED="1558848895808"/>
-</node>
-<node TEXT="INS Chennai" ID="ID_1395972251" CREATED="1494907271651" MODIFIED="1494907273879">
-<node TEXT="@magazondock" ID="ID_510312397" CREATED="1494907294859" MODIFIED="1494907296903"/>
-</node>
-</node>
-<node TEXT="Project 15B" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1422599936" CREATED="1489479113531" MODIFIED="1526185693487" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="vishakha pattnam class of desroyer ships" FOLDED="true" ID="ID_123131572" CREATED="1496381050322" MODIFIED="1558848857249">
-<node TEXT="stealth guided missile destroyers" ID="ID_1994400135" CREATED="1496381039350" MODIFIED="1496381044435"/>
-</node>
-<node TEXT="porbandar" ID="ID_108860338" CREATED="1558848932199" MODIFIED="1558848934524">
-<font BOLD="true"/>
-</node>
-<node TEXT="Mormugao" ID="ID_813959071" CREATED="1496381066582" MODIFIED="1496381135231">
-<font BOLD="true"/>
-<node TEXT="fitted with Barak-8 ( surface to air )" ID="ID_701903596" CREATED="1496381070145" MODIFIED="1496381119376"/>
-</node>
-<node TEXT="vishakhapattnam" ID="ID_1117829410" CREATED="1496381126687" MODIFIED="1496381135228">
-<font BOLD="true"/>
-<node TEXT=" largest missile destroyer commissioned in India till now" ID="ID_453013344" CREATED="1558848944814" MODIFIED="1558848949763"/>
-<node TEXT=" 8 BrahMos missile" ID="ID_908882133" CREATED="1558848949915" MODIFIED="1558848950255"/>
-</node>
-<node TEXT="paradip" ID="ID_1834656084" CREATED="1496381131631" MODIFIED="1496381135222">
-<font BOLD="true"/>
-</node>
-</node>
-<node TEXT="project 75" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1932165143" CREATED="1489479117278" MODIFIED="1526185693987" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node ID="ID_1779087961" CREATED="1495423985986" MODIFIED="1496381478082"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      french DCNS with MDL making <b><i>Scorpene Class submarines (6) </i></b>by 2022
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="diesel electric attack submarines" ID="ID_201639592" CREATED="1497964728741" MODIFIED="1497964737498"/>
-<node TEXT="“air independent propulsion system”" ID="ID_1497114275" CREATED="1495424070379" MODIFIED="1495424074313">
-<node TEXT="to allow submarine stay&#xa;underwater for longer duration." ID="ID_1970933612" CREATED="1495424077658" MODIFIED="1495424079451"/>
-</node>
-<node TEXT="INS Kalvari" ID="ID_1040956314" CREATED="1495423921040" MODIFIED="1495423928774">
-<node TEXT="anti ship&#xa;diesel powered" ID="ID_1029565422" CREATED="1495423932033" MODIFIED="1557681921364"/>
-<node ID="ID_970134966" CREATED="1495424155200" MODIFIED="1495424155200"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">to neutralize surface threats at extended ranges</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="named after tiger shark" ID="ID_1954098583" CREATED="1526185608633" MODIFIED="1526185615540"/>
-</node>
-<node TEXT="2. INS Khanderi" ID="ID_1019407653" CREATED="1492239523121" MODIFIED="1495424024859">
-<node TEXT="name = Island fort of Shivaji, 1989 wali INS khanderi" ID="ID_1161240861" CREATED="1492239614096" MODIFIED="1585458089937"/>
-<node TEXT="2017 - INS khanderi&#xa;named after Tiger Shark found near bottom of sea" ID="ID_1285003530" CREATED="1585458090588" MODIFIED="1585458107279"/>
-<node TEXT=" operate in all theatres, including the Tropics." ID="ID_720143975" CREATED="1495424132747" MODIFIED="1495424135635"/>
-</node>
-<node TEXT="3. INS karanj" ID="ID_1933589972" CREATED="1557681946577" MODIFIED="1557681949185"/>
-<node TEXT="vela, vagir, vagsheer" ID="ID_1191141350" CREATED="1526185576026" MODIFIED="1557681952973"/>
-</node>
-<node TEXT="project 75 I" LOCALIZED_STYLE_REF="default" ID="ID_1424447092" CREATED="1585894303786" MODIFIED="1585894307270" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="kalvari class submarines,&#xa;&#xa;Indigenous construction" ID="ID_159649643" CREATED="1585894307481" MODIFIED="1585894323500"/>
-<node TEXT="approved by Defence acquisition council under Strategic partnership" ID="ID_738311114" CREATED="1585894328059" MODIFIED="1585894346606">
-<node TEXT="2019_02 4.2" ID="ID_1708704812" CREATED="1585894357934" MODIFIED="1585894361716"/>
-<node TEXT="2019_06 4.2" ID="ID_143356799" CREATED="1585894397268" MODIFIED="1585894401556"/>
-</node>
-</node>
-<node TEXT="Project 17A" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_370164381" CREATED="1585458140631" MODIFIED="1585458143700" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="design derivative of the Shivalik class stealth frigates" ID="ID_740606830" CREATED="1585458144094" MODIFIED="1585458145178">
-<node TEXT="advanced stealth features&#xa; +&#xa;&#xa;indigenous weapons and sensors." ID="ID_1709255295" CREATED="1585458149755" MODIFIED="1585458156621"/>
-</node>
-<node TEXT="INS Nilgiri" ID="ID_1668137415" CREATED="1585458162550" MODIFIED="1585458162896">
-<node TEXT="integrated construction technology" ID="ID_200028641" CREATED="1585458167814" MODIFIED="1585458174367"/>
-<node TEXT="indigenous by Indian Navy&apos;s directorate of Naval design, new delhi" ID="ID_1745309451" CREATED="1585458186478" MODIFIED="1585458205144"/>
-</node>
-</node>
-<node TEXT="project 28" LOCALIZED_STYLE_REF="default" ID="ID_277364733" CREATED="1526185724146" MODIFIED="1526185726479" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-<node TEXT="anti submarine warfare" ID="ID_1414368013" CREATED="1526185726913" MODIFIED="1526185730029"/>
-</node>
-<node TEXT="INS Viraat" FOLDED="true" ID="ID_425098349" CREATED="1490502791977" MODIFIED="1490502793823">
-<node TEXT="decommissioned, 6 march" ID="ID_900307541" CREATED="1490502818901" MODIFIED="1497625342478"/>
-<node TEXT="Museum by sinking" ID="ID_1919209689" CREATED="1490502843197" MODIFIED="1490502848651"/>
-<node ID="ID_987692236" CREATED="1497625324717" MODIFIED="1497625336790"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      served as <b>HMS hermes, </b>before in Royal Navy, UK
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="INS vikrant" FOLDED="true" ID="ID_1560198175" CREATED="1490502829427" MODIFIED="1490502831584">
-<node TEXT="decommissioned" ID="ID_645162176" CREATED="1490502818901" MODIFIED="1597310153394" COLOR="#cc0099"/>
-<node TEXT="india&apos;s first AIRCRAFT carrier" ID="ID_883993469" CREATED="1497625402313" MODIFIED="1497625409702"/>
-</node>
-<node TEXT="INS Betwa" FOLDED="true" ID="ID_209333400" CREATED="1490502793978" MODIFIED="1490502797979">
-<node TEXT="frigate carrier" ID="ID_1535910666" CREATED="1490502798104" MODIFIED="1490502808889"/>
-</node>
-<node TEXT="INS vikramaditya" FOLDED="true" ID="ID_1709503702" CREATED="1495166022630" MODIFIED="1495166026025">
-<node TEXT="aircraft carrier" ID="ID_894585784" CREATED="1495166047048" MODIFIED="1495166050034"/>
-<node ID="ID_1810820393" CREATED="1495166141713" MODIFIED="1495166520098"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      newest , <b>largest, </b>made with russian support
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="INS Arihant" FOLDED="true" ID="ID_812073752" CREATED="1495166104584" MODIFIED="1526185656388">
-<icon BUILTIN="idea"/>
-<node TEXT="nuclear powered ballistic missile submarine" ID="ID_415271787" CREATED="1495166120110" MODIFIED="1495166128946"/>
-<node TEXT="also INS Aridhman" ID="ID_28318594" CREATED="1526185650498" MODIFIED="1526185654969"/>
-</node>
-<node TEXT="INS Tarini" FOLDED="true" ID="ID_1411692858" CREATED="1495799638441" MODIFIED="1525509327478">
-<icon BUILTIN="idea"/>
-<node TEXT="navika sgar parikrama" ID="ID_1595991933" CREATED="1525509319721" MODIFIED="1525509324494"/>
-<node ID="ID_1929117727" CREATED="1495799665836" MODIFIED="1495799665836"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">First<br/>Indian All Women Circumnavigation of the Globe expedition of the Indian Navy</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="tarmugli, Tihayu&#xa; tillanchang, tarasa" FOLDED="true" ID="ID_587705880" CREATED="1495166026466" MODIFIED="1526139389872">
-<icon BUILTIN="idea"/>
-<node TEXT="Nicobar class&#xa;water jet fast attack&#xa;(WJFAC)" ID="ID_1067012279" CREATED="1495166070713" MODIFIED="1597310126942"/>
-<node TEXT="garden reach shipbuilders kolkata" ID="ID_1096268350" CREATED="1526139394618" MODIFIED="1526139406315"/>
-</node>
-<node TEXT="Aryaman and Atulya" FOLDED="true" ID="ID_1820899446" CREATED="1495166029915" MODIFIED="1495166034458">
-<node TEXT="coastal patrolling" ID="ID_59368211" CREATED="1495166034588" MODIFIED="1495166043061"/>
-</node>
-<node TEXT="eyeROV Tuna" FOLDED="true" ID="ID_826375578" CREATED="1558849062312" MODIFIED="1558849066822">
-<node TEXT="India’s first Underwater Drone" ID="ID_1202652213" CREATED="1558849070852" MODIFIED="1558849072357"/>
-</node>
-</node>
-<node TEXT="defence exercises" FOLDED="true" ID="ID_931426555" CREATED="1492239516846" MODIFIED="1597131066888" BACKGROUND_COLOR="#ffcccc">
-<node TEXT="vigilant ace" FOLDED="true" ID="ID_385403784" CREATED="1526126033369" MODIFIED="1526126043129">
-<icon BUILTIN="idea"/>
-<node TEXT="us south korea" ID="ID_1300718062" CREATED="1526126038224" MODIFIED="1526126040735"/>
-</node>
-<node TEXT="Yudh ABhyas" ID="ID_171336964" CREATED="1490946888567" MODIFIED="1490946892141"/>
-<node TEXT="Al Nagah" FOLDED="true" ID="ID_77596848" CREATED="1490946897354" MODIFIED="1496628576165">
-<node TEXT="india - Oman" ID="ID_1769900387" CREATED="1490946901024" MODIFIED="1490946906150"/>
-<node TEXT="counter-terrorism" ID="ID_1339606087" CREATED="1490946914919" MODIFIED="1490946917961"/>
-<node TEXT="army-to-army" LOCALIZED_STYLE_REF="default" ID="ID_213472860" CREATED="1490946919768" MODIFIED="1490946927587" BACKGROUND_COLOR="#feffd6">
-<font NAME="Century Schoolbook L"/>
-</node>
-<node TEXT="@HP" ID="ID_1152261872" CREATED="1491477856771" MODIFIED="1491477860373"/>
-</node>
-<node TEXT="Naseem Al Bahr" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1493743958" CREATED="1490946954599" MODIFIED="1496098128915" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="India - Oman" ID="ID_694644816" CREATED="1490946958215" MODIFIED="1490946961616"/>
-<node TEXT="navy-navy" ID="ID_896464743" CREATED="1490946962911" MODIFIED="1490946966830"/>
-</node>
-<node TEXT="sampriti" FOLDED="true" ID="ID_1615158826" CREATED="1495141706362" MODIFIED="1495141707618">
-<node TEXT="bangladesh" ID="ID_1863465943" CREATED="1495141707786" MODIFIED="1495141709659"/>
-</node>
-<node TEXT="hand in hand" FOLDED="true" ID="ID_1581817026" CREATED="1495141710748" MODIFIED="1495141712039">
-<node TEXT="china" ID="ID_635003931" CREATED="1495141712498" MODIFIED="1495141713101"/>
-</node>
-<node TEXT="surya kiran" FOLDED="true" ID="ID_61937014" CREATED="1495427430518" MODIFIED="1495427432302">
-<node TEXT="nepal" ID="ID_602544176" CREATED="1495427432401" MODIFIED="1495427433272"/>
-<node TEXT="biannually, alternate in India Nepal" ID="ID_1006228618" CREATED="1496623420656" MODIFIED="1496623426806"/>
-<node TEXT="2017 : india" ID="ID_1527329905" CREATED="1496623452725" MODIFIED="1496623455994"/>
-</node>
-<node TEXT="varun" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1147743402" CREATED="1496098075169" MODIFIED="1496098125426" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="france + india" ID="ID_1156988922" CREATED="1496098093991" MODIFIED="1496098101336"/>
-</node>
-<node TEXT="konkan" FOLDED="true" ID="ID_886473601" CREATED="1496098078655" MODIFIED="1496098079863">
-<node TEXT="royal navy, UK + indian navy" ID="ID_1327629267" CREATED="1496098080109" MODIFIED="1496098086874"/>
-</node>
-<node TEXT="Slinex" FOLDED="true" ID="ID_223655382" CREATED="1496098138959" MODIFIED="1496098141260">
-<node TEXT="sri lanka + india" ID="ID_476031522" CREATED="1496098141380" MODIFIED="1496098147069"/>
-</node>
-<node TEXT="ekuverin" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1017198807" CREATED="1496056894462" MODIFIED="1526126029284" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="india maldives" ID="ID_1830591685" CREATED="1496056896674" MODIFIED="1496056902568"/>
-</node>
-<node TEXT="Maitree" FOLDED="true" ID="ID_788274605" CREATED="1497172002943" MODIFIED="1497172004745">
-<node TEXT="thailand" ID="ID_643523908" CREATED="1497172004927" MODIFIED="1497172006256"/>
-</node>
-<node TEXT="lamitye" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1364433313" CREATED="1497077749150" MODIFIED="1497077750540" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="seychelles" ID="ID_878680398" CREATED="1497077750665" MODIFIED="1497077752884"/>
-</node>
-<node TEXT="malabar" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_939042546" CREATED="1496098115859" MODIFIED="1499309158071" BACKGROUND_COLOR="#feffd6">
-<icon BUILTIN="button_cancel"/>
-<font NAME="Calibri"/>
-<node TEXT="india + japan + USA" ID="ID_91805526" CREATED="1496098117863" MODIFIED="1496098121146"/>
-</node>
-<node TEXT="Bold Kurushetra" FOLDED="true" ID="ID_1395347267" CREATED="1495427435066" MODIFIED="1495427438882">
-<node TEXT="singapore" ID="ID_1455622731" CREATED="1495427440362" MODIFIED="1495427443255"/>
-<node TEXT="armoured exercise" ID="ID_675647836" CREATED="1495427448275" MODIFIED="1495427452663"/>
-</node>
-<node TEXT="nomadic elephant" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1089582048" CREATED="1495427455202" MODIFIED="1525509342322" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="mongolia" ID="ID_600920253" CREATED="1495427462800" MODIFIED="1495427464911"/>
-<node TEXT="@mizoram" ID="ID_1324155211" CREATED="1495427470429" MODIFIED="1495427472343"/>
-</node>
-<node TEXT="Sagarmatha Friendship" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_812406163" CREATED="1495936567619" MODIFIED="1525509342324" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="china + Nepal" ID="ID_695749577" CREATED="1495936575745" MODIFIED="1495936578339"/>
-<node TEXT="millitary" ID="ID_777578755" CREATED="1495936581386" MODIFIED="1495936584309"/>
-</node>
-<node TEXT="prabal dostyak" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1237248673" CREATED="1495963869186" MODIFIED="1525509342324" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="india + kazakhastan" ID="ID_483131985" CREATED="1495963873312" MODIFIED="1495963878875"/>
-</node>
-<node TEXT="Significance of defence exercises" FOLDED="true" ID="ID_1675052508" CREATED="1495427479042" MODIFIED="1558261678495">
-<node TEXT="Confidence building measure ( CBM )" ID="ID_1949066963" CREATED="1495427490521" MODIFIED="1495427506746"/>
-<node FOLDED="true" ID="ID_348332124" CREATED="1495427553427" MODIFIED="1495427553427"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">bilateral Army-to-Army relation</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_1992119331" CREATED="1495427520337" MODIFIED="1495427520337"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">understand each other&#8217;s drills and<br/>procedures</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_836970178" CREATED="1495427541717" MODIFIED="1495427541717"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">joint operations whether in war or in operations other than<br/>war (OOTW)</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node FOLDED="true" ID="ID_659709588" CREATED="1495427567454" MODIFIED="1495427567454"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">Strategic signalling</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_138358867" CREATED="1495427577074" MODIFIED="1495427577074"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">to a third country of the<br/>influence </span><span class="fontstyle2">we have in the region</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node FOLDED="true" ID="ID_965925921" CREATED="1495427597174" MODIFIED="1495427597174"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">Nation&#8217;s soft power</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_1455617405" CREATED="1495427590671" MODIFIED="1495427590671"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">culture, language, customs, beliefs,<br/>food habits and lifestyle.</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node ID="ID_1267940838" CREATED="1495427606205" MODIFIED="1495427606205"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">Spirit of bonding and friendship</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="MILEX 2018" FOLDED="true" ID="ID_1730452429" CREATED="1558265661590" MODIFIED="1558265691428" BACKGROUND_COLOR="#ffcccc">
-<node TEXT="BIMSTEC" ID="ID_720277955" CREATED="1558265656051" MODIFIED="1558265661292"/>
-<node TEXT="first-ever anti-terror military exercise" ID="ID_1272325053" CREATED="1558265653879" MODIFIED="1558265654306"/>
-</node>
-<node TEXT="Defence Exercise" ID="ID_566006443" CREATED="1521892859019" MODIFIED="1521892866108">
-<node TEXT="USA India" FOLDED="true" ID="ID_371801993" CREATED="1521892883103" MODIFIED="1521892886953">
-<node TEXT="Yudh Abhyas" ID="ID_811281442" CREATED="1521892869275" MODIFIED="1521892872476"/>
-<node TEXT="Vajra prahar" LOCALIZED_STYLE_REF="default" ID="ID_871086445" CREATED="1521898117377" MODIFIED="1526914402521" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri" ITALIC="true"/>
-</node>
-<node TEXT="Malabar" ID="ID_299790535" CREATED="1521898121917" MODIFIED="1521898124340"/>
-</node>
-<node TEXT="desert eagle" FOLDED="true" ID="ID_1091269001" CREATED="1523542136130" MODIFIED="1523542141629">
-<node TEXT="india uae" ID="ID_913964065" CREATED="1523542149882" MODIFIED="1523542152130"/>
-</node>
-<node TEXT="desert tiger" FOLDED="true" ID="ID_662495120" CREATED="1523542142052" MODIFIED="1523542143975">
-<node TEXT="malaysia uae" ID="ID_168267166" CREATED="1523542144193" MODIFIED="1523542148928"/>
-</node>
-<node TEXT="IMASAREX" FOLDED="true" ID="ID_1607670959" CREATED="1521971672617" MODIFIED="1521971677179">
-<node TEXT="Int mar Search and rescue operation" ID="ID_1352523910" CREATED="1521971677929" MODIFIED="1521971705431"/>
-</node>
-<node TEXT="Ajeya Warrior" FOLDED="true" ID="ID_76301539" CREATED="1523329964471" MODIFIED="1523329968269">
-<node TEXT="Indo-UK, firing range, rajasthan" ID="ID_1169207065" CREATED="1523329974973" MODIFIED="1523329981025"/>
-</node>
-<node TEXT="Blue flag" FOLDED="true" ID="ID_942081195" CREATED="1523329968362" MODIFIED="1523329970363">
-<node TEXT="IAF in israel" ID="ID_1515119158" CREATED="1523329970472" MODIFIED="1523329973644"/>
-</node>
-<node TEXT="Sampriti" FOLDED="true" ID="ID_983714063" CREATED="1521971751293" MODIFIED="1521971753761">
-<node TEXT="Indo Bangla" ID="ID_1347524626" CREATED="1521971754965" MODIFIED="1521971793982"/>
-</node>
-<node TEXT="Milan" FOLDED="true" ID="ID_1057246601" CREATED="1526977680773" MODIFIED="1526977682492">
-<node TEXT="Indian Ocean Countries" ID="ID_677585690" CREATED="1526977683665" MODIFIED="1526977688821"/>
-</node>
-<node TEXT="maitree 2017" FOLDED="true" ID="ID_477999867" CREATED="1523451331839" MODIFIED="1523451334452">
-<node TEXT="india thailand at HP" ID="ID_854143995" CREATED="1523451334531" MODIFIED="1523451343102"/>
-</node>
-<node TEXT="Excercise Pashchim lehar" FOLDED="true" ID="ID_80122067" CREATED="1526977695401" MODIFIED="1526977707324">
-<node TEXT="tri service maritime exercise in Arabian Sea" ID="ID_411630254" CREATED="1526977712059" MODIFIED="1526977726983"/>
-</node>
-<node TEXT="Sagarkavach" FOLDED="true" ID="ID_1058768410" CREATED="1521971795217" MODIFIED="1521971806139">
-<node TEXT="National Exercise and states too" ID="ID_352464921" CREATED="1521971806967" MODIFIED="1521971841878"/>
-<node TEXT="coastal security exercise" ID="ID_1855561106" CREATED="1526995216285" MODIFIED="1526995219864"/>
-<node TEXT="To review the working of the SOP" ID="ID_555700634" CREATED="1521971842363" MODIFIED="1521971848661"/>
-</node>
-<node TEXT="Harimau Shakti, 2018" FOLDED="true" ID="ID_569351582" CREATED="1526995237277" MODIFIED="1526995240578">
-<node TEXT="indo malaysia" ID="ID_287139417" CREATED="1526995241047" MODIFIED="1526995246391"/>
-</node>
-<node TEXT="joint sea" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1518666807" CREATED="1523452708888" MODIFIED="1526914435836" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri" ITALIC="true"/>
-<node TEXT="russia china" ID="ID_1508351259" CREATED="1523452710579" MODIFIED="1525508926395"/>
-</node>
-<node TEXT="peace mission" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_167528966" CREATED="1526995222866" MODIFIED="1527839783389" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri" ITALIC="true"/>
-<node TEXT="SCO&apos;s military exercise in Urals" ID="ID_297061217" CREATED="1526995224663" MODIFIED="1526995231414"/>
-</node>
-<node TEXT=", Sahyog-HYEOBLYEOG 2018," FOLDED="true" ID="ID_634756461" CREATED="1526995186068" MODIFIED="1526995187727">
-<node TEXT="indo korean" ID="ID_851911716" CREATED="1526995188993" MODIFIED="1526995190493"/>
-</node>
-<node TEXT=" Exercise Kavkaz 2020" ID="ID_53932089" CREATED="1597131075903" MODIFIED="1597131076320">
-<node TEXT="aka Caucasus-2020" ID="ID_276871971" CREATED="1597131122370" MODIFIED="1597131123759"/>
-<node TEXT="military security in Russia’s southwest," ID="ID_863708311" CREATED="1597131132727" MODIFIED="1597131133099"/>
-<node TEXT="18 countries invited, india too" ID="ID_1111122798" CREATED="1597131137412" MODIFIED="1597131145059"/>
-</node>
-</node>
-</node>
-<node TEXT="Make in India" ID="ID_658896088" CREATED="1492239546595" MODIFIED="1492239552824" LINK="#ID_961061031"/>
-<node TEXT="different types of defence forces in india" FOLDED="true" ID="ID_1738747084" CREATED="1495166167937" MODIFIED="1524396595670">
-<node TEXT="ICG" ID="ID_230201725" CREATED="1495166175810" MODIFIED="1585457385329">
-<icon BUILTIN="button_ok"/>
-<node TEXT="indian coast guard" ID="ID_1205260197" CREATED="1495166177554" MODIFIED="1495166180708"/>
-<node TEXT="Min Defence" ID="ID_1509245703" CREATED="1495166219275" MODIFIED="1495166222065"/>
-<node TEXT="under coast guard act, 1978" ID="ID_524925248" CREATED="1495166184682" MODIFIED="1495166188214"/>
-<node TEXT="oversee pollution + islands + advisory to fishermen (during distress)" LOCALIZED_STYLE_REF="default" ID="ID_1377441821" CREATED="1524107236479" MODIFIED="1524107269715" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="has jurisdiction over contiguous waters + EEZ" LOCALIZED_STYLE_REF="default" ID="ID_588782570" CREATED="1495166195894" MODIFIED="1496746335987" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-</node>
-</node>
-</node>
-<node TEXT="drones and UAVs" FOLDED="true" ID="ID_1271086362" CREATED="1557681225113" MODIFIED="1557681229704">
-<node TEXT="rustom2" ID="ID_1088610236" CREATED="1557681214548" MODIFIED="1557681218974">
-<node TEXT="MALE&#xa;&#xa;medium altitude long endurance drone" ID="ID_191099382" CREATED="1557681234010" MODIFIED="1557681243150"/>
-<node TEXT="drone and UAV" ID="ID_1056950232" CREATED="1557681219361" MODIFIED="1557681222921"/>
-</node>
-<node TEXT="nishrant : battlefiled surveillance" ID="ID_356817254" CREATED="1557681824030" MODIFIED="1557681834855"/>
-<node TEXT="panchi : wheeled version of nishant" ID="ID_1083401632" CREATED="1557681835046" MODIFIED="1557681843067"/>
-<node TEXT="lakshya : reusable aerial target" ID="ID_609666814" CREATED="1557681843259" MODIFIED="1585457416173"/>
-<node TEXT="daksh : land based rone used for bomb disposal" ID="ID_1603441965" CREATED="1557681854991" MODIFIED="1557681864593"/>
-<node TEXT="muntra" ID="ID_663906767" CREATED="1557681260568" MODIFIED="1557681261824">
-<node TEXT="unmanned remotely operated tank" ID="ID_264472723" CREATED="1557681261923" MODIFIED="1557681272759"/>
-</node>
-</node>
-<node TEXT="Defence random" FOLDED="true" ID="ID_1584022480" CREATED="1521895692384" MODIFIED="1558706307955">
-<font BOLD="false"/>
-<node TEXT="Weaponry" FOLDED="true" ID="ID_1065608609" CREATED="1521895697852" MODIFIED="1521895720654">
-<node TEXT="ASTRA" FOLDED="true" ID="ID_256811709" CREATED="1521895710594" MODIFIED="1521895713805">
-<node TEXT="Air to Air missile" ID="ID_360959667" CREATED="1521895722214" MODIFIED="1521895730578">
-<node TEXT="4.5 Mach (5555km/hr)" ID="ID_866534956" CREATED="1585457536316" MODIFIED="1585457543221"/>
-<node TEXT="suitable for multiple targets at once" ID="ID_1003069231" CREATED="1585457553242" MODIFIED="1585457562121"/>
-<node TEXT="inertial guidance system" ID="ID_1032841379" CREATED="1585457614416" MODIFIED="1585457621415"/>
-<node TEXT="lock before launch&#xa;&#xa;Lock after launch" ID="ID_1502385882" CREATED="1585457621790" MODIFIED="1585457630811"/>
-</node>
-<node TEXT="indigenous by DRDO" ID="ID_448820491" CREATED="1585457594180" MODIFIED="1585457602330"/>
-<node TEXT="Beyond Visual Range BVRAAM" ID="ID_1378616234" CREATED="1521978509837" MODIFIED="1585457524773"/>
-<node TEXT="already fit in Sukhoi M30" ID="ID_543526091" CREATED="1585457526360" MODIFIED="1585457533504"/>
-</node>
-<node TEXT="kiltan" LOCALIZED_STYLE_REF="default" ID="ID_1426096166" CREATED="1521967012168" MODIFIED="1525508944886" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="anti subarine corvette" ID="ID_1005935464" CREATED="1521967016044" MODIFIED="1521967025591"/>
-</node>
-<node TEXT="HiFIRE" ID="ID_112592600" CREATED="1523452598854" MODIFIED="1523452601284">
-<node TEXT="US Australia missiles&#xa;, 8 times speed of sound" ID="ID_1013503843" CREATED="1523452601369" MODIFIED="1525509105851"/>
-</node>
-<node TEXT="ATAGS" FOLDED="true" ID="ID_944816968" CREATED="1521982504221" MODIFIED="1521982506608">
-<node TEXT="Artillery Gun by DRDO" ID="ID_762422323" CREATED="1521982507412" MODIFIED="1521982512855"/>
-</node>
-<node TEXT="TRAWL" LOCALIZED_STYLE_REF="default" ID="ID_570754168" CREATED="1521982576890" MODIFIED="1525508943309" BACKGROUND_COLOR="#feffd6">
-<font NAME="Calibri"/>
-<node TEXT="Mine detection and Clerance" ID="ID_402053215" CREATED="1521982579889" MODIFIED="1521982585434"/>
-</node>
-<node TEXT="c -17 globemaster" FOLDED="true" ID="ID_978472682" CREATED="1524396955671" MODIFIED="1524396959134">
-<node TEXT="millitary transport aircraft" ID="ID_777583577" CREATED="1524396959215" MODIFIED="1524396976422"/>
-</node>
-<node TEXT="Ballistic Missile defence" FOLDED="true" ID="ID_1602518178" CREATED="1557680835817" MODIFIED="1557680841444">
-<node TEXT="prthvi" ID="ID_1384618853" CREATED="1557680841622" MODIFIED="1557680843784">
-<node TEXT="exo atmospheric threats&#xa;&#xa;80-120 km" ID="ID_1518198020" CREATED="1557680852074" MODIFIED="1557680870042"/>
-<node TEXT="aka Pradymna ballistice missile interceptor" ID="ID_887084076" CREATED="1557680870488" MODIFIED="1557680878002"/>
-</node>
-<node TEXT="ashwin" ID="ID_993611579" CREATED="1557680843931" MODIFIED="1557680846496">
-<node TEXT="Endo&#xa;&#xa;15-25 kms" ID="ID_1048612844" CREATED="1557680881806" MODIFIED="1557680887983"/>
-<node TEXT="uses Akash missiles" ID="ID_434150739" CREATED="1557680888488" MODIFIED="1585457700335" LINK="#ID_93214434"/>
-</node>
-</node>
-<node TEXT="S400 Trimurf" FOLDED="true" ID="ID_689375247" CREATED="1554615161471" MODIFIED="1554615181027">
-<node TEXT="russian air defence system&#xa;&#xa;LONG RANGE&#xa;surface to air" ID="ID_1281640831" CREATED="1554615164150" MODIFIED="1557680974598"/>
-<node TEXT="simultaneously track numerous incoming objects — all kinds of aircraft, missiles and UAVs" ID="ID_182413669" CREATED="1557296884856" MODIFIED="1557296885584"/>
-</node>
-<node TEXT="Shaurya" ID="ID_1690047876" CREATED="1557680975465" MODIFIED="1557680977478">
-<node TEXT="Short range ballistic missile" ID="ID_1157163198" CREATED="1557680977844" MODIFIED="1557680989796"/>
-<node TEXT="hypersonic suface to surface" ID="ID_742376350" CREATED="1557680990972" MODIFIED="1557680999838"/>
-<node TEXT="~7.5 mach , 700 kms, nuclear" ID="ID_459411484" CREATED="1557681001859" MODIFIED="1557681014312"/>
-</node>
-<node TEXT="K4" FOLDED="true" ID="ID_284670692" CREATED="1557681055002" MODIFIED="1557681056881">
-<node TEXT="submarine launched ballistic missiles" ID="ID_1210814187" CREATED="1557681057303" MODIFIED="1557681066322"/>
-<node TEXT="carried by INS arihant" ID="ID_1090408114" CREATED="1557681073826" MODIFIED="1557681077061"/>
-</node>
-<node TEXT="K15" FOLDED="true" ID="ID_1329458952" CREATED="1557681081503" MODIFIED="1557681083657">
-<node TEXT="submarine launched Ballistic missiles" ID="ID_28636874" CREATED="1557681083795" MODIFIED="1557681089195"/>
-<node TEXT="aka Saraika&#xa;aka B05" ID="ID_1203257779" CREATED="1557681089492" MODIFIED="1557681097722"/>
-<node TEXT="INS arihant&#xa;&#xa;part of nuclear triad" ID="ID_349964459" CREATED="1557681105884" MODIFIED="1557681119041"/>
-</node>
-<node TEXT="surveillance tech" FOLDED="true" ID="ID_984869920" CREATED="1557681766919" MODIFIED="1557681770651">
-<node TEXT="netra" FOLDED="true" ID="ID_761374943" CREATED="1557681137731" MODIFIED="1557681138608">
-<node TEXT="airborne early warning and control system&#xa;&#xa;AEW&amp;C" ID="ID_1159796228" CREATED="1557681139054" MODIFIED="1557681153403"/>
-<node TEXT="india = 4th after&#xa;&#xa;us russia israel" ID="ID_1601913456" CREATED="1557681162084" MODIFIED="1557681168210"/>
-<node TEXT="240 degree, 200 kms," ID="ID_314821579" CREATED="1557681794056" MODIFIED="1557681799808"/>
-</node>
-</node>
-</node>
-<node TEXT="K9 vajra T" ID="ID_1706979252" CREATED="1556612781965" MODIFIED="1556612785398">
-<node TEXT="40 km artillery gun" ID="ID_455376469" CREATED="1556612785449" MODIFIED="1556612789915"/>
-</node>
-<node TEXT="Varunastra" ID="ID_747526065" CREATED="1496132374942" MODIFIED="1558704764793">
-<node TEXT="(indigenous) DRDO to Indian Navy" ID="ID_449837888" CREATED="1496132416630" MODIFIED="1585457486903"/>
-<node TEXT="heavy anti submarine torpedo" ID="ID_1514379437" CREATED="1496132384460" MODIFIED="1496132401599"/>
-<node TEXT="both deep and littoral waters" ID="ID_922299278" CREATED="1496132403318" MODIFIED="1496132409663"/>
-</node>
-</node>
-</node>
-<node TEXT="CSIR tech shut down" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1591683420" CREATED="1489126016644" MODIFIED="1489126019758">
-<node TEXT="Moral hazard" FOLDED="true" ID="ID_1140035631" CREATED="1490423621377" MODIFIED="1490423624430">
-<node TEXT="govt. bears the risk; CSIR-tech decides how much to take" FOLDED="true" ID="ID_589080877" CREATED="1490423631681" MODIFIED="1490423650637">
-<node TEXT="loss increasing behvaiour" ID="ID_1437020232" CREATED="1490423650912" MODIFIED="1490423656049"/>
-<node TEXT="generating IPR for solely scientist resume" FOLDED="true" ID="ID_1660239550" CREATED="1490423503741" MODIFIED="1490423513166">
-<node TEXT="failed to show any revenue generated from IPR" ID="ID_1626035739" CREATED="1490423513306" MODIFIED="1490423522897"/>
-</node>
-</node>
-</node>
-<node TEXT="Solution?" FOLDED="true" ID="ID_462226851" CREATED="1490423685052" MODIFIED="1490423686492">
-<node TEXT="CSIR stake = 25% in IPR" FOLDED="true" ID="ID_1005953904" CREATED="1490423693776" MODIFIED="1490423702164">
-<node TEXT="monetize the tech created by CSIR" ID="ID_1205964120" CREATED="1489126034913" MODIFIED="1489126050092"/>
-</node>
-<node TEXT="tech transfer to start-ups" FOLDED="true" ID="ID_1476860451" CREATED="1490423839745" MODIFIED="1490423844178">
-<node TEXT="royalty free license" ID="ID_132035539" CREATED="1490423844473" MODIFIED="1490423854070"/>
-<node ID="ID_1590199828" CREATED="1490423854886" MODIFIED="1494400100565"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#3300ff"><i>revenue sharing model</i>&#160;</font>once successful product
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="National IPR policy" ID="ID_1120515170" CREATED="1490423741662" MODIFIED="1490423800922">
-<node TEXT="IPR through public money" ID="ID_1454847550" CREATED="1490423810082" MODIFIED="1490423814499">
-<node TEXT="30-70% money goes to scientist" FOLDED="true" ID="ID_7163371" CREATED="1490423744965" MODIFIED="1490423754165">
-<node TEXT=" =&gt; private aggrandisement =&gt; may work against public interest" ID="ID_103333518" CREATED="1490423759062" MODIFIED="1490423793330"/>
-</node>
-<node TEXT="Put &quot;open license&quot; on such IPR" FOLDED="true" ID="ID_50144245" CREATED="1490423976698" MODIFIED="1490423987180">
-<node ID="ID_1166115440" CREATED="1490423895261" MODIFIED="1490423895261"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <span class="fontstyle0">When research is commercialised by private entities, it<br/>tends to be sold back to the public at<br/>a price</span><br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px"/>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Basic Science" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_858957971" CREATED="1489405014413" MODIFIED="1489405019403">
-<node TEXT="2126 - 32" ID="ID_1921819298" CREATED="1489405019529" MODIFIED="1489405042108" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf"/>
-<node TEXT="2126 - 39" ID="ID_692226120" CREATED="1489405605495" MODIFIED="1489405610445" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf"/>
-<node TEXT="types of remediation" LOCALIZED_STYLE_REF="default" ID="ID_564133837" CREATED="1489411956631" MODIFIED="1489411966414" BACKGROUND_COLOR="#feffd6">
-<node TEXT="2126 - 88" ID="ID_1280665777" CREATED="1489411969977" MODIFIED="1489411983875" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf"/>
-</node>
-<node TEXT="Winterkill [ 2126 - 74 ]" ID="ID_656969550" CREATED="1489410206186" MODIFIED="1489410227783" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf"/>
-<node TEXT="Know your rights [ 2126 - 82 ]" ID="ID_1706115666" CREATED="1489411243956" MODIFIED="1489411267366" LINK="../../../E:/OneDrive-tripathi.abhishek.iitkgp/OneDrive/UPSC%20Reading/TEST%20SERIES%20ALL/Vision%20IAS%20TEST%20SERIES/Vision%20IAS%20CSP%202017/23-Question.pdf"/>
-<node TEXT="Hibernation" FOLDED="true" ID="ID_730124988" CREATED="1489412402125" MODIFIED="1489412405219">
-<node TEXT="body T down" ID="ID_1608812595" CREATED="1489412408490" MODIFIED="1489412411505"/>
-<node TEXT="breathe slow" ID="ID_1270298977" CREATED="1489412411692" MODIFIED="1489412415208"/>
-</node>
-</node>
-</node>
 <node TEXT="Prelims" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_1668897908" CREATED="1490345694209" MODIFIED="1549262099448">
 <font NAME="Calibri"/>
-<node TEXT="Polity" FOLDED="true" ID="ID_303183937" CREATED="1495168561836" MODIFIED="1496055203519">
+<node TEXT="Polity" FOLDED="true" ID="ID_303183937" CREATED="1495168561836" MODIFIED="1597676749029">
+<icon BUILTIN="checked"/>
 <font NAME="Calibri"/>
-<node TEXT="crossing the floor" FOLDED="true" ID="ID_694068911" CREATED="1554355833498" MODIFIED="1554355838171">
+<node TEXT="crossing the floor" ID="ID_694068911" CREATED="1554355833498" MODIFIED="1554355838171">
 <node TEXT="Passing between the member addressing the House and the Chair which is considered breach of Parliamentary etiquette" ID="ID_130040597" CREATED="1554355838453" MODIFIED="1554355839219"/>
 </node>
-<node TEXT="Motion of thanks" FOLDED="true" ID="ID_93218425" CREATED="1496735910999" MODIFIED="1496735915209">
+<node TEXT="Motion of thanks" ID="ID_93218425" CREATED="1496735910999" MODIFIED="1496735915209">
 <node TEXT="87(1)" ID="ID_1049644919" CREATED="1554444518267" MODIFIED="1554444522717"/>
 <node ID="ID_976671994" CREATED="1496735915353" MODIFIED="1496735920222"><richcontent TYPE="NODE">
 
@@ -1467,19 +646,12 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="e-governance meeting DARPG : , ‘Technology for accelerating Development’ motto" ID="ID_42750112" CREATED="1519606411180" MODIFIED="1519606425398"/>
 </node>
-<node TEXT="Env Eco" FOLDED="true" ID="ID_1752209541" CREATED="1490947951833" MODIFIED="1496055203521">
+<node TEXT="Env Eco" FOLDED="true" ID="ID_1752209541" CREATED="1490947951833" MODIFIED="1597676732973">
+<icon BUILTIN="checked"/>
 <font NAME="Calibri"/>
-<node TEXT="Majuli, Assam" ID="ID_1841669135" CREATED="1496733758882" MODIFIED="1496733762044">
+<node TEXT="Majuli, Assam" FOLDED="true" ID="ID_1841669135" CREATED="1496733758882" MODIFIED="1496733762044">
 <node TEXT="FIRST carbon neutral district" ID="ID_993747607" CREATED="1496733762252" MODIFIED="1496733768815"/>
-</node>
-<node TEXT="GWP" ID="ID_637180499" CREATED="1491632002955" MODIFIED="1559317682016">
-<node TEXT="global warming potential" ID="ID_860422407" CREATED="1491632030473" MODIFIED="1491632033537"/>
-<node TEXT="100 yrs energy absorb" LOCALIZED_STYLE_REF="default" ID="ID_20373276" CREATED="1491632003677" MODIFIED="1497694363258" BACKGROUND_COLOR="#f9e3b8" BACKGROUND_ALPHA="216">
-<font NAME="Calibri"/>
-</node>
-<node TEXT="co2 = 1" ID="ID_840912341" CREATED="1491632013227" MODIFIED="1491632014555"/>
 </node>
 <node TEXT="Earth Hour" ID="ID_6541019" CREATED="1491721135446" MODIFIED="1559317682994">
 <node TEXT="facts" ID="ID_201950396" CREATED="1491721180559" MODIFIED="1491721182820">
@@ -1510,27 +682,28 @@
 <node TEXT="Punjab does not have a national park!" LOCALIZED_STYLE_REF="default" ID="ID_1630842867" CREATED="1496734147083" MODIFIED="1496749374311" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
-<node TEXT="sea Buckthorn" ID="ID_24855090" CREATED="1496735079861" MODIFIED="1559317747957">
+<node TEXT="sea Buckthorn" FOLDED="true" ID="ID_24855090" CREATED="1496735079861" MODIFIED="1559317747957">
 <node TEXT="aka ladakh gold, Leh Berries, Wonder Plant" ID="ID_1451422104" CREATED="1496735083533" MODIFIED="1496735095127"/>
 <node TEXT="high altitude cold desert" ID="ID_1639005092" CREATED="1496735096219" MODIFIED="1496735101246"/>
 <node TEXT="N fixation" LOCALIZED_STYLE_REF="default" ID="ID_516600687" CREATED="1496735112974" MODIFIED="1496958157263" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="eurythermal" ID="ID_588277078" CREATED="1497495166353" MODIFIED="1497495168979">
+<node TEXT="eurythermal" FOLDED="true" ID="ID_588277078" CREATED="1497495166353" MODIFIED="1497495168979">
 <node TEXT="can live in wide range of temperature" ID="ID_1774575132" CREATED="1497495172605" MODIFIED="1497495181489"/>
 </node>
-<node TEXT="steno thermal" ID="ID_1509978352" CREATED="1497495169119" MODIFIED="1497495171073">
+<node TEXT="steno thermal" FOLDED="true" ID="ID_1509978352" CREATED="1497495169119" MODIFIED="1497495171073">
 <node TEXT="can only survive in NARROW range of temperature" ID="ID_1816373041" CREATED="1497495182709" MODIFIED="1497495193352"/>
 </node>
-<node TEXT="homeostasis" ID="ID_1762223062" CREATED="1497495215068" MODIFIED="1497495221242">
+<node TEXT="homeostasis" FOLDED="true" ID="ID_1762223062" CREATED="1497495215068" MODIFIED="1497495221242">
 <node TEXT=" constancy of its internal environment&#xa;despite varying external environmental conditions" ID="ID_949441774" CREATED="1497495211645" MODIFIED="1497495212911"/>
 </node>
 <node TEXT="silviculture = replenish forests to meet diverse needs and values" ID="ID_690131947" CREATED="1497491865591" MODIFIED="1497491897685"/>
 </node>
-<node TEXT="IR" FOLDED="true" ID="ID_1868136078" CREATED="1492419335113" MODIFIED="1496055203522">
+<node TEXT="IR" FOLDED="true" ID="ID_1868136078" CREATED="1492419335113" MODIFIED="1597676774418">
+<icon BUILTIN="checked"/>
 <font NAME="Calibri"/>
-<node TEXT="Brasilia declaration" ID="ID_389053405" CREATED="1491741739713" MODIFIED="1559317809692">
+<node TEXT="Brasilia declaration" FOLDED="true" ID="ID_389053405" CREATED="1491741739713" MODIFIED="1559317809692">
 <node TEXT="UN reforms including UNSC" ID="ID_1295233813" CREATED="1491741743015" MODIFIED="1491741748556"/>
 <node TEXT="international vehicle compliance" ID="ID_831532423" CREATED="1497405972621" MODIFIED="1497405978719"/>
 <node TEXT="IBSA" ID="ID_503504710" CREATED="1491741834469" MODIFIED="1491741837125">
@@ -1547,7 +720,7 @@
 <font NAME="Calibri"/>
 </node>
 </node>
-<node TEXT="Windhoek Declaration" ID="ID_1941733111" CREATED="1494402345865" MODIFIED="1494402349755">
+<node TEXT="Windhoek Declaration" FOLDED="true" ID="ID_1941733111" CREATED="1494402345865" MODIFIED="1494402349755">
 <node TEXT="African Pluralistic and independent Press" ID="ID_905380870" CREATED="1494402351109" MODIFIED="1494402363079"/>
 <node TEXT="under aegis of UNESCO" ID="ID_785634589" CREATED="1494402365458" MODIFIED="1494402370101"/>
 </node>
@@ -1557,14 +730,9 @@
 <node TEXT="Peacekeeping soldiers are paid by their own government" ID="ID_523690280" CREATED="1557316324408" MODIFIED="1557316326264"/>
 <node TEXT="financial resources of UN Peacekeeping operations are the collective responsibility of UN Member States" ID="ID_1939308804" CREATED="1557316336648" MODIFIED="1557316336859"/>
 </node>
-<node TEXT="India-myanmar-thailand motor car" FOLDED="true" ID="ID_1740075370" CREATED="1494904132955" MODIFIED="1559317811120">
+<node TEXT="India-myanmar-thailand motor car" ID="ID_1740075370" CREATED="1494904132955" MODIFIED="1559317811120">
 <node TEXT="Moreh - mandalay - mae sot" ID="ID_1914869164" CREATED="1494904140934" MODIFIED="1494904149721"/>
 <node TEXT="Manipur!" ID="ID_669648158" CREATED="1497674880333" MODIFIED="1497674882162"/>
-</node>
-<node TEXT="United Nations Commission on International Trade Law ( UNCITRAL )" ID="ID_1810060005" CREATED="1494904291355" MODIFIED="1559317818916">
-<node TEXT="core legal body of UN" ID="ID_540693718" CREATED="1494904299088" MODIFIED="1494904303869"/>
-<node TEXT=" progressive harmonization and unification of international trade law" ID="ID_1474087004" CREATED="1496032023742" MODIFIED="1496032026402"/>
-<node TEXT="india = founding member" ID="ID_805630486" CREATED="1494904293568" MODIFIED="1494904298517"/>
 </node>
 </node>
 <node TEXT="Sci Tech" FOLDED="true" ID="ID_952839723" CREATED="1494810978496" MODIFIED="1496055203522">
@@ -1679,7 +847,7 @@
 <node TEXT="global gravity change with climate change" ID="ID_397943820" CREATED="1495076887939" MODIFIED="1495076896984"/>
 <node TEXT="Cryosat2 + GOCE on ESA satellite" ID="ID_1933826015" CREATED="1495076897919" MODIFIED="1495076910576"/>
 </node>
-<node TEXT="Defence" FOLDED="true" ID="ID_237905568" CREATED="1492239598957" MODIFIED="1492239602657" LINK="#ID_1182767909">
+<node TEXT="Defence" FOLDED="true" ID="ID_237905568" CREATED="1492239598957" MODIFIED="1492239602657">
 <node TEXT="ShinMaywa" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1881132778" CREATED="1490351907860" MODIFIED="1496032279622" BACKGROUND_COLOR="#feffd6">
 <font NAME="Calibri"/>
 <node TEXT="amphibious japan aircraft" ID="ID_274527832" CREATED="1490351909846" MODIFIED="1496107274668"/>
@@ -3944,7 +3112,7 @@
 <node TEXT="pendency in courts" ID="ID_1876469504" CREATED="1497331229842" MODIFIED="1497331237349"/>
 </node>
 </node>
-<node TEXT="insights daily quiz" ID="ID_1856994196" CREATED="1565418462221" MODIFIED="1565418466168">
+<node TEXT="insights daily quiz" FOLDED="true" ID="ID_1856994196" CREATED="1565418462221" MODIFIED="1565418466168">
 <node TEXT=" UN-SPIDER." ID="ID_453901632" CREATED="1565418466588" MODIFIED="1565418467032">
 <node TEXT="space-based technologies for disaster management and emergency response." ID="ID_936980847" CREATED="1565418503122" MODIFIED="1565418503383"/>
 <node TEXT="estd under United Nations Office for Outer Space Affairs (UNOOSA)." ID="ID_714829308" CREATED="1565418495988" MODIFIED="1565418498270"/>
